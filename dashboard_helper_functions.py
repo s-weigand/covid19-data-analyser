@@ -47,7 +47,7 @@ def generate_selector(df_column, values):
     return pd.DataFrame(selector_data).apply(lambda row: any(row))
 
 
-def generate_figure(covid19_data, regions, log_plot=False, fit_function=None):
+def generate_figure(covid19_data, regions, y_title, log_plot=False, fit_function=None):
     plot_data = []
     for region in regions:
         region_data = covid19_data[covid19_data.region == region]
@@ -64,7 +64,8 @@ def generate_figure(covid19_data, regions, log_plot=False, fit_function=None):
         "data": plot_data,
         "layout": {
             "clickmode": "event+select",
-            "yaxis": {"type": "log" if log_plot else "linear"},
+            "yaxis": {"type": "log" if log_plot else "linear", "title": y_title},
+            "xaxis": {"title": "Date"},
         },
     }
 
