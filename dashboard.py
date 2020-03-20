@@ -9,6 +9,7 @@ import flask
 import pandas as pd
 
 from data_scraper import get_data, ALLOWED_SOURCES
+from data_analyzer import get_daily_growth, get_growth_rate
 from dashboard_helper_functions import (
     generate_dropdown_options,
     generate_figure,
@@ -67,11 +68,30 @@ app.layout = html.Div(
                 ),
             ]
         ),
-        dcc.Checklist(
-            id="plot_settings",
-            options=[{"label": "Log Plot", "value": "log_plot"},],
-            value=[],
-            labelStyle={"display": "inline-block"},
+        html.Div(
+            [
+                html.Label(
+                    [
+                        "Data representation",
+                        dcc.Dropdown(
+                            id="data_reperesentation",
+                            options=generate_dropdown_options(
+                                ["infected", "growth", "growth_rate"]
+                            ),
+                            clearable=False,
+                            value="infected",
+                            disabled=True,
+                        ),
+                    ]
+                ),
+                dcc.Checklist(
+                    id="log_plot",
+                    options=[{"label": "Log Plot", "value": "log_plot"},],
+                    value=[],
+                    labelStyle={"display": "inline-block"},
+                ),
+            ],
+            className="plot_settings",
         ),
         dcc.Graph(id="my-graph"),
         html.Div(
@@ -117,7 +137,7 @@ def update_download_link(data_source, dl_format):
 
 
 @app.server.route("/download_data")
-def download_excel():
+def download_data():
     data_source = flask.request.args.get("data_source")
     dl_format = flask.request.args.get("dl_format")
     download_dict = generate_download_buffer(data_source, dl_format)
@@ -135,6 +155,7 @@ def download_excel():
         Output("parent_regions", "options"),
         Output("parent_regions", "disabled"),
         Output("dl_format", "disabled"),
+        Output("data_reperesentation", "disabled"),
     ],
     [Input("source_select", "value")],
 )
@@ -142,9 +163,9 @@ def update_parent_regions(data_source):
     if data_source:
         covid19_data = get_data(data_source)
         parent_regions = covid19_data.parent_region.sort_values().unique()
-        return generate_dropdown_options(parent_regions), False, False
+        return generate_dropdown_options(parent_regions), False, False, False
     else:
-        return [], True, True
+        return [], True, True, True
 
 
 @app.callback(
@@ -166,17 +187,24 @@ def update_regions(data_source, values):
     [
         Input("source_select", "value"),
         Input("regions", "value"),
-        Input("plot_settings", "value"),
+        Input("data_reperesentation", "value"),
+        Input("log_plot", "value"),
     ],
 )
-def update_plot(data_source, regions, plot_settings):
+def update_plot(data_source, regions, data_reperesentation, log_plot):
     if data_source and regions:
         covid19_data = get_data(data_source)
-        if "log_plot" in plot_settings:
+        if "log_plot" in log_plot:
             log_plot = True
         else:
             log_plot = False
-        return generate_figure(covid19_data, regions, log_plot=log_plot)
+        if data_reperesentation == "growth":
+            covid19_data = get_daily_growth(covid19_data)
+        elif data_reperesentation == "growth_rate":
+            covid19_data = get_growth_rate(covid19_data)
+        return generate_figure(
+            covid19_data, regions, y_title=data_reperesentation, log_plot=log_plot
+        )
     else:
         return {"data": [], "layout": {}}
 
