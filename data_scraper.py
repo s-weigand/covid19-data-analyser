@@ -67,7 +67,7 @@ def calc_morgenpost_country_total(morgenpost_df):
     return total_df
 
 
-def get_data(source="morgenpost"):
+def get_data(source="morgenpost", update_data=False):
     """
     Convenience function to quickly get covid19 data from the supported sources.
 
@@ -87,7 +87,7 @@ def get_data(source="morgenpost"):
         If source is not supported
     """
     if source == "morgenpost":
-        return get_morgenpost_data()
+        return get_morgenpost_data(update_data=update_data)
     else:
         raise ValueError(f"The source '{source}', is not supported.")
 
