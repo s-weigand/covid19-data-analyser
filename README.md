@@ -1,4 +1,4 @@
-# covid19-data-analyser
+# covid19-data-analyzer
 
 Especially in times of crisis and panic, with many different opinions on the topic, people should try to derive their own conclusion.
 Luckily we live in a time, where the skills and tools to analyse data are open to everyone.
