@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/s-weigand/covid19-data-analyzer/master?urlpath=lab%2Ftree%2Fdev_nb.ipynb)
+
 # covid19-data-analyzer
 
 Especially in times of crisis and panic, with many different opinions on the topic, people should try to derive their own conclusion.
