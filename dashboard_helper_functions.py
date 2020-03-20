@@ -70,6 +70,22 @@ def generate_figure(covid19_data, regions, log_plot=False, fit_function=None):
 
 
 def generate_download_buffer(data_source, file_format):
+    """
+    Transdorms a dataframe to a given fileformat as buffer,
+    which can be used for flask.send_file
+
+    Parameters
+    ----------
+    data_source : str
+        Name of the data source
+    file_format : "csv" | "xls
+        Format the file should be downloaded in
+
+    Returns
+    -------
+    dict
+        dict containing the buffer, mimetype and filename
+    """
     buffer = io.BytesIO()
     covid19_data = get_data(data_source)
     file_name = f"covid19_data_{data_source}"
