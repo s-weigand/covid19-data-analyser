@@ -103,11 +103,17 @@ app.layout = html.Div(
 
 
 @app.callback(
-    Output("download-link", "href"),
+    [Output("download-link", "href"), Output("download-link", "target"),],
     [Input("source_select", "value"), Input("dl_format", "value")],
 )
 def update_download_link(data_source, dl_format):
-    return "/download_data?data_source={}&dl_format={}".format(data_source, dl_format)
+    if data_source and dl_format:
+        return (
+            f"/download_data?data_source={data_source}&dl_format={dl_format}",
+            "_blank",
+        )
+    else:
+        return "#", "_self"
 
 
 @app.server.route("/download_data")
