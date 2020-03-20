@@ -130,3 +130,7 @@ dmypy.json
 
 # VsCode config
 .vscode
+
+# js/css map files
+*.css.map
+*.js.map
