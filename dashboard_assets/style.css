@@ -1,0 +1,13 @@
+.download_area {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 30rem 1fr;
+      grid-template-columns: 30rem 1fr;
+}
+
+.download_area a {
+  bottom: 0;
+  margin-left: 2rem;
+  margin-top: auto;
+}
+/*# sourceMappingURL=style.css.map */
