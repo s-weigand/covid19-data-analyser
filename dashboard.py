@@ -1,4 +1,5 @@
 import io
+import os
 
 import dash
 from dash.dependencies import Input, Output
@@ -20,8 +21,10 @@ from dashboard_helper_functions import (
 
 external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 
+server = flask.Flask(__name__)
 app = dash.Dash(
     __name__,
+    server=server,
     external_stylesheets=external_stylesheets,
     assets_folder="dashboard_assets",
 )
@@ -210,4 +213,9 @@ def update_plot(data_source, regions, data_reperesentation, log_plot):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    if "PRODUCTION_DOCKER" in os.environ:
+        app.config.suppress_callback_exceptions = True
+        DEBUG = False
+    else:
+        DEBUG = True
+    app.run_server(host="0.0.0.0", port=8050, debug=DEBUG)
