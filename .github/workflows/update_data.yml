@@ -1,5 +1,10 @@
 name: "Data updated"
-on: [push]
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 */6 * * *"
 
 jobs:
   update-data:
@@ -16,9 +21,9 @@ jobs:
         run: python data_scraper.py
       - name: Check for change
         run: git status
-      # - uses: matheusalbino/git-commit@v1.0.1
-      #   with:
-      #     user-name: Github update bot
-      #     user-email: s.weigand.phy@gmail.com
-      #     message: Updated data
-      #     github-token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: matheusalbino/git-commit@v1.0.1
+        with:
+          user-name: Github update bot
+          user-email: s.weigand.phy@gmail.com
+          message: Updated data
+          github-token: ${{ secrets.GITHUB_TOKEN }}
