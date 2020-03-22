@@ -1,0 +1,24 @@
+name: "Data updated"
+on: [push]
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      - name: Install dependencies
+        run: python -m pip install -r requirements_dashboard.txt
+      - name: Update data
+        run: python data_scraper.py
+      - name: Check for change
+        run: git status
+      # - uses: matheusalbino/git-commit@v1.0.1
+      #   with:
+      #     user-name: Github update bot
+      #     user-email: s.weigand.phy@gmail.com
+      #     message: Updated data
+      #     github-token: ${{ secrets.GITHUB_TOKEN }}
