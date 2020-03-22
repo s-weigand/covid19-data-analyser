@@ -1,5 +1,4 @@
-pandas
-xlsxwriter
-matplotlib
+-r requirements_dashboard.txt
+
 jupyterlab
-dash
+sympy
