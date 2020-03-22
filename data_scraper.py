@@ -22,7 +22,7 @@ def get_morgenpost_data(update_data=False):
     pd.DataFrame
         Dataframe containing the covid19 data from morgenpost.de
     """
-    local_save_path = Path("./data/covid19_morgenpost.csv").resolve()
+    local_save_path = Path("./data/morgenpost/covid19_infections.csv").resolve()
     morgenpost_data = pd.read_csv(local_save_path, parse_dates=["date"])
     if morgenpost_data.date.max().date() != pd.Timestamp.today().date() and update_data:
         print("Fetching updated data")
