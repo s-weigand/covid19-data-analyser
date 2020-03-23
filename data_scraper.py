@@ -36,6 +36,9 @@ def get_morgenpost_data(update_data=False):
         morgenpost_data.rename(
             columns={"label": "region", "parent": "parent_region"}, inplace=True
         )
+        morgenpost_data.loc[
+            morgenpost_data.parent_region == "global", "parent_region"
+        ] = "#Global"
         morgenpost_data.sort_values(["date", "parent_region", "region"], inplace=True)
         morgenpost_data.set_index("date").to_csv(local_save_path)
     return morgenpost_data
