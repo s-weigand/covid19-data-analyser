@@ -66,5 +66,5 @@ def get_growth_rate(covid_df):
     daily_growth = get_daily_growth(covid_df)
     unshifted_data, shifted_data = get_shifted_dfs(daily_growth)
     # the '+1' is needed to prevent zero division
-    growth_rate = shifted_data / (unshifted_data + 1)
+    growth_rate = unshifted_data / (shifted_data + 1)
     return growth_rate.dropna().reset_index()
