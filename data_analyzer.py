@@ -56,15 +56,15 @@ def get_growth_rate(covid_df):
     Parameters
     ----------
     covid_df : pd.DataFrame
-        [description]
+        covid19 DataFrame
 
     Returns
     -------
     pd.DataFrame
         covid19 DataFrame, with growth rate values instead of totals.
     """
-    daily_increase_df = get_daily_growth(covid_df)
-    unshifted_data, shifted_data = get_shifted_dfs(daily_increase_df)
+    daily_growth = get_daily_growth(covid_df)
+    unshifted_data, shifted_data = get_shifted_dfs(daily_growth)
     # the '+1' is needed to prevent zero division
     growth_rate = shifted_data / (unshifted_data + 1)
     return growth_rate.dropna().reset_index()
