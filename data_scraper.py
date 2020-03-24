@@ -6,6 +6,22 @@ import pandas as pd
 ALLOWED_SOURCES = ["morgenpost"]
 
 
+def get_infectious(covid_df: pd.DataFrame):
+    """
+    Calculates the number of still infectious people.
+    This function uses the mutability of DataFrames,
+    which is why it doesn't have a return value
+
+    Parameters
+    ----------
+    covid_df : pd.DataFrame
+        Dataframe containing all covid19 data
+    """
+    covid_df["still_infectious"] = (
+        covid_df.confirmed - covid_df.recovered - covid_df.deaths
+    )
+
+
 def get_morgenpost_data(update_data=False):
     """
     Retrives covid19 data from morgenpost API, which is used to generate the following website:
@@ -36,6 +52,7 @@ def get_morgenpost_data(update_data=False):
         morgenpost_data.rename(
             columns={"label": "region", "parent": "parent_region"}, inplace=True
         )
+        get_infectious(morgenpost_data)
         morgenpost_data.loc[
             morgenpost_data.parent_region == "global", "parent_region"
         ] = "#Global"
