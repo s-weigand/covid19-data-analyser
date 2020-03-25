@@ -6,7 +6,7 @@ import pandas as pd
 ALLOWED_SOURCES = ["morgenpost"]
 
 
-def get_infectious(covid_df: pd.DataFrame):
+def get_infectious(covid_df: pd.DataFrame, has_recovered: bool = False):
     """
     Calculates the number of still infectious people.
     This function uses the mutability of DataFrames,
@@ -16,10 +16,15 @@ def get_infectious(covid_df: pd.DataFrame):
     ----------
     covid_df : pd.DataFrame
         Dataframe containing all covid19 data
+    has_recovered: bool
+        Whether or not the dataset has a recovered column i.e. JHU doesn't
     """
-    covid_df["still_infectious"] = (
-        covid_df.confirmed - covid_df.recovered - covid_df.deaths
-    )
+    if has_recovered:
+        covid_df["still_infectious"] = (
+            covid_df.confirmed - covid_df.recovered - covid_df.deaths
+        )
+    else:
+        covid_df["still_infectious"] = covid_df.confirmed - covid_df.deaths
 
 
 def get_morgenpost_data(update_data=False):
@@ -38,38 +43,38 @@ def get_morgenpost_data(update_data=False):
     pd.DataFrame
         Dataframe containing the covid19 data from morgenpost.de
     """
-    local_save_path = Path("./data/morgenpost/covid19_infections.csv").resolve()
+    local_save_path = Path("./data/morgenpost/covid19_infections.csv")
     morgenpost_data = pd.read_csv(local_save_path, parse_dates=["date"])
     if morgenpost_data.date.max().date() != pd.Timestamp.today().date() and update_data:
-        print("Fetching updated data")
+        print("Fetching updated data: morgenpost")
         js_timestamp_now = int(datetime.now().timestamp() * 1e3)
         morgenpost_data = pd.read_csv(
             f"https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/data/Coronavirus.history.v2.csv?{js_timestamp_now}",
             parse_dates=["date"],
         ).drop(["lon", "lat"], axis=1)
-        country_total = calc_morgenpost_country_total(morgenpost_data)
-        morgenpost_data = morgenpost_data.append(country_total, ignore_index=True)
         morgenpost_data.rename(
             columns={"label": "region", "parent": "parent_region"}, inplace=True
         )
-        get_infectious(morgenpost_data)
         morgenpost_data.loc[
             morgenpost_data.parent_region == "global", "parent_region"
         ] = "#Global"
+        country_total = calc_country_total(morgenpost_data)
+        morgenpost_data = morgenpost_data.append(country_total, ignore_index=True)
+        get_infectious(morgenpost_data, has_recovered=True)
         morgenpost_data.sort_values(["date", "parent_region", "region"], inplace=True)
         morgenpost_data.set_index("date").to_csv(local_save_path)
     return morgenpost_data
 
 
-def calc_morgenpost_country_total(morgenpost_df):
+def calc_country_total(covid_df):
     """
-    Calculates the total for each country from the morgenpost_df,
+    Calculates the total for each country from the covid_df,
     where only data for regions was present before
 
     Parameters
     ----------
-    morgenpost_df : pd.DataFrame
-        Data fetched frm the morgenpost API
+    covid_df : pd.DataFrame
+        covid19 DataFrame
 
     Returns
     -------
@@ -78,11 +83,11 @@ def calc_morgenpost_country_total(morgenpost_df):
         their regions listed.
     """
     total_df = pd.DataFrame()
-    for (parent, date), group in morgenpost_df.groupby(["parent", "date"]):
-        if parent != "global":
+    for (parent, date), group in covid_df.groupby(["parent_region", "date"]):
+        if parent != "#Global":
             country_total = group.sum()
-            country_total.parent = "global"
-            country_total.label = f"{parent} (total)"
+            country_total.parent_region = "#Global"
+            country_total.region = f"{parent} (total)"
             country_total["date"] = date
             total_df = total_df.append(country_total, ignore_index=True)
     return total_df
