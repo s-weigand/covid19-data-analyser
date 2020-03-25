@@ -27,6 +27,33 @@ def get_infectious(covid_df: pd.DataFrame, has_recovered: bool = False):
         covid_df["still_infectious"] = covid_df.confirmed - covid_df.deaths
 
 
+def calc_country_total(covid_df):
+    """
+    Calculates the total for each country from the covid_df,
+    where only data for regions was present before
+
+    Parameters
+    ----------
+    covid_df : pd.DataFrame
+        covid19 DataFrame
+
+    Returns
+    -------
+    pd.DataFrame
+        Dataframe containing the totals for countries, which before only had
+        their regions listed.
+    """
+    total_df = pd.DataFrame()
+    for (parent, date), group in covid_df.groupby(["parent_region", "date"]):
+        if parent != "#Global":
+            country_total = group.sum()
+            country_total.parent_region = "#Global"
+            country_total.region = f"{parent} (total)"
+            country_total["date"] = date
+            total_df = total_df.append(country_total, ignore_index=True)
+    return total_df
+
+
 def get_morgenpost_data(update_data=False):
     """
     Retrives covid19 data from morgenpost API, which is used to generate the following website:
@@ -64,33 +91,6 @@ def get_morgenpost_data(update_data=False):
         morgenpost_data.sort_values(["date", "parent_region", "region"], inplace=True)
         morgenpost_data.set_index("date").to_csv(local_save_path)
     return morgenpost_data
-
-
-def calc_country_total(covid_df):
-    """
-    Calculates the total for each country from the covid_df,
-    where only data for regions was present before
-
-    Parameters
-    ----------
-    covid_df : pd.DataFrame
-        covid19 DataFrame
-
-    Returns
-    -------
-    pd.DataFrame
-        Dataframe containing the totals for countries, which before only had
-        their regions listed.
-    """
-    total_df = pd.DataFrame()
-    for (parent, date), group in covid_df.groupby(["parent_region", "date"]):
-        if parent != "#Global":
-            country_total = group.sum()
-            country_total.parent_region = "#Global"
-            country_total.region = f"{parent} (total)"
-            country_total["date"] = date
-            total_df = total_df.append(country_total, ignore_index=True)
-    return total_df
 
 
 def get_data(source="morgenpost", update_data=False):
