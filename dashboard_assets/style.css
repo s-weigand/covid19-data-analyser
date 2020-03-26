@@ -10,4 +10,20 @@
   margin-left: 2rem;
   margin-top: auto;
 }
+
+.container {
+  height: 100vh;
+}
+
+.source-link {
+  position: absolute;
+  bottom: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 100%;
+}
 /*# sourceMappingURL=style.css.map */

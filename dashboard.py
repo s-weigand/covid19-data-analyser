@@ -120,6 +120,18 @@ app.layout = html.Div(
             ],
             className="download_area",
         ),
+        html.Footer(
+            html.Span(
+                [
+                    "Sourcecode available on ",
+                    html.A(
+                        " covid19-data-analyzer",
+                        href="https://github.com/s-weigand/covid19-data-analyzer",
+                    ),
+                ]
+            ),
+            className="source-link",
+        ),
     ],
     className="container",
 )
