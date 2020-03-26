@@ -128,7 +128,6 @@ def fit_data_logistic_curve(
     covid19_data: pd.DataFrame,
     region: str,
     data_set: str = "confirmed",
-    center: Union[int, float] = 14,
     sigma: Union[int, float] = 14,
 ) -> Dict[str, Union[lmfit.model.ModelResult, pd.DataFrame]]:
     """
@@ -144,9 +143,6 @@ def fit_data_logistic_curve(
     data_set : str, optional
         which subdata schold be fitted, need to be of value
         ["confirmed", "recovered", deaths], by default "confirmed"
-    center : int, optional
-        initial value for the parameter 'center' of the logistic curve model,
-        by default 14
     sigma : int, optional
         initial value for the parameter 'sigma' of the logistic curve model,
         by default 14
@@ -165,7 +161,12 @@ def fit_data_logistic_curve(
     --------
     fit_data_model
     """
-    covid19_region_data = covid19_data.loc[covid19_data.region == region, :]
+    covid19_region_data = covid19_data.loc[
+        covid19_data.region == region, :
+    ].reset_index(drop=True)
+    center = covid19_region_data[
+        covid19_region_data[data_set] > covid19_region_data[data_set].max() / 2
+    ].index.min()
     init_params = {
         "amplitude": covid19_region_data[data_set].max(),
         "center": center,
