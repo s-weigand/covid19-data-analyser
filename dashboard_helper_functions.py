@@ -25,7 +25,27 @@ def generate_dropdown_options(value_list_like):
     return options
 
 
-def generate_selector(df_column, values):
+def get_available_subsets(covid19_data: pd.DataFrame) -> list:
+    """
+    Returns a list of subsets which are available on the dataset
+
+    Parameters
+    ----------
+    covid19_data : pd.DataFrame
+        [description]
+
+    Returns
+    -------
+    list
+        List of available subsets
+    """
+    column_selector = covid19_data.columns.isin(
+        ["confirmed", "recovered", "deaths", "still_infectious"]
+    )
+    return covid19_data.columns[column_selector].to_list()
+
+
+def generate_selector(df_column: pd.Series, values):
     """
     Generates a selector based on values are in df_columns
 
@@ -47,22 +67,26 @@ def generate_selector(df_column, values):
     return pd.DataFrame(selector_data).apply(lambda row: any(row))
 
 
-def generate_figure(covid19_data, regions, y_title, log_plot=False, fit_function=None):
+def generate_figure(
+    covid19_data, regions, title, y_title, subsets=["confirmed"], log_plot=False
+):
     plot_data = []
-    for region in regions:
-        region_data = covid19_data[covid19_data.region == region]
-        plot_data.append(
-            {
-                "x": region_data.date,
-                "y": region_data.confirmed,
-                "name": region,
-                "mode": "markers",
-                "marker": {"size": 12},
-            },
-        )
+    for subset in subsets:
+        for region in regions:
+            region_data = covid19_data[covid19_data.region == region]
+            plot_data.append(
+                {
+                    "x": region_data.date,
+                    "y": region_data[subset],
+                    "name": f"{region} {subset}",
+                    "mode": "markers",
+                    "marker": {"size": 8},
+                },
+            )
     return {
         "data": plot_data,
         "layout": {
+            "title": title,
             "clickmode": "event+select",
             "yaxis": {"type": "log" if log_plot else "linear", "title": y_title},
             "xaxis": {"title": "Date"},
@@ -70,7 +94,7 @@ def generate_figure(covid19_data, regions, y_title, log_plot=False, fit_function
     }
 
 
-def generate_download_buffer(data_source, file_format):
+def generate_download_buffer(data_source: str, file_format: str):
     """
     Transdorms a dataframe to a given fileformat as buffer,
     which can be used for flask.send_file

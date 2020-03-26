@@ -16,6 +16,7 @@ from dashboard_helper_functions import (
     generate_figure,
     generate_selector,
     generate_download_buffer,
+    get_available_subsets,
 )
 
 
@@ -75,14 +76,12 @@ app.layout = html.Div(
             [
                 html.Label(
                     [
-                        "Data representation",
+                        "Data Subsets",
                         dcc.Dropdown(
-                            id="data_reperesentation",
-                            options=generate_dropdown_options(
-                                ["infected", "growth", "growth_rate"]
-                            ),
-                            clearable=False,
-                            value="infected",
+                            id="subsets",
+                            options=[],
+                            value=None,
+                            multi=True,
                             disabled=True,
                         ),
                     ]
@@ -96,7 +95,9 @@ app.layout = html.Div(
             ],
             className="plot_settings",
         ),
-        dcc.Graph(id="my-graph"),
+        dcc.Graph(id="data_plot"),
+        dcc.Graph(id="growth_plot"),
+        dcc.Graph(id="growth_rate_plot"),
         html.Div(
             [
                 html.Label(
@@ -170,7 +171,7 @@ def download_data():
         Output("parent_regions", "options"),
         Output("parent_regions", "disabled"),
         Output("dl_format", "disabled"),
-        Output("data_reperesentation", "disabled"),
+        Output("subsets", "disabled"),
     ],
     [Input("source_select", "value")],
 )
@@ -198,30 +199,102 @@ def update_regions(data_source, values):
 
 
 @app.callback(
-    Output("my-graph", "figure"),
+    [Output("subsets", "options"), Output("subsets", "value")],
+    [Input("source_select", "value")],
+)
+def update_subsets(data_source):
+    if data_source:
+        covid19_data = get_data(data_source)
+        subsets = get_available_subsets(covid19_data)
+        return generate_dropdown_options(subsets), subsets
+    else:
+        return [], []
+
+
+@app.callback(
+    Output("data_plot", "figure"),
     [
         Input("source_select", "value"),
         Input("regions", "value"),
-        Input("data_reperesentation", "value"),
+        Input("subsets", "value"),
         Input("log_plot", "value"),
     ],
 )
-def update_plot(data_source, regions, data_reperesentation, log_plot):
+def update_data_plot(data_source, regions, subsets, log_plot):
     if data_source and regions:
         covid19_data = get_data(data_source)
         if "log_plot" in log_plot:
             log_plot = True
         else:
             log_plot = False
-        if data_reperesentation == "growth":
-            covid19_data = get_daily_growth(covid19_data)
-        elif data_reperesentation == "growth_rate":
-            covid19_data = get_growth_rate(covid19_data)
         return generate_figure(
-            covid19_data, regions, y_title=data_reperesentation, log_plot=log_plot
+            covid19_data,
+            regions,
+            title="data",
+            subsets=subsets,
+            y_title="count (people)",
+            log_plot=log_plot,
         )
     else:
-        return {"data": [], "layout": {}}
+        return {"data": [], "layout": {"title": "data"}}
+
+
+@app.callback(
+    Output("growth_plot", "figure"),
+    [
+        Input("source_select", "value"),
+        Input("regions", "value"),
+        Input("subsets", "value"),
+        Input("log_plot", "value"),
+    ],
+)
+def update_growth_plot(data_source, regions, subsets, log_plot):
+    if data_source and regions:
+        covid19_data = get_data(data_source)
+        if "log_plot" in log_plot:
+            log_plot = True
+        else:
+            log_plot = False
+        covid19_data = get_daily_growth(covid19_data)
+        return generate_figure(
+            covid19_data,
+            regions,
+            title="daily growth",
+            subsets=subsets,
+            y_title="growth (people/day)",
+            log_plot=log_plot,
+        )
+    else:
+        return {"data": [], "layout": {"title": "daily growth"}}
+
+
+@app.callback(
+    Output("growth_rate_plot", "figure"),
+    [
+        Input("source_select", "value"),
+        Input("regions", "value"),
+        Input("subsets", "value"),
+        Input("log_plot", "value"),
+    ],
+)
+def update_growth_rate_plot(data_source, regions, subsets, log_plot):
+    if data_source and regions:
+        covid19_data = get_data(data_source)
+        if "log_plot" in log_plot:
+            log_plot = True
+        else:
+            log_plot = False
+        covid19_data = get_growth_rate(covid19_data)
+        return generate_figure(
+            covid19_data,
+            regions,
+            title="growth rate",
+            subsets=subsets,
+            y_title="growth rate",
+            log_plot=log_plot,
+        )
+    else:
+        return {"data": [], "layout": {"title": "growth rate"}}
 
 
 if __name__ == "__main__":
