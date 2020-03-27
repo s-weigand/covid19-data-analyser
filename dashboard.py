@@ -297,10 +297,13 @@ def update_growth_rate_plot(data_source, regions, subsets, log_plot):
         return {"data": [], "layout": {"title": "growth rate"}}
 
 
+if "PRODUCTION_DOCKER" in os.environ:
+    app.config.suppress_callback_exceptions = True
+    app.debug = False
+else:
+    app.debug = True
+    app.port = 8050
+
+
 if __name__ == "__main__":
-    if "PRODUCTION_DOCKER" in os.environ:
-        app.config.suppress_callback_exceptions = True
-        DEBUG = False
-    else:
-        DEBUG = True
-    app.run_server(host="0.0.0.0", port=8050, debug=DEBUG)
+    app.run_server()

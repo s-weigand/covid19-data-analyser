@@ -70,7 +70,7 @@ def get_morgenpost_data(update_data: bool = False) -> pd.DataFrame:
     pd.DataFrame
         Dataframe containing the covid19 data from morgenpost.de
     """
-    local_save_path = Path("./data/morgenpost/covid19_infections.csv")
+    local_save_path = Path(__file__).parent / "data/morgenpost/covid19_infections.csv"
     morgenpost_data = pd.read_csv(local_save_path, parse_dates=["date"])
     if morgenpost_data.date.max().date() != pd.Timestamp.today().date() and update_data:
         print("Fetching updated data: morgenpost")
@@ -149,7 +149,7 @@ def get_JHU_data(update_data: bool = False) -> pd.DataFrame:
     pd.DataFrame
         Dataframe containing the covid19 data from JHU
     """
-    local_save_path = Path("./data/JHU/covid19_infections.csv")
+    local_save_path = Path(__file__).parent / "data/JHU/covid19_infections.csv"
     JHU_data = pd.read_csv(local_save_path, parse_dates=["date"])
     if JHU_data.date.max().date() != pd.Timestamp.today().date() and update_data:
         print("Fetching updated data: JHU")
