@@ -128,7 +128,7 @@ def fit_data_logistic_curve(
     covid19_data: pd.DataFrame,
     region: str,
     data_set: str = "confirmed",
-    sigma: Union[int, float] = 14,
+    sigma: Union[int, float] = 5,
 ) -> Dict[str, Union[lmfit.model.ModelResult, pd.DataFrame]]:
     """
     Implementation of fit_data_model, with setting specific to
