@@ -1,13 +1,10 @@
-import io
 import os
 
 import dash
 from dash.dependencies import Input, Output
 import dash_core_components as dcc
 import dash_html_components as html
-import plotly.graph_objs as go
 import flask
-import pandas as pd
 
 from data_scraper import get_data, ALLOWED_SOURCES
 from data_analyzer import get_daily_growth, get_growth_rate
@@ -88,7 +85,7 @@ app.layout = html.Div(
                 ),
                 dcc.Checklist(
                     id="log_plot",
-                    options=[{"label": "Log Plot", "value": "log_plot"},],
+                    options=[{"label": "Log Plot", "value": "log_plot"}],
                     value=[],
                     labelStyle={"display": "inline-block"},
                 ),
@@ -139,7 +136,7 @@ app.layout = html.Div(
 
 
 @app.callback(
-    [Output("download-link", "href"), Output("download-link", "target"),],
+    [Output("download-link", "href"), Output("download-link", "target")],
     [Input("source_select", "value"), Input("dl_format", "value")],
 )
 def update_download_link(data_source, dl_format):

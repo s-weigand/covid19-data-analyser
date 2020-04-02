@@ -64,7 +64,7 @@ def generate_selector(df_column: pd.Series, values):
     selector_data = []
     for value in values:
         selector_data.append(df_column == value)
-    return pd.DataFrame(selector_data).apply(lambda row: any(row))
+    return pd.DataFrame(selector_data).apply(any)
 
 
 def generate_figure(
@@ -115,7 +115,7 @@ def generate_download_buffer(data_source: str, file_format: str):
     covid19_data = get_data(data_source)
     file_name = f"covid19_data_{data_source}"
     if file_format == "xls":
-        with pd.ExcelWriter(buffer, engine="xlsxwriter") as excel_writer:
+        with pd.ExcelWriter(buffer, engine="xlsxwriter") as excel_writer:  # noqa: E0110
             covid19_data.to_excel(excel_writer, sheet_name="sheet1", index=False)
         mimetype = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         file_name += ".xls"

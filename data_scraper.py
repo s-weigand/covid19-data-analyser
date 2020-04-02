@@ -92,7 +92,7 @@ def get_morgenpost_data(update_data: bool = False) -> pd.DataFrame:
         print("Fetching updated data: morgenpost")
         js_timestamp_now = int(datetime.now().timestamp() * 1e3)
         morgenpost_data = pd.read_csv(
-            f"https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/data/Coronavirus.history.v2.csv?{js_timestamp_now}",
+            f"https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/data/Coronavirus.history.v2.csv?{js_timestamp_now}",  # noqa: E501
             parse_dates=["date"],
         ).drop(["lon", "lat"], axis=1)
         morgenpost_data.rename(
@@ -126,7 +126,7 @@ def get_JHU_data_subset(subset: str) -> pd.DataFrame:
         Dataframe containing the covid19 data subset from JHU
     """
     JHU_subset = pd.read_csv(
-        f"https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_{subset}_global.csv"
+        f"https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_{subset}_global.csv"  # noqa: E501
     ).drop(["Long", "Lat"], axis=1)
     JHU_subset.rename(
         columns={"Country/Region": "parent_region", "Province/State": "region"},
