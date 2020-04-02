@@ -6,7 +6,25 @@ import pandas as pd
 ALLOWED_SOURCES = ["morgenpost", "JHU"]
 
 
-def get_infectious(covid_df: pd.DataFrame, has_recovered: bool = False) -> None:
+def get_data_path(sub_path: str) -> Path:
+    """
+    Returns the Path object of a path in data
+
+    Parameters
+    ----------
+    sub_path : str
+        subpath in data directory
+
+    Returns
+    -------
+    Path
+        Path to a file in data
+    """
+    data_base_path = Path(__file__).parent / "data"
+    return data_base_path / sub_path
+
+
+def get_infectious(covid_df: pd.DataFrame) -> None:
     """
     Calculates the number of still infectious people.
     This function uses the mutability of DataFrames,
@@ -16,15 +34,13 @@ def get_infectious(covid_df: pd.DataFrame, has_recovered: bool = False) -> None:
     ----------
     covid_df : pd.DataFrame
         Dataframe containing all covid19 data
-    has_recovered: bool
-        Whether or not the dataset has a recovered column i.e. JHU doesn't
     """
-    if has_recovered:
-        covid_df["still_infectious"] = (
-            covid_df.confirmed - covid_df.recovered - covid_df.deaths
-        )
+    if covid_df.columns.isin(["recovered"]).any():
+        recovered = covid_df.recovered.fillna(0)
     else:
-        covid_df["still_infectious"] = covid_df.confirmed - covid_df.deaths
+        recovered = 0
+    deaths = covid_df.deaths.fillna(0)
+    covid_df["still_infectious"] = covid_df.confirmed - recovered - deaths
 
 
 def calc_country_total(covid_df: pd.DataFrame) -> pd.DataFrame:
@@ -70,7 +86,7 @@ def get_morgenpost_data(update_data: bool = False) -> pd.DataFrame:
     pd.DataFrame
         Dataframe containing the covid19 data from morgenpost.de
     """
-    local_save_path = Path(__file__).parent / "data/morgenpost/covid19_infections.csv"
+    local_save_path = get_data_path("morgenpost/covid19_infections.csv")
     morgenpost_data = pd.read_csv(local_save_path, parse_dates=["date"])
     if morgenpost_data.date.max().date() != pd.Timestamp.today().date() and update_data:
         print("Fetching updated data: morgenpost")
@@ -87,7 +103,7 @@ def get_morgenpost_data(update_data: bool = False) -> pd.DataFrame:
         ] = "#Global"
         country_total = calc_country_total(morgenpost_data)
         morgenpost_data = morgenpost_data.append(country_total, ignore_index=True)
-        get_infectious(morgenpost_data, has_recovered=True)
+        get_infectious(morgenpost_data)
         morgenpost_data.sort_values(["date", "parent_region", "region"], inplace=True)
         morgenpost_data.set_index("date").to_csv(local_save_path)
     return morgenpost_data
@@ -149,7 +165,7 @@ def get_JHU_data(update_data: bool = False) -> pd.DataFrame:
     pd.DataFrame
         Dataframe containing the covid19 data from JHU
     """
-    local_save_path = Path(__file__).parent / "data/JHU/covid19_infections.csv"
+    local_save_path = get_data_path("JHU/covid19_infections.csv")
     JHU_data = pd.read_csv(local_save_path, parse_dates=["date"])
     if JHU_data.date.max().date() != pd.Timestamp.today().date() and update_data:
         print("Fetching updated data: JHU")
