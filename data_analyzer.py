@@ -120,7 +120,7 @@ def fit_data_model(
     x = np.arange(region_data.shape[0])
     y = region_data[data_set].values
     result = model.fit(y, **{free_var_name: x, **init_params})
-    region_data[f"fited_{data_set}"] = result.best_fit
+    region_data[f"fitted_{data_set}"] = result.best_fit
     return {"model_result": result, "plot_data": region_data}
 
 
