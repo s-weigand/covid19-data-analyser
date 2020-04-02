@@ -220,15 +220,62 @@ def params_to_df(
     Returns
     -------
     pd.DataFrame
-        DataFrame with columns "param" and "stderr", parameternames as index
+        DataFrame with columns "value" and "stderr", parameternames as index
     """
     param_vals = params_to_dict(params)
     param_stderrs = params_to_dict(params, kind="stderr")
-    param_df = pd.DataFrame({"param": param_vals, "stderr": param_stderrs})
+    param_df = pd.DataFrame({"value": param_vals, "stderr": param_stderrs})
     param_df.loc[param_inverted_stderr, "stderr"] = -param_df.loc[
         param_inverted_stderr, "stderr"
     ]
     return param_df
+
+
+def get_fit_param_results_row(
+    region: str,
+    parent_region: str,
+    subset: str,
+    fit_result: Dict[str, Union[lmfit.model.ModelResult, pd.DataFrame]],
+) -> pd.DataFrame:
+    """
+    Returns a row containing all fitted parameters for a region,
+    which can than be combined to a fit param results dataframe
+
+    Parameters
+    ----------
+    region : str
+        Value of the fitted region
+    parent_region : str
+        Parent region of the fitted region
+    subset:str
+        Subset of the regions data which was fitted
+    fit_result : Dict[str, Union[lmfit.model.ModelResult, pd.DataFrame]]
+        Result of fit_data_model or its implementation
+
+    Returns
+    -------
+    pd.DataFrame
+        Row of fit param results dataframe, for the fitted region
+
+    See Also
+    --------
+    fit_data_model
+    """
+    flat_params_df = pd.DataFrame(
+        [{"region": region, "parent_region": parent_region, "subset": subset}]
+    )
+    params_df = params_to_df(fit_result["model_result"].params)
+    transformed_df = (
+        params_df.reset_index()
+        .melt(id_vars="index", var_name="kind")
+        .sort_values("index")
+    )
+    new_index = transformed_df["index"] + " " + transformed_df["kind"]
+    transformed_df = (
+        transformed_df.set_index(new_index).drop(["index", "kind"], axis=1).T
+    )
+    flat_params_df = flat_params_df.join(transformed_df.reset_index(drop=True))
+    return flat_params_df
 
 
 def calc_extrema(
@@ -269,7 +316,7 @@ def calc_extrema(
             itertools.product(*zip(param_df.stderr, -param_df.stderr)),
             columns=param_df.index,
         )
-        param_permutation_df = error_permutation_df + param_df.param
+        param_permutation_df = error_permutation_df + param_df.value
         result_permutation_df = param_permutation_df.apply(
             lambda params: func(x, **{**params.to_dict(), **func_options}),
             axis=1,
@@ -278,8 +325,8 @@ def calc_extrema(
         supremum = result_permutation_df.max()
         infimum = result_permutation_df.min()
     else:
-        supremum_params = (param_df.param + param_df.stderr).to_dict()
-        infimum_params = (param_df.param - param_df.stderr).to_dict()
+        supremum_params = (param_df.value + param_df.stderr).to_dict()
+        infimum_params = (param_df.value - param_df.stderr).to_dict()
         supremum = func(x, **{**supremum_params, **func_options})
         infimum = func(x, **{**infimum_params, **func_options})
     return supremum, infimum
@@ -339,7 +386,7 @@ def predict_trend(
     param_df = params_to_df(
         model_result.params, param_inverted_stderr=param_inverted_stderr
     )
-    params = param_df.param.to_dict()
+    params = param_df.value.to_dict()
     date = fit_result["plot_data"].date.max() + pd.Series(x).apply(
         lambda x: pd.Timedelta(x + 1, unit="D")
     )
