@@ -125,8 +125,8 @@ def get_funkeinteraktiv_data(
     pd.DataFrame
         Dataframe containing the covid19 data from morgenpost.de
     """
-    local_save_path_de = get_data_path("funkeinteraktiv/covid19_infections_de.csv")
-    local_save_path_en = get_data_path("funkeinteraktiv/covid19_infections_en.csv")
+    local_save_path_de = get_data_path("funkeinteraktiv_de/covid19_infections.csv")
+    local_save_path_en = get_data_path("funkeinteraktiv_en/covid19_infections.csv")
     if language == "de":
         local_save_path = local_save_path_de
     else:
