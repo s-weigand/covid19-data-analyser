@@ -448,3 +448,30 @@ def predict_trend_logistic_curve(
         func_options={"form": "logistic"},
         brute_force_extrema=True,
     )
+
+
+def translate_funkeinteraktiv_fit_data():
+    """
+    Helperfunction to prevent Fitting overhead,
+    which would be caused if the same dataset with de and en
+    region names would be fitted.
+    Rather than fitting twice, this function simply translates
+    the german region names to the english ones, which were both extracted by
+    'get_funkeinteraktiv_data'.
+    """
+    source_dir = get_data_path("funkeinteraktiv_de")
+    target_dir = get_data_path("funkeinteraktiv_en")
+    translate_path = source_dir / "translation_table.csv"
+    translate_df = pd.read_csv(translate_path).rename(
+        {"label_parent_en": "parent_region", "label_en": "region"}, axis=1
+    )
+    region_df = translate_df[["region", "label"]].set_index("label", drop=True)
+    parent_region_df = translate_df[["parent_region", "label_parent"]].set_index(
+        "label_parent", drop=True
+    )
+    translate_dict = {**parent_region_df.to_dict(), **region_df.to_dict()}
+    for source_file_path in source_dir.glob("*model_fit*.csv"):
+        data_df = pd.read_csv(source_file_path)
+        rel_path = source_file_path.relative_to(source_dir)
+        target_file_path = target_dir / rel_path
+        data_df.replace(translate_dict).to_csv(target_file_path, index=False)

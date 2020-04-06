@@ -125,6 +125,7 @@ def get_funkeinteraktiv_data(
     pd.DataFrame
         Dataframe containing the covid19 data from morgenpost.de
     """
+    translation_table_path = get_data_path("funkeinteraktiv_de/translation_table.csv")
     local_save_path_de = get_data_path("funkeinteraktiv_de/covid19_infections.csv")
     local_save_path_en = get_data_path("funkeinteraktiv_en/covid19_infections.csv")
     if language == "de":
@@ -165,6 +166,10 @@ def get_funkeinteraktiv_data(
         get_funkeinteraktiv_language_data(funkeinteraktiv_data, "en").set_index(
             "date"
         ).to_csv(local_save_path_en)
+
+        funkeinteraktiv_data[
+            ["label_parent", "label", "label_parent_en", "label_en"]
+        ].drop_duplicates().to_csv(translation_table_path, index=False)
 
         funkeinteraktiv_data = get_funkeinteraktiv_language_data(
             funkeinteraktiv_data, language=language
