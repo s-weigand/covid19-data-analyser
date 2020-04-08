@@ -616,6 +616,9 @@ def fit_regions(
         )
 
     get_infectious(fitted_plot_data)
+
+    fitted_param_results.sort_values(["parent_region", "region"], inplace=True)
+    fitted_plot_data.sort_values(["date", "parent_region", "region"], inplace=True)
     return fitted_plot_data, fitted_param_results
 
 

@@ -1,8 +1,12 @@
+from typing import Dict, List
+
 import io
 
 import pandas as pd
+from plotly.colors import DEFAULT_PLOTLY_COLORS
 
 from data_scraper import get_data
+from data_analyzer import get_fit_plot_data
 
 
 def generate_dropdown_options(value_list_like):
@@ -67,30 +71,100 @@ def generate_selector(df_column: pd.Series, values):
     return pd.DataFrame(selector_data).apply(any)
 
 
+def plotly_color_cycler(plot_index: int):
+    mod_index = plot_index % len(DEFAULT_PLOTLY_COLORS)
+    return DEFAULT_PLOTLY_COLORS[mod_index]
+
+
 def generate_figure(
-    covid19_data, regions, title, y_title, subsets=["confirmed"], log_plot=False
+    data_source,
+    regions,
+    title,
+    y_title,
+    data_transform_fuction=None,
+    subsets=["confirmed"],
+    plot_settings=[],
+    fit_model=None,
 ):
-    plot_data = []
-    for subset in subsets:
-        for region in regions:
-            region_data = covid19_data[covid19_data.region == region]
-            plot_data.append(
-                {
-                    "x": region_data.date,
-                    "y": region_data[subset],
-                    "name": f"{region} {subset}",
-                    "mode": "markers",
-                    "marker": {"size": 8},
-                },
+
+    if data_source and regions:
+        plot_data = []
+        plot_index = 0
+        data = get_data(data_source)
+        if data_transform_fuction is not None:
+            data = data_transform_fuction(data)
+        if fit_model is not None:
+            fit_plot_data = get_fit_plot_data(
+                data_source=data_source, model_name=fit_model
             )
+            if data_transform_fuction is not None:
+                fit_plot_data = data_transform_fuction(fit_plot_data)
+        else:
+            fit_plot_data = None
+        for subset in subsets:
+            for region in regions:
+                color = plotly_color_cycler(plot_index)
+                plot_sub_data = generate_plot_sub_data(
+                    raw_data=data,
+                    region=region,
+                    subset=subset,
+                    hide_raw_data="hide_raw_data" in plot_settings,
+                    color=color,
+                    fit_data=fit_plot_data,
+                )
+                for plot_sub_data_entry in plot_sub_data:
+                    plot_data.append(plot_sub_data_entry)
+                plot_index += 1
+        return {
+            "data": plot_data,
+            "layout": {
+                "title": title,
+                "clickmode": "event+select",
+                "yaxis": {
+                    "type": "log" if "log_plot" in plot_settings else "linear",
+                    "title": y_title,
+                },
+                "xaxis": {"title": "Date"},
+            },
+        }
+    else:
+        return {"data": [], "layout": {"title": title}}
+
+
+def generate_plot_sub_data(
+    raw_data, region, subset, color, hide_raw_data=False, fit_data=None
+) -> List[Dict]:
+    plot_sub_data = []
+    if not hide_raw_data:
+        raw_region_data = raw_data[raw_data.region == region]
+        raw_data_trace = create_trace(raw_region_data, region, subset, color)
+        plot_sub_data.append(raw_data_trace,)
+    if fit_data is not None:
+        fit_region_data = fit_data[fit_data.region == region]
+        if len(fit_region_data):
+            fit_data_trace = create_trace(
+                fit_region_data, region, subset, color, is_fit=True
+            )
+            plot_sub_data.append(fit_data_trace,)
+
+    return plot_sub_data
+
+
+def create_trace(data, region, subset, color, is_fit=False) -> Dict:
+    name = f"{region} {subset}"
+    if is_fit:
+        mode = "line"
+        name = f"fit {name}"
+    else:
+        mode = "markers"
     return {
-        "data": plot_data,
-        "layout": {
-            "title": title,
-            "clickmode": "event+select",
-            "yaxis": {"type": "log" if log_plot else "linear", "title": y_title},
-            "xaxis": {"title": "Date"},
-        },
+        "x": data.date,
+        "y": data[subset],
+        "name": name,
+        "mode": mode,
+        "marker": {"size": 8, "color": color},
+        "line": {"color": color},
+        "hoverlabel": {"namelength": -1},
     }
 
 
