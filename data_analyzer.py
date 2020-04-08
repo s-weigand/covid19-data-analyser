@@ -7,6 +7,8 @@ import pandas as pd
 import lmfit
 from lmfit.models import StepModel
 
+from data_scraper import ALLOWED_SOURCES, get_data, get_data_path, get_infectious
+
 LOGISTIC_MODEL = StepModel(form="logistic")
 
 
@@ -22,7 +24,7 @@ def get_shifted_dfs(
     Parameters
     ----------
     covid_df : pd.DataFrame
-        covid19 DataFrame
+        Full covid19 data from a data_source
     time_shift : [int,float], optional
         value by which the time should be shifted, by default 1
     time_shift_unit : str, optional
@@ -49,7 +51,7 @@ def get_daily_growth(covid_df: pd.DataFrame) -> pd.DataFrame:
     Parameters
     ----------
     covid_df : pd.DataFrame
-        covid19 DataFrame
+        Full covid19 data from a data_source
 
     Returns
     -------
@@ -68,7 +70,7 @@ def get_growth_rate(covid_df: pd.DataFrame) -> pd.DataFrame:
     Parameters
     ----------
     covid_df : pd.DataFrame
-        covid19 DataFrame
+        Full covid19 data from a data_source
 
     Returns
     -------
@@ -475,3 +477,200 @@ def translate_funkeinteraktiv_fit_data():
         rel_path = source_file_path.relative_to(source_dir)
         target_file_path = target_dir / rel_path
         data_df.replace(translate_dict).to_csv(target_file_path, index=False)
+
+
+def fit_subsets(
+    fit_function: Callable,
+    covid19_data: pd.DataFrame,
+    row: pd.Series,
+    subsets: Iterable,
+    data_source: str,
+    fit_func_kwargs: dict = {},
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
+    """
+    Function to fit the subsets of a regional covid data
+
+    Parameters
+    ----------
+    fit_function : Callable
+        Implementation of a model with fit_data_model
+    covid19_data : pd.DataFrame
+        Full covid19 data from a data_source
+    row : pd.Series
+        Row of of a dataframe only containing unique value pairs for
+        "region" and "parent_region"
+    subsets : Iterable
+        Iterable of subset names
+    data_source : str
+        name of the data source, only needed to print debug information
+    fit_func_kwargs : dict, optional
+        Additional kwargs passed to fit_function, by default {}
+
+    Returns
+    -------
+    Tuple[pd.DataFrame, pd.DataFrame]
+        fitted_region_plot_data, fitted_param_subset
+        fitted_region_plot_data:
+            actual fitted data, which can be used for plotting
+        fitted_param_subset:
+            fit parameters for a region
+
+    See Also
+    --------
+    fit_data_model
+    fit_regions
+    batch_fit_model
+    """
+    region = row.region
+    parent_region = row.parent_region
+    fitted_param_subset = pd.DataFrame()
+    fitted_region_plot_data = None
+    print(f"Fitting data for: {region}, from {data_source}")
+    for subset in subsets:
+        try:
+            fit_result = fit_function(covid19_data, region, subset, **fit_func_kwargs)
+            fit_param_row = get_fit_param_results_row(
+                region, parent_region, subset, fit_result
+            )
+            fitted_param_subset = fitted_param_subset.append(
+                fit_param_row, ignore_index=True
+            )
+            fitted_data_column = f"fitted_{subset}"
+            plot_data = fit_result["plot_data"][
+                ["date", "region", "parent_region", fitted_data_column]
+            ].copy()
+            plot_data = plot_data.rename(columns={fitted_data_column: subset})
+            if fitted_region_plot_data is None:
+                fitted_region_plot_data = plot_data[
+                    ["date", "region", "parent_region", subset]
+                ]
+            else:
+                fitted_region_plot_data = pd.merge(
+                    fitted_region_plot_data,
+                    plot_data,
+                    on=["date", "region", "parent_region"],
+                )
+        except (ValueError, TypeError):
+            print(f"Error fitting data for: {region} {subset}, from {data_source}")
+    if fitted_region_plot_data is None:
+        return pd.DataFrame(), pd.DataFrame()
+    else:
+        return fitted_region_plot_data, fitted_param_subset
+
+
+def fit_regions(
+    covid19_data: pd.DataFrame,
+    fit_function: Callable,
+    data_source: str,
+    fit_func_kwargs: dict = {},
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
+    """
+    Function to fit all regions of a covid dataset
+
+    Parameters
+    ----------
+    covid19_data : pd.DataFrame
+        Full covid19 data from a data_source
+    fit_function : Callable
+        Implementation of a model with fit_data_model
+    data_source : str
+        name of the data source, only needed to print debug information
+    fit_func_kwargs : dict, optional
+        Additional kwargs passed to fit_function, by default {}
+
+    Returns
+    -------
+    Tuple[pd.DataFrame, pd.DataFrame]
+        fitted_plot_data, fitted_param_results
+        fitted_plot_data:
+            actual fitted data, which can be used for plotting
+        fitted_param_results:
+            fit parameters
+
+    See Also
+    --------
+    fit_subsets
+    batch_fit_model
+    """
+    subset_selector = covid19_data.columns.isin(["confirmed", "deaths", "recovered"])
+    subsets = covid19_data.columns[subset_selector]
+    regions_df = covid19_data[["region", "parent_region"]].drop_duplicates("region")
+    fitted_param_results = pd.DataFrame()
+    fitted_plot_data = pd.DataFrame()
+    for _, row in regions_df.iterrows():
+        fitted_region_plot_data, fitted_param_subset = fit_subsets(
+            fit_function=fit_function,
+            covid19_data=covid19_data,
+            row=row,
+            subsets=subsets,
+            data_source=data_source,
+            fit_func_kwargs=fit_func_kwargs,
+        )
+        fitted_param_results = fitted_param_results.append(
+            fitted_param_subset, ignore_index=True
+        )
+        fitted_plot_data = fitted_plot_data.append(
+            fitted_region_plot_data, ignore_index=True
+        )
+
+    get_infectious(fitted_plot_data)
+    return fitted_plot_data, fitted_param_results
+
+
+def batch_fit_model(
+    fit_function: Callable, model_name: str, fit_func_kwargs: dict = {},
+) -> None:
+    """
+    Generic function to fit a fit_function to the data of all data sources and
+    save them to file
+
+    Parameters
+    ----------
+    fit_function : Callable
+        Implementation of a model with fit_data_model
+    model_name : str
+        Name of the model which is fitted, used to generate the path
+    fit_func_kwargs : dict, optional
+        Additional kwargs passed to fit_function, by default {}
+
+    See Also
+    --------
+    fit_subsets
+    fit_regions
+    """
+    for data_source in ALLOWED_SOURCES:
+        covid19_data = get_data(data_source)
+        fitted_plot_data, fitted_param_results = fit_regions(
+            covid19_data=covid19_data,
+            fit_function=fit_function,
+            data_source=data_source,
+            fit_func_kwargs=fit_func_kwargs,
+        )
+        fitted_plot_data_path = get_data_path(
+            f"{data_source}/{model_name}_model_fit_plot_data.csv"
+        )
+        fitted_param_results_path = get_data_path(
+            f"{data_source}/{model_name}_model_fit_params.csv"
+        )
+
+        fitted_param_results.to_csv(fitted_param_results_path, index=False)
+        fitted_plot_data.to_csv(fitted_plot_data_path, index=False)
+
+
+def batch_fit_logistic_curve():
+    """
+    Implementation of batch_fit_model, for the logistic curve model.
+
+
+    See Also
+    --------
+    fit_data_logistic_curve
+    batch_fit_model
+    """
+    batch_fit_model(fit_function=fit_data_logistic_curve, model_name="logistic_curve")
+
+
+if __name__ == "__main__":
+    ALLOWED_SOURCES.remove("funkeinteraktiv_en")
+    batch_fit_logistic_curve()
+    translate_funkeinteraktiv_fit_data()
