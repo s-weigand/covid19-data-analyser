@@ -6,7 +6,7 @@ import pandas as pd
 from plotly.colors import DEFAULT_PLOTLY_COLORS
 
 from data_scraper import get_data
-from data_analyzer import get_fit_plot_data
+from data_analyzer import get_fit_data
 
 
 def generate_dropdown_options(value_list_like):
@@ -94,8 +94,8 @@ def generate_figure(
         if data_transform_fuction is not None:
             data = data_transform_fuction(data)
         if fit_model is not None:
-            fit_plot_data = get_fit_plot_data(
-                data_source=data_source, model_name=fit_model
+            fit_plot_data = get_fit_data(
+                data_source=data_source, model_name=fit_model, kind="plot"
             )
             if data_transform_fuction is not None:
                 fit_plot_data = data_transform_fuction(fit_plot_data)

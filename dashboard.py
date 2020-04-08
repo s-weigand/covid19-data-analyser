@@ -7,7 +7,12 @@ import dash_html_components as html
 import flask
 
 from data_scraper import ALLOWED_SOURCES, get_data
-from data_analyzer import IMPLEMENTED_FIT_MODELS, get_daily_growth, get_growth_rate
+from data_analyzer import (
+    IMPLEMENTED_FIT_MODELS,
+    get_daily_growth,
+    get_growth_rate,
+    get_fit_data,
+)
 from dashboard_helper_functions import (
     generate_dropdown_options,
     generate_figure,
@@ -108,6 +113,7 @@ app.layout = html.Div(
                     options=[
                         {"label": "Log Plot", "value": "log_plot"},
                         {"label": "Hide Raw Data", "value": "hide_raw_data"},
+                        {"label": "Show fitted parameters", "value": "show_params"},
                     ],
                     value=[],
                     labelStyle={"display": "inline-block"},
@@ -115,6 +121,8 @@ app.layout = html.Div(
             ],
             className="plot_settings_div",
         ),
+        dcc.Markdown(id="fit_params"),
+        dcc.Markdown("### Plots"),
         dcc.Graph(id="data_plot"),
         dcc.Graph(id="growth_plot"),
         dcc.Graph(id="growth_rate_plot"),
@@ -242,6 +250,25 @@ PLOT_INPUTS = [
     Input("plot_settings", "value"),
     Input("fit_model", "value"),
 ]
+
+
+@app.callback(
+    Output("fit_params", "children"), PLOT_INPUTS,
+)
+def update_fit_param_table(data_source, regions, subsets, plot_settings, fit_model):
+    if "show_params" in plot_settings and fit_model is not None:
+        fit_param_df = get_fit_data(
+            data_source=data_source, model_name=fit_model, kind="params",
+        )
+        fit_param_df = fit_param_df[
+            fit_param_df.region.isin(regions) & fit_param_df.subset.isin(subsets)
+        ]
+        fit_param_df_md = fit_param_df.set_index("parent_region").to_markdown()
+        return f"### Fitted Parameters\n\n{fit_param_df_md}"
+    elif "show_params" in plot_settings:
+        return "#### In order to see the fitparameters you need to first select a 'Fitmodel'"
+    else:
+        return ""
 
 
 @app.callback(

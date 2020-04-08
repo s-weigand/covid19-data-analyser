@@ -674,12 +674,47 @@ def batch_fit_logistic_curve():
     batch_fit_model(fit_function=fit_data_logistic_curve, model_name="logistic_curve")
 
 
-def get_fit_plot_data(data_source, model_name="logistic_curve"):
+def get_fit_data(
+    data_source: str, model_name="logistic_curve", kind="plot"
+) -> pd.DataFrame:
+    """
+    Convenience function to quickly get the fitted data from the supported sources.
+
+    Parameters
+    ----------
+    data_source : str
+        Name of the source the fitted data was fetched from.
+    model_name : str, optional
+        Name of the model which was used for fitting, by default "logistic_curve"
+    kind : str, optional
+        kind of data you want to retrieve, by default "plot"
+
+    Returns
+    -------
+    pd.DataFrame
+        Plot data or parameters, depending on 'kind'
+
+    Raises
+    ------
+    ValueError
+        If the model_name isn't supported
+    ValueError
+        If the data_source isn't supported
+    """
     if model_name in IMPLEMENTED_FIT_MODELS and data_source in ALLOWED_SOURCES:
-        fitted_plot_data_path = get_data_path(
-            f"{data_source}/{model_name}_model_fit_plot_data.csv"
-        )
-        return pd.read_csv(fitted_plot_data_path, parse_dates=["date"])
+        if kind == "plot":
+            fitted_plot_data_path = get_data_path(
+                f"{data_source}/{model_name}_model_fit_plot_data.csv"
+            )
+            return pd.read_csv(fitted_plot_data_path, parse_dates=["date"])
+        elif kind == "params":
+            fitted_param_results_path = get_data_path(
+                f"{data_source}/{model_name}_model_fit_params.csv"
+            )
+            return pd.read_csv(fitted_param_results_path)
+        else:
+            raise ValueError("The value of 'kind' need to be 'plot' or 'params'.")
+
     elif model_name not in IMPLEMENTED_FIT_MODELS:
         raise ValueError(
             f"The model '{model_name}' is not in "
