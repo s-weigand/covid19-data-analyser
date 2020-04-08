@@ -9,6 +9,8 @@ from lmfit.models import StepModel
 
 from data_scraper import ALLOWED_SOURCES, get_data, get_data_path, get_infectious
 
+IMPLEMENTED_FIT_MODELS = ["logistic_curve"]
+
 LOGISTIC_MODEL = StepModel(form="logistic")
 
 
@@ -668,6 +670,26 @@ def batch_fit_logistic_curve():
     batch_fit_model
     """
     batch_fit_model(fit_function=fit_data_logistic_curve, model_name="logistic_curve")
+
+
+def get_fit_plot_data(data_source, model_name="logistic_curve"):
+    if model_name in IMPLEMENTED_FIT_MODELS and data_source in ALLOWED_SOURCES:
+        fitted_plot_data_path = get_data_path(
+            f"{data_source}/{model_name}_model_fit_plot_data.csv"
+        )
+        return pd.read_csv(fitted_plot_data_path, parse_dates=["date"])
+    elif model_name not in IMPLEMENTED_FIT_MODELS:
+        raise ValueError(
+            f"The model '{model_name}' is not in "
+            "IMPLEMENTED_FIT_MODELS ({IMPLEMENTED_FIT_MODELS}). "
+            "If you just implemented a new model, make sure to add it to"
+            "'IMPLEMENTED_FIT_MODELS'."
+        )
+    else:
+        raise ValueError(
+            f"The data_source '{data_source}', is not supported.\n"
+            f"The supported values for 'data_source' are {ALLOWED_SOURCES}"
+        )
 
 
 if __name__ == "__main__":
