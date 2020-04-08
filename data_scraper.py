@@ -262,14 +262,14 @@ def get_JHU_data(update_data: bool = False) -> pd.DataFrame:
 
 
 def get_data(
-    source: str = "funkeinteraktiv_de", update_data: bool = False
+    data_source: str = "funkeinteraktiv_de", update_data: bool = False
 ) -> pd.DataFrame:
     """
     Convenience function to quickly get covid19 data from the supported sources.
 
     Parameters
     ----------
-    source : "funkeinteraktiv_de"|"funkeinteraktiv_en"|"JHU", optional
+    data_source : "funkeinteraktiv_de"|"funkeinteraktiv_en"|"JHU", optional
         source from which the data should be fetched, by default "funkeinteraktiv_de"
 
     update_data : bool, optional
@@ -284,16 +284,19 @@ def get_data(
     Raises
     ------
     ValueError
-        If source is not supported
+        If data_source is not supported
     """
-    if source == "funkeinteraktiv_de":
+    if data_source == "funkeinteraktiv_de":
         return get_funkeinteraktiv_data(update_data=update_data, language="de")
-    elif source == "funkeinteraktiv_en":
+    elif data_source == "funkeinteraktiv_en":
         return get_funkeinteraktiv_data(update_data=update_data, language="en")
-    elif source == "JHU":
+    elif data_source == "JHU":
         return get_JHU_data(update_data=update_data)
     else:
-        raise ValueError(f"The source '{source}', is not supported.")
+        raise ValueError(
+            f"The data_source '{data_source}', is not supported.\n"
+            f"The supported values for 'data_source' are {ALLOWED_SOURCES}"
+        )
 
 
 if __name__ == "__main__":

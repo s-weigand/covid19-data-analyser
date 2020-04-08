@@ -663,7 +663,6 @@ def batch_fit_logistic_curve():
     """
     Implementation of batch_fit_model, for the logistic curve model.
 
-
     See Also
     --------
     fit_data_logistic_curve
