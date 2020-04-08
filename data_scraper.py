@@ -7,7 +7,8 @@ ALLOWED_SOURCES = ["funkeinteraktiv_de", "funkeinteraktiv_en", "JHU"]
 
 def get_data_path(sub_path: str) -> Path:
     """
-    Returns the Path object of a path in data
+    Returns the Path object of a path in data and
+    creates the parent folders if they don't exist already
 
     Parameters
     ----------
@@ -20,7 +21,12 @@ def get_data_path(sub_path: str) -> Path:
         Path to a file in data
     """
     data_base_path = Path(__file__).parent / "data"
-    return data_base_path / sub_path
+    data_path = data_base_path / sub_path
+    if data_path.suffixes == []:
+        data_path.mkdir(parents=True, exist_ok=True)
+    else:
+        data_path.parent.mkdir(parents=True, exist_ok=True)
+    return data_path
 
 
 def get_infectious(covid_df: pd.DataFrame) -> None:
