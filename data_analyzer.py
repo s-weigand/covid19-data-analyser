@@ -5,11 +5,11 @@ import numpy as np
 import pandas as pd
 
 import lmfit
-from lmfit.models import StepModel
+from lmfit.models import ExponentialModel, StepModel
 
 from data_scraper import ALLOWED_SOURCES, get_data, get_data_path, get_infectious
 
-IMPLEMENTED_FIT_MODELS = ["logistic_curve"]
+IMPLEMENTED_FIT_MODELS = ["exponential_curve", "logistic_curve"]
 
 LOGISTIC_MODEL = StepModel(form="logistic")
 
@@ -128,6 +128,53 @@ def fit_data_model(
     return {"model_result": result, "plot_data": region_data}
 
 
+def fit_data_exponential_curve(
+    covid19_data: pd.DataFrame, region: str, data_set: str = "confirmed",
+) -> Dict[str, Union[lmfit.model.ModelResult, pd.DataFrame]]:
+    """
+    Implementation of fit_data_model, with setting specific to
+    the exponential curve model
+
+    Parameters
+    ----------
+    covid19_data : pd.DataFrame
+        Full covid19 data from a data_source
+    region : str
+        region which data should be fired, needs to be in covid19_region_data.region
+    data_set : str, optional
+        which subdata schold be fitted, need to be of value
+        ["confirmed", "recovered", deaths], by default "confirmed"
+
+    Returns
+    -------
+    Dict[str, Union[lmfit.model.ModelResult, pd.DataFrame]]
+        Result dict with keys "model_result" and "plot_data".
+        model_result: lmfit.model.ModelResult
+            result of the fit, with optimized parameters
+        plot_data: pd.DataFrame
+            Same as covid19_region_data, but with an resetted index and
+            and added fir result
+
+    See Also
+    --------
+    fit_data_model
+    """
+    covid19_region_data = covid19_data.loc[
+        covid19_data.region == region, :
+    ].reset_index(drop=True)
+    init_params = {
+        "amplitude": 0,
+        "decay": -1,
+    }
+    fit_result = fit_data_model(
+        covid19_region_data,
+        ExponentialModel(),
+        data_set=data_set,
+        init_params=init_params,
+    )
+    return fit_result
+
+
 def fit_data_logistic_curve(
     covid19_data: pd.DataFrame,
     region: str,
@@ -140,8 +187,8 @@ def fit_data_logistic_curve(
 
     Parameters
     ----------
-    covid19_region_data : pd.DataFrame
-        covid19 DataFrame for one region
+    covid19_data : pd.DataFrame
+        Full covid19 data from a data_source
     region : str
         region which data should be fired, needs to be in covid19_region_data.region
     data_set : str, optional
@@ -662,6 +709,20 @@ def batch_fit_model(
         fitted_plot_data.to_csv(fitted_plot_data_path, index=False)
 
 
+def batch_fit_exponential_curve():
+    """
+    Implementation of batch_fit_model, for the exponential curve model.
+
+    See Also
+    --------
+    fit_data_exponential_curve
+    batch_fit_model
+    """
+    batch_fit_model(
+        fit_function=fit_data_exponential_curve, model_name="exponential_curve"
+    )
+
+
 def batch_fit_logistic_curve():
     """
     Implementation of batch_fit_model, for the logistic curve model.
@@ -732,4 +793,5 @@ def get_fit_data(
 if __name__ == "__main__":
     ALLOWED_SOURCES.remove("funkeinteraktiv_en")
     batch_fit_logistic_curve()
+    batch_fit_exponential_curve()
     translate_funkeinteraktiv_fit_data()
