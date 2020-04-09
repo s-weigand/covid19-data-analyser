@@ -7,7 +7,7 @@ Luckily we live in a time, where the skills and tools to analyse data are open t
 Thus this little project tries to provide you with the data and a small toolset
 to understand, what the current state of the covid19 pandemic is right now.
 
-This wil also be the basis for [istcoronaexponentiell.de](https://vm-1.istcoronaexponentiell.de/),
+The code of this repository is the basis for [istcoronaexponentiell.de](https://vm-1.istcoronaexponentiell.de/),
 where this projects interactive dashboard will be hosted.
 
 # Usage
