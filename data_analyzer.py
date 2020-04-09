@@ -5,7 +5,11 @@ import numpy as np
 import pandas as pd
 
 import lmfit
-from lmfit.models import StepModel
+from lmfit.models import ExponentialModel, StepModel
+
+from data_scraper import ALLOWED_SOURCES, get_data, get_data_path, get_infectious
+
+IMPLEMENTED_FIT_MODELS = ["exponential_curve", "logistic_curve"]
 
 LOGISTIC_MODEL = StepModel(form="logistic")
 
@@ -22,7 +26,7 @@ def get_shifted_dfs(
     Parameters
     ----------
     covid_df : pd.DataFrame
-        covid19 DataFrame
+        Full covid19 data from a data_source
     time_shift : [int,float], optional
         value by which the time should be shifted, by default 1
     time_shift_unit : str, optional
@@ -49,7 +53,7 @@ def get_daily_growth(covid_df: pd.DataFrame) -> pd.DataFrame:
     Parameters
     ----------
     covid_df : pd.DataFrame
-        covid19 DataFrame
+        Full covid19 data from a data_source
 
     Returns
     -------
@@ -68,7 +72,7 @@ def get_growth_rate(covid_df: pd.DataFrame) -> pd.DataFrame:
     Parameters
     ----------
     covid_df : pd.DataFrame
-        covid19 DataFrame
+        Full covid19 data from a data_source
 
     Returns
     -------
@@ -124,6 +128,53 @@ def fit_data_model(
     return {"model_result": result, "plot_data": region_data}
 
 
+def fit_data_exponential_curve(
+    covid19_data: pd.DataFrame, region: str, data_set: str = "confirmed",
+) -> Dict[str, Union[lmfit.model.ModelResult, pd.DataFrame]]:
+    """
+    Implementation of fit_data_model, with setting specific to
+    the exponential curve model
+
+    Parameters
+    ----------
+    covid19_data : pd.DataFrame
+        Full covid19 data from a data_source
+    region : str
+        region which data should be fired, needs to be in covid19_region_data.region
+    data_set : str, optional
+        which subdata schold be fitted, need to be of value
+        ["confirmed", "recovered", deaths], by default "confirmed"
+
+    Returns
+    -------
+    Dict[str, Union[lmfit.model.ModelResult, pd.DataFrame]]
+        Result dict with keys "model_result" and "plot_data".
+        model_result: lmfit.model.ModelResult
+            result of the fit, with optimized parameters
+        plot_data: pd.DataFrame
+            Same as covid19_region_data, but with an resetted index and
+            and added fir result
+
+    See Also
+    --------
+    fit_data_model
+    """
+    covid19_region_data = covid19_data.loc[
+        covid19_data.region == region, :
+    ].reset_index(drop=True)
+    init_params = {
+        "amplitude": 0,
+        "decay": -1,
+    }
+    fit_result = fit_data_model(
+        covid19_region_data,
+        ExponentialModel(),
+        data_set=data_set,
+        init_params=init_params,
+    )
+    return fit_result
+
+
 def fit_data_logistic_curve(
     covid19_data: pd.DataFrame,
     region: str,
@@ -136,8 +187,8 @@ def fit_data_logistic_curve(
 
     Parameters
     ----------
-    covid19_region_data : pd.DataFrame
-        covid19 DataFrame for one region
+    covid19_data : pd.DataFrame
+        Full covid19 data from a data_source
     region : str
         region which data should be fired, needs to be in covid19_region_data.region
     data_set : str, optional
@@ -448,3 +499,299 @@ def predict_trend_logistic_curve(
         func_options={"form": "logistic"},
         brute_force_extrema=True,
     )
+
+
+def translate_funkeinteraktiv_fit_data():
+    """
+    Helperfunction to prevent Fitting overhead,
+    which would be caused if the same dataset with de and en
+    region names would be fitted.
+    Rather than fitting twice, this function simply translates
+    the german region names to the english ones, which were both extracted by
+    'get_funkeinteraktiv_data'.
+    """
+    source_dir = get_data_path("funkeinteraktiv_de")
+    target_dir = get_data_path("funkeinteraktiv_en")
+    translate_path = source_dir / "translation_table.csv"
+    translate_df = pd.read_csv(translate_path).rename(
+        {"label_parent_en": "parent_region", "label_en": "region"}, axis=1
+    )
+    region_df = translate_df[["region", "label"]].set_index("label", drop=True)
+    parent_region_df = translate_df[["parent_region", "label_parent"]].set_index(
+        "label_parent", drop=True
+    )
+    translate_dict = {**parent_region_df.to_dict(), **region_df.to_dict()}
+    for source_file_path in source_dir.glob("*model_fit*.csv"):
+        data_df = pd.read_csv(source_file_path)
+        rel_path = source_file_path.relative_to(source_dir)
+        target_file_path = target_dir / rel_path
+        data_df.replace(translate_dict).to_csv(target_file_path, index=False)
+
+
+def fit_subsets(
+    fit_function: Callable,
+    covid19_data: pd.DataFrame,
+    row: pd.Series,
+    subsets: Iterable,
+    data_source: str,
+    fit_func_kwargs: dict = {},
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
+    """
+    Function to fit the subsets of a regional covid data
+
+    Parameters
+    ----------
+    fit_function : Callable
+        Implementation of a model with fit_data_model
+    covid19_data : pd.DataFrame
+        Full covid19 data from a data_source
+    row : pd.Series
+        Row of of a dataframe only containing unique value pairs for
+        "region" and "parent_region"
+    subsets : Iterable
+        Iterable of subset names
+    data_source : str
+        name of the data source, only needed to print debug information
+    fit_func_kwargs : dict, optional
+        Additional kwargs passed to fit_function, by default {}
+
+    Returns
+    -------
+    Tuple[pd.DataFrame, pd.DataFrame]
+        fitted_region_plot_data, fitted_param_subset
+        fitted_region_plot_data:
+            actual fitted data, which can be used for plotting
+        fitted_param_subset:
+            fit parameters for a region
+
+    See Also
+    --------
+    fit_data_model
+    fit_regions
+    batch_fit_model
+    """
+    region = row.region
+    parent_region = row.parent_region
+    fitted_param_subset = pd.DataFrame()
+    fitted_region_plot_data = None
+    print(f"Fitting data for: {region}, from {data_source}")
+    for subset in subsets:
+        try:
+            fit_result = fit_function(covid19_data, region, subset, **fit_func_kwargs)
+            fit_param_row = get_fit_param_results_row(
+                region, parent_region, subset, fit_result
+            )
+            fitted_param_subset = fitted_param_subset.append(
+                fit_param_row, ignore_index=True
+            )
+            fitted_data_column = f"fitted_{subset}"
+            plot_data = fit_result["plot_data"][
+                ["date", "region", "parent_region", fitted_data_column]
+            ].copy()
+            plot_data = plot_data.rename(columns={fitted_data_column: subset})
+            if fitted_region_plot_data is None:
+                fitted_region_plot_data = plot_data[
+                    ["date", "region", "parent_region", subset]
+                ]
+            else:
+                fitted_region_plot_data = pd.merge(
+                    fitted_region_plot_data,
+                    plot_data,
+                    on=["date", "region", "parent_region"],
+                )
+        except (ValueError, TypeError):
+            print(f"Error fitting data for: {region} {subset}, from {data_source}")
+    if fitted_region_plot_data is None:
+        return pd.DataFrame(), pd.DataFrame()
+    else:
+        return fitted_region_plot_data, fitted_param_subset
+
+
+def fit_regions(
+    covid19_data: pd.DataFrame,
+    fit_function: Callable,
+    data_source: str,
+    fit_func_kwargs: dict = {},
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
+    """
+    Function to fit all regions of a covid dataset
+
+    Parameters
+    ----------
+    covid19_data : pd.DataFrame
+        Full covid19 data from a data_source
+    fit_function : Callable
+        Implementation of a model with fit_data_model
+    data_source : str
+        name of the data source, only needed to print debug information
+    fit_func_kwargs : dict, optional
+        Additional kwargs passed to fit_function, by default {}
+
+    Returns
+    -------
+    Tuple[pd.DataFrame, pd.DataFrame]
+        fitted_plot_data, fitted_param_results
+        fitted_plot_data:
+            actual fitted data, which can be used for plotting
+        fitted_param_results:
+            fit parameters
+
+    See Also
+    --------
+    fit_subsets
+    batch_fit_model
+    """
+    subset_selector = covid19_data.columns.isin(["confirmed", "deaths", "recovered"])
+    subsets = covid19_data.columns[subset_selector]
+    regions_df = covid19_data[["region", "parent_region"]].drop_duplicates("region")
+    fitted_param_results = pd.DataFrame()
+    fitted_plot_data = pd.DataFrame()
+    for _, row in regions_df.iterrows():
+        fitted_region_plot_data, fitted_param_subset = fit_subsets(
+            fit_function=fit_function,
+            covid19_data=covid19_data,
+            row=row,
+            subsets=subsets,
+            data_source=data_source,
+            fit_func_kwargs=fit_func_kwargs,
+        )
+        fitted_param_results = fitted_param_results.append(
+            fitted_param_subset, ignore_index=True
+        )
+        fitted_plot_data = fitted_plot_data.append(
+            fitted_region_plot_data, ignore_index=True
+        )
+
+    get_infectious(fitted_plot_data)
+
+    fitted_param_results.sort_values(["parent_region", "region"], inplace=True)
+    fitted_plot_data.sort_values(["date", "parent_region", "region"], inplace=True)
+    return fitted_plot_data, fitted_param_results
+
+
+def batch_fit_model(
+    fit_function: Callable, model_name: str, fit_func_kwargs: dict = {},
+) -> None:
+    """
+    Generic function to fit a fit_function to the data of all data sources and
+    save them to file
+
+    Parameters
+    ----------
+    fit_function : Callable
+        Implementation of a model with fit_data_model
+    model_name : str
+        Name of the model which is fitted, used to generate the path
+    fit_func_kwargs : dict, optional
+        Additional kwargs passed to fit_function, by default {}
+
+    See Also
+    --------
+    fit_subsets
+    fit_regions
+    """
+    for data_source in ALLOWED_SOURCES:
+        covid19_data = get_data(data_source)
+        fitted_plot_data, fitted_param_results = fit_regions(
+            covid19_data=covid19_data,
+            fit_function=fit_function,
+            data_source=data_source,
+            fit_func_kwargs=fit_func_kwargs,
+        )
+        fitted_plot_data_path = get_data_path(
+            f"{data_source}/{model_name}_model_fit_plot_data.csv"
+        )
+        fitted_param_results_path = get_data_path(
+            f"{data_source}/{model_name}_model_fit_params.csv"
+        )
+
+        fitted_param_results.to_csv(fitted_param_results_path, index=False)
+        fitted_plot_data.to_csv(fitted_plot_data_path, index=False)
+
+
+def batch_fit_exponential_curve():
+    """
+    Implementation of batch_fit_model, for the exponential curve model.
+
+    See Also
+    --------
+    fit_data_exponential_curve
+    batch_fit_model
+    """
+    batch_fit_model(
+        fit_function=fit_data_exponential_curve, model_name="exponential_curve"
+    )
+
+
+def batch_fit_logistic_curve():
+    """
+    Implementation of batch_fit_model, for the logistic curve model.
+
+    See Also
+    --------
+    fit_data_logistic_curve
+    batch_fit_model
+    """
+    batch_fit_model(fit_function=fit_data_logistic_curve, model_name="logistic_curve")
+
+
+def get_fit_data(
+    data_source: str, model_name="logistic_curve", kind="plot"
+) -> pd.DataFrame:
+    """
+    Convenience function to quickly get the fitted data from the supported sources.
+
+    Parameters
+    ----------
+    data_source : str
+        Name of the source the fitted data was fetched from.
+    model_name : str, optional
+        Name of the model which was used for fitting, by default "logistic_curve"
+    kind : str, optional
+        kind of data you want to retrieve, by default "plot"
+
+    Returns
+    -------
+    pd.DataFrame
+        Plot data or parameters, depending on 'kind'
+
+    Raises
+    ------
+    ValueError
+        If the model_name isn't supported
+    ValueError
+        If the data_source isn't supported
+    """
+    if model_name in IMPLEMENTED_FIT_MODELS and data_source in ALLOWED_SOURCES:
+        if kind == "plot":
+            fitted_plot_data_path = get_data_path(
+                f"{data_source}/{model_name}_model_fit_plot_data.csv"
+            )
+            return pd.read_csv(fitted_plot_data_path, parse_dates=["date"])
+        elif kind == "params":
+            fitted_param_results_path = get_data_path(
+                f"{data_source}/{model_name}_model_fit_params.csv"
+            )
+            return pd.read_csv(fitted_param_results_path)
+        else:
+            raise ValueError("The value of 'kind' need to be 'plot' or 'params'.")
+
+    elif model_name not in IMPLEMENTED_FIT_MODELS:
+        raise ValueError(
+            f"The model '{model_name}' is not in "
+            "IMPLEMENTED_FIT_MODELS ({IMPLEMENTED_FIT_MODELS}). "
+            "If you just implemented a new model, make sure to add it to"
+            "'IMPLEMENTED_FIT_MODELS'."
+        )
+    else:
+        raise ValueError(
+            f"The data_source '{data_source}', is not supported.\n"
+            f"The supported values for 'data_source' are {ALLOWED_SOURCES}"
+        )
+
+
+if __name__ == "__main__":
+    ALLOWED_SOURCES.remove("funkeinteraktiv_en")
+    batch_fit_logistic_curve()
+    batch_fit_exponential_curve()
+    translate_funkeinteraktiv_fit_data()

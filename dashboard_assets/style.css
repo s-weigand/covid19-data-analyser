@@ -22,4 +22,8 @@
   width: 100%;
   margin-top: 5rem;
 }
+
+#plot_settings label {
+  margin-right: 2rem;
+}
 /*# sourceMappingURL=style.css.map */

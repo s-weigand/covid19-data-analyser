@@ -7,7 +7,8 @@ ALLOWED_SOURCES = ["funkeinteraktiv_de", "funkeinteraktiv_en", "JHU"]
 
 def get_data_path(sub_path: str) -> Path:
     """
-    Returns the Path object of a path in data
+    Returns the Path object of a path in data and
+    creates the parent folders if they don't exist already
 
     Parameters
     ----------
@@ -20,7 +21,12 @@ def get_data_path(sub_path: str) -> Path:
         Path to a file in data
     """
     data_base_path = Path(__file__).parent / "data"
-    return data_base_path / sub_path
+    data_path = data_base_path / sub_path
+    if data_path.suffixes == []:
+        data_path.mkdir(parents=True, exist_ok=True)
+    else:
+        data_path.parent.mkdir(parents=True, exist_ok=True)
+    return data_path
 
 
 def get_infectious(covid_df: pd.DataFrame) -> None:
@@ -125,8 +131,9 @@ def get_funkeinteraktiv_data(
     pd.DataFrame
         Dataframe containing the covid19 data from morgenpost.de
     """
-    local_save_path_de = get_data_path("funkeinteraktiv/covid19_infections_de.csv")
-    local_save_path_en = get_data_path("funkeinteraktiv/covid19_infections_en.csv")
+    translation_table_path = get_data_path("funkeinteraktiv_de/translation_table.csv")
+    local_save_path_de = get_data_path("funkeinteraktiv_de/covid19_infections.csv")
+    local_save_path_en = get_data_path("funkeinteraktiv_en/covid19_infections.csv")
     if language == "de":
         local_save_path = local_save_path_de
     else:
@@ -165,6 +172,10 @@ def get_funkeinteraktiv_data(
         get_funkeinteraktiv_language_data(funkeinteraktiv_data, "en").set_index(
             "date"
         ).to_csv(local_save_path_en)
+
+        funkeinteraktiv_data[
+            ["label_parent", "label", "label_parent_en", "label_en"]
+        ].drop_duplicates().to_csv(translation_table_path, index=False)
 
         funkeinteraktiv_data = get_funkeinteraktiv_language_data(
             funkeinteraktiv_data, language=language
@@ -251,14 +262,14 @@ def get_JHU_data(update_data: bool = False) -> pd.DataFrame:
 
 
 def get_data(
-    source: str = "funkeinteraktiv_de", update_data: bool = False
+    data_source: str = "funkeinteraktiv_de", update_data: bool = False
 ) -> pd.DataFrame:
     """
     Convenience function to quickly get covid19 data from the supported sources.
 
     Parameters
     ----------
-    source : "funkeinteraktiv_de"|"funkeinteraktiv_en"|"JHU", optional
+    data_source : "funkeinteraktiv_de"|"funkeinteraktiv_en"|"JHU", optional
         source from which the data should be fetched, by default "funkeinteraktiv_de"
 
     update_data : bool, optional
@@ -273,16 +284,19 @@ def get_data(
     Raises
     ------
     ValueError
-        If source is not supported
+        If data_source is not supported
     """
-    if source == "funkeinteraktiv_de":
+    if data_source == "funkeinteraktiv_de":
         return get_funkeinteraktiv_data(update_data=update_data, language="de")
-    elif source == "funkeinteraktiv_en":
+    elif data_source == "funkeinteraktiv_en":
         return get_funkeinteraktiv_data(update_data=update_data, language="en")
-    elif source == "JHU":
+    elif data_source == "JHU":
         return get_JHU_data(update_data=update_data)
     else:
-        raise ValueError(f"The source '{source}', is not supported.")
+        raise ValueError(
+            f"The data_source '{data_source}', is not supported.\n"
+            f"The supported values for 'data_source' are {ALLOWED_SOURCES}"
+        )
 
 
 if __name__ == "__main__":
