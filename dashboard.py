@@ -32,6 +32,8 @@ app = dash.Dash(
     assets_folder="dashboard_assets",
 )
 
+app.title = "COVID19 dashboard"
+
 app.layout = html.Div(
     [
         html.H1("COVID19 analysis dashboard"),
@@ -318,13 +320,10 @@ def update_growth_rate_plot(data_source, regions, subsets, plot_settings, fit_mo
     )
 
 
-if "PRODUCTION_DOCKER" in os.environ:
-    app.config.suppress_callback_exceptions = True
-    app.debug = False
-else:
-    app.debug = True
-    app.port = 8050
-
-
 if __name__ == "__main__":
-    app.run_server()
+    if "PRODUCTION_DOCKER" in os.environ:
+        app.config.suppress_callback_exceptions = True
+        DEBUG = False
+    else:
+        DEBUG = True
+    app.run_server(host="0.0.0.0", port=8050, debug=DEBUG)
