@@ -111,3 +111,4 @@ def get_funkeinteraktiv_data(
         funkeinteraktiv_data = get_funkeinteraktiv_language_data(
             funkeinteraktiv_data, language=language
         )
+    return funkeinteraktiv_data
