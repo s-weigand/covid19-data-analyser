@@ -1,3 +1,4 @@
+[![Documentation Status](https://readthedocs.org/projects/covid19-data-analyzer/badge/?version=latest)](https://covid19-data-analyzer.readthedocs.io/en/latest/?badge=latest)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/s-weigand/covid19-data-analyzer/master?urlpath=lab%2Ftree%2Fdev_nb.ipynb)
 
 # covid19-data-analyzer
