@@ -239,7 +239,9 @@ def fit_subsets(
     print(f"Fitting data for: {region}, from {data_source}")
     for subset in subsets:
         try:
-            fit_result = fit_function(covid19_data, region, subset, **fit_func_kwargs)
+            fit_result = fit_function(
+                covid19_data, parent_region, region, subset, **fit_func_kwargs
+            )
             fit_param_row = get_fit_param_results_row(
                 region, parent_region, subset, fit_result
             )

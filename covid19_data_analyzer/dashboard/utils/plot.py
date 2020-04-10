@@ -28,6 +28,7 @@ def plotly_color_cycler(plot_index: int) -> str:
 
 def generate_figure(
     data_source: str,
+    parent_regions: Iterable[str],
     regions: Iterable[str],
     title: str,
     y_title: str,
@@ -43,6 +44,8 @@ def generate_figure(
     ----------
     data_source : str
         name of the data source
+    parent_regions : Iterable[str]
+        names of the parent_regions which should be plotted
     regions : Iterable[str]
         names of the regions which should be plotted
     title : str
@@ -67,6 +70,7 @@ def generate_figure(
         plot_data = []
         plot_index = 0
         data = get_data(data_source)
+        data = data[data.parent_region.isin(parent_regions)]
         if data_transform_fuction is not None:
             data = data_transform_fuction(data)
         if fit_model is not None:

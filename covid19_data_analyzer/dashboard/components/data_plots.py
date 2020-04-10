@@ -44,6 +44,7 @@ DATA_PLOTS = html.Div(
 
 PLOT_INPUTS = [
     Input("source_select", "value"),
+    Input("parent_regions", "value"),
     Input("regions", "value"),
     Input("subsets", "value"),
     Input("plot_settings", "value"),
@@ -54,13 +55,17 @@ PLOT_INPUTS = [
 @app.callback(
     Output("fit_params", "children"), PLOT_INPUTS,
 )
-def update_fit_param_table(data_source, regions, subsets, plot_settings, fit_model):
+def update_fit_param_table(
+    data_source, parent_regions, regions, subsets, plot_settings, fit_model
+):
     if "show_params" in plot_settings and fit_model is not None:
         fit_param_df = get_fit_data(
             data_source=data_source, model_name=fit_model, kind="params",
         )
         fit_param_df = fit_param_df[
-            fit_param_df.region.isin(regions) & fit_param_df.subset.isin(subsets)
+            fit_param_df.parent_region.isin(parent_regions)
+            & fit_param_df.region.isin(regions)
+            & fit_param_df.subset.isin(subsets)
         ]
         fit_param_df_md = fit_param_df.set_index("parent_region").to_markdown()
         return f"### Fitted Parameters\n\n{fit_param_df_md}"
@@ -73,9 +78,12 @@ def update_fit_param_table(data_source, regions, subsets, plot_settings, fit_mod
 @app.callback(
     Output("data_plot", "figure"), PLOT_INPUTS,
 )
-def update_data_plot(data_source, regions, subsets, plot_settings, fit_model):
+def update_data_plot(
+    data_source, parent_regions, regions, subsets, plot_settings, fit_model
+):
     return generate_figure(
         data_source=data_source,
+        parent_regions=parent_regions,
         regions=regions,
         title="data",
         subsets=subsets,
@@ -88,9 +96,12 @@ def update_data_plot(data_source, regions, subsets, plot_settings, fit_model):
 @app.callback(
     Output("growth_plot", "figure"), PLOT_INPUTS,
 )
-def update_growth_plot(data_source, regions, subsets, plot_settings, fit_model):
+def update_growth_plot(
+    data_source, parent_regions, regions, subsets, plot_settings, fit_model
+):
     return generate_figure(
         data_source=data_source,
+        parent_regions=parent_regions,
         regions=regions,
         data_transform_fuction=get_daily_growth,
         title="daily growth",
@@ -104,9 +115,12 @@ def update_growth_plot(data_source, regions, subsets, plot_settings, fit_model):
 @app.callback(
     Output("growth_rate_plot", "figure"), PLOT_INPUTS,
 )
-def update_growth_rate_plot(data_source, regions, subsets, plot_settings, fit_model):
+def update_growth_rate_plot(
+    data_source, parent_regions, regions, subsets, plot_settings, fit_model
+):
     return generate_figure(
         data_source=data_source,
+        parent_regions=parent_regions,
         regions=regions,
         data_transform_fuction=get_growth_rate,
         title="growth rate",

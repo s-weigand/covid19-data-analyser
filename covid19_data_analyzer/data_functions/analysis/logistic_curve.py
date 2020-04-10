@@ -18,6 +18,7 @@ LOGISTIC_MODEL = StepModel(form="logistic")
 
 def fit_data_logistic_curve(
     covid19_data: pd.DataFrame,
+    parent_region: str,
     region: str,
     data_set: str = "confirmed",
     sigma: Union[int, float] = 5,
@@ -30,8 +31,11 @@ def fit_data_logistic_curve(
     ----------
     covid19_data : pd.DataFrame
         Full covid19 data from a data_source
+    parent_region : str
+        parent_region of the data which should be fitted,
+        needs to be in covid19_region_data.parent_region
     region : str
-        region which data should be fired, needs to be in covid19_region_data.region
+        region which data should be fitted, needs to be in covid19_region_data.region
     data_set : str, optional
         which subdata schold be fitted, need to be of value
         ["confirmed", "recovered", deaths], by default "confirmed"
@@ -54,9 +58,10 @@ def fit_data_logistic_curve(
     --------
     fit_data_model
     """
-    covid19_region_data = covid19_data.loc[
-        covid19_data.region == region, :
-    ].reset_index(drop=True)
+    data_selector = (covid19_data.region == region) & (
+        covid19_data.parent_region == parent_region
+    )
+    covid19_region_data = covid19_data.loc[data_selector, :].reset_index(drop=True)
     center = covid19_region_data[
         covid19_region_data[data_set] > covid19_region_data[data_set].max() / 2
     ].index.min()

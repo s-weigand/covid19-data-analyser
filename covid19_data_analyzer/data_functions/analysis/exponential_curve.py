@@ -12,7 +12,10 @@ from covid19_data_analyzer.data_functions.analysis.factory_functions import (
 
 
 def fit_data_exponential_curve(
-    covid19_data: pd.DataFrame, region: str, data_set: str = "confirmed",
+    covid19_data: pd.DataFrame,
+    parent_region: str,
+    region: str,
+    data_set: str = "confirmed",
 ) -> Dict[str, Union[lmfit.model.ModelResult, pd.DataFrame]]:
     """
     Implementation of fit_data_model, with setting specific to
@@ -22,6 +25,9 @@ def fit_data_exponential_curve(
     ----------
     covid19_data : pd.DataFrame
         Full covid19 data from a data_source
+    parent_region : str
+        parent_region of the data which should be fitted,
+        needs to be in covid19_region_data.parent_region
     region : str
         region which data should be fired, needs to be in covid19_region_data.region
     data_set : str, optional
@@ -44,9 +50,10 @@ def fit_data_exponential_curve(
     fit_data_model
 
     """
-    covid19_region_data = covid19_data.loc[
-        covid19_data.region == region, :
-    ].reset_index(drop=True)
+    data_selector = (covid19_data.region == region) & (
+        covid19_data.parent_region == parent_region
+    )
+    covid19_region_data = covid19_data.loc[data_selector, :].reset_index(drop=True)
     init_params = {
         "amplitude": 0,
         "decay": -1,
