@@ -4,3 +4,5 @@ xlsxwriter
 lmfit
 dash
 sympy
+
+-e .

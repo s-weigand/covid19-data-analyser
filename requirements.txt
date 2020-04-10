@@ -3,3 +3,8 @@
 jupyterlab
 matplotlib
 flake8
+sphinx-rtd-theme>=0.4.3
+Sphinx>=2.2.0,<3
+sphinx-autopackagesummary
+sphinx-copybutton>=0.2.5
+m2r>=0.2.1
