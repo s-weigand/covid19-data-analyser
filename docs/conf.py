@@ -23,6 +23,7 @@ import sys
 sys.path.insert(0, os.path.abspath(".."))
 
 import covid19_data_analyzer
+import lmfit
 
 # -- General configuration ---------------------------------------------
 
@@ -39,6 +40,7 @@ extensions = [
     "sphinx.ext.autosummary",
     "sphinx_autopackagesummary",
     "sphinx.ext.viewcode",
+    "sphinx.ext.imgmath",
 ]
 
 autoclass_content = "both"
@@ -61,7 +63,7 @@ source_suffix = [".rst", ".md"]
 master_doc = "index"
 
 # General information about the project.
-project = "covid19-data-analyser"
+project = "covid19-data-analyzer"
 copyright = "2020, Sebastian Weigand"
 author = "Sebastian Weigand"
 

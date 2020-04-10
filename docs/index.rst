@@ -7,7 +7,7 @@ Welcome to covid19-data-analyzer's documentation!
 
    readme
    installation
-   usage
+   used_models
    python_source_docs
    contributing
 
