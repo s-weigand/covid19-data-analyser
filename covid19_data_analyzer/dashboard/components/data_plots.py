@@ -6,11 +6,7 @@ import dash_html_components as html
 from covid19_data_analyzer.dashboard.app import app
 from covid19_data_analyzer.dashboard.utils.plot import generate_figure
 
-from covid19_data_analyzer.data_functions.scrapers import ALLOWED_SOURCES, get_data
-from covid19_data_analyzer.data_functions.analysis import (
-    IMPLEMENTED_FIT_MODELS,
-    get_fit_data,
-)
+from covid19_data_analyzer.data_functions.analysis import get_fit_data
 from covid19_data_analyzer.data_functions.data_utils import (
     get_daily_growth,
     get_growth_rate,

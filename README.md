@@ -17,7 +17,7 @@ where this projects interactive dashboard will be hosted.
 
 2. Install the dependencies
 
-   ```
+   ```bash
    pip install -r requirements.txt
    ```
 
@@ -25,12 +25,12 @@ where this projects interactive dashboard will be hosted.
 
    - Open the jupyter notebook
 
-     ```
+     ```bash
      jupyter lab
      ```
 
    - Start the dash server
 
-     ```
+     ```bash
      python dashboard.py
      ```

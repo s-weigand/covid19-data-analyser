@@ -28,7 +28,10 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
     ],
-    description="scraper, analysis and dashboard code to get an introspective to the current covid19 data",
+    description=(
+        "scraper, analysis and dashboard code "
+        "to get an introspective to the current covid19 data"
+    ),
     install_requires=requirements,
     license="Apache Software License 2.0",
     long_description=readme,
