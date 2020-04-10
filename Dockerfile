@@ -8,7 +8,8 @@ WORKDIR /app
 ADD . /app
 
 RUN pip install -r requirements_dashboard.txt
+RUN pip install -e .
 
 EXPOSE 8050
 
-CMD ["python", "dashboard.py"]
+CMD ["python", "covid19_data_analyzer/dashboard/index.py"]
