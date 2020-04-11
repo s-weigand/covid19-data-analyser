@@ -1,0 +1,774 @@
+label_parent,label,label_parent_en,label_en
+#Global,China,#Global,China
+#Global,Japan,#Global,Japan
+#Global,Südkorea,#Global,South Korea
+#Global,Taiwan,#Global,Taiwan
+#Global,Thailand,#Global,Thailand
+#Global,USA,#Global,USA
+China,Anhui,China,Anhui
+China,Chongqing,China,Chongqing
+China,Fujian,China,Fujian
+China,Guangdong,China,Guangdong
+China,Guangxi,China,Guangxi
+China,Guizhou,China,Guizhou
+China,Hainan,China,Hainan
+China,Hebei,China,Hebei
+China,Henan,China,Henan
+China,Hubei (Wuhan),China,Hubei (Wuhan)
+China,Hunan,China,Hunan
+China,Jiangsu,China,Jiangsu
+China,Jiangxi,China,Jiangxi
+China,Liaoning,China,Liaoning
+China,Macau,China,Macao
+China,Ningxia,China,Ningxia
+China,Peking (Beijing),China,Beijing
+China,Shandong,China,Shandong
+China,Shanghai,China,Shanghai
+China,Shanxi,China,Shanxi
+China,Sichuan,China,Sichuan
+China,Tianjin,China,Tianjin
+China,Yunnan,China,Yunnan
+China,Zhejiang,China,Zhejiang
+USA,Washington,USA,Washington
+#Global,Singapur,#Global,Singapore
+#Global,Vietnam,#Global,Vietnam
+China,Gansu,China,Gansu
+China,Heilongjiang,China,Heilongjiang
+China,Hong Kong,China,Hong Kong
+China,Jilin,China,Jilin
+China,Shaanxi,China,Shaanxi
+China,Xinjiang,China,Xinjiang
+China,Innere Mongolei,China,Inner Mongolia
+USA,Illinois,USA,Illinois
+#Global,Australien,#Global,Australia
+#Global,Frankreich,#Global,France
+#Global,Nepal,#Global,Nepal
+China,Qinghai,China,Qinghai
+#Global,Malaysia,#Global,Malaysia
+USA,Arizona,USA,Arizona
+USA,California,USA,California
+#Global,Deutschland,#Global,Germany
+#Global,Elfenbeinküste,#Global,Ivory Coast
+#Global,Kambodscha,#Global,Cambodia
+#Global,Kanada,#Global,Canada
+#Global,Sri Lanka,#Global,Sri Lanka
+Australien,New South Wales,Australia,New South Wales
+Australien,Victoria,Australia,Victoria
+Deutschland,Baden-Württemberg,Germany,Baden-Württemberg
+Deutschland,Bayern,Germany,Bavaria
+Deutschland,Berlin,Germany,Berlin
+Deutschland,Brandenburg,Germany,Brandenburg
+Deutschland,Bremen,Germany,Bremen
+Deutschland,Hamburg,Germany,Hamburg
+Deutschland,Hessen,Germany,Hesse
+Deutschland,Mecklenburg-Vorpommern,Germany,Mecklenburg-Western Pomerania
+Deutschland,Niedersachsen,Germany,Lower Saxony
+Deutschland,Nordrhein-Westfalen,Germany,North Rhine-Westphalia
+Deutschland,Rheinland-Pfalz,Germany,Rhineland-Palatinate
+Deutschland,Saarland,Germany,Saarland
+Deutschland,Sachsen,Germany,Saxony
+Deutschland,Sachsen-Anhalt,Germany,Saxony-Anhalt
+Deutschland,Schleswig-Holstein,Germany,Sleswick-Holsatia
+Deutschland,Thüringen,Germany,Thuringia
+Deutschland,weitere Fälle bundesweit,Germany,other cases in Germany
+Kanada,Ontario,Canada,Ontario
+Kanada,British Columbia,Canada,British Columbia
+#Global,Finnland,#Global,Finland
+#Global,Vereinigte Arabische Emirate,#Global,United Arab Emirates
+Australien,Queensland,Australia,Queensland
+#Global,Indien,#Global,India
+#Global,Philippinen,#Global,Philippines
+China,Tibet,China,Tibet
+#Global,Großbritannien,#Global,United Kingdom
+#Global,Italien,#Global,Italy
+#Global,Russland,#Global,Russia
+#Global,Schweden,#Global,Sweden
+#Global,Spanien,#Global,Spain
+Australien,South Australia,Australia,South Australia
+USA,Massachusetts,USA,Massachusetts
+#Global,Belgien,#Global,Belgium
+USA,Wisconsin,USA,Wisconsin
+International,Kreuzfahrtschiff 'Diamond Princess',International,Cruise Ship 'Diamond Princess'
+International,Kreuzfahrtschiffe,International,Cruise Ships
+USA,Texas,USA,Texas
+#Global,Ägypten,#Global,Egypt
+#Global,Iran,#Global,Iran
+#Global,Israel,#Global,Israel
+#Global,Libanon,#Global,Lebanon
+Bürger Australiens,Kreuzfahrtschiff 'Diamond Princess',Australian Citizens,Cruise Ship 'Diamond Princess'
+Bürger Israels,Kreuzfahrtschiff 'Diamond Princess',Israeli Citizens,Cruise Ship 'Diamond Princess'
+USA,Nebraska,USA,Nebraska
+#Global,Afghanistan,#Global,Afghanistan
+#Global,Bahrain,#Global,Bahrain
+#Global,Irak,#Global,Iraq
+#Global,Kuwait,#Global,Kuwait
+#Global,Oman,#Global,Oman
+Bürder der USA+,Kreuzfahrtschiff 'Grand Princess',US Citizens,Cruise Ship 'Grand Princess'
+International,Kreuzfahrtschiff 'Grand Princess',International,Cruise Ship 'Grand Princess'
+#Global,Algerien,#Global,Algeria
+#Global,Kroatien,#Global,Croatia
+#Global,Schweiz,#Global,Switzerland
+#Global,Österreich,#Global,Austia
+#Global,Brasilien,#Global,Brazil
+#Global,Georgien,#Global,Georgia
+#Global,Griechenland,#Global,Greece
+#Global,Nordmazedonien,#Global,North Macedonia
+#Global,Norwegen,#Global,Norway
+#Global,Pakistan,#Global,Pakistan
+#Global,Rumänien,#Global,Romania
+#Global,Dänemark,#Global,Denmark
+#Global,Estland,#Global,Estonia
+#Global,Niederlande,#Global,Netherlands
+#Global,San Marino,#Global,San Marino
+#Global,Aserbaidschan,#Global,Azerbaijan
+#Global,Belarus,#Global,Belarus
+#Global,Island,#Global,Iceland
+#Global,Litauen,#Global,Lithuania
+#Global,Mexiko,#Global,Mexico
+#Global,Neuseeland,#Global,New Zealand
+#Global,Nigeria,#Global,Nigeria
+Kanada,Québec,Canada,Québec
+#Global,Irland,#Global,Ireland
+#Global,Katar,#Global,Qatar
+#Global,Luxemburg,#Global,Luxembourg
+#Global,Monaco,#Global,Monaco
+Australien,Western Australia,Australia,Western Australia
+USA,Oregon,USA,Oregon
+#Global,Armenien,#Global,Armenia
+#Global,Dominikanische Republik,#Global,Dominican Republic
+#Global,Ecuador,#Global,Ecuador
+#Global,Tschechien,#Global,Czechia
+USA,Rhode Island,USA,Rhode Island
+#Global,Andorra,#Global,Andorra
+#Global,Indonesien,#Global,Indonesia
+#Global,Lettland,#Global,Latvia
+#Global,Marokko,#Global,Morocco
+#Global,Portugal,#Global,Portugal
+#Global,Saudiarabien,#Global,Saudi Arabia
+#Global,Senegal,#Global,Senegal
+Australien,Tasmania,Australia,Tasmania
+USA,Florida,USA,Florida
+USA,New Hampshire,USA,New Hampshire
+USA,New York,USA,New York
+#Global,Argentinien,#Global,Argentina
+#Global,Chile,#Global,Chile
+#Global,Jordanien,#Global,Jordan
+#Global,Ukraine,#Global,Ukraine
+USA,Georgia,USA,Georgia
+USA,North Carolina,USA,North Carolina
+#Global,Liechtenstein,#Global,Liechtenstein
+#Global,Polen,#Global,Poland
+#Global,Tunesien,#Global,Tunisia
+#Global,Ungarn,#Global,Hungary
+Australien,Northern Territory,Australia,Northern Territory
+Dänemark,Färöer,Denmark,Faroe Islands
+Frankreich,Saint Barthélemy,France,Saint Barthélemy
+Großbritannien,Gibraltar,United Kingdom,Gibraltar
+#Global,Bosnien und Herzegowina,#Global,Bosnia and Herzegovina
+#Global,Palästinensische Autonomiegebiete,#Global,Palestinian territories
+#Global,Slowenien,#Global,Slovenia
+#Global,Südafrika,#Global,South Africa
+USA,Nevada,USA,Nevada
+USA,New Jersey,USA,New Jersey
+USA,Tennessee,USA,Tennessee
+#Global,Bhutan,#Global,Bhutan
+#Global,Costa Rica,#Global,Costa Rica
+#Global,Kamerun,#Global,Cameroon
+#Global,Kolumbien,#Global,Colombia
+#Global,Peru,#Global,Peru
+#Global,Serbien,#Global,Serbia
+#Global,Slowakei,#Global,Slovakia
+#Global,Togo,#Global,Togo
+#Global,Vatikan,#Global,Vatican City
+Kanada,Alberta,Canada,Alberta
+USA,Colorado,USA,Colorado
+USA,Indiana,USA,Indiana
+USA,Kentucky,USA,Kentucky
+USA,Maryland,USA,Maryland
+USA,Minnesota,USA,Minnesota
+USA,Pennsylvania,USA,Pennsylvania
+#Global,Malta,#Global,Malta
+Frankreich,Französisch-Guyana,France,French Guiana
+Frankreich,Martinique,France,Martinique
+USA,Connecticut,USA,Connecticut
+USA,Hawaii,USA,Hawaii
+USA,Oklahoma,USA,Oklahoma
+USA,South Carolina,USA,South Carolina
+USA,Utah,USA,Utah
+#Global,Bangladesch,#Global,Bangladesh
+#Global,Bulgarien,#Global,Bulgaria
+#Global,Malediven,#Global,Maledives
+#Global,Moldawien,#Global,Moldova
+#Global,Paraguay,#Global,Paraguay
+USA,District of Columbia,USA,District of Columbia
+USA,Kansas,USA,Kansas
+USA,Missouri,USA,Missouri
+USA,Vermont,USA,Vermont
+USA,Virginia,USA,Virginia
+#Global,Albanien,#Global,Albania
+#Global,Brunei,#Global,Brunei
+#Global,Zypern,#Global,Cyprus
+Frankreich,Saint Martin,France,Saint Martin
+USA,Iowa,USA,Iowa
+USA,Louisiana,USA,Louisiana
+#Global,Burkina Faso,#Global,Burkina Faso
+#Global,Mongolei,#Global,Mongolia
+#Global,Panama,#Global,Panama
+Bürger der USA,Kreuzfahrtschiff 'Diamond Princess',US Citizens,Cruise Ship 'Diamond Princess'
+Großbritannien,Kanalinseln,United Kingdom,Channel Islands
+USA,Ohio,USA,Ohio
+#Global,Bolivien,#Global,Bolivia
+#Global,Demokratische Republik Kongo,#Global,Democratic Republic of the Congo
+#Global,Honduras,#Global,Honduras
+#Global,Jamaika,#Global,Jamaica
+#Global,Türkei,#Global,Turkey
+Frankreich,Réunion,France,Réunion
+Kanada,New Brunswick,Canada,New Brunswick
+USA,Arkansas,USA,Arkansas
+USA,Delaware,USA,Delaware
+USA,Michigan,USA,Michigan
+USA,Montana,USA,Montana
+USA,New Mexico,USA,New Mexico
+USA,South Dakota,USA,South Dakota
+#Global,Guyana,#Global,Guyana
+#Global,Kuba,#Global,Cuba
+USA,Mississippi,USA,Mississippi
+USA,North Dakota,USA,North Dakota
+USA,Wyoming,USA,Wyoming
+#Global,Antigua und Barbuda,#Global,Antigua and Barbuda
+#Global,Gabon,#Global,Gabon
+#Global,Ghana,#Global,Ghana
+#Global,Guinea,#Global,Guinea
+#Global,Kasachstan,#Global,Kazakhstan
+#Global,Kenia,#Global,Kenya
+#Global,Sudan,#Global,Sudan
+#Global,Trinidad und Tobago,#Global,Trinidad and Tobago
+#Global,Äthiopien,#Global,Ethiopia
+Australien,Australisches Hauptstadtterritorium,Australia,Australian Capital Territory
+Bürger Kanadas,Kreuzfahrtschiff 'Grand Princess',Canadian Citizens,Cruise Ship 'Grand Princess'
+Frankreich,Französisch Polynesien,France,French Polynesia
+Frankreich,Guadeloupe,France,Guadeloupe
+Großbritannien,Cayman-Inseln,United Kingdom,Cayman Islands
+Kanada,Manitoba,Canada,Manitoba
+Kanada,Saskatchewan,Canada,Saskatchewan
+Niederlande,Aruba,Netherlands,Aruba
+USA,Alabama,USA,Alabama
+USA,Alaska,USA,Alaska
+USA,Idaho,USA,Idaho
+USA,Maine,USA,Maine
+USA,West Virginia,USA,West Virginia
+#Global,Eswatini,#Global,Eswatini
+#Global,Guatemala,#Global,Guatemala
+#Global,Mauretanien,#Global,Mauritania
+#Global,Mauritius,#Global,Mauritius
+#Global,Namibia,#Global,Namibia
+#Global,Ruanda,#Global,Rwanda
+#Global,Seychellen,#Global,Seychelles
+#Global,St. Lucia,#Global,St. Lucia
+#Global,St. Vincent und die Grenadinen,#Global,Saint Vincent and the Grenadines
+#Global,Suriname,#Global,Suriname
+#Global,Uruguay,#Global,Uruguay
+#Global,Venezuela,#Global,Venezuela
+Niederlande,Curaçao,Netherlands,Curaçao
+USA,Amerikanische Jungferninseln,USA,American Virgin Islands
+USA,Puerto Rico,USA,Puerto Rico
+#Global,Kosovo,#Global,Kosovo
+#Global,Republik Kongo,#Global,Republic of the Congo
+#Global,Usbekistan,#Global,Uzbekistan
+#Global,Zentralafrikanische Republik,#Global,Central African Republic
+#Global,Äquatorialguinea,#Global,Equatorial Guinea
+Frankreich,Mayotte,France,Mayotte
+Kanada,Neufundland und Labrador,Canada,Newfoundland and Labrador
+Kanada,Prinz Edward Insel,Canada,Prince Edward Island
+USA,Guam,USA,Guam
+#Global,Bahamas,#Global,Bahamas
+#Global,Benin,#Global,Benin
+#Global,Liberia,#Global,Liberia
+#Global,Somalia,#Global,Somalia
+#Global,Tansania,#Global,Tanzania
+Berlin,Charlottenburg-Wilmersdorf,Berlin,Charlottenburg-Wilmersdorf
+Berlin,Friedrichshain-Kreuzberg,Berlin,Friedrichshain-Kreuzberg
+Berlin,Lichtenberg,Berlin,Lichtenberg
+Berlin,Marzahn-Hellersdorf,Berlin,Marzahn-Hellersdorf
+Berlin,Mitte,Berlin,Mitte
+Berlin,Neukölln,Berlin,Neukölln
+Berlin,Pankow,Berlin,Pankow
+Berlin,Reinickendorf,Berlin,Reinickendorf
+Berlin,Spandau,Berlin,Spandau
+Berlin,Steglitz-Zehlendorf,Berlin,Steglitz-Zehlendorf
+Berlin,Tempelhof-Schöneberg,Berlin,Tempelhof-Schöneberg
+Berlin,Treptow-Köpenick,Berlin,Treptow-Köpenick
+Dänemark,Grönland,Denmark,Greenland
+Kanada,Neuschottland,Canada,Nova Scotia
+Niedersachsen,Ammerland (Kreis),Lower Saxony,Ammerland (Kreis)
+Niedersachsen,Aurich (Kreis),Lower Saxony,Aurich (Kreis)
+Niedersachsen,Braunschweig,Lower Saxony,Braunschweig
+Niedersachsen,Celle (Kreis),Lower Saxony,Celle (Kreis)
+Niedersachsen,Cloppenburg (Kreis),Lower Saxony,Cloppenburg (Kreis)
+Niedersachsen,Cuxhaven (Kreis),Lower Saxony,Cuxhaven (Kreis)
+Niedersachsen,Delmenhorst,Lower Saxony,Delmenhorst
+Niedersachsen,Diepholz (Kreis),Lower Saxony,Diepholz (Kreis)
+Niedersachsen,Emden,Lower Saxony,Emden
+Niedersachsen,Emsland (Kreis),Lower Saxony,Emsland (Kreis)
+Niedersachsen,Friesland (Kreis),Lower Saxony,Friesland (Kreis)
+Niedersachsen,Gifhorn (Kreis),Lower Saxony,Gifhorn (Kreis)
+Niedersachsen,Goslar (Kreis),Lower Saxony,Goslar (Kreis)
+Niedersachsen,Grafschaft Bentheim (Kreis),Lower Saxony,Grafschaft Bentheim (Kreis)
+Niedersachsen,Göttingen (Kreis),Lower Saxony,Göttingen (Kreis)
+Niedersachsen,Hameln-Pyrmont (Kreis),Lower Saxony,Hameln-Pyrmont (Kreis)
+Niedersachsen,Hannover (Region),Lower Saxony,Hannover (Region)
+Niedersachsen,Harburg (Kreis),Lower Saxony,Harburg (Kreis)
+Niedersachsen,Heidekreis (Kreis),Lower Saxony,Heidekreis (Kreis)
+Niedersachsen,Helmstedt (Kreis),Lower Saxony,Helmstedt (Kreis)
+Niedersachsen,Hildesheim (Kreis),Lower Saxony,Hildesheim (Kreis)
+Niedersachsen,Holzminden (Kreis),Lower Saxony,Holzminden (Kreis)
+Niedersachsen,Leer (Kreis),Lower Saxony,Leer (Kreis)
+Niedersachsen,Lüchow-Dannenberg (Kreis),Lower Saxony,Lüchow-Dannenberg (Kreis)
+Niedersachsen,Lüneburg (Kreis),Lower Saxony,Lüneburg (Kreis)
+Niedersachsen,Nienburg/Weser (Kreis),Lower Saxony,Nienburg/Weser (Kreis)
+Niedersachsen,Northeim (Kreis),Lower Saxony,Northeim (Kreis)
+Niedersachsen,Oldenburg,Lower Saxony,Oldenburg
+Niedersachsen,Oldenburg (Kreis),Lower Saxony,Oldenburg (Kreis)
+Niedersachsen,Osnabrück,Lower Saxony,Osnabrück
+Niedersachsen,Osnabrück (Kreis),Lower Saxony,Osnabrück (Kreis)
+Niedersachsen,Osterholz (Kreis),Lower Saxony,Osterholz (Kreis)
+Niedersachsen,Peine (Kreis),Lower Saxony,Peine (Kreis)
+Niedersachsen,Rotenburg/Wümme (Kreis),Lower Saxony,Rotenburg/Wümme (Kreis)
+Niedersachsen,Salzgitter,Lower Saxony,Salzgitter
+Niedersachsen,Schaumburg (Kreis),Lower Saxony,Schaumburg (Kreis)
+Niedersachsen,Stade (Kreis),Lower Saxony,Stade (Kreis)
+Niedersachsen,Uelzen (Kreis),Lower Saxony,Uelzen (Kreis)
+Niedersachsen,Vechta (Kreis),Lower Saxony,Vechta (Kreis)
+Niedersachsen,Verden (Kreis),Lower Saxony,Verden (Kreis)
+Niedersachsen,Wesermarsch (Kreis),Lower Saxony,Wesermarsch (Kreis)
+Niedersachsen,Wilhelmshaven,Lower Saxony,Wilhelmshaven
+Niedersachsen,Wittmund (Kreis),Lower Saxony,Wittmund (Kreis)
+Niedersachsen,Wolfenbüttel (Kreis),Lower Saxony,Wolfenbüttel (Kreis)
+Niedersachsen,Wolfsburg,Lower Saxony,Wolfsburg
+Nordrhein-Westfalen,Aachen & Städteregion Aachen,North Rhine-Westphalia,Aachen & Städteregion Aachen
+Nordrhein-Westfalen,Bielefeld,North Rhine-Westphalia,Bielefeld
+Nordrhein-Westfalen,Bochum,North Rhine-Westphalia,Bochum
+Nordrhein-Westfalen,Bonn,North Rhine-Westphalia,Bonn
+Nordrhein-Westfalen,Borken (Kreis),North Rhine-Westphalia,Borken (Kreis)
+Nordrhein-Westfalen,Bottrop,North Rhine-Westphalia,Bottrop
+Nordrhein-Westfalen,Coesfeld (Kreis),North Rhine-Westphalia,Coesfeld (Kreis)
+Nordrhein-Westfalen,Dortmund,North Rhine-Westphalia,Dortmund
+Nordrhein-Westfalen,Duisburg,North Rhine-Westphalia,Duisburg
+Nordrhein-Westfalen,Düren (Kreis),North Rhine-Westphalia,Düren (Kreis)
+Nordrhein-Westfalen,Düsseldorf,North Rhine-Westphalia,Düsseldorf
+Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,North Rhine-Westphalia,Ennepe-Ruhr-Kreis
+Nordrhein-Westfalen,Essen,North Rhine-Westphalia,Essen
+Nordrhein-Westfalen,Euskirchen (Kreis),North Rhine-Westphalia,Euskirchen (Kreis)
+Nordrhein-Westfalen,Gelsenkirchen,North Rhine-Westphalia,Gelsenkirchen
+Nordrhein-Westfalen,Gütersloh (Kreis),North Rhine-Westphalia,Gütersloh (Kreis)
+Nordrhein-Westfalen,Hagen,North Rhine-Westphalia,Hagen
+Nordrhein-Westfalen,Hamm,North Rhine-Westphalia,Hamm
+Nordrhein-Westfalen,Heinsberg (Kreis),North Rhine-Westphalia,Heinsberg (Kreis)
+Nordrhein-Westfalen,Herford (Kreis),North Rhine-Westphalia,Herford (Kreis)
+Nordrhein-Westfalen,Herne,North Rhine-Westphalia,Herne
+Nordrhein-Westfalen,Hochsauerlandkreis,North Rhine-Westphalia,Hochsauerlandkreis
+Nordrhein-Westfalen,Höxter (Kreis),North Rhine-Westphalia,Höxter (Kreis)
+Nordrhein-Westfalen,Kleve (Kreis),North Rhine-Westphalia,Kleve (Kreis)
+Nordrhein-Westfalen,Krefeld,North Rhine-Westphalia,Krefeld
+Nordrhein-Westfalen,Köln,North Rhine-Westphalia,Köln
+Nordrhein-Westfalen,Leverkusen,North Rhine-Westphalia,Leverkusen
+Nordrhein-Westfalen,Lippe (Kreis),North Rhine-Westphalia,Lippe (Kreis)
+Nordrhein-Westfalen,Mettmann (Kreis),North Rhine-Westphalia,Mettmann (Kreis)
+Nordrhein-Westfalen,Minden-Lübbecke (Kreis),North Rhine-Westphalia,Minden-Lübbecke (Kreis)
+Nordrhein-Westfalen,Märkischer Kreis,North Rhine-Westphalia,Märkischer Kreis
+Nordrhein-Westfalen,Mönchengladbach,North Rhine-Westphalia,Mönchengladbach
+Nordrhein-Westfalen,Mülheim an der Ruhr,North Rhine-Westphalia,Mülheim an der Ruhr
+Nordrhein-Westfalen,Münster,North Rhine-Westphalia,Münster
+Nordrhein-Westfalen,Oberbergischer Kreis,North Rhine-Westphalia,Oberbergischer Kreis
+Nordrhein-Westfalen,Oberhausen,North Rhine-Westphalia,Oberhausen
+Nordrhein-Westfalen,Olpe (Kreis),North Rhine-Westphalia,Olpe (Kreis)
+Nordrhein-Westfalen,Paderborn (Kreis),North Rhine-Westphalia,Paderborn (Kreis)
+Nordrhein-Westfalen,Recklinghausen (Kreis),North Rhine-Westphalia,Recklinghausen (Kreis)
+Nordrhein-Westfalen,Remscheid,North Rhine-Westphalia,Remscheid
+Nordrhein-Westfalen,Rhein-Erft-Kreis,North Rhine-Westphalia,Rhein-Erft-Kreis
+Nordrhein-Westfalen,Rhein-Kreis Neuss,North Rhine-Westphalia,Rhein-Kreis Neuss
+Nordrhein-Westfalen,Rhein-Sieg-Kreis,North Rhine-Westphalia,Rhein-Sieg-Kreis
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,North Rhine-Westphalia,Rheinisch-Bergischer Kreis
+Nordrhein-Westfalen,Siegen-Wittgenstein (Kreis),North Rhine-Westphalia,Siegen-Wittgenstein (Kreis)
+Nordrhein-Westfalen,Soest (Kreis),North Rhine-Westphalia,Soest (Kreis)
+Nordrhein-Westfalen,Solingen,North Rhine-Westphalia,Solingen
+Nordrhein-Westfalen,Steinfurt (Kreis),North Rhine-Westphalia,Steinfurt (Kreis)
+Nordrhein-Westfalen,Unna (Kreis),North Rhine-Westphalia,Unna (Kreis)
+Nordrhein-Westfalen,Viersen (Kreis),North Rhine-Westphalia,Viersen (Kreis)
+Nordrhein-Westfalen,Warendorf (Kreis),North Rhine-Westphalia,Warendorf (Kreis)
+Nordrhein-Westfalen,Wesel (Kreis),North Rhine-Westphalia,Wesel (Kreis)
+Nordrhein-Westfalen,Wuppertal,North Rhine-Westphalia,Wuppertal
+Thüringen,Altenburger Land (Kreis),Thuringia,Altenburger Land (Kreis)
+Thüringen,Eichsfeld (Kreis),Thuringia,Eichsfeld (Kreis)
+Thüringen,Eisenach,Thuringia,Eisenach
+Thüringen,Erfurt,Thuringia,Erfurt
+Thüringen,Gera,Thuringia,Gera
+Thüringen,Gotha (Kreis),Thuringia,Gotha (Kreis)
+Thüringen,Greiz (Kreis),Thuringia,Greiz (Kreis)
+Thüringen,Hildburghausen (Kreis),Thuringia,Hildburghausen (Kreis)
+Thüringen,Ilm-Kreis,Thuringia,Ilm-Kreis
+Thüringen,Jena,Thuringia,Jena
+Thüringen,Kyffhäuserkreis,Thuringia,Kyffhäuserkreis
+Thüringen,Nordhausen (Kreis),Thuringia,Nordhausen (Kreis)
+Thüringen,Saale-Holzland-Kreis,Thuringia,Saale-Holzland-Kreis
+Thüringen,Saale-Orla-Kreis,Thuringia,Saale-Orla-Kreis
+Thüringen,Saalfeld-Rudolstadt (Kreis),Thuringia,Saalfeld-Rudolstadt (Kreis)
+Thüringen,Schmalkalden-Meiningen (Kreis),Thuringia,Schmalkalden-Meiningen (Kreis)
+Thüringen,Sonneberg (Kreis),Thuringia,Sonneberg (Kreis)
+Thüringen,Suhl,Thuringia,Suhl
+Thüringen,Sömmerda(Kreis),Thuringia,Sömmerda(Kreis)
+Thüringen,Unstrut-Hainich-Kreis,Thuringia,Unstrut-Hainich-Kreis
+Thüringen,Wartburgkreis,Thuringia,Wartburgkreis
+Thüringen,Weimar,Thuringia,Weimar
+Thüringen,Weimarer Land (Kreis),Thuringia,Weimarer Land (Kreis)
+#Global,Barbados,#Global,Barbados
+#Global,Gambia,#Global,Gambia
+#Global,Montenegro,#Global,Montenegro
+#Global,Dschibuti,#Global,Djibouti
+#Global,Kirgisistan,#Global,Kyrgyzstan
+#Global,Sambia,#Global,Zambia
+Großbritannien,Montserrat,United Kingdom,Montserrat
+USA,Sonstige,USA,other
+#Global,El Salvador,#Global,El Salvador
+#Global,Fidschi,#Global,Fiji
+#Global,Nicaragua,#Global,Nicaragua
+#Global,Tschad,#Global,Chad
+Frankreich,New Caledonia,France,New Caledonia
+Großbritannien,Bermuda,United Kingdom,Bermuda
+#Global,Angola,#Global,Angola
+#Global,Haiti,#Global,Haiti
+#Global,Kap Verde,#Global,Cape Verde
+#Global,Madagaskar,#Global,Madagascar
+#Global,Niger,#Global,Niger
+#Global,Papua-Neuguinea,#Global,Papua New Guinea
+#Global,Simbabwe,#Global,Zimbabwe
+Großbritannien,Isle of Man,United Kingdom,Isle of Man
+Niederlande,Sint Maarten,Netherlands,Sint Maarten
+#Global,Eritrea,#Global,Eritrea
+#Global,Osttimor,#Global,East Timor
+#Global,Uganda,#Global,Uganda
+Kanada,Nordwest-Territorien,Canada,Northwest Territories
+#Global,Dominica,#Global,Dominica
+#Global,Grenada,#Global,Grenada
+#Global,Mosambik,#Global,Mozambique
+#Global,Syrien,#Global,Syria
+#Global,Belize,#Global,Belize
+Baden-Württemberg,Alb-Donau-Kreis,Baden-Württemberg,Alb-Donau-Kreis
+Baden-Württemberg,Baden-Baden,Baden-Württemberg,Baden-Baden
+Baden-Württemberg,Biberach (Kreis),Baden-Württemberg,Biberach (Kreis)
+Baden-Württemberg,Bodenseekreis,Baden-Württemberg,Bodenseekreis
+Baden-Württemberg,Breisgau-Hochschwarzwald (Kreis),Baden-Württemberg,Breisgau-Hochschwarzwald (Kreis)
+Baden-Württemberg,Böblingen (Kreis),Baden-Württemberg,Böblingen (Kreis)
+Baden-Württemberg,Calw (Kreis),Baden-Württemberg,Calw (Kreis)
+Baden-Württemberg,Emmendingen (Kreis),Baden-Württemberg,Emmendingen (Kreis)
+Baden-Württemberg,Enzkreis,Baden-Württemberg,Enzkreis
+Baden-Württemberg,Esslingen (Kreis),Baden-Württemberg,Esslingen (Kreis)
+Baden-Württemberg,Freiburg im Breisgau,Baden-Württemberg,Freiburg im Breisgau
+Baden-Württemberg,Freudenstadt (Kreis),Baden-Württemberg,Freudenstadt (Kreis)
+Baden-Württemberg,Göppingen (Kreis),Baden-Württemberg,Göppingen (Kreis)
+Baden-Württemberg,Heidelberg,Baden-Württemberg,Heidelberg
+Baden-Württemberg,Heidenheim (Kreis),Baden-Württemberg,Heidenheim (Kreis)
+Baden-Württemberg,Heilbronn,Baden-Württemberg,Heilbronn
+Baden-Württemberg,Heilbronn (Kreis),Baden-Württemberg,Heilbronn (Kreis)
+Baden-Württemberg,Hohenlohekreis,Baden-Württemberg,Hohenlohekreis
+Baden-Württemberg,Karlsruhe,Baden-Württemberg,Karlsruhe
+Baden-Württemberg,Karlsruhe (Kreis),Baden-Württemberg,Karlsruhe (Kreis)
+Baden-Württemberg,Konstanz (Kreis),Baden-Württemberg,Konstanz (Kreis)
+Baden-Württemberg,Ludwigsburg (Kreis),Baden-Württemberg,Ludwigsburg (Kreis)
+Baden-Württemberg,Lörrach (Kreis),Baden-Württemberg,Lörrach (Kreis)
+Baden-Württemberg,Main-Tauber-Kreis,Baden-Württemberg,Main-Tauber-Kreis
+Baden-Württemberg,Mannheim,Baden-Württemberg,Mannheim
+Baden-Württemberg,Neckar-Odenwald-Kreis,Baden-Württemberg,Neckar-Odenwald-Kreis
+Baden-Württemberg,Ortenaukreis,Baden-Württemberg,Ortenaukreis
+Baden-Württemberg,Ostalbkreis,Baden-Württemberg,Ostalbkreis
+Baden-Württemberg,Pforzheim,Baden-Württemberg,Pforzheim
+Baden-Württemberg,Rastatt (Kreis),Baden-Württemberg,Rastatt (Kreis)
+Baden-Württemberg,Ravensburg (Kreis),Baden-Württemberg,Ravensburg (Kreis)
+Baden-Württemberg,Rems-Murr-Kreis,Baden-Württemberg,Rems-Murr-Kreis
+Baden-Württemberg,Reutlingen (Kreis),Baden-Württemberg,Reutlingen (Kreis)
+Baden-Württemberg,Rhein-Neckar-Kreis,Baden-Württemberg,Rhein-Neckar-Kreis
+Baden-Württemberg,Rottweil (Kreis),Baden-Württemberg,Rottweil (Kreis)
+Baden-Württemberg,Schwarzwald-Baar-Kreis,Baden-Württemberg,Schwarzwald-Baar-Kreis
+Baden-Württemberg,Schwäbisch Hall (Kreis),Baden-Württemberg,Schwäbisch Hall (Kreis)
+Baden-Württemberg,Sigmaringen (Kreis),Baden-Württemberg,Sigmaringen (Kreis)
+Baden-Württemberg,Stuttgart (Kreis),Baden-Württemberg,Stuttgart (Kreis)
+Baden-Württemberg,Tuttlingen (Kreis),Baden-Württemberg,Tuttlingen (Kreis)
+Baden-Württemberg,Tübingen (Kreis),Baden-Württemberg,Tübingen (Kreis)
+Baden-Württemberg,Ulm,Baden-Württemberg,Ulm
+Baden-Württemberg,Waldshut (Kreis),Baden-Württemberg,Waldshut (Kreis)
+Baden-Württemberg,Zollernalbkreis,Baden-Württemberg,Zollernalbkreis
+Bayern,Aichach-Friedberg (Kreis),Bavaria,Aichach-Friedberg (Kreis)
+Bayern,Altötting (Kreis),Bavaria,Altötting (Kreis)
+Bayern,Amberg,Bavaria,Amberg
+Bayern,Amberg-Sulzbach (Kreis),Bavaria,Amberg-Sulzbach (Kreis)
+Bayern,Ansbach,Bavaria,Ansbach
+Bayern,Ansbach (Kreis),Bavaria,Ansbach (Kreis)
+Bayern,Aschaffenburg,Bavaria,Aschaffenburg
+Bayern,Aschaffenburg (Kreis),Bavaria,Aschaffenburg (Kreis)
+Bayern,Augsburg,Bavaria,Augsburg
+Bayern,Augsburg (Kreis),Bavaria,Augsburg (Kreis)
+Bayern,Bad Kissingen (Kreis),Bavaria,Bad Kissingen (Kreis)
+Bayern,Bad Tölz (Kreis),Bavaria,Bad Tölz (Kreis)
+Bayern,Bamberg,Bavaria,Bamberg
+Bayern,Bamberg (Kreis),Bavaria,Bamberg (Kreis)
+Bayern,Bayreuth,Bavaria,Bayreuth
+Bayern,Bayreuth (Kreis),Bavaria,Bayreuth (Kreis)
+Bayern,Berchtesgadener Land (Kreis),Bavaria,Berchtesgadener Land (Kreis)
+Bayern,Cham (Kreis),Bavaria,Cham (Kreis)
+Bayern,Coburg (Kreis),Bavaria,Coburg (Kreis)
+Bayern,Dachau (Kreis),Bavaria,Dachau (Kreis)
+Bayern,Deggendorf (Kreis),Bavaria,Deggendorf (Kreis)
+Bayern,Dillingen a.d. Donau (Kreis),Bavaria,Dillingen a.d. Donau (Kreis)
+Bayern,Dingolfing-Landau (Kreis),Bavaria,Dingolfing-Landau (Kreis)
+Bayern,Donau-Ries (Kreis),Bavaria,Donau-Ries (Kreis)
+Bayern,Ebersberg (Kreis),Bavaria,Ebersberg (Kreis)
+Bayern,Eichstätt (Kreis),Bavaria,Eichstätt (Kreis)
+Bayern,Erding (Kreis),Bavaria,Erding (Kreis)
+Bayern,Erlangen,Bavaria,Erlangen
+Bayern,Erlangen-Höchstadt,Bavaria,Erlangen-Höchstadt
+Bayern,Forchheim (Kreis),Bavaria,Forchheim (Kreis)
+Bayern,Freising (Kreis),Bavaria,Freising (Kreis)
+Bayern,Freyung-Grafenau (Kreis),Bavaria,Freyung-Grafenau (Kreis)
+Bayern,Fürstenfeldbruck (Kreis),Bavaria,Fürstenfeldbruck (Kreis)
+Bayern,Fürth,Bavaria,Fürth
+Bayern,Fürth (Kreis),Bavaria,Fürth (Kreis)
+Bayern,Garmisch-Partenkirchen (Kreis),Bavaria,Garmisch-Partenkirchen (Kreis)
+Bayern,Günzburg (Kreis),Bavaria,Günzburg (Kreis)
+Bayern,Haßberge (Kreis),Bavaria,Haßberge (Kreis)
+Bayern,Hof,Bavaria,Hof
+Bayern,Hof (Kreis),Bavaria,Hof (Kreis)
+Bayern,Ingolstadt,Bavaria,Ingolstadt
+Bayern,Kaufbeuren,Bavaria,Kaufbeuren
+Bayern,Kelheim (Kreis),Bavaria,Kelheim (Kreis)
+Bayern,Kitzingen (Kreis),Bavaria,Kitzingen (Kreis)
+Bayern,Kronach (Kreis),Bavaria,Kronach (Kreis)
+Bayern,Kulmbach (Kreis),Bavaria,Kulmbach (Kreis)
+Bayern,Landsberg am Lech (Kreis),Bavaria,Landsberg am Lech (Kreis)
+Bayern,Landshut,Bavaria,Landshut
+Bayern,Landshut (Kreis),Bavaria,Landshut (Kreis)
+Bayern,Lichtenfels (Kreis),Bavaria,Lichtenfels (Kreis)
+Bayern,Lindau/Bodensee (Kreis),Bavaria,Lindau/Bodensee (Kreis)
+Bayern,Main-Spessart (Kreis),Bavaria,Main-Spessart (Kreis)
+Bayern,Memmingen,Bavaria,Memmingen
+Bayern,Miesbach (Kreis),Bavaria,Miesbach (Kreis)
+Bayern,Miltenberg (Kreis),Bavaria,Miltenberg (Kreis)
+Bayern,Mühldorf a.Inn (Kreis),Bavaria,Mühldorf a.Inn (Kreis)
+Bayern,München,Bavaria,München
+Bayern,München (Kreis),Bavaria,München (Kreis)
+Bayern,Neu-Ulm (Kreis),Bavaria,Neu-Ulm (Kreis)
+Bayern,Neuburg-Schrobenhausen (Kreis),Bavaria,Neuburg-Schrobenhausen (Kreis)
+Bayern,Neumarkt i.d.Opf. (Kreis),Bavaria,Neumarkt i.d.Opf. (Kreis)
+Bayern,Neustadt a.d. Aisch-Bad Windsheim,Bavaria,Neustadt a.d. Aisch-Bad Windsheim
+Bayern,Neustadt a.d. Waldnaab,Bavaria,Neustadt a.d. Waldnaab
+Bayern,Nürnberg,Bavaria,Nürnberg
+Bayern,Nürnberger Land (Kreis),Bavaria,Nürnberger Land (Kreis)
+Bayern,Oberallgäu (Kreis),Bavaria,Oberallgäu (Kreis)
+Bayern,Ostallgäu (Kreis),Bavaria,Ostallgäu (Kreis)
+Bayern,Passau,Bavaria,Passau
+Bayern,Passau (Kreis),Bavaria,Passau (Kreis)
+Bayern,Pfaffenhofen a.d.Ilm (Kreis),Bavaria,Pfaffenhofen a.d.Ilm (Kreis)
+Bayern,Regen (Kreis),Bavaria,Regen (Kreis)
+Bayern,Regensburg,Bavaria,Regensburg
+Bayern,Regensburg (Kreis),Bavaria,Regensburg (Kreis)
+Bayern,Rhön-Grabfeld (Kreis),Bavaria,Rhön-Grabfeld (Kreis)
+Bayern,Rosenheim,Bavaria,Rosenheim
+Bayern,Rosenheim (Kreis),Bavaria,Rosenheim (Kreis)
+Bayern,Roth (Kreis),Bavaria,Roth (Kreis)
+Bayern,Rottal-Inn (Kreis),Bavaria,Rottal-Inn (Kreis)
+Bayern,Schwabach,Bavaria,Schwabach
+Bayern,Schwandorf (Kreis),Bavaria,Schwandorf (Kreis)
+Bayern,Schweinfurt,Bavaria,Schweinfurt
+Bayern,Schweinfurt (Kreis),Bavaria,Schweinfurt (Kreis)
+Bayern,Starnberg (Kreis),Bavaria,Starnberg (Kreis)
+Bayern,Straubing,Bavaria,Straubing
+Bayern,Straubing-Bogen (Kreis),Bavaria,Straubing-Bogen (Kreis)
+Bayern,Tirschenreuth (Kreis),Bavaria,Tirschenreuth (Kreis)
+Bayern,Traunstein (Kreis),Bavaria,Traunstein (Kreis)
+Bayern,Unterallgäu (Kreis),Bavaria,Unterallgäu (Kreis)
+Bayern,Weiden,Bavaria,Weiden
+Bayern,Weilheim-Schongau (Kreis),Bavaria,Weilheim-Schongau (Kreis)
+Bayern,Weißenburg-Gunzenhausen (Kreis),Bavaria,Weißenburg-Gunzenhausen (Kreis)
+Bayern,Wunsiedel i.Fichtelgebirge (Kreis),Bavaria,Wunsiedel i.Fichtelgebirge (Kreis)
+Bayern,Würzburg,Bavaria,Würzburg
+Bayern,Würzburg (Kreis),Bavaria,Würzburg (Kreis)
+Brandenburg,Barnim (Kreis),Brandenburg,Barnim (Kreis)
+Brandenburg,Brandenburg a. d. Havel,Brandenburg,Brandenburg a. d. Havel
+Brandenburg,Cottbus,Brandenburg,Cottbus
+Brandenburg,Dahme-Spreewald (Kreis),Brandenburg,Dahme-Spreewald (Kreis)
+Brandenburg,Elbe-Elster (Kreis),Brandenburg,Elbe-Elster (Kreis)
+Brandenburg,Frankfurt (Oder),Brandenburg,Frankfurt (Oder)
+Brandenburg,Havelland (Kreis),Brandenburg,Havelland (Kreis)
+Brandenburg,Märkisch-Oderland (Kreis),Brandenburg,Märkisch-Oderland (Kreis)
+Brandenburg,Oberhavel (Kreis),Brandenburg,Oberhavel (Kreis)
+Brandenburg,Oberspreewald-Lausitz (Kreis),Brandenburg,Oberspreewald-Lausitz (Kreis)
+Brandenburg,Oder-Spree (Kreis),Brandenburg,Oder-Spree (Kreis)
+Brandenburg,Ostprignitz-Ruppin,Brandenburg,Ostprignitz-Ruppin
+Brandenburg,Potsdam,Brandenburg,Potsdam
+Brandenburg,Potsdam-Mittelmark (Kreis),Brandenburg,Potsdam-Mittelmark (Kreis)
+Brandenburg,Prignitz (Kreis),Brandenburg,Prignitz (Kreis)
+Brandenburg,Spree-Neiße (Kreis),Brandenburg,Spree-Neiße (Kreis)
+Brandenburg,Teltow-Fläming (Kreis),Brandenburg,Teltow-Fläming (Kreis)
+Brandenburg,Uckermark (Kreis),Brandenburg,Uckermark (Kreis)
+Bremen,Bremen,Bremen,Bremen
+Bremen,Bremerhaven,Bremen,Bremerhaven
+Hessen,Bergstraße (Kreis),Hesse,Bergstraße (Kreis)
+Hessen,Darmstadt,Hesse,Darmstadt
+Hessen,Darmstadt-Dieburg (Kreis),Hesse,Darmstadt-Dieburg (Kreis)
+Hessen,Frankfurt am Main,Hesse,Frankfurt am Main
+Hessen,Fulda (Kreis),Hesse,Fulda (Kreis)
+Hessen,Gießen (Kreis),Hesse,Gießen (Kreis)
+Hessen,Groß-Gerau (Kreis),Hesse,Groß-Gerau (Kreis)
+Hessen,Hersfeld-Rotenburg (Kreis),Hesse,Hersfeld-Rotenburg (Kreis)
+Hessen,Hochtaunuskreis,Hesse,Hochtaunuskreis
+Hessen,Kassel,Hesse,Kassel
+Hessen,Kassel (Kreis),Hesse,Kassel (Kreis)
+Hessen,Lahn-Dill-Kreis,Hesse,Lahn-Dill-Kreis
+Hessen,Limburg-Weilburg (Kreis),Hesse,Limburg-Weilburg (Kreis)
+Hessen,Main-Kinzig-Kreis,Hesse,Main-Kinzig-Kreis
+Hessen,Main-Taunus-Kreis,Hesse,Main-Taunus-Kreis
+Hessen,Marburg-Biedenkopf (Kreis),Hesse,Marburg-Biedenkopf (Kreis)
+Hessen,Odenwaldkreis,Hesse,Odenwaldkreis
+Hessen,Offenbach,Hesse,Offenbach
+Hessen,Offenbach (Kreis),Hesse,Offenbach (Kreis)
+Hessen,Rheingau-Taunus-Kreis,Hesse,Rheingau-Taunus-Kreis
+Hessen,Schwalm-Eder-Kreis,Hesse,Schwalm-Eder-Kreis
+Hessen,Vogelsbergkreis,Hesse,Vogelsbergkreis
+Hessen,Waldeck-Frankenberg (Kreis),Hesse,Waldeck-Frankenberg (Kreis)
+Hessen,Werra-Meißner-Kreis,Hesse,Werra-Meißner-Kreis
+Hessen,Wetteraukreis,Hesse,Wetteraukreis
+Hessen,Wiesbaden,Hesse,Wiesbaden
+Mecklenburg-Vorpommern,Ludwigslust-Parchim (Kreis),Mecklenburg-Western Pomerania,Ludwigslust-Parchim (Kreis)
+Mecklenburg-Vorpommern,Mecklenburgische Seenplatte (Kreis),Mecklenburg-Western Pomerania,Mecklenburgische Seenplatte (Kreis)
+Mecklenburg-Vorpommern,Nordwestmecklenburg (Kreis),Mecklenburg-Western Pomerania,Nordwestmecklenburg (Kreis)
+Mecklenburg-Vorpommern,Rostock,Mecklenburg-Western Pomerania,Rostock
+Mecklenburg-Vorpommern,Rostock (Kreis),Mecklenburg-Western Pomerania,Rostock (Kreis)
+Mecklenburg-Vorpommern,Schwerin,Mecklenburg-Western Pomerania,Schwerin
+Mecklenburg-Vorpommern,Vorpommern-Greifswald (Kreis),Mecklenburg-Western Pomerania,Vorpommern-Greifswald (Kreis)
+Mecklenburg-Vorpommern,Vorpommern-Rügen (Kreis),Mecklenburg-Western Pomerania,Vorpommern-Rügen (Kreis)
+Rheinland-Pfalz,Ahrweiler (Kreis),Rhineland-Palatinate,Ahrweiler (Kreis)
+Rheinland-Pfalz,Altenkirchen (Kreis),Rhineland-Palatinate,Altenkirchen (Kreis)
+Rheinland-Pfalz,Alzey-Worms (Kreis),Rhineland-Palatinate,Alzey-Worms (Kreis)
+Rheinland-Pfalz,Bad Dürkheim (Kreis),Rhineland-Palatinate,Bad Dürkheim (Kreis)
+Rheinland-Pfalz,Bad Kreuznach (Kreis),Rhineland-Palatinate,Bad Kreuznach (Kreis)
+Rheinland-Pfalz,Bernkastel-Wittlich (Kreis),Rhineland-Palatinate,Bernkastel-Wittlich (Kreis)
+Rheinland-Pfalz,Birkenfeld (Kreis),Rhineland-Palatinate,Birkenfeld (Kreis)
+Rheinland-Pfalz,Bitburg-Prüm (Kreis),Rhineland-Palatinate,Bitburg-Prüm (Kreis)
+Rheinland-Pfalz,Cochem-Zell (Kreis),Rhineland-Palatinate,Cochem-Zell (Kreis)
+Rheinland-Pfalz,Donnersbergkreis,Rhineland-Palatinate,Donnersbergkreis
+Rheinland-Pfalz,Frankenthal,Rhineland-Palatinate,Frankenthal
+Rheinland-Pfalz,Germersheim (Kreis),Rhineland-Palatinate,Germersheim (Kreis)
+Rheinland-Pfalz,Kaiserslautern,Rhineland-Palatinate,Kaiserslautern
+Rheinland-Pfalz,Kaiserslautern (Kreis),Rhineland-Palatinate,Kaiserslautern (Kreis)
+Rheinland-Pfalz,Koblenz,Rhineland-Palatinate,Koblenz
+Rheinland-Pfalz,Kusel (Kreis),Rhineland-Palatinate,Kusel (Kreis)
+Rheinland-Pfalz,Landau i.d.Pfalz,Rhineland-Palatinate,Landau i.d.Pfalz
+Rheinland-Pfalz,Ludwigshafen,Rhineland-Palatinate,Ludwigshafen
+Rheinland-Pfalz,Mainz,Rhineland-Palatinate,Mainz
+Rheinland-Pfalz,Mainz-Bingen (Kreis),Rhineland-Palatinate,Mainz-Bingen (Kreis)
+Rheinland-Pfalz,Mayen-Koblenz (Kreis),Rhineland-Palatinate,Mayen-Koblenz (Kreis)
+Rheinland-Pfalz,Neustadt Weinst.,Rhineland-Palatinate,Neustadt Weinst.
+Rheinland-Pfalz,Neuwied (Kreis),Rhineland-Palatinate,Neuwied (Kreis)
+Rheinland-Pfalz,Pirmasens,Rhineland-Palatinate,Pirmasens
+Rheinland-Pfalz,Rhein-Hunsrück (Kreis),Rhineland-Palatinate,Rhein-Hunsrück (Kreis)
+Rheinland-Pfalz,Rhein-Lahn-Kreis,Rhineland-Palatinate,Rhein-Lahn-Kreis
+Rheinland-Pfalz,Rhein-Pfalz-Kreis,Rhineland-Palatinate,Rhein-Pfalz-Kreis
+Rheinland-Pfalz,Speyer,Rhineland-Palatinate,Speyer
+Rheinland-Pfalz,Südliche Weinstr. (Kreis),Rhineland-Palatinate,Südliche Weinstr. (Kreis)
+Rheinland-Pfalz,Südwestpfalz (Kreis),Rhineland-Palatinate,Südwestpfalz (Kreis)
+Rheinland-Pfalz,Trier,Rhineland-Palatinate,Trier
+Rheinland-Pfalz,Trier-Saarburg (Kreis),Rhineland-Palatinate,Trier-Saarburg (Kreis)
+Rheinland-Pfalz,Vulkaneifel (Kreis),Rhineland-Palatinate,Vulkaneifel (Kreis)
+Rheinland-Pfalz,Westerwaldkreis,Rhineland-Palatinate,Westerwaldkreis
+Rheinland-Pfalz,Worms,Rhineland-Palatinate,Worms
+Rheinland-Pfalz,Zweibrücken,Rhineland-Palatinate,Zweibrücken
+Saarland,Merzig-Wadern,Saarland,Merzig-Wadern
+Saarland,Neunkirchen,Saarland,Neunkirchen
+Saarland,Saarbrücken,Saarland,Saarbrücken
+Saarland,Saarlouis,Saarland,Saarlouis
+Saarland,Saarpfalz,Saarland,Saarpfalz
+Saarland,St. Wendel,Saarland,St. Wendel
+Sachsen,Bautzen (Kreis),Saxony,Bautzen (Kreis)
+Sachsen,Chemnitz,Saxony,Chemnitz
+Sachsen,Dresden,Saxony,Dresden
+Sachsen,Erzgebirgskreis,Saxony,Erzgebirgskreis
+Sachsen,Görlitz (Kreis),Saxony,Görlitz (Kreis)
+Sachsen,Leipzig,Saxony,Leipzig
+Sachsen,Leipzig (Kreis),Saxony,Leipzig (Kreis)
+Sachsen,Meißen (Kreis),Saxony,Meißen (Kreis)
+Sachsen,Mittelsachsen (Kreis),Saxony,Mittelsachsen (Kreis)
+Sachsen,Nordsachsen (Kreis),Saxony,Nordsachsen (Kreis)
+Sachsen,Sächsische Schweiz-Osterzgebirge (Kreis),Saxony,Sächsische Schweiz-Osterzgebirge (Kreis)
+Sachsen,Vogtlandkreis,Saxony,Vogtlandkreis
+Sachsen,Zwickau (Kreis),Saxony,Zwickau (Kreis)
+Sachsen-Anhalt,Altmarkkreis Salzwedel,Saxony-Anhalt,Altmarkkreis Salzwedel
+Sachsen-Anhalt,Anhalt-Bitterfeld (Kreis),Saxony-Anhalt,Anhalt-Bitterfeld (Kreis)
+Sachsen-Anhalt,Burgenlandkreis,Saxony-Anhalt,Burgenlandkreis
+Sachsen-Anhalt,Börde (Kreis),Saxony-Anhalt,Börde (Kreis)
+Sachsen-Anhalt,Dessau,Saxony-Anhalt,Dessau
+Sachsen-Anhalt,Halle,Saxony-Anhalt,Halle
+Sachsen-Anhalt,Harz (Kreis),Saxony-Anhalt,Harz (Kreis)
+Sachsen-Anhalt,Jerichower Land (Kreis),Saxony-Anhalt,Jerichower Land (Kreis)
+Sachsen-Anhalt,Magdeburg,Saxony-Anhalt,Magdeburg
+Sachsen-Anhalt,Mansfeld-Südharz (Kreis),Saxony-Anhalt,Mansfeld-Südharz (Kreis)
+Sachsen-Anhalt,Saalekreis,Saxony-Anhalt,Saalekreis
+Sachsen-Anhalt,Salzlandkreis,Saxony-Anhalt,Salzlandkreis
+Sachsen-Anhalt,Stendal (Kreis),Saxony-Anhalt,Stendal (Kreis)
+Sachsen-Anhalt,Wittenberg (Kreis),Saxony-Anhalt,Wittenberg (Kreis)
+Schleswig-Holstein,Dithmarschen (Kreis),Sleswick-Holsatia,Dithmarschen (Kreis)
+Schleswig-Holstein,Flensburg,Sleswick-Holsatia,Flensburg
+Schleswig-Holstein,Herzogtum Lauenburg (Kreis),Sleswick-Holsatia,Herzogtum Lauenburg (Kreis)
+Schleswig-Holstein,Kiel,Sleswick-Holsatia,Kiel
+Schleswig-Holstein,Lübeck,Sleswick-Holsatia,Lübeck
+Schleswig-Holstein,Neumünster,Sleswick-Holsatia,Neumünster
+Schleswig-Holstein,Nordfriesland (Kreis),Sleswick-Holsatia,Nordfriesland (Kreis)
+Schleswig-Holstein,Ostholstein (Kreis),Sleswick-Holsatia,Ostholstein (Kreis)
+Schleswig-Holstein,Pinneberg (Kreis),Sleswick-Holsatia,Pinneberg (Kreis)
+Schleswig-Holstein,Plön (Kreis),Sleswick-Holsatia,Plön (Kreis)
+Schleswig-Holstein,Rendsburg-Eckernförde (Kreis),Sleswick-Holsatia,Rendsburg-Eckernförde (Kreis)
+Schleswig-Holstein,Schleswig-Flensburg (Kreis),Sleswick-Holsatia,Schleswig-Flensburg (Kreis)
+Schleswig-Holstein,Segeberg (Kreis),Sleswick-Holsatia,Segeberg (Kreis)
+Schleswig-Holstein,Steinburg (Kreis),Sleswick-Holsatia,Steinburg (Kreis)
+Schleswig-Holstein,Stormarn (Kreis),Sleswick-Holsatia,Stormarn (Kreis)
+USA,Amerikanisch-Samoa,USA,American Samoa
+USA,Nördliche Marianen,USA,Northern Mariana Islands
+#Global,Laos,#Global,Laos
+Berlin,weitere Fälle in Berlin,Berlin,other cases in Berlin
+Niedersachsen,weitere Fälle in Niedersachsen,Lower Saxony,other cases in Lower Saxony
+Sachsen,weitere Fälle in Sachsen,Saxony,other cases in Saxony
+#Global,Guinea-Bissau,#Global,Guinea-Bissau
+#Global,Libyen,#Global,Libya
+#Global,Mali,#Global,Libya
+#Global,St. Kitts und Nevis,#Global,St. Kitts and Nevis
+Bayern,Coburg,Bavaria,Coburg
+Bayern,weitere Fälle in Bayern,Bavaria,other cases in Bavaria
+Bremen,weitere Fälle in Bremen,Bremen,other cases in Bremen
+Bürger Kanadas,Kreuzfahrtschiff 'Diamond Princess',Canadian Citizens,Cruise Ship 'Diamond Princess'
+Kanada,Genesene,Canada,Recovered
+Saarland,weitere Fälle im Saarland,Saarland,other cases in Saarland
+Schleswig-Holstein,weitere Fälle in Schleswig-Holstein,Sleswick-Holsatia,other cases in Sleswick-Holsatia
+USA,Genesene,USA,Recovered
+Bayern,Kempten,Bavaria,Kempten
+Kanada,Yukon,Canada,Yukon
+Mecklenburg-Vorpommern,weitere Fälle in Mecklenburg-Vorpommern,Mecklenburg-Western Pomerania,other cases in Mecklenburg-Western Pomerania
+#Global,Myanmar,#Global,Myanmar
+Baden-Württemberg,weitere Fälle in Baden-Württemberg,Baden-Württemberg,other cases in Baden-Württemberg
+Thüringen,weitere Fälle in Thüringen,Thuringia,other cases in Thuringia
+Großbritannien,Anguilla,United Kingdom,Anguilla
+Großbritannien,Britische Jungferninseln,United Kingdom,British Virgin Islands
+Großbritannien,Turks- und Caicosinseln,United Kingdom,Turks and Caicos Islands
+Hessen,weitere Fälle in Hessen,Hesse,other cases in Hesse
+International,Kreuzfahrtschiff 'MS Zaandam',International,Cruise Ship 'MS Zaandam'
+#Global,Botswana,#Global,Botswana
+Nordrhein-Westfalen,weitere Fälle in Nordrhein-Westfalen,North Rhine-Westphalia,other cases in North Rhine-Westphalia
+#Global,Burundi,#Global,Burundi
+#Global,Sierra Leone,#Global,Sierra Leone
+Brandenburg,weitere Fälle in Brandenburg,Brandenburg,other cases in Brandenburg
+#Global,Malawi,#Global,Malawi
+#Global,Südsudan,#Global,South Sudan
+Rheinland-Pfalz,weitere Fälle in Rheinland-Pfalz,Rhineland-Palatinate,other cases in Rhineland-Palatinate
+#Global,Falklandinseln (Malwinen),#Global,Falkland Islands (Malvinas)
+#Global,Western Sahara,#Global,Westsahara
+Frankreich,Saint-Pierre und Miquelon,France,Saint Pierre and Miquelon
+Niederlande,"Bonaire, Sint Eustatius und Saba",Netherlands,"Bonaire, Sint Eustatius and Saba"
+#Global,São Tomé und Príncipe,#Global,São Tomé and Príncipe
+#Global,Jemen,#Global,Yemen
