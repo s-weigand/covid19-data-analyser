@@ -23969,7 +23969,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Benin,#Global,35,5,1,29
 2020-04-11,Bhutan,#Global,5,2,0,3
 2020-04-11,Bolivia,#Global,275,2,20,253
-2020-04-11,Bosnia and Herzegovina,#Global,917,137,37,743
+2020-04-11,Bosnia and Herzegovina,#Global,935,139,37,759
 2020-04-11,Botswana,#Global,13,0,1,12
 2020-04-11,Brazil,#Global,19943,173,1074,18696
 2020-04-11,Brunei,#Global,136,104,1,31
@@ -23980,7 +23980,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,China,#Global,81969,77531,3339,1099
 2020-04-11,Costa Rica,#Global,558,42,3,513
 2020-04-11,Democratic Republic of the Congo,#Global,223,16,20,187
-2020-04-11,Germany,#Global,122530,58130,2736,61664
+2020-04-11,Germany,#Global,122855,58130,2736,61989
 2020-04-11,Dominica,#Global,16,5,0,11
 2020-04-11,Dominican Republic,#Global,2620,98,126,2396
 2020-04-11,Djibouti,#Global,187,36,2,149
@@ -23998,22 +23998,22 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Gabon,#Global,44,1,1,42
 2020-04-11,Gambia,#Global,4,2,1,1
 2020-04-11,Georgia,#Global,234,56,3,175
-2020-04-11,Ghana,#Global,408,4,6,398
+2020-04-11,Ghana,#Global,408,4,8,396
 2020-04-11,Grenada,#Global,14,0,0,14
 2020-04-11,Greece,#Global,2011,269,92,1650
-2020-04-11,United Kingdom,#Global,73758,344,8958,64456
+2020-04-11,United Kingdom,#Global,78991,344,9875,68772
 2020-04-11,Guatemala,#Global,137,19,3,115
 2020-04-11,Guinea,#Global,212,15,0,197
 2020-04-11,Guinea-Bissau,#Global,38,0,0,38
 2020-04-11,Guyana,#Global,40,8,6,26
 2020-04-11,Haiti,#Global,31,0,2,29
 2020-04-11,Honduras,#Global,392,7,24,361
-2020-04-11,India,#Global,7876,774,249,6853
+2020-04-11,India,#Global,7997,774,249,6974
 2020-04-11,Indonesia,#Global,3842,286,327,3229
 2020-04-11,Iraq,#Global,1279,550,70,659
 2020-04-11,Iran,#Global,70029,41947,4357,23725
 2020-04-11,Ireland,#Global,8089,25,287,7777
-2020-04-11,Iceland,#Global,1675,751,7,917
+2020-04-11,Iceland,#Global,1689,841,7,841
 2020-04-11,Israel,#Global,10525,1258,96,9171
 2020-04-11,Italy,#Global,147577,30455,18849,98273
 2020-04-11,Jamaica,#Global,65,13,4,48
@@ -24042,7 +24042,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Lithuania,#Global,1026,54,23,949
 2020-04-11,Luxembourg,#Global,3223,500,54,2669
 2020-04-11,Madagascar,#Global,102,11,0,91
-2020-04-11,Malawi,#Global,9,0,1,8
+2020-04-11,Malawi,#Global,12,0,2,10
 2020-04-11,Malaysia,#Global,4530,1995,73,2462
 2020-04-11,Maledives,#Global,19,13,0,6
 2020-04-11,Libya,#Global,87,22,7,58
@@ -24060,7 +24060,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Namibia,#Global,16,3,0,13
 2020-04-11,Nepal,#Global,9,1,0,8
 2020-04-11,New Zealand,#Global,1312,422,4,886
-2020-04-11,Nicaragua,#Global,7,0,1,6
+2020-04-11,Nicaragua,#Global,8,0,1,7
 2020-04-11,Netherlands,#Global,24413,250,2643,21520
 2020-04-11,Niger,#Global,438,41,11,386
 2020-04-11,Nigeria,#Global,305,58,7,240
@@ -24068,7 +24068,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Norway,#Global,6360,32,114,6214
 2020-04-11,Oman,#Global,546,109,3,434
 2020-04-11,East Timor,#Global,2,1,0,1
-2020-04-11,Pakistan,#Global,4892,762,77,4053
+2020-04-11,Pakistan,#Global,4970,762,77,4131
 2020-04-11,Palestinian territories,#Global,268,46,2,220
 2020-04-11,Panama,#Global,2974,17,74,2883
 2020-04-11,Papua New Guinea,#Global,2,0,0,2
@@ -24078,11 +24078,11 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Poland,#Global,6088,375,195,5518
 2020-04-11,Portugal,#Global,15987,266,470,15251
 2020-04-11,Republic of the Congo,#Global,60,5,5,50
-2020-04-11,Rwanda,#Global,118,7,0,111
+2020-04-11,Rwanda,#Global,118,18,0,100
 2020-04-11,Romania,#Global,5990,758,282,4950
 2020-04-11,Russia,#Global,13584,1045,106,12433
 2020-04-11,Zambia,#Global,40,28,2,10
-2020-04-11,San Marino,#Global,344,50,34,260
+2020-04-11,San Marino,#Global,356,53,35,268
 2020-04-11,Saudi Arabia,#Global,4033,720,52,3261
 2020-04-11,Sweden,#Global,10151,381,887,8883
 2020-04-11,Switzerland,#Global,24900,11100,1003,12797
@@ -24100,7 +24100,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,St. Kitts and Nevis,#Global,12,0,0,12
 2020-04-11,St. Lucia,#Global,15,1,0,14
 2020-04-11,Saint Vincent and the Grenadines,#Global,12,1,0,11
-2020-04-11,Sudan,#Global,17,2,2,13
+2020-04-11,Sudan,#Global,19,2,2,15
 2020-04-11,Suriname,#Global,10,4,1,5
 2020-04-11,Syria,#Global,19,4,2,13
 2020-04-11,São Tomé and Príncipe,#Global,4,0,0,4
@@ -24116,7 +24116,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Czechia,#Global,5735,370,123,5242
 2020-04-11,Tunisia,#Global,671,43,25,603
 2020-04-11,Turkey,#Global,47029,2423,1006,43600
-2020-04-11,USA,#Global,500549,29191,18728,452630
+2020-04-11,USA,#Global,500570,29192,18729,452649
 2020-04-11,Uganda,#Global,53,3,0,50
 2020-04-11,Ukraine,#Global,2511,79,73,2359
 2020-04-11,Hungary,#Global,1310,115,85,1110
@@ -24124,7 +24124,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Uzbekistan,#Global,729,42,3,684
 2020-04-11,Vatican City,#Global,8,2,0,6
 2020-04-11,Venezuela,#Global,175,84,9,82
-2020-04-11,United Arab Emirates,#Global,3360,418,16,2926
+2020-04-11,United Arab Emirates,#Global,3736,588,20,3128
 2020-04-11,Vietnam,#Global,258,144,0,114
 2020-04-11,Westsahara,#Global,4,0,0,4
 2020-04-11,Central African Republic,#Global,8,0,0,8
@@ -24132,7 +24132,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Egypt,#Global,1794,384,135,1275
 2020-04-11,Equatorial Guinea,#Global,18,3,0,15
 2020-04-11,Ethiopia,#Global,69,10,3,56
-2020-04-11,Austia,#Global,13776,6604,337,6835
+2020-04-11,Austia,#Global,13782,6604,337,6841
 2020-04-11,Australian Capital Territory,Australia,103,59,2,42
 2020-04-11,New South Wales,Australia,2857,4,23,2830
 2020-04-11,Northern Territory,Australia,28,2,0,26
@@ -24371,7 +24371,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Saxony-Anhalt,Germany,1168,573,21,574
 2020-04-11,Sleswick-Holsatia,Germany,2069,1200,40,829
 2020-04-11,Thuringia,Germany,1444,770,25,649
-2020-04-11,other cases in Germany,Germany,1815,4500,76,-2761
+2020-04-11,other cases in Germany,Germany,2140,4500,76,-2436
 2020-04-11,Faroe Islands,Denmark,184,145,0,39
 2020-04-11,Greenland,Denmark,11,11,0,0
 2020-04-11,French Polynesia,France,51,0,0,51
@@ -24674,7 +24674,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Delaware,USA,1326,0,32,1294
 2020-04-11,District of Columbia,USA,1660,0,38,1622
 2020-04-11,Florida,USA,17968,0,419,17549
-2020-04-11,Recovered,USA,0,29191,0,-29191
+2020-04-11,Recovered,USA,0,29192,0,-29192
 2020-04-11,Georgia,USA,11859,0,425,11434
 2020-04-11,Guam,USA,130,0,4,126
 2020-04-11,Hawaii,USA,465,0,8,457
@@ -24682,7 +24682,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Illinois,USA,17903,0,597,17306
 2020-04-11,Indiana,USA,6907,0,300,6607
 2020-04-11,Iowa,USA,1388,0,31,1357
-2020-04-11,Kansas,USA,1178,0,50,1128
+2020-04-11,Kansas,USA,1238,0,50,1188
 2020-04-11,Kentucky,USA,1693,0,90,1603
 2020-04-11,Louisiana,USA,19253,0,755,18498
 2020-04-11,Maine,USA,586,0,17,569
@@ -24699,7 +24699,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,New Jersey,USA,54588,0,1932,52656
 2020-04-11,New Mexico,USA,1091,0,19,1072
 2020-04-11,New York,USA,174489,0,7887,166602
-2020-04-11,North Carolina,USA,4090,0,87,4003
+2020-04-11,North Carolina,USA,4093,0,87,4006
 2020-04-11,North Dakota,USA,278,0,6,272
 2020-04-11,Northern Mariana Islands,USA,11,0,2,9
 2020-04-11,Ohio,USA,5878,0,231,5647
@@ -24715,7 +24715,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-11,Utah,USA,2103,0,17,2086
 2020-04-11,Vermont,USA,679,0,24,655
 2020-04-11,Virginia,USA,4509,0,121,4388
-2020-04-11,Washington,USA,10221,0,484,9737
+2020-04-11,Washington,USA,10179,0,485,9694
 2020-04-11,West Virginia,USA,574,0,5,569
 2020-04-11,Wisconsin,USA,3068,0,128,2940
 2020-04-11,Wyoming,USA,253,0,0,253
