@@ -25489,21 +25489,21 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-12,West Virginia,USA,593,0,6,587
 2020-04-12,Wisconsin,USA,3341,0,143,3198
 2020-04-12,Wyoming,USA,261,0,0,261
-2020-04-13,Afghanistan,#Global,607,32,19,556
+2020-04-13,Afghanistan,#Global,665,32,21,612
 2020-04-13,Albania,#Global,467,232,23,212
-2020-04-13,Algeria,#Global,1914,591,293,1030
-2020-04-13,Andorra,#Global,638,128,29,481
+2020-04-13,Algeria,#Global,1983,601,313,1069
+2020-04-13,Andorra,#Global,646,128,29,489
 2020-04-13,Angola,#Global,19,4,2,13
 2020-04-13,Antigua and Barbuda,#Global,23,0,2,21
-2020-04-13,Argentina,#Global,2208,468,95,1645
+2020-04-13,Argentina,#Global,2208,468,97,1643
 2020-04-13,Armenia,#Global,1039,211,14,814
-2020-04-13,Azerbaijan,#Global,1098,250,11,837
+2020-04-13,Azerbaijan,#Global,1148,289,12,847
 2020-04-13,Australia,#Global,6351,1806,61,4484
 2020-04-13,Bahamas,#Global,47,6,8,33
 2020-04-13,Bahrain,#Global,1348,591,6,751
 2020-04-13,Bangladesh,#Global,803,42,39,722
 2020-04-13,Barbados,#Global,71,11,4,56
-2020-04-13,Belarus,#Global,2578,203,26,2349
+2020-04-13,Belarus,#Global,2919,203,29,2687
 2020-04-13,Belgium,#Global,30589,6707,3903,19979
 2020-04-13,Belize,#Global,14,0,2,12
 2020-04-13,Benin,#Global,35,5,1,29
@@ -25511,51 +25511,51 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,Bolivia,#Global,330,2,27,301
 2020-04-13,Bosnia and Herzegovina,#Global,1030,206,39,785
 2020-04-13,Botswana,#Global,13,0,1,12
-2020-04-13,Brazil,#Global,22318,173,1230,20915
+2020-04-13,Brazil,#Global,22720,173,1269,21278
 2020-04-13,Brunei,#Global,136,107,1,28
-2020-04-13,Bulgaria,#Global,676,71,31,574
+2020-04-13,Bulgaria,#Global,685,71,32,582
 2020-04-13,Burkina Faso,#Global,497,161,27,309
-2020-04-13,Burundi,#Global,5,0,0,5
-2020-04-13,Chile,#Global,7213,2059,80,5074
-2020-04-13,China,#Global,82159,77663,3341,1155
+2020-04-13,Burundi,#Global,5,0,1,4
+2020-04-13,Chile,#Global,7525,2367,82,5076
+2020-04-13,China,#Global,82159,77666,3341,1152
 2020-04-13,Costa Rica,#Global,595,56,3,536
 2020-04-13,Democratic Republic of the Congo,#Global,235,17,20,198
-2020-04-13,Germany,#Global,127854,61827,3022,63005
+2020-04-13,Germany,#Global,128002,62925,3030,62047
 2020-04-13,Dominica,#Global,16,8,0,8
-2020-04-13,Dominican Republic,#Global,2967,131,173,2663
-2020-04-13,Djibouti,#Global,214,36,2,176
-2020-04-13,Denmark,#Global,6174,2123,273,3778
-2020-04-13,Ecuador,#Global,7466,501,333,6632
+2020-04-13,Dominican Republic,#Global,3167,152,177,2838
+2020-04-13,Djibouti,#Global,298,41,2,255
+2020-04-13,Denmark,#Global,6318,2235,285,3798
+2020-04-13,Ecuador,#Global,7529,597,355,6577
 2020-04-13,El Salvador,#Global,137,22,6,109
 2020-04-13,Ivory Coast,#Global,574,85,5,484
 2020-04-13,Eritrea,#Global,34,0,0,34
-2020-04-13,Estonia,#Global,1332,102,27,1203
-2020-04-13,Eswatini,#Global,14,7,0,7
+2020-04-13,Estonia,#Global,1332,102,28,1202
+2020-04-13,Eswatini,#Global,15,7,0,8
 2020-04-13,Falkland Islands (Malvinas),#Global,5,1,0,4
 2020-04-13,Fiji,#Global,16,0,0,16
-2020-04-13,Finland,#Global,3064,300,56,2708
-2020-04-13,France,#Global,95403,27186,14393,53824
+2020-04-13,Finland,#Global,3064,300,59,2705
+2020-04-13,France,#Global,98076,27718,14967,55391
 2020-04-13,Gabon,#Global,57,1,1,55
 2020-04-13,Gambia,#Global,9,2,1,6
 2020-04-13,Georgia,#Global,266,67,3,196
 2020-04-13,Ghana,#Global,566,4,8,554
 2020-04-13,Grenada,#Global,14,0,0,14
-2020-04-13,Greece,#Global,2114,269,98,1747
-2020-04-13,United Kingdom,#Global,84279,0,10612,73667
+2020-04-13,Greece,#Global,2145,269,99,1777
+2020-04-13,United Kingdom,#Global,88621,0,11329,77292
 2020-04-13,Guatemala,#Global,155,19,5,131
-2020-04-13,Guinea,#Global,250,17,0,233
+2020-04-13,Guinea,#Global,319,17,0,302
 2020-04-13,Guinea-Bissau,#Global,38,0,0,38
 2020-04-13,Guyana,#Global,45,8,6,31
 2020-04-13,Haiti,#Global,33,0,3,30
 2020-04-13,Honduras,#Global,397,7,25,365
-2020-04-13,India,#Global,9240,1096,331,7813
+2020-04-13,India,#Global,9635,1096,331,8208
 2020-04-13,Indonesia,#Global,4557,380,399,3778
-2020-04-13,Iraq,#Global,1352,640,76,636
-2020-04-13,Iran,#Global,71686,43894,4474,23318
+2020-04-13,Iraq,#Global,1378,717,78,583
+2020-04-13,Iran,#Global,73303,45983,4585,22735
 2020-04-13,Ireland,#Global,9655,25,334,9296
-2020-04-13,Iceland,#Global,1701,889,8,804
-2020-04-13,Israel,#Global,11235,1689,110,9436
-2020-04-13,Italy,#Global,156363,34211,19899,102253
+2020-04-13,Iceland,#Global,1711,933,8,770
+2020-04-13,Israel,#Global,11235,1689,113,9433
+2020-04-13,Italy,#Global,159516,35435,20465,103616
 2020-04-13,Jamaica,#Global,72,16,4,52
 2020-04-13,Japan,#Global,7370,784,123,6463
 2020-04-13,Yemen,#Global,1,0,0,1
@@ -25564,34 +25564,34 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,Cameroon,#Global,820,98,12,710
 2020-04-13,Canada,#Global,24367,7172,717,16478
 2020-04-13,Cape Verde,#Global,10,1,1,8
-2020-04-13,Kazakhstan,#Global,979,110,12,857
+2020-04-13,Kazakhstan,#Global,979,138,12,829
 2020-04-13,Qatar,#Global,3231,334,7,2890
-2020-04-13,Kenya,#Global,197,25,8,164
+2020-04-13,Kenya,#Global,208,40,9,159
 2020-04-13,Kyrgyzstan,#Global,419,67,5,347
 2020-04-13,Colombia,#Global,2776,270,109,2397
 2020-04-13,Kosovo,#Global,283,58,7,218
-2020-04-13,Croatia,#Global,1600,373,23,1204
-2020-04-13,Cuba,#Global,669,92,18,559
+2020-04-13,Croatia,#Global,1650,400,25,1225
+2020-04-13,Cuba,#Global,726,121,21,584
 2020-04-13,Kuwait,#Global,1300,150,2,1148
 2020-04-13,Laos,#Global,19,0,0,19
-2020-04-13,Latvia,#Global,653,16,5,632
+2020-04-13,Latvia,#Global,655,16,5,634
 2020-04-13,Lebanon,#Global,632,80,20,532
-2020-04-13,Liberia,#Global,50,3,5,42
+2020-04-13,Liberia,#Global,59,4,6,49
 2020-04-13,Libya,#Global,25,9,1,15
 2020-04-13,Liechtenstein,#Global,79,55,1,23
 2020-04-13,Lithuania,#Global,1062,101,24,937
-2020-04-13,Luxembourg,#Global,3281,500,66,2715
-2020-04-13,Madagascar,#Global,106,20,0,86
-2020-04-13,Malawi,#Global,13,0,2,11
+2020-04-13,Luxembourg,#Global,3292,500,69,2723
+2020-04-13,Madagascar,#Global,106,21,0,85
+2020-04-13,Malawi,#Global,16,0,2,14
 2020-04-13,Malaysia,#Global,4817,2276,77,2464
 2020-04-13,Maledives,#Global,20,14,0,6
-2020-04-13,Libya,#Global,105,22,9,74
+2020-04-13,Libya,#Global,123,26,10,87
 2020-04-13,Malta,#Global,384,44,3,337
 2020-04-13,Morocco,#Global,1746,196,120,1430
 2020-04-13,Mauritania,#Global,7,2,1,4
 2020-04-13,Mauritius,#Global,324,42,9,273
 2020-04-13,Mexico,#Global,4661,1843,296,2522
-2020-04-13,Moldova,#Global,1662,107,33,1522
+2020-04-13,Moldova,#Global,1712,107,35,1570
 2020-04-13,Monaco,#Global,93,6,1,86
 2020-04-13,Mongolia,#Global,17,4,0,13
 2020-04-13,Montenegro,#Global,273,5,3,265
@@ -25601,46 +25601,46 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,Nepal,#Global,14,1,0,13
 2020-04-13,New Zealand,#Global,1349,546,5,798
 2020-04-13,Nicaragua,#Global,9,4,1,4
-2020-04-13,Netherlands,#Global,25587,250,2737,22600
+2020-04-13,Netherlands,#Global,26551,250,2823,23478
 2020-04-13,Niger,#Global,529,75,12,442
 2020-04-13,Nigeria,#Global,323,85,10,228
-2020-04-13,North Macedonia,#Global,828,41,34,753
-2020-04-13,Norway,#Global,6525,32,128,6365
+2020-04-13,North Macedonia,#Global,854,44,38,772
+2020-04-13,Norway,#Global,6551,32,133,6386
 2020-04-13,Oman,#Global,727,124,4,599
 2020-04-13,East Timor,#Global,4,1,0,3
-2020-04-13,Pakistan,#Global,5374,1095,93,4186
-2020-04-13,Palestinian territories,#Global,290,58,2,230
+2020-04-13,Pakistan,#Global,5496,1095,93,4308
+2020-04-13,Palestinian territories,#Global,308,58,2,248
 2020-04-13,Panama,#Global,3400,29,87,3284
 2020-04-13,Papua New Guinea,#Global,2,0,0,2
 2020-04-13,Paraguay,#Global,147,22,6,119
 2020-04-13,Peru,#Global,7519,1798,193,5528
 2020-04-13,Philippines,#Global,4932,242,315,4375
-2020-04-13,Poland,#Global,6674,439,232,6003
-2020-04-13,Portugal,#Global,16585,277,504,15804
+2020-04-13,Poland,#Global,6934,487,245,6202
+2020-04-13,Portugal,#Global,16934,277,535,16122
 2020-04-13,Republic of the Congo,#Global,60,5,5,50
 2020-04-13,Rwanda,#Global,126,25,0,101
 2020-04-13,Romania,#Global,6633,914,318,5401
 2020-04-13,Russia,#Global,18328,1470,148,16710
-2020-04-13,Zambia,#Global,43,30,2,11
+2020-04-13,Zambia,#Global,45,30,2,13
 2020-04-13,San Marino,#Global,356,53,35,268
-2020-04-13,Saudi Arabia,#Global,4462,761,59,3642
-2020-04-13,Sweden,#Global,10483,381,899,9203
-2020-04-13,Switzerland,#Global,25503,12700,1117,11686
+2020-04-13,Saudi Arabia,#Global,4934,805,65,4064
+2020-04-13,Sweden,#Global,10948,381,919,9648
+2020-04-13,Switzerland,#Global,25688,12700,1138,11850
 2020-04-13,Senegal,#Global,291,178,2,111
-2020-04-13,Serbia,#Global,3630,0,80,3550
+2020-04-13,Serbia,#Global,4054,0,85,3969
 2020-04-13,Seychelles,#Global,11,0,0,11
 2020-04-13,Sierra Leone,#Global,10,0,0,10
 2020-04-13,Zimbabwe,#Global,14,0,3,11
-2020-04-13,Singapore,#Global,2532,560,8,1964
-2020-04-13,Slovakia,#Global,742,23,2,717
+2020-04-13,Singapore,#Global,2918,586,9,2323
+2020-04-13,Slovakia,#Global,816,107,2,707
 2020-04-13,Slovenia,#Global,1212,152,55,1005
 2020-04-13,Somalia,#Global,25,2,2,21
 2020-04-13,Spain,#Global,169496,64727,17489,87280
-2020-04-13,Sri Lanka,#Global,214,56,7,151
+2020-04-13,Sri Lanka,#Global,217,56,7,154
 2020-04-13,St. Kitts and Nevis,#Global,12,0,0,12
 2020-04-13,St. Lucia,#Global,15,4,0,11
 2020-04-13,Saint Vincent and the Grenadines,#Global,12,1,0,11
-2020-04-13,Sudan,#Global,19,2,2,15
+2020-04-13,Sudan,#Global,29,4,4,21
 2020-04-13,Suriname,#Global,10,4,1,5
 2020-04-13,Syria,#Global,25,5,2,18
 2020-04-13,São Tomé and Príncipe,#Global,4,0,0,4
@@ -25650,29 +25650,29 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,Taiwan,#Global,393,109,6,278
 2020-04-13,Tanzania,#Global,46,7,3,36
 2020-04-13,Thailand,#Global,2579,1288,40,1251
-2020-04-13,Togo,#Global,76,29,3,44
+2020-04-13,Togo,#Global,77,29,3,45
 2020-04-13,Trinidad and Tobago,#Global,113,16,8,89
-2020-04-13,Chad,#Global,18,2,0,16
-2020-04-13,Czechia,#Global,5991,467,139,5385
+2020-04-13,Chad,#Global,23,2,0,21
+2020-04-13,Czechia,#Global,6022,519,143,5360
 2020-04-13,Tunisia,#Global,707,43,31,633
-2020-04-13,Turkey,#Global,56956,3446,1198,52312
-2020-04-13,USA,#Global,556346,41831,22057,492458
-2020-04-13,Uganda,#Global,54,4,0,50
+2020-04-13,Turkey,#Global,61049,3957,1296,55796
+2020-04-13,USA,#Global,559641,42033,22808,494800
+2020-04-13,Uganda,#Global,54,7,0,47
 2020-04-13,Ukraine,#Global,3102,97,93,2912
 2020-04-13,Hungary,#Global,1458,120,109,1229
 2020-04-13,Uruguay,#Global,480,231,8,241
-2020-04-13,Uzbekistan,#Global,896,66,4,826
+2020-04-13,Uzbekistan,#Global,934,85,4,845
 2020-04-13,Vatican City,#Global,8,2,0,6
 2020-04-13,Venezuela,#Global,181,93,9,79
-2020-04-13,United Arab Emirates,#Global,4123,680,22,3421
-2020-04-13,Vietnam,#Global,262,145,0,117
+2020-04-13,United Arab Emirates,#Global,4123,852,25,3246
+2020-04-13,Vietnam,#Global,265,146,0,119
 2020-04-13,Westsahara,#Global,6,0,0,6
 2020-04-13,Central African Republic,#Global,11,3,0,8
-2020-04-13,Cyprus,#Global,633,65,11,557
+2020-04-13,Cyprus,#Global,662,65,12,585
 2020-04-13,Egypt,#Global,2065,589,159,1317
 2020-04-13,Equatorial Guinea,#Global,21,3,0,18
 2020-04-13,Ethiopia,#Global,74,14,3,57
-2020-04-13,Austia,#Global,13974,7343,368,6263
+2020-04-13,Austia,#Global,14029,7343,368,6318
 2020-04-13,Australian Capital Territory,Australia,102,59,2,41
 2020-04-13,New South Wales,Australia,2863,4,25,2834
 2020-04-13,Northern Territory,Australia,28,2,0,26
@@ -25681,50 +25681,50 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,Tasmania,Australia,144,48,5,91
 2020-04-13,Victoria,Australia,1281,926,14,341
 2020-04-13,Western Australia,Australia,517,216,6,295
-2020-04-13,Alb-Donau-Kreis,Baden-Württemberg,427,0,7,420
-2020-04-13,Baden-Baden,Baden-Württemberg,138,0,7,131
-2020-04-13,Biberach (Kreis),Baden-Württemberg,407,0,4,403
+2020-04-13,Alb-Donau-Kreis,Baden-Württemberg,432,0,7,425
+2020-04-13,Baden-Baden,Baden-Württemberg,143,0,7,136
+2020-04-13,Biberach (Kreis),Baden-Württemberg,423,0,9,414
 2020-04-13,Bodenseekreis,Baden-Württemberg,263,0,6,257
-2020-04-13,Breisgau-Hochschwarzwald (Kreis),Baden-Württemberg,857,0,21,836
-2020-04-13,Böblingen (Kreis),Baden-Württemberg,1118,0,23,1095
+2020-04-13,Breisgau-Hochschwarzwald (Kreis),Baden-Württemberg,863,0,21,842
+2020-04-13,Böblingen (Kreis),Baden-Württemberg,1155,0,27,1128
 2020-04-13,Calw (Kreis),Baden-Württemberg,513,0,8,505
-2020-04-13,Emmendingen (Kreis),Baden-Württemberg,476,0,28,448
-2020-04-13,Enzkreis,Baden-Württemberg,313,0,5,308
-2020-04-13,Esslingen (Kreis),Baden-Württemberg,1357,0,45,1312
-2020-04-13,Freiburg im Breisgau,Baden-Württemberg,831,0,35,796
-2020-04-13,Freudenstadt (Kreis),Baden-Württemberg,415,0,9,406
-2020-04-13,Göppingen (Kreis),Baden-Württemberg,603,0,21,582
+2020-04-13,Emmendingen (Kreis),Baden-Württemberg,476,0,30,446
+2020-04-13,Enzkreis,Baden-Württemberg,327,0,6,321
+2020-04-13,Esslingen (Kreis),Baden-Württemberg,1384,0,47,1337
+2020-04-13,Freiburg im Breisgau,Baden-Württemberg,838,0,40,798
+2020-04-13,Freudenstadt (Kreis),Baden-Württemberg,431,0,9,422
+2020-04-13,Göppingen (Kreis),Baden-Württemberg,615,0,21,594
 2020-04-13,Heidelberg,Baden-Württemberg,280,0,7,273
 2020-04-13,Heidenheim (Kreis),Baden-Württemberg,314,0,22,292
-2020-04-13,Heilbronn,Baden-Württemberg,338,0,4,334
-2020-04-13,Heilbronn (Kreis),Baden-Württemberg,656,0,13,643
-2020-04-13,Hohenlohekreis,Baden-Württemberg,661,0,26,635
+2020-04-13,Heilbronn,Baden-Württemberg,344,0,4,340
+2020-04-13,Heilbronn (Kreis),Baden-Württemberg,663,0,14,649
+2020-04-13,Hohenlohekreis,Baden-Württemberg,667,0,26,641
 2020-04-13,Karlsruhe,Baden-Württemberg,289,0,3,286
 2020-04-13,Karlsruhe (Kreis),Baden-Württemberg,731,0,24,707
-2020-04-13,Konstanz (Kreis),Baden-Württemberg,347,0,5,342
+2020-04-13,Konstanz (Kreis),Baden-Württemberg,352,0,5,347
 2020-04-13,Ludwigsburg (Kreis),Baden-Württemberg,1290,0,29,1261
-2020-04-13,Lörrach (Kreis),Baden-Württemberg,446,0,22,424
+2020-04-13,Lörrach (Kreis),Baden-Württemberg,447,0,22,425
 2020-04-13,Main-Tauber-Kreis,Baden-Württemberg,290,0,3,287
 2020-04-13,Mannheim,Baden-Württemberg,377,0,5,372
 2020-04-13,Neckar-Odenwald-Kreis,Baden-Württemberg,179,0,6,173
-2020-04-13,Ortenaukreis,Baden-Württemberg,809,0,52,757
+2020-04-13,Ortenaukreis,Baden-Württemberg,817,0,53,764
 2020-04-13,Ostalbkreis,Baden-Württemberg,485,0,7,478
-2020-04-13,Pforzheim,Baden-Württemberg,103,0,4,99
-2020-04-13,Rastatt (Kreis),Baden-Württemberg,415,0,5,410
-2020-04-13,Ravensburg (Kreis),Baden-Württemberg,460,0,4,456
-2020-04-13,Rems-Murr-Kreis,Baden-Württemberg,933,0,19,914
-2020-04-13,Reutlingen (Kreis),Baden-Württemberg,826,0,15,811
+2020-04-13,Pforzheim,Baden-Württemberg,107,0,4,103
+2020-04-13,Rastatt (Kreis),Baden-Württemberg,423,0,5,418
+2020-04-13,Ravensburg (Kreis),Baden-Württemberg,461,0,4,457
+2020-04-13,Rems-Murr-Kreis,Baden-Württemberg,943,0,19,924
+2020-04-13,Reutlingen (Kreis),Baden-Württemberg,1006,0,15,991
 2020-04-13,Rhein-Neckar-Kreis,Baden-Württemberg,715,0,14,701
 2020-04-13,Rottweil (Kreis),Baden-Württemberg,435,0,6,429
-2020-04-13,Schwarzwald-Baar-Kreis,Baden-Württemberg,367,0,4,363
-2020-04-13,Schwäbisch Hall (Kreis),Baden-Württemberg,625,0,28,597
-2020-04-13,Sigmaringen (Kreis),Baden-Württemberg,624,0,24,600
-2020-04-13,Stuttgart (Kreis),Baden-Württemberg,1110,0,20,1090
-2020-04-13,Tuttlingen (Kreis),Baden-Württemberg,353,0,7,346
-2020-04-13,Tübingen (Kreis),Baden-Württemberg,1071,0,23,1048
-2020-04-13,Ulm,Baden-Württemberg,218,0,1,217
-2020-04-13,Waldshut (Kreis),Baden-Württemberg,227,0,14,213
-2020-04-13,Zollernalbkreis,Baden-Württemberg,739,0,34,705
+2020-04-13,Schwarzwald-Baar-Kreis,Baden-Württemberg,375,0,6,369
+2020-04-13,Schwäbisch Hall (Kreis),Baden-Württemberg,625,0,30,595
+2020-04-13,Sigmaringen (Kreis),Baden-Württemberg,625,0,26,599
+2020-04-13,Stuttgart (Kreis),Baden-Württemberg,1146,0,23,1123
+2020-04-13,Tuttlingen (Kreis),Baden-Württemberg,356,0,7,349
+2020-04-13,Tübingen (Kreis),Baden-Württemberg,1087,0,24,1063
+2020-04-13,Ulm,Baden-Württemberg,220,0,2,218
+2020-04-13,Waldshut (Kreis),Baden-Württemberg,230,0,15,215
+2020-04-13,Zollernalbkreis,Baden-Württemberg,756,0,34,722
 2020-04-13,other cases in Baden-Württemberg,Baden-Württemberg,0,0,0,0
 2020-04-13,Aichach-Friedberg (Kreis),Bavaria,227,0,10,217
 2020-04-13,Altötting (Kreis),Bavaria,424,3,15,406
@@ -25732,95 +25732,95 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,Amberg-Sulzbach (Kreis),Bavaria,308,3,4,301
 2020-04-13,Ansbach,Bavaria,77,0,1,76
 2020-04-13,Ansbach (Kreis),Bavaria,353,0,4,349
-2020-04-13,Aschaffenburg,Bavaria,87,0,1,86
-2020-04-13,Aschaffenburg (Kreis),Bavaria,350,1,16,333
-2020-04-13,Augsburg,Bavaria,294,2,7,285
-2020-04-13,Augsburg (Kreis),Bavaria,318,0,3,315
-2020-04-13,Bad Kissingen (Kreis),Bavaria,166,0,5,161
-2020-04-13,Bad Tölz (Kreis),Bavaria,347,0,5,342
+2020-04-13,Aschaffenburg,Bavaria,88,0,1,87
+2020-04-13,Aschaffenburg (Kreis),Bavaria,361,1,16,344
+2020-04-13,Augsburg,Bavaria,295,2,7,286
+2020-04-13,Augsburg (Kreis),Bavaria,321,0,3,318
+2020-04-13,Bad Kissingen (Kreis),Bavaria,167,0,5,162
+2020-04-13,Bad Tölz (Kreis),Bavaria,352,0,5,347
 2020-04-13,Bamberg,Bavaria,131,0,3,128
 2020-04-13,Bamberg (Kreis),Bavaria,335,1,20,314
-2020-04-13,Bayreuth,Bavaria,139,0,4,135
-2020-04-13,Bayreuth (Kreis),Bavaria,272,2,5,265
-2020-04-13,Berchtesgadener Land (Kreis),Bavaria,204,0,3,201
+2020-04-13,Bayreuth,Bavaria,142,0,4,138
+2020-04-13,Bayreuth (Kreis),Bavaria,283,2,5,276
+2020-04-13,Berchtesgadener Land (Kreis),Bavaria,209,0,3,206
 2020-04-13,Cham (Kreis),Bavaria,343,0,9,334
 2020-04-13,Coburg,Bavaria,36,0,0,36
 2020-04-13,Coburg (Kreis),Bavaria,95,0,1,94
 2020-04-13,Dachau (Kreis),Bavaria,606,1,5,600
-2020-04-13,Deggendorf (Kreis),Bavaria,190,1,4,185
-2020-04-13,Dillingen a.d. Donau (Kreis),Bavaria,137,1,1,135
-2020-04-13,Dingolfing-Landau (Kreis),Bavaria,153,0,1,152
-2020-04-13,Donau-Ries (Kreis),Bavaria,258,0,13,245
-2020-04-13,Ebersberg (Kreis),Bavaria,350,0,1,349
-2020-04-13,Eichstätt (Kreis),Bavaria,188,0,6,182
-2020-04-13,Erding (Kreis),Bavaria,491,0,5,486
-2020-04-13,Erlangen,Bavaria,149,0,1,148
-2020-04-13,Erlangen-Höchstadt,Bavaria,188,1,3,184
-2020-04-13,Forchheim (Kreis),Bavaria,170,1,2,167
+2020-04-13,Deggendorf (Kreis),Bavaria,195,1,5,189
+2020-04-13,Dillingen a.d. Donau (Kreis),Bavaria,159,1,1,157
+2020-04-13,Dingolfing-Landau (Kreis),Bavaria,157,0,1,156
+2020-04-13,Donau-Ries (Kreis),Bavaria,259,0,13,246
+2020-04-13,Ebersberg (Kreis),Bavaria,355,0,1,354
+2020-04-13,Eichstätt (Kreis),Bavaria,190,0,7,183
+2020-04-13,Erding (Kreis),Bavaria,504,0,6,498
+2020-04-13,Erlangen,Bavaria,150,0,1,149
+2020-04-13,Erlangen-Höchstadt,Bavaria,189,1,4,184
+2020-04-13,Forchheim (Kreis),Bavaria,172,1,2,169
 2020-04-13,Freising (Kreis),Bavaria,837,3,24,810
-2020-04-13,Freyung-Grafenau (Kreis),Bavaria,126,1,6,119
-2020-04-13,Fürstenfeldbruck (Kreis),Bavaria,637,0,15,622
-2020-04-13,Fürth,Bavaria,216,0,11,205
-2020-04-13,Fürth (Kreis),Bavaria,337,2,25,310
+2020-04-13,Freyung-Grafenau (Kreis),Bavaria,133,1,6,126
+2020-04-13,Fürstenfeldbruck (Kreis),Bavaria,647,0,15,632
+2020-04-13,Fürth,Bavaria,226,0,11,215
+2020-04-13,Fürth (Kreis),Bavaria,354,2,27,325
 2020-04-13,Garmisch-Partenkirchen (Kreis),Bavaria,209,0,5,204
-2020-04-13,Günzburg (Kreis),Bavaria,172,0,2,170
+2020-04-13,Günzburg (Kreis),Bavaria,174,0,2,172
 2020-04-13,Haßberge (Kreis),Bavaria,104,0,0,104
-2020-04-13,Hof,Bavaria,78,0,1,77
-2020-04-13,Hof (Kreis),Bavaria,262,0,10,252
+2020-04-13,Hof,Bavaria,84,0,1,83
+2020-04-13,Hof (Kreis),Bavaria,280,0,13,267
 2020-04-13,Ingolstadt,Bavaria,297,0,9,288
 2020-04-13,Kaufbeuren,Bavaria,77,0,3,74
-2020-04-13,Kelheim (Kreis),Bavaria,349,2,19,328
+2020-04-13,Kelheim (Kreis),Bavaria,353,2,19,332
 2020-04-13,Kempten,Bavaria,88,1,5,82
 2020-04-13,Kitzingen (Kreis),Bavaria,82,0,0,82
 2020-04-13,Kronach (Kreis),Bavaria,92,0,1,91
 2020-04-13,Kulmbach (Kreis),Bavaria,149,0,5,144
 2020-04-13,Landsberg am Lech (Kreis),Bavaria,286,2,6,278
 2020-04-13,Landshut,Bavaria,220,0,4,216
-2020-04-13,Landshut (Kreis),Bavaria,532,1,18,513
-2020-04-13,Lichtenfels (Kreis),Bavaria,144,0,1,143
-2020-04-13,Lindau/Bodensee (Kreis),Bavaria,223,1,4,218
-2020-04-13,Main-Spessart (Kreis),Bavaria,134,1,3,130
-2020-04-13,Memmingen,Bavaria,40,0,0,40
-2020-04-13,Miesbach (Kreis),Bavaria,458,0,6,452
-2020-04-13,Miltenberg (Kreis),Bavaria,227,0,2,225
-2020-04-13,Mühldorf a.Inn (Kreis),Bavaria,350,1,9,340
-2020-04-13,München,Bavaria,4359,3,38,4318
-2020-04-13,München (Kreis),Bavaria,1050,1,15,1034
-2020-04-13,Neu-Ulm (Kreis),Bavaria,323,1,7,315
-2020-04-13,Neuburg-Schrobenhausen (Kreis),Bavaria,190,0,3,187
-2020-04-13,Neumarkt i.d.Opf. (Kreis),Bavaria,178,1,3,174
-2020-04-13,Neustadt a.d. Aisch-Bad Windsheim,Bavaria,123,0,3,120
-2020-04-13,Neustadt a.d. Waldnaab,Bavaria,561,3,22,536
-2020-04-13,Nürnberg,Bavaria,677,0,7,670
-2020-04-13,Nürnberger Land (Kreis),Bavaria,463,3,13,447
+2020-04-13,Landshut (Kreis),Bavaria,533,1,18,514
+2020-04-13,Lichtenfels (Kreis),Bavaria,155,0,1,154
+2020-04-13,Lindau/Bodensee (Kreis),Bavaria,225,1,4,220
+2020-04-13,Main-Spessart (Kreis),Bavaria,137,1,3,133
+2020-04-13,Memmingen,Bavaria,45,0,0,45
+2020-04-13,Miesbach (Kreis),Bavaria,464,0,6,458
+2020-04-13,Miltenberg (Kreis),Bavaria,228,0,2,226
+2020-04-13,Mühldorf a.Inn (Kreis),Bavaria,381,1,11,369
+2020-04-13,München,Bavaria,4472,3,42,4427
+2020-04-13,München (Kreis),Bavaria,1064,1,16,1047
+2020-04-13,Neu-Ulm (Kreis),Bavaria,324,1,7,316
+2020-04-13,Neuburg-Schrobenhausen (Kreis),Bavaria,195,0,3,192
+2020-04-13,Neumarkt i.d.Opf. (Kreis),Bavaria,204,1,4,199
+2020-04-13,Neustadt a.d. Aisch-Bad Windsheim,Bavaria,143,0,3,140
+2020-04-13,Neustadt a.d. Waldnaab,Bavaria,572,3,23,546
+2020-04-13,Nürnberg,Bavaria,691,0,10,681
+2020-04-13,Nürnberger Land (Kreis),Bavaria,471,3,13,455
 2020-04-13,Oberallgäu (Kreis),Bavaria,153,1,4,148
-2020-04-13,Ostallgäu (Kreis),Bavaria,433,2,15,416
-2020-04-13,Passau,Bavaria,104,0,10,94
-2020-04-13,Passau (Kreis),Bavaria,340,0,9,331
-2020-04-13,Pfaffenhofen a.d.Ilm (Kreis),Bavaria,280,0,11,269
+2020-04-13,Ostallgäu (Kreis),Bavaria,439,2,16,421
+2020-04-13,Passau,Bavaria,110,0,10,100
+2020-04-13,Passau (Kreis),Bavaria,341,0,9,332
+2020-04-13,Pfaffenhofen a.d.Ilm (Kreis),Bavaria,287,0,13,274
 2020-04-13,Regen (Kreis),Bavaria,123,0,1,122
-2020-04-13,Regensburg,Bavaria,348,1,3,344
-2020-04-13,Regensburg (Kreis),Bavaria,348,0,3,345
+2020-04-13,Regensburg,Bavaria,352,1,3,348
+2020-04-13,Regensburg (Kreis),Bavaria,355,0,3,352
 2020-04-13,Rhön-Grabfeld (Kreis),Bavaria,112,0,2,110
-2020-04-13,Rosenheim,Bavaria,280,0,7,273
-2020-04-13,Rosenheim (Kreis),Bavaria,1550,6,42,1502
+2020-04-13,Rosenheim,Bavaria,282,0,7,275
+2020-04-13,Rosenheim (Kreis),Bavaria,1555,6,42,1507
 2020-04-13,Roth (Kreis),Bavaria,241,0,4,237
-2020-04-13,Rottal-Inn (Kreis),Bavaria,621,0,25,596
+2020-04-13,Rottal-Inn (Kreis),Bavaria,628,0,28,600
 2020-04-13,Schwabach,Bavaria,63,0,0,63
-2020-04-13,Schwandorf (Kreis),Bavaria,341,0,10,331
-2020-04-13,Schweinfurt,Bavaria,116,0,11,105
-2020-04-13,Schweinfurt (Kreis),Bavaria,333,0,7,326
-2020-04-13,Starnberg (Kreis),Bavaria,446,1,4,441
+2020-04-13,Schwandorf (Kreis),Bavaria,344,0,10,334
+2020-04-13,Schweinfurt,Bavaria,120,0,11,109
+2020-04-13,Schweinfurt (Kreis),Bavaria,343,0,7,336
+2020-04-13,Starnberg (Kreis),Bavaria,452,1,4,447
 2020-04-13,Straubing,Bavaria,229,0,10,219
 2020-04-13,Straubing-Bogen (Kreis),Bavaria,296,0,9,287
-2020-04-13,Tirschenreuth (Kreis),Bavaria,941,9,60,872
-2020-04-13,Traunstein (Kreis),Bavaria,724,3,17,704
-2020-04-13,Unterallgäu (Kreis),Bavaria,227,2,4,221
-2020-04-13,Weiden,Bavaria,193,0,5,188
+2020-04-13,Tirschenreuth (Kreis),Bavaria,956,9,60,887
+2020-04-13,Traunstein (Kreis),Bavaria,734,3,17,714
+2020-04-13,Unterallgäu (Kreis),Bavaria,228,2,4,222
+2020-04-13,Weiden,Bavaria,198,0,5,193
 2020-04-13,Weilheim-Schongau (Kreis),Bavaria,321,1,1,319
-2020-04-13,Weißenburg-Gunzenhausen (Kreis),Bavaria,242,1,4,237
-2020-04-13,Wunsiedel i.Fichtelgebirge (Kreis),Bavaria,516,2,19,495
-2020-04-13,Würzburg,Bavaria,429,12,39,378
+2020-04-13,Weißenburg-Gunzenhausen (Kreis),Bavaria,244,1,6,237
+2020-04-13,Wunsiedel i.Fichtelgebirge (Kreis),Bavaria,519,2,19,498
+2020-04-13,Würzburg,Bavaria,429,12,41,376
 2020-04-13,Würzburg (Kreis),Bavaria,347,0,2,345
 2020-04-13,other cases in Bavaria,Bavaria,0,0,0,0
 2020-04-13,Charlottenburg-Wilmersdorf,Berlin,558,336,4,218
@@ -25889,37 +25889,37 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,Shanghai,China,618,446,7,165
 2020-04-13,Shanxi,China,173,135,0,38
 2020-04-13,Sichuan,China,560,548,3,9
-2020-04-13,Tianjin,China,184,161,3,20
+2020-04-13,Tianjin,China,184,164,3,17
 2020-04-13,Tibet,China,1,1,0,0
 2020-04-13,Xinjiang,China,76,73,3,0
 2020-04-13,Yunnan,China,184,174,2,8
 2020-04-13,Zhejiang,China,1267,1239,1,27
-2020-04-13,Baden-Württemberg,Germany,24570,12267,677,11626
-2020-04-13,Bavaria,Germany,33015,12820,820,19375
+2020-04-13,Baden-Württemberg,Germany,24898,12267,702,11929
+2020-04-13,Bavaria,Germany,33329,13620,834,18875
 2020-04-13,Berlin,Germany,4601,2787,51,1763
 2020-04-13,Brandenburg,Germany,2075,642,59,1374
 2020-04-13,Bremen,Germany,486,253,17,216
-2020-04-13,Hamburg,Germany,3817,2000,56,1761
+2020-04-13,Hamburg,Germany,3887,2000,56,1831
 2020-04-13,Hesse,Germany,6114,2086,135,3893
 2020-04-13,Mecklenburg-Western Pomerania,Germany,618,323,11,284
-2020-04-13,Lower Saxony,Germany,7723,3593,201,3929
+2020-04-13,Lower Saxony,Germany,7951,3724,212,4015
 2020-04-13,North Rhine-Westphalia,Germany,26984,13316,613,13055
 2020-04-13,Rhineland-Palatinate,Germany,4842,2059,71,2712
-2020-04-13,Saarland,Germany,2121,648,48,1425
-2020-04-13,Saxony,Germany,3764,1770,68,1926
-2020-04-13,Saxony-Anhalt,Germany,1195,613,24,558
+2020-04-13,Saarland,Germany,2138,665,50,1423
+2020-04-13,Saxony,Germany,3802,1880,69,1853
+2020-04-13,Saxony-Anhalt,Germany,1210,613,25,572
 2020-04-13,Sleswick-Holsatia,Germany,2135,1300,45,790
-2020-04-13,Thuringia,Germany,1485,850,27,608
-2020-04-13,other cases in Germany,Germany,2309,4500,99,-2290
+2020-04-13,Thuringia,Germany,1494,890,28,576
+2020-04-13,other cases in Germany,Germany,1438,4500,52,-3114
 2020-04-13,Faroe Islands,Denmark,184,157,0,27
 2020-04-13,Greenland,Denmark,11,11,0,0
 2020-04-13,French Polynesia,France,53,0,0,53
 2020-04-13,French Guiana,France,86,51,0,35
 2020-04-13,Guadeloupe,France,143,67,8,68
 2020-04-13,Martinique,France,157,50,6,101
-2020-04-13,Mayotte,France,196,59,3,134
+2020-04-13,Mayotte,France,207,59,3,145
 2020-04-13,New Caledonia,France,18,1,0,17
-2020-04-13,Réunion,France,389,40,0,349
+2020-04-13,Réunion,France,391,40,0,351
 2020-04-13,Saint Barthélemy,France,6,4,0,2
 2020-04-13,Saint Martin,France,32,11,2,19
 2020-04-13,Saint Pierre and Miquelon,France,1,0,0,1
@@ -25928,7 +25928,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,British Virgin Islands,United Kingdom,3,2,0,1
 2020-04-13,Cayman Islands,United Kingdom,53,6,1,46
 2020-04-13,Gibraltar,United Kingdom,129,84,0,45
-2020-04-13,Isle of Man,United Kingdom,232,131,2,99
+2020-04-13,Isle of Man,United Kingdom,242,131,2,109
 2020-04-13,Channel Islands,United Kingdom,431,48,9,374
 2020-04-13,Montserrat,United Kingdom,11,1,0,10
 2020-04-13,Turks and Caicos Islands,United Kingdom,9,0,1,8
@@ -25983,58 +25983,58 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,Rostock,Mecklenburg-Western Pomerania,72,0,1,71
 2020-04-13,Rostock (Kreis),Mecklenburg-Western Pomerania,54,0,2,52
 2020-04-13,Schwerin,Mecklenburg-Western Pomerania,86,0,0,86
-2020-04-13,Vorpommern-Greifswald (Kreis),Mecklenburg-Western Pomerania,108,0,1,107
+2020-04-13,Vorpommern-Greifswald (Kreis),Mecklenburg-Western Pomerania,109,0,1,108
 2020-04-13,Vorpommern-Rügen (Kreis),Mecklenburg-Western Pomerania,73,0,2,71
-2020-04-13,other cases in Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,0,261,0,-261
+2020-04-13,other cases in Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,1,261,0,-260
 2020-04-13,Aruba,Netherlands,92,32,0,60
 2020-04-13,"Bonaire, Sint Eustatius and Saba",Netherlands,3,0,0,3
 2020-04-13,Curaçao,Netherlands,14,8,1,5
 2020-04-13,Sint Maarten,Netherlands,50,5,9,36
-2020-04-13,Ammerland (Kreis),Lower Saxony,130,1,2,127
+2020-04-13,Ammerland (Kreis),Lower Saxony,136,1,2,133
 2020-04-13,Aurich (Kreis),Lower Saxony,70,2,3,65
-2020-04-13,Braunschweig,Lower Saxony,270,1,7,262
-2020-04-13,Celle (Kreis),Lower Saxony,126,3,7,116
-2020-04-13,Cloppenburg (Kreis),Lower Saxony,76,0,0,76
+2020-04-13,Braunschweig,Lower Saxony,272,1,7,264
+2020-04-13,Celle (Kreis),Lower Saxony,131,3,7,121
+2020-04-13,Cloppenburg (Kreis),Lower Saxony,83,0,0,83
 2020-04-13,Cuxhaven (Kreis),Lower Saxony,75,0,3,72
 2020-04-13,Delmenhorst,Lower Saxony,29,1,2,26
-2020-04-13,Diepholz (Kreis),Lower Saxony,247,2,8,237
+2020-04-13,Diepholz (Kreis),Lower Saxony,253,2,8,243
 2020-04-13,Emden,Lower Saxony,14,0,0,14
-2020-04-13,Emsland (Kreis),Lower Saxony,289,3,10,276
-2020-04-13,Friesland (Kreis),Lower Saxony,24,0,1,23
-2020-04-13,Gifhorn (Kreis),Lower Saxony,104,0,2,102
+2020-04-13,Emsland (Kreis),Lower Saxony,300,3,10,287
+2020-04-13,Friesland (Kreis),Lower Saxony,26,0,1,25
+2020-04-13,Gifhorn (Kreis),Lower Saxony,107,0,2,105
 2020-04-13,Goslar (Kreis),Lower Saxony,112,3,3,106
-2020-04-13,Grafschaft Bentheim (Kreis),Lower Saxony,170,1,9,160
-2020-04-13,Göttingen (Kreis),Lower Saxony,385,1,9,375
+2020-04-13,Grafschaft Bentheim (Kreis),Lower Saxony,172,1,9,162
+2020-04-13,Göttingen (Kreis),Lower Saxony,438,1,11,426
 2020-04-13,Hameln-Pyrmont (Kreis),Lower Saxony,94,1,3,90
-2020-04-13,Hannover (Region),Lower Saxony,1462,10,25,1427
-2020-04-13,Harburg (Kreis),Lower Saxony,362,1,6,355
+2020-04-13,Hannover (Region),Lower Saxony,1482,10,27,1445
+2020-04-13,Harburg (Kreis),Lower Saxony,366,1,6,359
 2020-04-13,Heidekreis (Kreis),Lower Saxony,52,0,1,51
 2020-04-13,Helmstedt (Kreis),Lower Saxony,82,0,0,82
-2020-04-13,Hildesheim (Kreis),Lower Saxony,224,1,1,222
+2020-04-13,Hildesheim (Kreis),Lower Saxony,227,1,1,225
 2020-04-13,Holzminden (Kreis),Lower Saxony,95,1,2,92
-2020-04-13,Leer (Kreis),Lower Saxony,68,1,1,66
+2020-04-13,Leer (Kreis),Lower Saxony,69,1,1,67
 2020-04-13,Lüchow-Dannenberg (Kreis),Lower Saxony,14,0,2,12
 2020-04-13,Lüneburg (Kreis),Lower Saxony,138,0,0,138
 2020-04-13,Nienburg/Weser (Kreis),Lower Saxony,59,0,1,58
 2020-04-13,Northeim (Kreis),Lower Saxony,79,0,0,79
-2020-04-13,Oldenburg,Lower Saxony,144,0,0,144
-2020-04-13,Oldenburg (Kreis),Lower Saxony,166,1,7,158
-2020-04-13,Osnabrück,Lower Saxony,377,1,7,369
-2020-04-13,Osnabrück (Kreis),Lower Saxony,745,6,18,721
+2020-04-13,Oldenburg,Lower Saxony,148,0,0,148
+2020-04-13,Oldenburg (Kreis),Lower Saxony,179,1,8,170
+2020-04-13,Osnabrück,Lower Saxony,379,1,7,371
+2020-04-13,Osnabrück (Kreis),Lower Saxony,752,6,20,726
 2020-04-13,Osterholz (Kreis),Lower Saxony,68,0,0,68
 2020-04-13,Peine (Kreis),Lower Saxony,127,1,6,120
-2020-04-13,Rotenburg/Wümme (Kreis),Lower Saxony,75,1,1,73
+2020-04-13,Rotenburg/Wümme (Kreis),Lower Saxony,79,1,1,77
 2020-04-13,Salzgitter,Lower Saxony,97,1,3,93
-2020-04-13,Schaumburg (Kreis),Lower Saxony,120,0,1,119
+2020-04-13,Schaumburg (Kreis),Lower Saxony,123,0,1,122
 2020-04-13,Stade (Kreis),Lower Saxony,168,1,5,162
-2020-04-13,Uelzen (Kreis),Lower Saxony,33,0,0,33
+2020-04-13,Uelzen (Kreis),Lower Saxony,34,0,0,34
 2020-04-13,Vechta (Kreis),Lower Saxony,270,2,7,261
 2020-04-13,Verden (Kreis),Lower Saxony,107,1,1,105
-2020-04-13,Wesermarsch (Kreis),Lower Saxony,49,0,1,48
+2020-04-13,Wesermarsch (Kreis),Lower Saxony,51,0,1,50
 2020-04-13,Wilhelmshaven,Lower Saxony,15,0,0,15
-2020-04-13,Wittmund (Kreis),Lower Saxony,20,0,0,20
+2020-04-13,Wittmund (Kreis),Lower Saxony,21,0,0,21
 2020-04-13,Wolfenbüttel (Kreis),Lower Saxony,109,0,1,108
-2020-04-13,Wolfsburg,Lower Saxony,248,24,36,188
+2020-04-13,Wolfsburg,Lower Saxony,249,24,39,186
 2020-04-13,other cases in Lower Saxony,Lower Saxony,0,0,0,0
 2020-04-13,Aachen & Städteregion Aachen,North Rhine-Westphalia,1532,906,51,575
 2020-04-13,Bielefeld,North Rhine-Westphalia,292,122,1,169
@@ -26127,41 +26127,41 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,Worms,Rhineland-Palatinate,140,0,6,134
 2020-04-13,Zweibrücken,Rhineland-Palatinate,30,0,0,30
 2020-04-13,other cases in Rhineland-Palatinate,Rhineland-Palatinate,0,0,0,0
-2020-04-13,Merzig-Wadern,Saarland,168,0,1,167
-2020-04-13,Neunkirchen,Saarland,190,0,0,190
+2020-04-13,Merzig-Wadern,Saarland,169,0,1,168
+2020-04-13,Neunkirchen,Saarland,199,0,0,199
 2020-04-13,Saarbrücken,Saarland,930,0,13,917
-2020-04-13,Saarlouis,Saarland,402,0,4,398
-2020-04-13,Saarpfalz,Saarland,281,0,3,278
+2020-04-13,Saarlouis,Saarland,408,0,4,404
+2020-04-13,Saarpfalz,Saarland,282,0,3,279
 2020-04-13,St. Wendel,Saarland,150,0,2,148
-2020-04-13,other cases in Saarland,Saarland,0,502,20,-522
+2020-04-13,other cases in Saarland,Saarland,0,502,27,-529
 2020-04-13,Bautzen (Kreis),Saxony,242,5,3,234
-2020-04-13,Chemnitz,Saxony,172,0,3,169
+2020-04-13,Chemnitz,Saxony,177,0,3,174
 2020-04-13,Dresden,Saxony,491,0,4,487
 2020-04-13,Erzgebirgskreis,Saxony,397,0,17,380
 2020-04-13,Görlitz (Kreis),Saxony,215,0,9,206
-2020-04-13,Leipzig,Saxony,476,0,1,475
+2020-04-13,Leipzig,Saxony,483,0,1,482
 2020-04-13,Leipzig (Kreis),Saxony,176,0,4,172
-2020-04-13,Meißen (Kreis),Saxony,170,0,6,164
-2020-04-13,Mittelsachsen (Kreis),Saxony,220,0,1,219
+2020-04-13,Meißen (Kreis),Saxony,174,0,7,167
+2020-04-13,Mittelsachsen (Kreis),Saxony,222,0,1,221
 2020-04-13,Nordsachsen (Kreis),Saxony,95,0,0,95
-2020-04-13,Sächsische Schweiz-Osterzgebirge (Kreis),Saxony,295,0,1,294
+2020-04-13,Sächsische Schweiz-Osterzgebirge (Kreis),Saxony,297,0,1,296
 2020-04-13,Vogtlandkreis,Saxony,217,0,1,216
-2020-04-13,Zwickau (Kreis),Saxony,598,0,18,580
-2020-04-13,other cases in Saxony,Saxony,0,0,0,0
+2020-04-13,Zwickau (Kreis),Saxony,616,0,18,598
+2020-04-13,other cases in Saxony,Saxony,0,1880,0,-1880
 2020-04-13,Altmarkkreis Salzwedel,Saxony-Anhalt,28,0,0,28
 2020-04-13,Anhalt-Bitterfeld (Kreis),Saxony-Anhalt,49,0,0,49
-2020-04-13,Burgenlandkreis,Saxony-Anhalt,56,0,0,56
-2020-04-13,Börde (Kreis),Saxony-Anhalt,88,0,1,87
-2020-04-13,Dessau,Saxony-Anhalt,50,1,1,48
-2020-04-13,Halle,Saxony-Anhalt,258,2,9,247
-2020-04-13,Harz (Kreis),Saxony-Anhalt,139,1,1,137
+2020-04-13,Burgenlandkreis,Saxony-Anhalt,57,0,0,57
+2020-04-13,Börde (Kreis),Saxony-Anhalt,90,0,1,89
+2020-04-13,Dessau,Saxony-Anhalt,53,1,1,51
+2020-04-13,Halle,Saxony-Anhalt,260,2,9,249
+2020-04-13,Harz (Kreis),Saxony-Anhalt,142,1,1,140
 2020-04-13,Jerichower Land (Kreis),Saxony-Anhalt,28,0,1,27
-2020-04-13,Magdeburg,Saxony-Anhalt,94,1,1,92
+2020-04-13,Magdeburg,Saxony-Anhalt,95,1,1,93
 2020-04-13,Mansfeld-Südharz (Kreis),Saxony-Anhalt,35,0,1,34
 2020-04-13,Saalekreis,Saxony-Anhalt,97,0,3,94
 2020-04-13,Salzlandkreis,Saxony-Anhalt,60,0,0,60
-2020-04-13,Stendal (Kreis),Saxony-Anhalt,74,1,3,70
-2020-04-13,Wittenberg (Kreis),Saxony-Anhalt,139,1,3,135
+2020-04-13,Stendal (Kreis),Saxony-Anhalt,75,1,4,70
+2020-04-13,Wittenberg (Kreis),Saxony-Anhalt,141,1,3,137
 2020-04-13,Dithmarschen (Kreis),Sleswick-Holsatia,53,0,1,52
 2020-04-13,Flensburg,Sleswick-Holsatia,33,0,1,32
 2020-04-13,Herzogtum Lauenburg (Kreis),Sleswick-Holsatia,198,0,3,195
@@ -26179,42 +26179,42 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,Stormarn (Kreis),Sleswick-Holsatia,222,0,3,219
 2020-04-13,other cases in Sleswick-Holsatia,Sleswick-Holsatia,0,1300,10,-1310
 2020-04-13,Altenburger Land (Kreis),Thuringia,36,0,0,36
-2020-04-13,Eichsfeld (Kreis),Thuringia,89,1,1,87
-2020-04-13,Eisenach,Thuringia,12,0,0,12
-2020-04-13,Erfurt,Thuringia,112,0,1,111
+2020-04-13,Eichsfeld (Kreis),Thuringia,89,1,2,86
+2020-04-13,Eisenach,Thuringia,12,0,1,11
+2020-04-13,Erfurt,Thuringia,113,0,1,112
 2020-04-13,Gera,Thuringia,53,0,0,53
-2020-04-13,Gotha (Kreis),Thuringia,63,0,1,62
-2020-04-13,Greiz (Kreis),Thuringia,234,5,12,217
+2020-04-13,Gotha (Kreis),Thuringia,66,0,1,65
+2020-04-13,Greiz (Kreis),Thuringia,244,5,13,226
 2020-04-13,Hildburghausen (Kreis),Thuringia,11,0,1,10
 2020-04-13,Ilm-Kreis,Thuringia,102,1,2,99
-2020-04-13,Jena,Thuringia,153,1,1,151
+2020-04-13,Jena,Thuringia,155,1,1,153
 2020-04-13,Kyffhäuserkreis,Thuringia,36,0,0,36
 2020-04-13,Nordhausen (Kreis),Thuringia,29,0,0,29
 2020-04-13,Saale-Holzland-Kreis,Thuringia,50,0,0,50
-2020-04-13,Saale-Orla-Kreis,Thuringia,92,0,3,89
+2020-04-13,Saale-Orla-Kreis,Thuringia,95,0,3,92
 2020-04-13,Saalfeld-Rudolstadt (Kreis),Thuringia,55,0,0,55
 2020-04-13,Schmalkalden-Meiningen (Kreis),Thuringia,54,0,0,54
 2020-04-13,Sonneberg (Kreis),Thuringia,49,1,1,47
 2020-04-13,Suhl,Thuringia,11,0,1,10
 2020-04-13,Sömmerda(Kreis),Thuringia,32,0,0,32
-2020-04-13,Unstrut-Hainich-Kreis,Thuringia,51,0,0,51
+2020-04-13,Unstrut-Hainich-Kreis,Thuringia,52,0,0,52
 2020-04-13,Wartburgkreis,Thuringia,33,0,0,33
-2020-04-13,Weimar,Thuringia,55,0,0,55
+2020-04-13,Weimar,Thuringia,58,0,0,58
 2020-04-13,Weimarer Land (Kreis),Thuringia,59,0,1,58
 2020-04-13,other cases in Thuringia,Thuringia,0,0,0,0
-2020-04-13,Alabama,USA,3583,0,93,3490
+2020-04-13,Alabama,USA,3649,0,96,3553
 2020-04-13,Alaska,USA,272,0,8,264
 2020-04-13,American Virgin Islands,USA,51,0,1,50
 2020-04-13,Arizona,USA,3542,0,115,3427
-2020-04-13,Arkansas,USA,1280,0,27,1253
-2020-04-13,California,USA,23311,0,682,22629
+2020-04-13,Arkansas,USA,1398,0,29,1369
+2020-04-13,California,USA,23458,0,683,22775
 2020-04-13,Colorado,USA,7307,0,289,7018
 2020-04-13,Connecticut,USA,12035,0,554,11481
 2020-04-13,Delaware,USA,1625,0,35,1590
 2020-04-13,District of Columbia,USA,1875,0,50,1825
-2020-04-13,Florida,USA,19895,0,461,19434
-2020-04-13,Recovered,USA,0,41831,0,-41831
-2020-04-13,Georgia,USA,12550,0,442,12108
+2020-04-13,Florida,USA,20601,0,470,20131
+2020-04-13,Recovered,USA,0,42033,0,-42033
+2020-04-13,Georgia,USA,13315,0,465,12850
 2020-04-13,Guam,USA,133,0,5,128
 2020-04-13,Hawaii,USA,499,0,9,490
 2020-04-13,Idaho,USA,1426,0,27,1399
@@ -26224,12 +26224,12 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,Kansas,USA,1337,0,56,1281
 2020-04-13,Kentucky,USA,2018,0,113,1905
 2020-04-13,Louisiana,USA,20595,0,840,19755
-2020-04-13,Maine,USA,633,0,19,614
-2020-04-13,Maryland,USA,8225,0,235,7990
+2020-04-13,Maine,USA,698,0,19,679
+2020-04-13,Maryland,USA,8936,0,262,8674
 2020-04-13,Massachusetts,USA,25475,0,756,24719
 2020-04-13,Michigan,USA,24244,0,1479,22765
 2020-04-13,Minnesota,USA,1621,0,70,1551
-2020-04-13,Mississippi,USA,2781,0,96,2685
+2020-04-13,Mississippi,USA,2942,0,98,2844
 2020-04-13,Missouri,USA,4272,0,118,4154
 2020-04-13,Montana,USA,387,0,6,381
 2020-04-13,Nebraska,USA,814,0,17,797
@@ -26237,23 +26237,23 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-04-13,New Hampshire,USA,985,0,23,962
 2020-04-13,New Jersey,USA,61850,0,2350,59500
 2020-04-13,New Mexico,USA,1245,0,26,1219
-2020-04-13,New York,USA,190288,0,9385,180903
+2020-04-13,New York,USA,190288,0,10056,180232
 2020-04-13,North Carolina,USA,4602,0,91,4511
-2020-04-13,North Dakota,USA,308,0,8,300
+2020-04-13,North Dakota,USA,331,0,8,323
 2020-04-13,Northern Mariana Islands,USA,11,0,2,9
 2020-04-13,Ohio,USA,6604,0,253,6351
 2020-04-13,Oklahoma,USA,1970,0,96,1874
 2020-04-13,Oregon,USA,1527,0,52,1475
-2020-04-13,Pennsylvania,USA,22997,0,557,22440
-2020-04-13,Puerto Rico,USA,897,0,44,853
+2020-04-13,Pennsylvania,USA,23036,0,561,22475
+2020-04-13,Puerto Rico,USA,903,0,45,858
 2020-04-13,Rhode Island,USA,2665,0,63,2602
 2020-04-13,South Carolina,USA,3320,0,82,3238
 2020-04-13,South Dakota,USA,730,0,6,724
 2020-04-13,Tennessee,USA,5508,0,106,5402
 2020-04-13,Texas,USA,13886,0,296,13590
 2020-04-13,Utah,USA,2303,0,18,2285
-2020-04-13,Vermont,USA,727,0,27,700
-2020-04-13,Virginia,USA,5274,0,141,5133
+2020-04-13,Vermont,USA,748,0,28,720
+2020-04-13,Virginia,USA,5747,0,149,5598
 2020-04-13,Washington,USA,10530,0,510,10020
 2020-04-13,West Virginia,USA,611,0,8,603
 2020-04-13,Wisconsin,USA,3341,0,144,3197
