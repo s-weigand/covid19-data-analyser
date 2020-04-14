@@ -51,6 +51,12 @@ setup(
         "Source": "https://github.com/s-weigand/covid19-data-analyzer",
         "Tracker": "https://github.com/s-weigand/covid19-data-analyzer/issues",
     },
+    platforms="any",
+    entry_points={
+        "console_scripts": [
+            "covid19_dashboard = covid19_data_analyzer.dashboard.index:run_dashboard_server",
+        ]
+    },
     version="0.1.0",
     zip_safe=False,
 )

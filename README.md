@@ -9,7 +9,7 @@ Thus this little project tries to provide you with the data and a small toolset
 to understand, what the current state of the covid19 pandemic is right now.
 
 The code of this repository is the basis for [istcoronaexponentiell.de](https://vm-1.istcoronaexponentiell.de/),
-where this projects interactive dashboard will be hosted.
+where this projects interactive dashboard is hosted.
 
 # Usage
 
@@ -19,6 +19,7 @@ where this projects interactive dashboard will be hosted.
 
    ```bash
    pip install -r requirements.txt
+   pip install -e .
    ```
 
 3. Analyse the data yourself using the jupyter notebook and play with the dashboard
@@ -29,8 +30,8 @@ where this projects interactive dashboard will be hosted.
      jupyter lab
      ```
 
-   - Start the dash server
+   - Start the dashboard server
 
      ```bash
-     python dashboard.py
+     covid19_dashboard
      ```
