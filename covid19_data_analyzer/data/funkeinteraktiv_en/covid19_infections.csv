@@ -32417,56 +32417,56 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-21,West Virginia,USA,1852994.0,908,0,26,882
 2020-04-21,Wisconsin,USA,5686986.0,4625,0,244,4381
 2020-04-21,Wyoming,USA,563626.0,443,0,2,441
-2020-04-22,Afghanistan,#Global,32225560.0,1092,150,36,906
-2020-04-22,Albania,#Global,2845955.0,609,345,26,238
+2020-04-22,Afghanistan,#Global,32225560.0,1143,166,40,937
+2020-04-22,Albania,#Global,2845955.0,634,356,27,251
 2020-04-22,Algeria,#Global,43000000.0,2811,1152,392,1267
 2020-04-22,Andorra,#Global,77543.0,717,282,37,398
 2020-04-22,Angola,#Global,31127674.0,24,6,2,16
 2020-04-22,Antigua and Barbuda,#Global,96453.0,24,7,3,14
 2020-04-22,Argentina,#Global,44938712.0,3144,840,151,2153
-2020-04-22,Armenia,#Global,2957500.0,1401,609,24,768
+2020-04-22,Armenia,#Global,2957500.0,1473,633,24,816
 2020-04-22,Azerbaijan,#Global,10067108.0,1480,865,20,595
 2020-04-22,Australia,#Global,25677680.0,6547,4124,67,2356
 2020-04-22,Bahamas,#Global,385340.0,65,12,9,44
 2020-04-22,Bahrain,#Global,1543300.0,1973,784,7,1182
-2020-04-22,Bangladesh,#Global,168439432.0,3382,87,110,3185
+2020-04-22,Bangladesh,#Global,168439432.0,3772,92,120,3560
 2020-04-22,Barbados,#Global,287025.0,75,25,5,45
-2020-04-22,Belarus,#Global,9408400.0,6723,577,55,6091
-2020-04-22,Belgium,#Global,11524454.0,40956,9002,5998,25956
+2020-04-22,Belarus,#Global,9408400.0,7281,769,58,6454
+2020-04-22,Belgium,#Global,11524454.0,41889,9433,6262,26194
 2020-04-22,Belize,#Global,408487.0,18,2,2,14
 2020-04-22,Benin,#Global,11733059.0,54,27,1,26
 2020-04-22,Bhutan,#Global,741672.0,6,2,0,4
 2020-04-22,Bolivia,#Global,11469896.0,609,44,37,528
-2020-04-22,Bosnia and Herzegovina,#Global,3301000.0,1342,437,51,854
+2020-04-22,Bosnia and Herzegovina,#Global,3301000.0,1368,460,53,855
 2020-04-22,Botswana,#Global,2338851.0,20,0,1,19
 2020-04-22,Brazil,#Global,211389669.0,43368,24325,2761,16282
-2020-04-22,Brunei,#Global,442400.0,138,116,1,21
+2020-04-22,Brunei,#Global,442400.0,138,117,1,20
 2020-04-22,Bulgaria,#Global,7000039.0,1015,174,47,794
 2020-04-22,Burkina Faso,#Global,20870060.0,600,362,38,200
 2020-04-22,Burundi,#Global,10953317.0,11,4,1,6
 2020-04-22,Chile,#Global,19107216.0,10832,4969,147,5716
-2020-04-22,China,#Global,1386800000.0,82790,77151,4632,1007
+2020-04-22,China,#Global,1386800000.0,82790,77157,4632,1001
 2020-04-22,Costa Rica,#Global,5058007.0,669,150,6,513
-2020-04-22,Democratic Republic of the Congo,#Global,89561404.0,350,35,25,290
-2020-04-22,Germany,#Global,83149300.0,148453,99400,5086,43967
+2020-04-22,Democratic Republic of the Congo,#Global,89561404.0,359,45,25,289
+2020-04-22,Germany,#Global,83149300.0,148704,99400,5100,44204
 2020-04-22,Dominica,#Global,71808.0,16,9,0,7
 2020-04-22,Dominican Republic,#Global,10358320.0,5044,463,245,4336
 2020-04-22,Djibouti,#Global,1078373.0,945,112,2,831
-2020-04-22,Denmark,#Global,5822763.0,7695,4700,370,2625
+2020-04-22,Denmark,#Global,5822763.0,7912,4700,370,2842
 2020-04-22,Ecuador,#Global,16800000.0,10398,1207,520,8671
-2020-04-22,El Salvador,#Global,6486201.0,225,48,7,170
+2020-04-22,El Salvador,#Global,6486201.0,237,63,7,167
 2020-04-22,Ivory Coast,#Global,25823071.0,916,303,13,600
 2020-04-22,Eritrea,#Global,3497117.0,39,6,0,33
-2020-04-22,Estonia,#Global,1328360.0,1552,169,43,1340
+2020-04-22,Estonia,#Global,1328360.0,1559,184,44,1331
 2020-04-22,Eswatini,#Global,1136191.0,31,8,1,22
 2020-04-22,Falkland Islands (Malvinas),#Global,3198.0,11,3,0,8
 2020-04-22,Fiji,#Global,884887.0,18,8,0,10
-2020-04-22,Finland,#Global,5527573.0,4014,2000,141,1873
+2020-04-22,Finland,#Global,5527573.0,4129,2000,141,1988
 2020-04-22,France,#Global,67076000.0,117324,39181,20796,57347
 2020-04-22,Gabon,#Global,2172579.0,156,16,1,139
 2020-04-22,Gambia,#Global,2347706.0,10,2,1,7
-2020-04-22,Georgia,#Global,3723464.0,408,97,4,307
-2020-04-22,Ghana,#Global,30280811.0,1042,99,9,934
+2020-04-22,Georgia,#Global,3723464.0,411,98,5,308
+2020-04-22,Ghana,#Global,30280811.0,1154,99,9,1046
 2020-04-22,Grenada,#Global,112003.0,14,6,0,8
 2020-04-22,Greece,#Global,10724599.0,2401,577,121,1703
 2020-04-22,United Kingdom,#Global,66435550.0,129044,0,17337,111707
@@ -32476,23 +32476,23 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Guyana,#Global,782766.0,66,9,7,50
 2020-04-22,Haiti,#Global,11577779.0,58,2,4,52
 2020-04-22,Honduras,#Global,9158345.0,510,30,46,434
-2020-04-22,India,#Global,1361020116.0,20111,3975,645,15491
-2020-04-22,Indonesia,#Global,266911900.0,7135,842,616,5677
+2020-04-22,India,#Global,1361020116.0,20178,3976,645,15557
+2020-04-22,Indonesia,#Global,266911900.0,7418,913,635,5870
 2020-04-22,Iraq,#Global,39127900.0,1602,1096,83,423
-2020-04-22,Iran,#Global,83363802.0,84802,60965,5297,18540
+2020-04-22,Iran,#Global,83363802.0,85996,63113,5391,17492
 2020-04-22,Ireland,#Global,4921500.0,16040,9233,730,6077
 2020-04-22,Iceland,#Global,364260.0,1778,1417,10,351
-2020-04-22,Israel,#Global,9185400.0,13942,4507,184,9251
+2020-04-22,Israel,#Global,9185400.0,14326,4961,187,9178
 2020-04-22,Italy,#Global,60238522.0,183957,51600,24648,107709
 2020-04-22,Jamaica,#Global,2726667.0,233,27,6,200
 2020-04-22,Japan,#Global,125950000.0,11512,1356,281,9875
 2020-04-22,Yemen,#Global,29825968.0,1,0,0,1
 2020-04-22,Jordan,#Global,10658084.0,428,297,7,124
 2020-04-22,Cambodia,#Global,15288489.0,122,110,0,12
-2020-04-22,Cameroon,#Global,26545864.0,1163,329,43,791
+2020-04-22,Cameroon,#Global,26545864.0,1163,331,43,789
 2020-04-22,Canada,#Global,37993130.0,39392,13190,1915,24287
 2020-04-22,Cape Verde,#Global,550483.0,68,1,1,66
-2020-04-22,Kazakhstan,#Global,18681864.0,2025,489,19,1517
+2020-04-22,Kazakhstan,#Global,18681864.0,2047,505,19,1523
 2020-04-22,Qatar,#Global,2747282.0,6533,614,9,5910
 2020-04-22,Kenya,#Global,47564296.0,296,74,14,208
 2020-04-22,Kyrgyzstan,#Global,6533500.0,612,254,7,351
@@ -32500,33 +32500,33 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Kosovo,#Global,1795666.0,510,93,12,405
 2020-04-22,Croatia,#Global,4076246.0,1908,801,48,1059
 2020-04-22,Cuba,#Global,11209628.0,1137,309,38,790
-2020-04-22,Kuwait,#Global,4420110.0,2080,412,11,1657
-2020-04-22,Laos,#Global,7123205.0,19,2,0,17
-2020-04-22,Latvia,#Global,1906800.0,748,133,9,606
-2020-04-22,Lebanon,#Global,6825442.0,677,108,21,548
+2020-04-22,Kuwait,#Global,4420110.0,2248,443,13,1792
+2020-04-22,Laos,#Global,7123205.0,19,4,0,15
+2020-04-22,Latvia,#Global,1906800.0,761,133,11,617
+2020-04-22,Lebanon,#Global,6825442.0,682,108,22,552
 2020-04-22,Liberia,#Global,4475353.0,101,7,8,86
 2020-04-22,Libya,#Global,6871287.0,59,15,1,43
 2020-04-22,Liechtenstein,#Global,38749.0,81,55,1,25
 2020-04-22,Lithuania,#Global,2793471.0,1370,357,38,975
 2020-04-22,Luxembourg,#Global,626108.0,3618,670,78,2870
 2020-04-22,Madagascar,#Global,26251309.0,121,44,0,77
-2020-04-22,Malawi,#Global,18600000.0,18,3,2,13
-2020-04-22,Malaysia,#Global,32749760.0,5482,3349,92,2041
+2020-04-22,Malawi,#Global,18600000.0,23,3,2,18
+2020-04-22,Malaysia,#Global,32749760.0,5532,3452,93,1987
 2020-04-22,Maledives,#Global,374775.0,86,16,0,70
 2020-04-22,Libya,#Global,20250833.0,258,57,14,187
-2020-04-22,Malta,#Global,493559.0,443,150,3,290
-2020-04-22,Morocco,#Global,35868274.0,3209,393,145,2671
+2020-04-22,Malta,#Global,493559.0,444,165,3,276
+2020-04-22,Morocco,#Global,35868274.0,3377,398,149,2830
 2020-04-22,Mauritania,#Global,4077347.0,7,6,1,0
 2020-04-22,Mauritius,#Global,1300000.0,328,243,9,76
 2020-04-22,Mexico,#Global,126577691.0,9501,2627,857,6017
-2020-04-22,Moldova,#Global,2681735.0,2614,505,72,2037
+2020-04-22,Moldova,#Global,2681735.0,2614,560,73,1981
 2020-04-22,Monaco,#Global,38300.0,94,26,3,65
 2020-04-22,Mongolia,#Global,3312557.0,35,8,0,27
-2020-04-22,Montenegro,#Global,622359.0,313,101,5,207
+2020-04-22,Montenegro,#Global,622359.0,314,101,5,208
 2020-04-22,Mozambique,#Global,30066648.0,39,8,0,31
 2020-04-22,Myanmar,#Global,54339766.0,121,7,5,109
 2020-04-22,Namibia,#Global,2458936.0,16,6,0,10
-2020-04-22,Nepal,#Global,29996478.0,42,5,0,37
+2020-04-22,Nepal,#Global,29996478.0,45,7,0,38
 2020-04-22,New Zealand,#Global,4978026.0,1451,1036,14,401
 2020-04-22,Nicaragua,#Global,6460411.0,10,7,2,1
 2020-04-22,Netherlands,#Global,17455231.0,34134,0,3916,30218
@@ -32534,37 +32534,37 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Nigeria,#Global,206139587.0,782,197,25,560
 2020-04-22,North Macedonia,#Global,2077132.0,1231,224,55,952
 2020-04-22,Norway,#Global,5367580.0,7241,32,182,7027
-2020-04-22,Oman,#Global,4664790.0,1508,238,8,1262
+2020-04-22,Oman,#Global,4664790.0,1614,238,8,1368
 2020-04-22,East Timor,#Global,1387149.0,23,1,0,22
 2020-04-22,Pakistan,#Global,219280520.0,9749,2156,209,7384
-2020-04-22,Palestinian territories,#Global,4900000.0,466,71,4,391
+2020-04-22,Palestinian territories,#Global,4900000.0,474,71,4,399
 2020-04-22,Panama,#Global,4218808.0,4821,231,141,4449
-2020-04-22,Papua New Guinea,#Global,8935000.0,7,0,0,7
+2020-04-22,Papua New Guinea,#Global,8935000.0,8,0,0,8
 2020-04-22,Paraguay,#Global,7152703.0,213,62,9,142
 2020-04-22,Peru,#Global,32131400.0,17837,6982,484,10371
-2020-04-22,Philippines,#Global,108539263.0,6599,654,437,5508
-2020-04-22,Poland,#Global,38379000.0,9856,1297,401,8158
+2020-04-22,Philippines,#Global,108539263.0,6710,693,446,5571
+2020-04-22,Poland,#Global,38379000.0,10034,1513,404,8117
 2020-04-22,Portugal,#Global,10276617.0,21379,917,762,19700
 2020-04-22,Republic of the Congo,#Global,5518092.0,165,16,6,143
 2020-04-22,Rwanda,#Global,12374397.0,150,84,0,66
-2020-04-22,Romania,#Global,19405156.0,9242,2153,498,6591
-2020-04-22,Russia,#Global,146745098.0,52763,3873,456,48434
-2020-04-22,Zambia,#Global,17885422.0,70,35,3,32
+2020-04-22,Romania,#Global,19405156.0,9710,2406,508,6796
+2020-04-22,Russia,#Global,146745098.0,57999,4420,513,53066
+2020-04-22,Zambia,#Global,17885422.0,74,35,3,36
 2020-04-22,San Marino,#Global,33574.0,476,62,40,374
 2020-04-22,Saudi Arabia,#Global,34218169.0,11631,1640,109,9882
 2020-04-22,Sweden,#Global,10338368.0,15322,550,1765,13007
-2020-04-22,Switzerland,#Global,8603900.0,28063,19400,1478,7185
-2020-04-22,Senegal,#Global,16209125.0,412,242,5,165
+2020-04-22,Switzerland,#Global,8603900.0,28268,19400,1478,7390
+2020-04-22,Senegal,#Global,16209125.0,442,253,6,183
 2020-04-22,Serbia,#Global,6963764.0,6630,870,125,5635
 2020-04-22,Seychelles,#Global,90000.0,11,5,0,6
 2020-04-22,Sierra Leone,#Global,7901454.0,50,6,0,44
 2020-04-22,Zimbabwe,#Global,15159624.0,28,2,3,23
-2020-04-22,Singapore,#Global,5703600.0,9125,839,11,8275
-2020-04-22,Slovakia,#Global,5456362.0,1199,258,14,927
-2020-04-22,Slovenia,#Global,2094060.0,1344,197,77,1070
+2020-04-22,Singapore,#Global,5703600.0,10141,839,11,9291
+2020-04-22,Slovakia,#Global,5456362.0,1244,284,14,946
+2020-04-22,Slovenia,#Global,2094060.0,1353,205,79,1069
 2020-04-22,Somalia,#Global,15893219.0,286,4,8,274
-2020-04-22,Spain,#Global,47100396.0,204178,82514,21282,100382
-2020-04-22,Sri Lanka,#Global,21803000.0,310,102,7,201
+2020-04-22,Spain,#Global,47100396.0,208389,85915,21717,100757
+2020-04-22,Sri Lanka,#Global,21803000.0,321,104,7,210
 2020-04-22,St. Kitts and Nevis,#Global,52823.0,15,0,0,15
 2020-04-22,St. Lucia,#Global,178696.0,15,13,0,2
 2020-04-22,Saint Vincent and the Grenadines,#Global,110608.0,13,3,0,10
@@ -32576,31 +32576,31 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,South Korea,#Global,51780579.0,10694,8277,238,2179
 2020-04-22,South Sudan,#Global,12778250.0,4,0,0,4
 2020-04-22,Taiwan,#Global,23604265.0,425,217,6,202
-2020-04-22,Tanzania,#Global,55890747.0,254,11,10,233
+2020-04-22,Tanzania,#Global,55890747.0,284,11,10,263
 2020-04-22,Thailand,#Global,66493255.0,2826,2352,49,425
 2020-04-22,Togo,#Global,7538000.0,86,56,6,24
 2020-04-22,Trinidad and Tobago,#Global,1363985.0,115,28,8,79
 2020-04-22,Chad,#Global,16244513.0,33,8,0,25
-2020-04-22,Czechia,#Global,10693939.0,7033,1753,201,5079
+2020-04-22,Czechia,#Global,10693939.0,7041,1800,204,5037
 2020-04-22,Tunisia,#Global,11722038.0,901,170,38,693
 2020-04-22,Turkey,#Global,83154997.0,95591,14918,2259,78414
-2020-04-22,USA,#Global,329624709.0,812116,75658,44594,691864
-2020-04-22,Uganda,#Global,40299300.0,61,38,0,23
-2020-04-22,Ukraine,#Global,41879904.0,6125,367,161,5597
+2020-04-22,USA,#Global,329624709.0,812239,75673,44599,691967
+2020-04-22,Uganda,#Global,40299300.0,61,41,0,20
+2020-04-22,Ukraine,#Global,41879904.0,6592,424,174,5994
 2020-04-22,Hungary,#Global,9772756.0,2168,295,225,1648
 2020-04-22,Uruguay,#Global,3518552.0,543,324,12,207
-2020-04-22,Uzbekistan,#Global,34126048.0,1692,357,6,1329
+2020-04-22,Uzbekistan,#Global,34126048.0,1692,424,7,1261
 2020-04-22,Vatican City,#Global,799.0,9,2,0,7
 2020-04-22,Venezuela,#Global,32219521.0,288,122,10,156
 2020-04-22,United Arab Emirates,#Global,9890400.0,7755,1443,46,6266
-2020-04-22,Vietnam,#Global,96208984.0,268,216,0,52
+2020-04-22,Vietnam,#Global,96208984.0,268,223,0,45
 2020-04-22,Western Sahara,#Global,582463.0,6,0,0,6
 2020-04-22,Central African Republic,#Global,5496011.0,14,10,0,4
 2020-04-22,Cyprus,#Global,875900.0,784,98,12,674
 2020-04-22,Egypt,#Global,100247225.0,3490,870,264,2356
 2020-04-22,Equatorial Guinea,#Global,1358276.0,83,7,0,76
-2020-04-22,Ethiopia,#Global,98665000.0,114,16,3,95
-2020-04-22,Austia,#Global,8902600.0,14873,10971,491,3411
+2020-04-22,Ethiopia,#Global,98665000.0,116,21,3,92
+2020-04-22,Austia,#Global,8902600.0,14925,11328,510,3087
 2020-04-22,Australian Capital Territory,Australia,358894.0,103,88,3,12
 2020-04-22,New South Wales,Australia,7238819.0,2926,1379,26,1521
 2020-04-22,Northern Territory,Australia,229675.0,28,9,0,19
@@ -32653,7 +32653,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Ulm,Baden-Württemberg,126329.0,228,178,3,47
 2020-04-22,Waldshut (Kreis),Baden-Württemberg,170619.0,278,177,29,72
 2020-04-22,Zollernalbkreis,Baden-Württemberg,188935.0,891,425,52,414
-2020-04-22,other cases in Baden-Württemberg,Baden-Württemberg,,0,886,0,-886
+2020-04-22,other cases in Baden-Württemberg,Baden-Württemberg,,105,886,1,-782
 2020-04-22,Aichach-Friedberg (Kreis),Bavaria,133596.0,264,164,17,83
 2020-04-22,Altötting (Kreis),Bavaria,111210.0,537,257,23,257
 2020-04-22,Amberg,Bavaria,41970.0,60,23,3,34
@@ -32750,7 +32750,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Wunsiedel i.Fichtelgebirge (Kreis),Bavaria,73178.0,580,473,32,75
 2020-04-22,Würzburg,Bavaria,127880.0,455,210,45,200
 2020-04-22,Würzburg (Kreis),Bavaria,161834.0,397,200,5,192
-2020-04-22,other cases in Bavaria,Bavaria,,0,2212,0,-2212
+2020-04-22,other cases in Bavaria,Bavaria,,196,2212,70,-2086
 2020-04-22,Charlottenburg-Wilmersdorf,Berlin,342332.0,630,490,15,125
 2020-04-22,Friedrichshain-Kreuzberg,Berlin,289762.0,428,369,4,55
 2020-04-22,Lichtenberg,Berlin,291452.0,202,149,5,48
@@ -32764,25 +32764,25 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Tempelhof-Schöneberg,Berlin,351644.0,544,418,13,113
 2020-04-22,Treptow-Köpenick,Berlin,271153.0,274,220,2,52
 2020-04-22,other cases in Berlin,Berlin,,0,0,11,-11
-2020-04-22,Barnim (Kreis),Brandenburg,182760.0,301,84,11,206
-2020-04-22,Brandenburg a. d. Havel,Brandenburg,72124.0,49,31,0,18
+2020-04-22,Barnim (Kreis),Brandenburg,182760.0,321,84,17,220
+2020-04-22,Brandenburg a. d. Havel,Brandenburg,72124.0,51,31,0,20
 2020-04-22,Cottbus,Brandenburg,100219.0,39,33,0,6
 2020-04-22,Dahme-Spreewald (Kreis),Brandenburg,169067.0,161,76,4,81
-2020-04-22,Elbe-Elster (Kreis),Brandenburg,102638.0,72,43,2,27
+2020-04-22,Elbe-Elster (Kreis),Brandenburg,102638.0,73,43,2,28
 2020-04-22,Frankfurt (Oder),Brandenburg,57873.0,23,22,0,1
-2020-04-22,Havelland (Kreis),Brandenburg,161909.0,143,0,5,138
+2020-04-22,Havelland (Kreis),Brandenburg,161909.0,147,0,5,142
 2020-04-22,Märkisch-Oderland (Kreis),Brandenburg,194328.0,158,100,2,56
-2020-04-22,Oberhavel (Kreis),Brandenburg,211249.0,195,112,5,78
+2020-04-22,Oberhavel (Kreis),Brandenburg,211249.0,202,112,6,84
 2020-04-22,Oberspreewald-Lausitz (Kreis),Brandenburg,110476.0,40,24,2,14
-2020-04-22,Oder-Spree (Kreis),Brandenburg,178658.0,105,73,1,31
-2020-04-22,Ostprignitz-Ruppin,Brandenburg,99078.0,43,16,0,27
+2020-04-22,Oder-Spree (Kreis),Brandenburg,178658.0,110,73,1,36
+2020-04-22,Ostprignitz-Ruppin,Brandenburg,99078.0,44,16,1,27
 2020-04-22,Potsdam,Brandenburg,178089.0,535,103,35,397
-2020-04-22,Potsdam-Mittelmark (Kreis),Brandenburg,214664.0,375,142,21,212
+2020-04-22,Potsdam-Mittelmark (Kreis),Brandenburg,214664.0,379,142,23,214
 2020-04-22,Prignitz (Kreis),Brandenburg,76508.0,23,0,0,23
-2020-04-22,Spree-Neiße (Kreis),Brandenburg,114429.0,53,51,0,2
-2020-04-22,Teltow-Fläming (Kreis),Brandenburg,168296.0,110,55,5,50
+2020-04-22,Spree-Neiße (Kreis),Brandenburg,114429.0,54,51,0,3
+2020-04-22,Teltow-Fläming (Kreis),Brandenburg,168296.0,111,55,5,51
 2020-04-22,Uckermark (Kreis),Brandenburg,119552.0,32,18,1,13
-2020-04-22,other cases in Brandenburg,Brandenburg,,0,397,0,-397
+2020-04-22,other cases in Brandenburg,Brandenburg,,0,507,0,-507
 2020-04-22,Bremen,Bremen,569352.0,595,308,26,261
 2020-04-22,Bremerhaven,Bremen,113634.0,30,26,0,4
 2020-04-22,other cases in Bremen,Bremen,,0,0,0,0
@@ -32798,9 +32798,9 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Guizhou,China,34746468.0,147,145,2,0
 2020-04-22,Hainan,China,8671518.0,168,162,6,0
 2020-04-22,Hebei,China,71854202.0,328,317,6,5
-2020-04-22,Heilongjiang,China,38312224.0,921,477,13,431
+2020-04-22,Heilongjiang,China,38312224.0,921,479,13,429
 2020-04-22,Henan,China,94023567.0,1276,1254,22,0
-2020-04-22,Hong Kong,China,7500700.0,1029,650,4,375
+2020-04-22,Hong Kong,China,7500700.0,1033,650,4,379
 2020-04-22,Hubei (Wuhan),China,94023567.0,68128,63519,4512,97
 2020-04-22,Hunan,China,65683722.0,1019,1015,4,0
 2020-04-22,Inner Mongolia,China,24706321.0,194,108,1,85
@@ -32814,7 +32814,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Qinghai,China,5626722.0,18,18,0,0
 2020-04-22,Shaanxi,China,37327378.0,279,253,3,23
 2020-04-22,Shandong,China,95793065.0,787,766,7,14
-2020-04-22,Shanghai,China,23019148.0,639,530,7,102
+2020-04-22,Shanghai,China,23019148.0,639,534,7,98
 2020-04-22,Shanxi,China,35712111.0,197,140,0,57
 2020-04-22,Sichuan,China,80418200.0,561,556,3,2
 2020-04-22,Tianjin,China,12938224.0,189,176,3,10
@@ -32822,23 +32822,23 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Xinjiang,China,21813334.0,76,73,3,0
 2020-04-22,Yunnan,China,45966239.0,184,178,2,4
 2020-04-22,Zhejiang,China,54426891.0,1268,1252,1,15
-2020-04-22,Baden-Württemberg,Germany,10880000.0,28793,17045,1062,10686
-2020-04-22,Bavaria,Germany,12844000.0,38618,21620,1354,15644
+2020-04-22,Baden-Württemberg,Germany,10880000.0,28898,17045,1063,10790
+2020-04-22,Bavaria,Germany,12844000.0,38814,21620,1424,15770
 2020-04-22,Berlin,Germany,3520000.0,5341,4044,105,1192
-2020-04-22,Brandenburg,Germany,2485000.0,2457,1380,94,983
+2020-04-22,Brandenburg,Germany,2485000.0,2503,1490,104,909
 2020-04-22,Bremen,Germany,671000.0,625,334,26,265
 2020-04-22,Hamburg,Germany,1787000.0,4401,2700,91,1610
-2020-04-22,Hesse,Germany,6176000.0,7305,4836,257,2212
-2020-04-22,Mecklenburg-Western Pomerania,Germany,1612000.0,655,495,15,145
-2020-04-22,Lower Saxony,Germany,7927000.0,9275,5854,331,3090
-2020-04-22,North Rhine-Westphalia,Germany,17866000.0,29580,18644,897,10039
-2020-04-22,Rhineland-Palatinate,Germany,4053000.0,5561,3699,117,1745
+2020-04-22,Hesse,Germany,6176000.0,7380,4843,265,2272
+2020-04-22,Mecklenburg-Western Pomerania,Germany,1612000.0,656,495,15,146
+2020-04-22,Lower Saxony,Germany,7927000.0,9275,5862,331,3082
+2020-04-22,North Rhine-Westphalia,Germany,17866000.0,30185,19678,964,9543
+2020-04-22,Rhineland-Palatinate,Germany,4053000.0,5593,3699,122,1772
 2020-04-22,Saarland,Germany,996000.0,2381,1198,108,1075
-2020-04-22,Saxony,Germany,4085000.0,4342,3000,119,1223
+2020-04-22,Saxony,Germany,4085000.0,4342,3000,122,1220
 2020-04-22,Saxony-Anhalt,Germany,2245000.0,1399,970,33,396
-2020-04-22,Sleswick-Holsatia,Germany,2859000.0,2446,1700,72,674
-2020-04-22,Thuringia,Germany,2171000.0,1820,1290,59,471
-2020-04-22,other cases in Germany,Germany,,3454,10591,346,-7483
+2020-04-22,Sleswick-Holsatia,Germany,2859000.0,2496,1700,79,717
+2020-04-22,Thuringia,Germany,2171000.0,1872,1290,71,511
+2020-04-22,other cases in Germany,Germany,,2543,9432,177,-7066
 2020-04-22,Faroe Islands,Denmark,52124.0,185,178,0,7
 2020-04-22,Greenland,Denmark,56081.0,11,11,0,0
 2020-04-22,French Polynesia,France,275918.0,57,35,0,22
@@ -32886,7 +32886,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Werra-Meißner-Kreis,Hesse,101017.0,123,30,7,86
 2020-04-22,Wetteraukreis,Hesse,30646.0,245,120,7,118
 2020-04-22,Wiesbaden,Hesse,278342.0,282,198,9,75
-2020-04-22,other cases in Hesse,Hesse,,0,1619,0,-1619
+2020-04-22,other cases in Hesse,Hesse,,75,1626,8,-1559
 2020-04-22,Cruise Ship 'Diamond Princess',International,,761,644,13,104
 2020-04-22,Cruise Ship 'Diamond Princess',International,,712,644,13,55
 2020-04-22,Cruise Ship 'Grand Princess',International,,116,0,0,116
@@ -32913,7 +32913,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Schwerin,Mecklenburg-Western Pomerania,95818.0,88,74,0,14
 2020-04-22,Vorpommern-Greifswald (Kreis),Mecklenburg-Western Pomerania,236697.0,120,52,4,64
 2020-04-22,Vorpommern-Rügen (Kreis),Mecklenburg-Western Pomerania,224684.0,75,61,2,12
-2020-04-22,other cases in Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,,1,133,0,-132
+2020-04-22,other cases in Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,,2,133,0,-131
 2020-04-22,Aruba,Netherlands,112309.0,97,51,2,44
 2020-04-22,"Bonaire, Sint Eustatius and Saba",Netherlands,24547.0,5,0,0,5
 2020-04-22,Curaçao,Netherlands,158665.0,14,11,1,2
@@ -32963,8 +32963,8 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Wittmund (Kreis),Lower Saxony,56882.0,24,19,0,5
 2020-04-22,Wolfenbüttel (Kreis),Lower Saxony,119960.0,153,81,5,67
 2020-04-22,Wolfsburg,Lower Saxony,124151.0,272,115,48,109
-2020-04-22,other cases in Lower Saxony,Lower Saxony,,0,277,0,-277
-2020-04-22,Aachen & Städteregion Aachen,North Rhine-Westphalia,555465.0,1719,1256,65,398
+2020-04-22,other cases in Lower Saxony,Lower Saxony,,0,285,0,-285
+2020-04-22,Aachen & Städteregion Aachen,North Rhine-Westphalia,555465.0,1754,1281,70,403
 2020-04-22,Bielefeld,North Rhine-Westphalia,333786.0,338,214,2,122
 2020-04-22,Bochum,North Rhine-Westphalia,364628.0,403,290,15,98
 2020-04-22,Bonn,North Rhine-Westphalia,327258.0,573,363,5,205
@@ -33017,7 +33017,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Warendorf (Kreis),North Rhine-Westphalia,277783.0,422,311,7,104
 2020-04-22,Wesel (Kreis),North Rhine-Westphalia,459809.0,448,288,14,146
 2020-04-22,Wuppertal,North Rhine-Westphalia,354382.0,719,309,36,374
-2020-04-22,other cases in North Rhine-Westphalia,North Rhine-Westphalia,,169,0,0,169
+2020-04-22,other cases in North Rhine-Westphalia,North Rhine-Westphalia,,739,1009,62,-332
 2020-04-22,Ahrweiler (Kreis),Rhineland-Palatinate,129727.0,112,95,1,16
 2020-04-22,Altenkirchen (Kreis),Rhineland-Palatinate,128705.0,127,66,5,56
 2020-04-22,Alzey-Worms (Kreis),Rhineland-Palatinate,129244.0,162,98,3,61
@@ -33054,7 +33054,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Westerwaldkreis,Rhineland-Palatinate,201597.0,317,207,17,93
 2020-04-22,Worms,Rhineland-Palatinate,83330.0,159,107,6,46
 2020-04-22,Zweibrücken,Rhineland-Palatinate,34209.0,35,23,0,12
-2020-04-22,other cases in Rhineland-Palatinate,Rhineland-Palatinate,,8,0,0,8
+2020-04-22,other cases in Rhineland-Palatinate,Rhineland-Palatinate,,40,0,5,35
 2020-04-22,Merzig-Wadern,Saarland,103366.0,183,83,1,99
 2020-04-22,Neunkirchen,Saarland,132206.0,221,108,4,109
 2020-04-22,Saarbrücken,Saarland,329708.0,1054,444,62,548
@@ -33075,7 +33075,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Sächsische Schweiz-Osterzgebirge (Kreis),Saxony,245611.0,321,211,2,108
 2020-04-22,Vogtlandkreis,Saxony,227796.0,280,128,4,148
 2020-04-22,Zwickau (Kreis),Saxony,317531.0,713,0,25,688
-2020-04-22,other cases in Saxony,Saxony,,0,2016,0,-2016
+2020-04-22,other cases in Saxony,Saxony,,0,2016,3,-2019
 2020-04-22,Altmarkkreis Salzwedel,Saxony-Anhalt,83765.0,30,16,0,14
 2020-04-22,Anhalt-Bitterfeld (Kreis),Saxony-Anhalt,159854.0,62,45,0,17
 2020-04-22,Burgenlandkreis,Saxony-Anhalt,180190.0,68,59,1,8
@@ -33093,19 +33093,19 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,other cases in Saxony-Anhalt,Saxony-Anhalt,,0,325,0,-325
 2020-04-22,Dithmarschen (Kreis),Sleswick-Holsatia,133210.0,54,38,3,13
 2020-04-22,Flensburg,Sleswick-Holsatia,89504.0,33,28,2,3
-2020-04-22,Herzogtum Lauenburg (Kreis),Sleswick-Holsatia,197264.0,236,0,6,230
-2020-04-22,Kiel,Sleswick-Holsatia,247548.0,235,146,7,82
-2020-04-22,Lübeck,Sleswick-Holsatia,217198.0,154,124,1,29
-2020-04-22,Neumünster,Sleswick-Holsatia,79487.0,50,22,1,27
-2020-04-22,Nordfriesland (Kreis),Sleswick-Holsatia,165507.0,69,49,1,19
+2020-04-22,Herzogtum Lauenburg (Kreis),Sleswick-Holsatia,197264.0,237,0,6,231
+2020-04-22,Kiel,Sleswick-Holsatia,247548.0,240,146,7,87
+2020-04-22,Lübeck,Sleswick-Holsatia,217198.0,155,124,1,30
+2020-04-22,Neumünster,Sleswick-Holsatia,79487.0,60,22,1,37
+2020-04-22,Nordfriesland (Kreis),Sleswick-Holsatia,165507.0,70,49,1,20
 2020-04-22,Ostholstein (Kreis),Sleswick-Holsatia,200581.0,59,0,0,59
-2020-04-22,Pinneberg (Kreis),Sleswick-Holsatia,314391.0,493,221,18,254
-2020-04-22,Plön (Kreis),Sleswick-Holsatia,128647.0,104,13,4,87
-2020-04-22,Rendsburg-Eckernförde (Kreis),Sleswick-Holsatia,272775.0,219,135,12,72
-2020-04-22,Schleswig-Flensburg (Kreis),Sleswick-Holsatia,200025.0,117,71,3,43
-2020-04-22,Segeberg (Kreis),Sleswick-Holsatia,276032.0,208,157,2,49
+2020-04-22,Pinneberg (Kreis),Sleswick-Holsatia,314391.0,501,221,18,262
+2020-04-22,Plön (Kreis),Sleswick-Holsatia,128647.0,105,13,4,88
+2020-04-22,Rendsburg-Eckernförde (Kreis),Sleswick-Holsatia,272775.0,220,135,12,73
+2020-04-22,Schleswig-Flensburg (Kreis),Sleswick-Holsatia,200025.0,122,71,3,48
+2020-04-22,Segeberg (Kreis),Sleswick-Holsatia,276032.0,208,157,3,48
 2020-04-22,Steinburg (Kreis),Sleswick-Holsatia,131347.0,79,51,3,25
-2020-04-22,Stormarn (Kreis),Sleswick-Holsatia,243196.0,336,125,9,202
+2020-04-22,Stormarn (Kreis),Sleswick-Holsatia,243196.0,353,125,15,213
 2020-04-22,other cases in Sleswick-Holsatia,Sleswick-Holsatia,,0,520,0,-520
 2020-04-22,Altenburger Land (Kreis),Thuringia,90118.0,44,26,3,15
 2020-04-22,Eichsfeld (Kreis),Thuringia,100380.0,108,51,3,54
@@ -33130,22 +33130,22 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Wartburgkreis,Thuringia,119726.0,35,15,0,20
 2020-04-22,Weimar,Thuringia,65090.0,58,44,0,14
 2020-04-22,Weimarer Land (Kreis),Thuringia,81947.0,66,0,3,63
-2020-04-22,other cases in Thuringia,Thuringia,,0,412,1,-413
+2020-04-22,other cases in Thuringia,Thuringia,,52,412,13,-373
 2020-04-22,Alabama,USA,4779736.0,5327,0,185,5142
 2020-04-22,Alaska,USA,710231.0,329,0,9,320
 2020-04-22,American Virgin Islands,USA,104578.0,53,0,3,50
 2020-04-22,Arizona,USA,6392017.0,5256,0,208,5048
 2020-04-22,Arkansas,USA,2915918.0,2262,0,43,2219
-2020-04-22,California,USA,37253956.0,35807,0,1324,34483
+2020-04-22,California,USA,37253956.0,35845,0,1326,34519
 2020-04-22,Colorado,USA,5029196.0,10460,0,484,9976
 2020-04-22,Connecticut,USA,3574097.0,20360,0,1423,18937
 2020-04-22,Delaware,USA,897934.0,2931,0,82,2849
 2020-04-22,District of Columbia,USA,601723.0,3098,0,112,2986
 2020-04-22,Florida,USA,18801310.0,27869,0,867,27002
-2020-04-22,Recovered,USA,,0,75658,0,-75658
+2020-04-22,Recovered,USA,,0,75673,0,-75673
 2020-04-22,Georgia,USA,9687653.0,20166,0,818,19348
 2020-04-22,Guam,USA,172400.0,136,0,5,131
-2020-04-22,Hawaii,USA,1360301.0,586,0,10,576
+2020-04-22,Hawaii,USA,1360301.0,586,0,12,574
 2020-04-22,Idaho,USA,1567582.0,1766,0,48,1718
 2020-04-22,Illinois,USA,12830632.0,33059,0,1468,31591
 2020-04-22,Indiana,USA,6483802.0,12097,0,635,11462
@@ -33166,7 +33166,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,New Hampshire,USA,1316470.0,1490,0,42,1448
 2020-04-22,New Jersey,USA,8791894.0,92387,0,4753,87634
 2020-04-22,New Mexico,USA,2059179.0,2072,0,65,2007
-2020-04-22,New York,USA,19378102.0,258504,0,19117,239387
+2020-04-22,New York,USA,19378102.0,258589,0,19118,239471
 2020-04-22,North Carolina,USA,9535483.0,7135,0,245,6890
 2020-04-22,North Dakota,USA,672591.0,644,0,13,631
 2020-04-22,Northern Mariana Islands,USA,56200.0,14,0,2,12
