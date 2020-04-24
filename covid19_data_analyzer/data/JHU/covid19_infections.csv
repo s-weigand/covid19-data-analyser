@@ -22192,7 +22192,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Antigua and Barbuda,#Global,23.0,3.0,3.0,17.0
 2020-04-18,Argentina,#Global,2758.0,129.0,685.0,1944.0
 2020-04-18,Armenia,#Global,1248.0,20.0,523.0,705.0
-2020-04-18,Australia (total),#Global,6547.0,67.0,4124.0,2356.0
+2020-04-18,Australia (total),#Global,6568.0,67.0,4124.0,2377.0
 2020-04-18,Austria,#Global,14671.0,443.0,10214.0,4014.0
 2020-04-18,Azerbaijan,#Global,1373.0,18.0,590.0,765.0
 2020-04-18,Bahamas,#Global,55.0,9.0,10.0,36.0
@@ -22373,13 +22373,13 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Zambia,#Global,57.0,2.0,33.0,22.0
 2020-04-18,Zimbabwe,#Global,25.0,3.0,2.0,20.0
 2020-04-18,Australian Capital Territory,Australia,103.0,3.0,88.0,12.0
-2020-04-18,New South Wales,Australia,2926.0,26.0,1379.0,1521.0
+2020-04-18,New South Wales,Australia,2936.0,26.0,1379.0,1531.0
 2020-04-18,Northern Territory,Australia,28.0,0.0,9.0,19.0
 2020-04-18,Queensland,Australia,1015.0,6.0,738.0,271.0
 2020-04-18,South Australia,Australia,435.0,4.0,331.0,100.0
-2020-04-18,Tasmania,Australia,180.0,7.0,67.0,106.0
+2020-04-18,Tasmania,Australia,188.0,7.0,67.0,114.0
 2020-04-18,Victoria,Australia,1319.0,14.0,1172.0,133.0
-2020-04-18,Western Australia,Australia,541.0,7.0,340.0,194.0
+2020-04-18,Western Australia,Australia,544.0,7.0,340.0,197.0
 2020-04-18,Anhui,China,991.0,6.0,984.0,1.0
 2020-04-18,Beijing,China,593.0,8.0,509.0,76.0
 2020-04-18,Chongqing,China,579.0,6.0,570.0,3.0
@@ -22447,7 +22447,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Antigua and Barbuda,#Global,23.0,3.0,3.0,17.0
 2020-04-19,Argentina,#Global,2839.0,132.0,709.0,1998.0
 2020-04-19,Armenia,#Global,1291.0,20.0,545.0,726.0
-2020-04-19,Australia (total),#Global,6547.0,67.0,4124.0,2356.0
+2020-04-19,Australia (total),#Global,6610.0,67.0,4124.0,2419.0
 2020-04-19,Austria,#Global,14749.0,452.0,10501.0,3796.0
 2020-04-19,Azerbaijan,#Global,1398.0,19.0,712.0,667.0
 2020-04-19,Bahamas,#Global,55.0,9.0,10.0,36.0
@@ -22628,13 +22628,13 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Zambia,#Global,61.0,3.0,33.0,25.0
 2020-04-19,Zimbabwe,#Global,25.0,3.0,2.0,20.0
 2020-04-19,Australian Capital Territory,Australia,103.0,3.0,88.0,12.0
-2020-04-19,New South Wales,Australia,2926.0,26.0,1379.0,1521.0
+2020-04-19,New South Wales,Australia,2957.0,26.0,1379.0,1552.0
 2020-04-19,Northern Territory,Australia,28.0,0.0,9.0,19.0
-2020-04-19,Queensland,Australia,1015.0,6.0,738.0,271.0
+2020-04-19,Queensland,Australia,1019.0,6.0,738.0,275.0
 2020-04-19,South Australia,Australia,435.0,4.0,331.0,100.0
-2020-04-19,Tasmania,Australia,180.0,7.0,67.0,106.0
-2020-04-19,Victoria,Australia,1319.0,14.0,1172.0,133.0
-2020-04-19,Western Australia,Australia,541.0,7.0,340.0,194.0
+2020-04-19,Tasmania,Australia,195.0,7.0,67.0,121.0
+2020-04-19,Victoria,Australia,1328.0,14.0,1172.0,142.0
+2020-04-19,Western Australia,Australia,545.0,7.0,340.0,198.0
 2020-04-19,Anhui,China,991.0,6.0,984.0,1.0
 2020-04-19,Beijing,China,593.0,8.0,510.0,75.0
 2020-04-19,Chongqing,China,579.0,6.0,570.0,3.0
@@ -22702,7 +22702,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Antigua and Barbuda,#Global,23.0,3.0,3.0,17.0
 2020-04-20,Argentina,#Global,2941.0,136.0,737.0,2068.0
 2020-04-20,Armenia,#Global,1339.0,22.0,580.0,737.0
-2020-04-20,Australia (total),#Global,6547.0,67.0,4124.0,2356.0
+2020-04-20,Australia (total),#Global,6623.0,67.0,4124.0,2432.0
 2020-04-20,Austria,#Global,14795.0,470.0,10631.0,3694.0
 2020-04-20,Azerbaijan,#Global,1436.0,19.0,791.0,626.0
 2020-04-20,Bahamas,#Global,60.0,9.0,11.0,40.0
@@ -22882,14 +22882,14 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-20,Zambia,#Global,65.0,3.0,35.0,27.0
 2020-04-20,Zimbabwe,#Global,25.0,3.0,2.0,20.0
-2020-04-20,Australian Capital Territory,Australia,103.0,3.0,88.0,12.0
-2020-04-20,New South Wales,Australia,2926.0,26.0,1379.0,1521.0
+2020-04-20,Australian Capital Territory,Australia,104.0,3.0,88.0,13.0
+2020-04-20,New South Wales,Australia,2963.0,26.0,1379.0,1558.0
 2020-04-20,Northern Territory,Australia,28.0,0.0,9.0,19.0
-2020-04-20,Queensland,Australia,1015.0,6.0,738.0,271.0
+2020-04-20,Queensland,Australia,1019.0,6.0,738.0,275.0
 2020-04-20,South Australia,Australia,435.0,4.0,331.0,100.0
-2020-04-20,Tasmania,Australia,180.0,7.0,67.0,106.0
-2020-04-20,Victoria,Australia,1319.0,14.0,1172.0,133.0
-2020-04-20,Western Australia,Australia,541.0,7.0,340.0,194.0
+2020-04-20,Tasmania,Australia,200.0,7.0,67.0,126.0
+2020-04-20,Victoria,Australia,1329.0,14.0,1172.0,143.0
+2020-04-20,Western Australia,Australia,545.0,7.0,340.0,198.0
 2020-04-20,Anhui,China,991.0,6.0,984.0,1.0
 2020-04-20,Beijing,China,593.0,8.0,514.0,71.0
 2020-04-20,Chongqing,China,579.0,6.0,570.0,3.0
@@ -22957,7 +22957,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Antigua and Barbuda,#Global,23.0,3.0,7.0,13.0
 2020-04-21,Argentina,#Global,3031.0,147.0,840.0,2044.0
 2020-04-21,Armenia,#Global,1401.0,24.0,609.0,768.0
-2020-04-21,Australia (total),#Global,6547.0,67.0,4124.0,2356.0
+2020-04-21,Australia (total),#Global,6645.0,67.0,4124.0,2454.0
 2020-04-21,Austria,#Global,14873.0,491.0,10971.0,3411.0
 2020-04-21,Azerbaijan,#Global,1480.0,20.0,865.0,595.0
 2020-04-21,Bahamas,#Global,65.0,9.0,12.0,44.0
@@ -23137,14 +23137,14 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-21,Zambia,#Global,70.0,3.0,35.0,32.0
 2020-04-21,Zimbabwe,#Global,28.0,3.0,2.0,23.0
-2020-04-21,Australian Capital Territory,Australia,103.0,3.0,88.0,12.0
-2020-04-21,New South Wales,Australia,2926.0,26.0,1379.0,1521.0
+2020-04-21,Australian Capital Territory,Australia,104.0,3.0,88.0,13.0
+2020-04-21,New South Wales,Australia,2969.0,26.0,1379.0,1564.0
 2020-04-21,Northern Territory,Australia,28.0,0.0,9.0,19.0
-2020-04-21,Queensland,Australia,1015.0,6.0,738.0,271.0
-2020-04-21,South Australia,Australia,435.0,4.0,331.0,100.0
-2020-04-21,Tasmania,Australia,180.0,7.0,67.0,106.0
-2020-04-21,Victoria,Australia,1319.0,14.0,1172.0,133.0
-2020-04-21,Western Australia,Australia,541.0,7.0,340.0,194.0
+2020-04-21,Queensland,Australia,1024.0,6.0,738.0,280.0
+2020-04-21,South Australia,Australia,437.0,4.0,331.0,102.0
+2020-04-21,Tasmania,Australia,201.0,7.0,67.0,127.0
+2020-04-21,Victoria,Australia,1336.0,14.0,1172.0,150.0
+2020-04-21,Western Australia,Australia,546.0,7.0,340.0,199.0
 2020-04-21,Anhui,China,991.0,6.0,984.0,1.0
 2020-04-21,Beijing,China,593.0,8.0,516.0,69.0
 2020-04-21,Chongqing,China,579.0,6.0,570.0,3.0
@@ -23212,7 +23212,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Antigua and Barbuda,#Global,24.0,3.0,10.0,11.0
 2020-04-22,Argentina,#Global,3144.0,152.0,872.0,2120.0
 2020-04-22,Armenia,#Global,1473.0,24.0,633.0,816.0
-2020-04-22,Australia (total),#Global,6547.0,67.0,4124.0,2356.0
+2020-04-22,Australia (total),#Global,6652.0,67.0,4124.0,2461.0
 2020-04-22,Austria,#Global,14925.0,510.0,11328.0,3087.0
 2020-04-22,Azerbaijan,#Global,1518.0,20.0,907.0,591.0
 2020-04-22,Bahamas,#Global,65.0,9.0,12.0,44.0
@@ -23392,14 +23392,14 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-22,Zambia,#Global,74.0,3.0,35.0,36.0
 2020-04-22,Zimbabwe,#Global,28.0,4.0,2.0,22.0
-2020-04-22,Australian Capital Territory,Australia,103.0,3.0,88.0,12.0
-2020-04-22,New South Wales,Australia,2926.0,26.0,1379.0,1521.0
+2020-04-22,Australian Capital Territory,Australia,104.0,3.0,88.0,13.0
+2020-04-22,New South Wales,Australia,2971.0,26.0,1379.0,1566.0
 2020-04-22,Northern Territory,Australia,28.0,0.0,9.0,19.0
-2020-04-22,Queensland,Australia,1015.0,6.0,738.0,271.0
-2020-04-22,South Australia,Australia,435.0,4.0,331.0,100.0
-2020-04-22,Tasmania,Australia,180.0,7.0,67.0,106.0
-2020-04-22,Victoria,Australia,1319.0,14.0,1172.0,133.0
-2020-04-22,Western Australia,Australia,541.0,7.0,340.0,194.0
+2020-04-22,Queensland,Australia,1024.0,6.0,738.0,280.0
+2020-04-22,South Australia,Australia,438.0,4.0,331.0,103.0
+2020-04-22,Tasmania,Australia,205.0,7.0,67.0,131.0
+2020-04-22,Victoria,Australia,1336.0,14.0,1172.0,150.0
+2020-04-22,Western Australia,Australia,546.0,7.0,340.0,199.0
 2020-04-22,Anhui,China,991.0,6.0,984.0,1.0
 2020-04-22,Beijing,China,593.0,8.0,518.0,67.0
 2020-04-22,Chongqing,China,579.0,6.0,570.0,3.0
@@ -23467,7 +23467,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,Antigua and Barbuda,#Global,24.0,3.0,10.0,11.0
 2020-04-23,Argentina,#Global,3435.0,165.0,919.0,2351.0
 2020-04-23,Armenia,#Global,1523.0,24.0,659.0,840.0
-2020-04-23,Australia (total),#Global,6661.0,75.0,4124.0,2462.0
+2020-04-23,Australia (total),#Global,6662.0,75.0,4124.0,2463.0
 2020-04-23,Austria,#Global,15002.0,522.0,11694.0,2786.0
 2020-04-23,Azerbaijan,#Global,1548.0,20.0,948.0,580.0
 2020-04-23,Bahamas,#Global,72.0,11.0,14.0,47.0
@@ -23649,7 +23649,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,Zimbabwe,#Global,28.0,4.0,2.0,22.0
 2020-04-23,Australian Capital Territory,Australia,104.0,3.0,88.0,13.0
 2020-04-23,New South Wales,Australia,2976.0,31.0,1379.0,1566.0
-2020-04-23,Northern Territory,Australia,27.0,0.0,9.0,18.0
+2020-04-23,Northern Territory,Australia,28.0,0.0,9.0,19.0
 2020-04-23,Queensland,Australia,1026.0,6.0,738.0,282.0
 2020-04-23,South Australia,Australia,438.0,4.0,331.0,103.0
 2020-04-23,Tasmania,Australia,207.0,8.0,67.0,132.0
