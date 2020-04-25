@@ -33989,7 +33989,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Bolivien,#Global,11469896.0,703,44,43,616
 2020-04-24,Bosnien und Herzegowina,#Global,3301000.0,1421,538,55,828
 2020-04-24,Botswana,#Global,2338851.0,22,0,1,21
-2020-04-24,Brasilien,#Global,211389669.0,51073,26573,3407,21093
+2020-04-24,Brasilien,#Global,211389669.0,52995,26573,3670,22752
 2020-04-24,Brunei,#Global,442400.0,138,120,1,17
 2020-04-24,Bulgarien,#Global,7000039.0,1188,193,54,941
 2020-04-24,Burkina Faso,#Global,20870060.0,616,410,41,165
@@ -33998,12 +33998,12 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,China,#Global,1386800000.0,82805,77272,4632,901
 2020-04-24,Costa Rica,#Global,5058007.0,686,196,6,484
 2020-04-24,Demokratische Republik Kongo,#Global,89561404.0,394,48,25,321
-2020-04-24,Deutschland,#Global,83149300.0,154111,106800,5632,41679
+2020-04-24,Deutschland,#Global,83149300.0,154545,106800,5723,42022
 2020-04-24,Dominica,#Global,71808.0,16,9,0,7
 2020-04-24,Dominikanische Republik,#Global,10358320.0,5749,763,267,4719
 2020-04-24,Dschibuti,#Global,1078373.0,999,330,2,667
 2020-04-24,Dänemark,#Global,5822763.0,8210,5526,403,2281
-2020-04-24,Ecuador,#Global,16800000.0,11183,1328,560,9295
+2020-04-24,Ecuador,#Global,16800000.0,22719,1366,576,20777
 2020-04-24,El Salvador,#Global,6486201.0,261,72,8,181
 2020-04-24,Elfenbeinküste,#Global,25823071.0,1004,359,14,631
 2020-04-24,Eritrea,#Global,3497117.0,39,11,0,28
@@ -34013,9 +34013,9 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Fidschi,#Global,884887.0,18,10,0,8
 2020-04-24,Finnland,#Global,5527573.0,4395,2500,177,1718
 2020-04-24,Frankreich,#Global,67076000.0,122577,43493,22245,56839
-2020-04-24,Gabon,#Global,2172579.0,167,24,2,141
+2020-04-24,Gabon,#Global,2172579.0,172,26,3,143
 2020-04-24,Gambia,#Global,2347706.0,10,2,1,7
-2020-04-24,Georgien,#Global,3723464.0,431,132,5,294
+2020-04-24,Georgien,#Global,3723464.0,444,132,5,307
 2020-04-24,Ghana,#Global,30280811.0,1279,134,10,1135
 2020-04-24,Grenada,#Global,112003.0,15,7,0,8
 2020-04-24,Griechenland,#Global,10724599.0,2490,577,130,1783
@@ -34023,16 +34023,16 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Guatemala,#Global,16604026.0,384,30,11,343
 2020-04-24,Guinea,#Global,12218357.0,862,170,6,686
 2020-04-24,Guinea-Bissau,#Global,1604528.0,50,3,0,47
-2020-04-24,Guyana,#Global,782766.0,70,12,7,51
+2020-04-24,Guyana,#Global,782766.0,73,12,7,54
 2020-04-24,Haiti,#Global,11577779.0,72,2,5,65
 2020-04-24,Honduras,#Global,9158345.0,562,50,47,465
-2020-04-24,Indien,#Global,1361020116.0,24434,5457,780,18197
+2020-04-24,Indien,#Global,1361020116.0,24447,5496,780,18171
 2020-04-24,Indonesien,#Global,266911900.0,8211,1002,689,6520
-2020-04-24,Irak,#Global,39127900.0,1677,1171,83,423
+2020-04-24,Irak,#Global,39127900.0,1708,1204,86,418
 2020-04-24,Iran,#Global,83363802.0,88194,66599,5574,16021
-2020-04-24,Irland,#Global,4921500.0,17607,9233,794,7580
+2020-04-24,Irland,#Global,4921500.0,18184,9233,1014,7937
 2020-04-24,Island,#Global,364260.0,1789,1542,10,237
-2020-04-24,Israel,#Global,9185400.0,14882,5685,193,9004
+2020-04-24,Israel,#Global,9185400.0,15058,6003,194,8861
 2020-04-24,Italien,#Global,60238522.0,192994,60498,25969,106527
 2020-04-24,Jamaika,#Global,2726667.0,257,28,6,223
 2020-04-24,Japan,#Global,125950000.0,12368,1494,328,10546
@@ -34040,7 +34040,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Jordanien,#Global,10658084.0,441,326,7,108
 2020-04-24,Kambodscha,#Global,15288489.0,122,110,0,12
 2020-04-24,Kamerun,#Global,26545864.0,1430,668,43,719
-2020-04-24,Kanada,#Global,37993130.0,43559,15204,2264,26091
+2020-04-24,Kanada,#Global,37993130.0,44526,15479,2385,26662
 2020-04-24,Kap Verde,#Global,550483.0,88,1,1,86
 2020-04-24,Kasachstan,#Global,18681864.0,2416,604,25,1787
 2020-04-24,Katar,#Global,2747282.0,8525,809,10,7706
@@ -34058,19 +34058,19 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Libyen,#Global,6871287.0,60,18,2,40
 2020-04-24,Liechtenstein,#Global,38749.0,81,55,1,25
 2020-04-24,Litauen,#Global,2793471.0,1410,430,40,940
-2020-04-24,Luxemburg,#Global,626108.0,3665,728,83,2854
+2020-04-24,Luxemburg,#Global,626108.0,3695,3007,85,603
 2020-04-24,Madagaskar,#Global,26251309.0,122,61,0,61
 2020-04-24,Malawi,#Global,18600000.0,33,3,3,27
 2020-04-24,Malaysia,#Global,32749760.0,5691,3663,96,1932
 2020-04-24,Malediven,#Global,374775.0,116,16,0,100
 2020-04-24,Mali,#Global,20250833.0,309,77,21,211
 2020-04-24,Malta,#Global,493559.0,447,223,3,221
-2020-04-24,Marokko,#Global,35868274.0,3692,478,155,3059
+2020-04-24,Marokko,#Global,35868274.0,3758,486,158,3114
 2020-04-24,Mauretanien,#Global,4077347.0,7,6,1,0
 2020-04-24,Mauritius,#Global,1300000.0,331,285,9,37
 2020-04-24,Mexiko,#Global,126577691.0,11633,2627,1069,7937
 2020-04-24,Moldawien,#Global,2681735.0,3110,755,84,2271
-2020-04-24,Monaco,#Global,38300.0,94,35,4,55
+2020-04-24,Monaco,#Global,38300.0,94,41,4,49
 2020-04-24,Mongolei,#Global,3312557.0,36,9,0,27
 2020-04-24,Montenegro,#Global,622359.0,319,123,6,190
 2020-04-24,Mosambik,#Global,30066648.0,65,12,0,53
@@ -34084,14 +34084,14 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Nigeria,#Global,206139587.0,981,197,31,753
 2020-04-24,Nordmazedonien,#Global,2077132.0,1326,337,57,932
 2020-04-24,Norwegen,#Global,5367580.0,7444,32,199,7213
-2020-04-24,Oman,#Global,4664790.0,1790,325,9,1456
+2020-04-24,Oman,#Global,4664790.0,1790,325,10,1455
 2020-04-24,Osttimor,#Global,1387149.0,23,1,0,22
-2020-04-24,Pakistan,#Global,219280520.0,11155,2527,237,8391
+2020-04-24,Pakistan,#Global,219280520.0,11940,2755,253,8932
 2020-04-24,Palästinensische Autonomiegebiete,#Global,4900000.0,484,92,4,388
 2020-04-24,Panama,#Global,4218808.0,5166,271,146,4749
 2020-04-24,Papua-Neuguinea,#Global,8935000.0,8,0,0,8
 2020-04-24,Paraguay,#Global,7152703.0,220,70,9,141
-2020-04-24,Peru,#Global,32131400.0,20914,7422,572,12920
+2020-04-24,Peru,#Global,32131400.0,21648,7496,634,13518
 2020-04-24,Philippinen,#Global,108539263.0,7192,762,477,5953
 2020-04-24,Polen,#Global,38379000.0,10892,1944,494,8454
 2020-04-24,Portugal,#Global,10276617.0,22797,1228,854,20715
@@ -34103,7 +34103,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,San Marino,#Global,33574.0,513,64,40,409
 2020-04-24,Saudiarabien,#Global,34218169.0,15102,2049,127,12926
 2020-04-24,Schweden,#Global,10338368.0,17567,550,2152,14865
-2020-04-24,Schweiz,#Global,8603900.0,28677,20600,1578,6499
+2020-04-24,Schweiz,#Global,8603900.0,28677,21000,1589,6088
 2020-04-24,Senegal,#Global,16209125.0,545,262,7,276
 2020-04-24,Serbien,#Global,6963764.0,6630,870,125,5635
 2020-04-24,Seychellen,#Global,90000.0,11,6,0,5
@@ -34114,7 +34114,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Slowenien,#Global,2094060.0,1373,211,80,1082
 2020-04-24,Somalia,#Global,15893219.0,328,8,16,304
 2020-04-24,Spanien,#Global,47100396.0,219764,92355,22524,104885
-2020-04-24,Sri Lanka,#Global,21803000.0,416,109,7,300
+2020-04-24,Sri Lanka,#Global,21803000.0,417,109,7,301
 2020-04-24,St. Kitts und Nevis,#Global,52823.0,15,2,0,13
 2020-04-24,St. Lucia,#Global,178696.0,15,15,0,0
 2020-04-24,St. Vincent und die Grenadinen,#Global,110608.0,14,5,0,9
@@ -34122,7 +34122,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Suriname,#Global,581372.0,10,6,1,3
 2020-04-24,Syrien,#Global,17500657.0,42,6,3,33
 2020-04-24,São Tomé und Príncipe,#Global,201784.0,4,0,0,4
-2020-04-24,Südafrika,#Global,58775022.0,3953,1473,75,2405
+2020-04-24,Südafrika,#Global,58775022.0,4220,1473,79,2668
 2020-04-24,Südkorea,#Global,51780579.0,10708,8501,240,1967
 2020-04-24,Südsudan,#Global,12778250.0,5,0,0,5
 2020-04-24,Taiwan,#Global,23604265.0,428,264,6,158
@@ -34134,21 +34134,21 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Tschechien,#Global,10693939.0,7236,2371,214,4651
 2020-04-24,Tunesien,#Global,11722038.0,918,190,38,690
 2020-04-24,Türkei,#Global,83154997.0,104912,21737,2600,80575
-2020-04-24,USA,#Global,329624709.0,882191,81206,50283,750702
+2020-04-24,USA,#Global,329624709.0,888889,96677,50927,741285
 2020-04-24,Uganda,#Global,40299300.0,74,46,0,28
 2020-04-24,Ukraine,#Global,41879904.0,7647,601,193,6853
 2020-04-24,Ungarn,#Global,9772756.0,2383,401,250,1732
 2020-04-24,Uruguay,#Global,3518552.0,557,354,12,191
-2020-04-24,Usbekistan,#Global,34126048.0,1778,621,8,1149
+2020-04-24,Usbekistan,#Global,34126048.0,1804,621,8,1175
 2020-04-24,Vatikan,#Global,799.0,9,2,0,7
-2020-04-24,Venezuela,#Global,32219521.0,311,126,10,175
+2020-04-24,Venezuela,#Global,32219521.0,318,132,10,176
 2020-04-24,Vereinigte Arabische Emirate,#Global,9890400.0,9281,1760,64,7457
 2020-04-24,Vietnam,#Global,96208984.0,270,225,0,45
 2020-04-24,Westsahara,#Global,582463.0,6,5,0,1
 2020-04-24,Zentralafrikanische Republik,#Global,5496011.0,16,10,0,6
 2020-04-24,Zypern,#Global,875900.0,804,98,14,692
 2020-04-24,Ägypten,#Global,100247225.0,4092,1075,294,2723
-2020-04-24,Äquatorialguinea,#Global,1358276.0,84,7,1,76
+2020-04-24,Äquatorialguinea,#Global,1358276.0,214,7,1,206
 2020-04-24,Äthiopien,#Global,98665000.0,117,25,3,89
 2020-04-24,Österreich,#Global,8902600.0,15071,11872,530,2669
 2020-04-24,Australisches Hauptstadtterritorium,Australien,358894.0,104,88,3,13
@@ -34301,19 +34301,19 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Würzburg,Bayern,127880.0,462,210,49,203
 2020-04-24,Würzburg (Kreis),Bayern,161834.0,401,200,6,195
 2020-04-24,weitere Fälle in Bayern,Bayern,,0,2572,0,-2572
-2020-04-24,Charlottenburg-Wilmersdorf,Berlin,342332.0,646,490,15,141
-2020-04-24,Friedrichshain-Kreuzberg,Berlin,289762.0,441,369,4,68
-2020-04-24,Lichtenberg,Berlin,291452.0,204,149,5,50
-2020-04-24,Marzahn-Hellersdorf,Berlin,268548.0,250,153,1,96
-2020-04-24,Mitte,Berlin,384172.0,823,616,7,200
-2020-04-24,Neukölln,Berlin,329691.0,585,444,15,126
-2020-04-24,Pankow,Berlin,407765.0,574,402,10,162
-2020-04-24,Reinickendorf,Berlin,265225.0,434,289,19,126
-2020-04-24,Spandau,Berlin,243977.0,220,153,6,61
-2020-04-24,Steglitz-Zehlendorf,Berlin,308697.0,456,341,5,110
-2020-04-24,Tempelhof-Schöneberg,Berlin,351644.0,560,418,14,128
-2020-04-24,Treptow-Köpenick,Berlin,271153.0,283,220,4,59
-2020-04-24,weitere Fälle in Berlin,Berlin,,0,0,7,-7
+2020-04-24,Charlottenburg-Wilmersdorf,Berlin,342332.0,646,518,15,113
+2020-04-24,Friedrichshain-Kreuzberg,Berlin,289762.0,446,392,4,50
+2020-04-24,Lichtenberg,Berlin,291452.0,208,167,5,36
+2020-04-24,Marzahn-Hellersdorf,Berlin,268548.0,262,181,1,80
+2020-04-24,Mitte,Berlin,384172.0,826,661,7,158
+2020-04-24,Neukölln,Berlin,329691.0,585,488,15,82
+2020-04-24,Pankow,Berlin,407765.0,583,435,10,138
+2020-04-24,Reinickendorf,Berlin,265225.0,436,324,19,93
+2020-04-24,Spandau,Berlin,243977.0,227,171,6,50
+2020-04-24,Steglitz-Zehlendorf,Berlin,308697.0,459,382,5,72
+2020-04-24,Tempelhof-Schöneberg,Berlin,351644.0,566,457,14,95
+2020-04-24,Treptow-Köpenick,Berlin,271153.0,288,236,4,48
+2020-04-24,weitere Fälle in Berlin,Berlin,,0,0,8,-8
 2020-04-24,Barnim (Kreis),Brandenburg,182760.0,336,93,18,225
 2020-04-24,Brandenburg a. d. Havel,Brandenburg,72124.0,53,34,0,19
 2020-04-24,Cottbus,Brandenburg,100219.0,39,33,0,6
@@ -34374,7 +34374,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Zhejiang,China,54426891.0,1268,1256,1,11
 2020-04-24,Baden-Württemberg,Deutschland,10880000.0,30369,19339,1203,9827
 2020-04-24,Bayern,Deutschland,12844000.0,40473,26340,1548,12585
-2020-04-24,Berlin,Deutschland,3520000.0,5476,4044,112,1320
+2020-04-24,Berlin,Deutschland,3520000.0,5532,4412,113,1007
 2020-04-24,Brandenburg,Deutschland,2485000.0,2647,1650,113,884
 2020-04-24,Bremen,Deutschland,671000.0,708,362,27,319
 2020-04-24,Hamburg,Deutschland,1787000.0,4558,3000,122,1436
@@ -34388,7 +34388,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Sachsen-Anhalt,Deutschland,2245000.0,1481,1040,35,406
 2020-04-24,Schleswig-Holstein,Deutschland,2859000.0,2557,1900,88,569
 2020-04-24,Thüringen,Deutschland,2171000.0,2023,1430,71,522
-2020-04-24,weitere Fälle bundesweit,Deutschland,,1792,6446,167,-4821
+2020-04-24,weitere Fälle bundesweit,Deutschland,,2170,6078,257,-4165
 2020-04-24,Färöer,Dänemark,52124.0,187,178,0,9
 2020-04-24,Grönland,Dänemark,56081.0,11,11,0,0
 2020-04-24,Französisch Polynesien,Frankreich,275918.0,57,36,0,21
@@ -34403,11 +34403,11 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Saint-Pierre und Miquelon,Frankreich,6008.0,1,0,0,1
 2020-04-24,Anguilla,Großbritannien,14869.0,3,1,0,2
 2020-04-24,Bermuda,Großbritannien,64027.0,99,39,5,55
-2020-04-24,Britische Jungferninseln,Großbritannien,30030.0,54,3,3,48
+2020-04-24,Britische Jungferninseln,Großbritannien,30030.0,5,3,1,1
 2020-04-24,Cayman-Inseln,Großbritannien,65813.0,66,7,1,58
 2020-04-24,Gibraltar,Großbritannien,33701.0,133,129,0,4
-2020-04-24,Isle of Man,Großbritannien,83314.0,307,221,16,70
-2020-04-24,Kanalinseln,Großbritannien,165000.0,521,295,29,197
+2020-04-24,Isle of Man,Großbritannien,83314.0,308,230,18,60
+2020-04-24,Kanalinseln,Großbritannien,165000.0,523,295,34,194
 2020-04-24,Montserrat,Großbritannien,4989.0,11,2,0,9
 2020-04-24,Turks- und Caicosinseln,Großbritannien,41369.0,11,4,1,6
 2020-04-24,Bergstraße (Kreis),Hessen,269694.0,296,216,2,78
@@ -34444,16 +34444,16 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Kreuzfahrtschiffe,International,,873,645,19,209
 2020-04-24,Alberta,Kanada,4286134.0,3720,0,68,3652
 2020-04-24,British Columbia,Kanada,4817160.0,1824,0,94,1730
-2020-04-24,Genesene,Kanada,,0,15204,0,-15204
-2020-04-24,Manitoba,Kanada,1338109.0,262,0,6,256
+2020-04-24,Genesene,Kanada,,0,15479,0,-15479
+2020-04-24,Manitoba,Kanada,1338109.0,263,0,6,257
 2020-04-24,Neufundland und Labrador,Kanada,528817.0,256,0,3,253
 2020-04-24,Neuschottland,Kanada,953869.0,850,0,16,834
 2020-04-24,New Brunswick,Kanada,759655.0,118,0,0,118
 2020-04-24,Nordwest-Territorien,Kanada,44520.0,5,0,0,5
-2020-04-24,Ontario,Kanada,14193384.0,14318,0,830,13488
+2020-04-24,Ontario,Kanada,14193384.0,14496,0,854,13642
 2020-04-24,Prinz Edward Insel,Kanada,152021.0,26,0,0,26
-2020-04-24,Québec,Kanada,8394034.0,21838,0,1243,20595
-2020-04-24,Saskatchewan,Kanada,1163925.0,331,0,4,327
+2020-04-24,Québec,Kanada,8394034.0,22616,0,1340,21276
+2020-04-24,Saskatchewan,Kanada,1163925.0,341,0,4,337
 2020-04-24,Yukon,Kanada,38459.0,11,0,0,11
 2020-04-24,Ludwigslust-Parchim (Kreis),Mecklenburg-Vorpommern,212618.0,67,51,1,15
 2020-04-24,Mecklenburgische Seenplatte (Kreis),Mecklenburg-Vorpommern,259130.0,108,18,3,87
@@ -34682,58 +34682,828 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Weimarer Land (Kreis),Thüringen,81947.0,67,32,4,31
 2020-04-24,weitere Fälle in Thüringen,Thüringen,,2,323,6,-327
 2020-04-24,Alabama,USA,4779736.0,5832,0,202,5630
-2020-04-24,Alaska,USA,710231.0,337,0,9,328
+2020-04-24,Alaska,USA,710231.0,339,0,9,330
 2020-04-24,Amerikanische Jungferninseln,USA,104578.0,54,0,3,51
-2020-04-24,Arizona,USA,6392017.0,5772,0,249,5523
+2020-04-24,Arizona,USA,6392017.0,6045,0,266,5779
 2020-04-24,Arkansas,USA,2915918.0,2606,0,45,2561
-2020-04-24,California,USA,37253956.0,39699,0,1537,38162
+2020-04-24,California,USA,37253956.0,39719,0,1537,38182
 2020-04-24,Colorado,USA,5029196.0,11278,0,552,10726
-2020-04-24,Connecticut,USA,3574097.0,23100,0,1639,21461
+2020-04-24,Connecticut,USA,3574097.0,23936,0,1767,22169
 2020-04-24,Delaware,USA,897934.0,3442,0,100,3342
 2020-04-24,District of Columbia,USA,601723.0,3528,0,153,3375
 2020-04-24,Florida,USA,18801310.0,30174,0,1012,29162
-2020-04-24,Genesene,USA,,0,81206,0,-81206
+2020-04-24,Genesene,USA,,0,96677,0,-96677
 2020-04-24,Georgia,USA,9687653.0,22147,0,892,21255
 2020-04-24,Guam,USA,172400.0,139,0,5,134
 2020-04-24,Hawaii,USA,1360301.0,596,0,12,584
 2020-04-24,Idaho,USA,1567582.0,1836,0,54,1782
-2020-04-24,Illinois,USA,12830632.0,36937,0,1688,35249
+2020-04-24,Illinois,USA,12830632.0,39654,0,1795,37859
 2020-04-24,Indiana,USA,6483802.0,13039,0,706,12333
 2020-04-24,Iowa,USA,3046355.0,4445,0,107,4338
-2020-04-24,Kansas,USA,2853118.0,2768,0,116,2652
+2020-04-24,Kansas,USA,2853118.0,2854,0,116,2738
 2020-04-24,Kentucky,USA,4339367.0,3481,0,191,3290
-2020-04-24,Louisiana,USA,4533372.0,26144,0,1661,24483
+2020-04-24,Louisiana,USA,4533372.0,26140,0,1660,24480
 2020-04-24,Maine,USA,1328361.0,965,0,47,918
 2020-04-24,Maryland,USA,5773552.0,16616,0,798,15818
 2020-04-24,Massachusetts,USA,6547629.0,46023,0,2360,43663
-2020-04-24,Michigan,USA,9883640.0,35296,0,2977,32319
+2020-04-24,Michigan,USA,9883640.0,36255,0,3037,33218
 2020-04-24,Minnesota,USA,5303925.0,3185,0,221,2964
 2020-04-24,Mississippi,USA,2967297.0,5434,0,209,5225
-2020-04-24,Missouri,USA,5988927.0,6638,0,253,6385
+2020-04-24,Missouri,USA,5988927.0,6750,0,270,6480
 2020-04-24,Montana,USA,989415.0,444,0,14,430
 2020-04-24,Nebraska,USA,1826341.0,2202,0,47,2155
 2020-04-24,Nevada,USA,2700551.0,4398,0,197,4201
 2020-04-24,New Hampshire,USA,1316470.0,1670,0,51,1619
 2020-04-24,New Jersey,USA,8791894.0,100025,0,5426,94599
 2020-04-24,New Mexico,USA,2059179.0,2379,0,78,2301
-2020-04-24,New York,USA,19378102.0,271590,0,21091,250499
-2020-04-24,North Carolina,USA,9535483.0,8135,0,284,7851
+2020-04-24,New York,USA,19378102.0,271590,0,21349,250241
+2020-04-24,North Carolina,USA,9535483.0,8207,0,292,7915
 2020-04-24,North Dakota,USA,672591.0,748,0,15,733
 2020-04-24,Nördliche Marianen,USA,56200.0,14,0,2,12
-2020-04-24,Ohio,USA,11536504.0,14693,0,656,14037
-2020-04-24,Oklahoma,USA,3751351.0,3017,0,179,2838
-2020-04-24,Oregon,USA,3831074.0,2127,0,83,2044
+2020-04-24,Ohio,USA,11536504.0,15169,0,690,14479
+2020-04-24,Oklahoma,USA,3751351.0,3121,0,188,2933
+2020-04-24,Oregon,USA,3831074.0,2178,0,86,2092
 2020-04-24,Pennsylvania,USA,12702379.0,39409,0,1734,37675
 2020-04-24,Puerto Rico,USA,3193694.0,1276,0,77,1199
 2020-04-24,Rhode Island,USA,1052567.0,6699,0,202,6497
 2020-04-24,South Carolina,USA,4625364.0,4917,0,150,4767
 2020-04-24,South Dakota,USA,814180.0,2040,0,10,2030
-2020-04-24,Tennessee,USA,6346105.0,8266,0,171,8095
+2020-04-24,Tennessee,USA,6346105.0,8759,0,169,8590
 2020-04-24,Texas,USA,25145561.0,22842,0,608,22234
-2020-04-24,Utah,USA,2763885.0,3612,0,35,3577
+2020-04-24,Utah,USA,2763885.0,3782,0,35,3747
 2020-04-24,Vermont,USA,625741.0,827,0,44,783
 2020-04-24,Virginia,USA,8001024.0,11594,0,411,11183
 2020-04-24,Washington,USA,6724540.0,12753,0,711,12042
-2020-04-24,West Virginia,USA,1852994.0,981,0,31,950
-2020-04-24,Wisconsin,USA,5686986.0,5052,0,258,4794
-2020-04-24,Wyoming,USA,563626.0,453,0,7,446
+2020-04-24,West Virginia,USA,1852994.0,988,0,32,956
+2020-04-24,Wisconsin,USA,5686986.0,5356,0,263,5093
+2020-04-24,Wyoming,USA,563626.0,473,0,7,466
+2020-04-25,Afghanistan,#Global,32225560.0,1351,188,43,1120
+2020-04-25,Albanien,#Global,2845955.0,678,394,27,257
+2020-04-25,Algerien,#Global,43000000.0,3127,1408,415,1304
+2020-04-25,Andorra,#Global,77543.0,731,333,40,358
+2020-04-25,Angola,#Global,31127674.0,25,6,2,17
+2020-04-25,Antigua und Barbuda,#Global,96453.0,24,10,3,11
+2020-04-25,Argentinien,#Global,44938712.0,3435,976,167,2292
+2020-04-25,Armenien,#Global,2957500.0,1596,728,27,841
+2020-04-25,Aserbaidschan,#Global,10067108.0,1592,1013,21,558
+2020-04-25,Australien,#Global,25677680.0,6661,4124,75,2462
+2020-04-25,Bahamas,#Global,385340.0,72,14,11,47
+2020-04-25,Bahrain,#Global,1543300.0,2506,1113,8,1385
+2020-04-25,Bangladesch,#Global,168439432.0,4689,112,131,4446
+2020-04-25,Barbados,#Global,287025.0,76,30,6,40
+2020-04-25,Belarus,#Global,9408400.0,8773,1120,63,7590
+2020-04-25,Belgien,#Global,11524454.0,44293,10122,6679,27492
+2020-04-25,Belize,#Global,408487.0,18,5,2,11
+2020-04-25,Benin,#Global,11733059.0,54,27,1,26
+2020-04-25,Bhutan,#Global,741672.0,7,3,0,4
+2020-04-25,Bolivien,#Global,11469896.0,703,44,43,616
+2020-04-25,Bosnien und Herzegowina,#Global,3301000.0,1421,538,55,828
+2020-04-25,Botswana,#Global,2338851.0,22,0,1,21
+2020-04-25,Brasilien,#Global,211389669.0,52995,26573,3670,22752
+2020-04-25,Brunei,#Global,442400.0,138,120,1,17
+2020-04-25,Bulgarien,#Global,7000039.0,1188,193,54,941
+2020-04-25,Burkina Faso,#Global,20870060.0,616,410,41,165
+2020-04-25,Burundi,#Global,10953317.0,11,4,1,6
+2020-04-25,Chile,#Global,19107216.0,12306,6327,174,5805
+2020-04-25,China,#Global,1386800000.0,82805,77272,4632,901
+2020-04-25,Costa Rica,#Global,5058007.0,686,196,6,484
+2020-04-25,Demokratische Republik Kongo,#Global,89561404.0,394,48,25,321
+2020-04-25,Deutschland,#Global,83149300.0,154545,106800,5723,42022
+2020-04-25,Dominica,#Global,71808.0,16,9,0,7
+2020-04-25,Dominikanische Republik,#Global,10358320.0,5749,763,267,4719
+2020-04-25,Dschibuti,#Global,1078373.0,999,330,2,667
+2020-04-25,Dänemark,#Global,5822763.0,8210,5526,403,2281
+2020-04-25,Ecuador,#Global,16800000.0,22719,1366,576,20777
+2020-04-25,El Salvador,#Global,6486201.0,261,72,8,181
+2020-04-25,Elfenbeinküste,#Global,25823071.0,1004,359,14,631
+2020-04-25,Eritrea,#Global,3497117.0,39,11,0,28
+2020-04-25,Estland,#Global,1328360.0,1605,206,46,1353
+2020-04-25,Eswatini,#Global,1136191.0,36,10,1,25
+2020-04-25,Falklandinseln (Malwinen),#Global,3198.0,12,11,0,1
+2020-04-25,Fidschi,#Global,884887.0,18,10,0,8
+2020-04-25,Finnland,#Global,5527573.0,4395,2500,177,1718
+2020-04-25,Frankreich,#Global,67076000.0,122577,43493,22245,56839
+2020-04-25,Gabon,#Global,2172579.0,172,26,3,143
+2020-04-25,Gambia,#Global,2347706.0,10,2,1,7
+2020-04-25,Georgien,#Global,3723464.0,444,132,5,307
+2020-04-25,Ghana,#Global,30280811.0,1279,134,10,1135
+2020-04-25,Grenada,#Global,112003.0,15,7,0,8
+2020-04-25,Griechenland,#Global,10724599.0,2490,577,130,1783
+2020-04-25,Großbritannien,#Global,66435550.0,143464,0,19506,123958
+2020-04-25,Guatemala,#Global,16604026.0,384,30,11,343
+2020-04-25,Guinea,#Global,12218357.0,862,170,6,686
+2020-04-25,Guinea-Bissau,#Global,1604528.0,50,3,0,47
+2020-04-25,Guyana,#Global,782766.0,73,12,7,54
+2020-04-25,Haiti,#Global,11577779.0,72,2,5,65
+2020-04-25,Honduras,#Global,9158345.0,562,50,47,465
+2020-04-25,Indien,#Global,1361020116.0,24447,5496,780,18171
+2020-04-25,Indonesien,#Global,266911900.0,8211,1002,689,6520
+2020-04-25,Irak,#Global,39127900.0,1708,1204,86,418
+2020-04-25,Iran,#Global,83363802.0,88194,66599,5574,16021
+2020-04-25,Irland,#Global,4921500.0,18184,9233,1014,7937
+2020-04-25,Island,#Global,364260.0,1789,1542,10,237
+2020-04-25,Israel,#Global,9185400.0,15058,6003,194,8861
+2020-04-25,Italien,#Global,60238522.0,192994,60498,25969,106527
+2020-04-25,Jamaika,#Global,2726667.0,257,28,6,223
+2020-04-25,Japan,#Global,125950000.0,12368,1494,328,10546
+2020-04-25,Jemen,#Global,29825968.0,1,1,0,0
+2020-04-25,Jordanien,#Global,10658084.0,441,326,7,108
+2020-04-25,Kambodscha,#Global,15288489.0,122,110,0,12
+2020-04-25,Kamerun,#Global,26545864.0,1430,668,43,719
+2020-04-25,Kanada,#Global,37993130.0,44526,15479,2385,26662
+2020-04-25,Kap Verde,#Global,550483.0,88,1,1,86
+2020-04-25,Kasachstan,#Global,18681864.0,2416,604,25,1787
+2020-04-25,Katar,#Global,2747282.0,8525,809,10,7706
+2020-04-25,Kenia,#Global,47564296.0,336,94,14,228
+2020-04-25,Kirgisistan,#Global,6533500.0,656,322,8,326
+2020-04-25,Kolumbien,#Global,49395678.0,4561,927,215,3419
+2020-04-25,Kosovo,#Global,1795666.0,510,93,12,405
+2020-04-25,Kroatien,#Global,4076246.0,2009,982,51,976
+2020-04-25,Kuba,#Global,11209628.0,1285,416,49,820
+2020-04-25,Kuwait,#Global,4420110.0,2614,613,15,1986
+2020-04-25,Laos,#Global,7123205.0,19,4,0,15
+2020-04-25,Lettland,#Global,1906800.0,784,267,12,505
+2020-04-25,Libanon,#Global,6825442.0,696,140,22,534
+2020-04-25,Liberia,#Global,4475353.0,117,25,8,84
+2020-04-25,Libyen,#Global,6871287.0,60,18,2,40
+2020-04-25,Liechtenstein,#Global,38749.0,81,55,1,25
+2020-04-25,Litauen,#Global,2793471.0,1410,430,40,940
+2020-04-25,Luxemburg,#Global,626108.0,3695,3007,85,603
+2020-04-25,Madagaskar,#Global,26251309.0,122,61,0,61
+2020-04-25,Malawi,#Global,18600000.0,33,3,3,27
+2020-04-25,Malaysia,#Global,32749760.0,5691,3663,96,1932
+2020-04-25,Malediven,#Global,374775.0,116,16,0,100
+2020-04-25,Mali,#Global,20250833.0,309,77,21,211
+2020-04-25,Malta,#Global,493559.0,447,223,3,221
+2020-04-25,Marokko,#Global,35868274.0,3758,486,158,3114
+2020-04-25,Mauretanien,#Global,4077347.0,7,6,1,0
+2020-04-25,Mauritius,#Global,1300000.0,331,285,9,37
+2020-04-25,Mexiko,#Global,126577691.0,11633,2627,1069,7937
+2020-04-25,Moldawien,#Global,2681735.0,3110,755,84,2271
+2020-04-25,Monaco,#Global,38300.0,94,41,4,49
+2020-04-25,Mongolei,#Global,3312557.0,36,9,0,27
+2020-04-25,Montenegro,#Global,622359.0,319,123,6,190
+2020-04-25,Mosambik,#Global,30066648.0,65,12,0,53
+2020-04-25,Myanmar,#Global,54339766.0,144,9,5,130
+2020-04-25,Namibia,#Global,2458936.0,16,7,0,9
+2020-04-25,Nepal,#Global,29996478.0,49,10,0,39
+2020-04-25,Neuseeland,#Global,4978026.0,1456,1095,17,344
+2020-04-25,Nicaragua,#Global,6460411.0,11,7,3,1
+2020-04-25,Niederlande,#Global,17455231.0,36535,0,4289,32246
+2020-04-25,Niger,#Global,22314743.0,671,256,24,391
+2020-04-25,Nigeria,#Global,206139587.0,981,197,31,753
+2020-04-25,Nordmazedonien,#Global,2077132.0,1326,337,57,932
+2020-04-25,Norwegen,#Global,5367580.0,7444,32,199,7213
+2020-04-25,Oman,#Global,4664790.0,1790,325,10,1455
+2020-04-25,Osttimor,#Global,1387149.0,23,1,0,22
+2020-04-25,Pakistan,#Global,219280520.0,11940,2755,253,8932
+2020-04-25,Palästinensische Autonomiegebiete,#Global,4900000.0,484,92,4,388
+2020-04-25,Panama,#Global,4218808.0,5166,271,146,4749
+2020-04-25,Papua-Neuguinea,#Global,8935000.0,8,0,0,8
+2020-04-25,Paraguay,#Global,7152703.0,220,70,9,141
+2020-04-25,Peru,#Global,32131400.0,21648,7496,634,13518
+2020-04-25,Philippinen,#Global,108539263.0,7192,762,477,5953
+2020-04-25,Polen,#Global,38379000.0,10892,1944,494,8454
+2020-04-25,Portugal,#Global,10276617.0,22797,1228,854,20715
+2020-04-25,Republik Kongo,#Global,5518092.0,186,16,6,164
+2020-04-25,Ruanda,#Global,12374397.0,154,87,0,67
+2020-04-25,Rumänien,#Global,19405156.0,10417,2817,567,7033
+2020-04-25,Russland,#Global,146745098.0,68622,5568,615,62439
+2020-04-25,Sambia,#Global,17885422.0,84,37,3,44
+2020-04-25,San Marino,#Global,33574.0,513,64,40,409
+2020-04-25,Saudiarabien,#Global,34218169.0,15102,2049,127,12926
+2020-04-25,Schweden,#Global,10338368.0,17567,550,2152,14865
+2020-04-25,Schweiz,#Global,8603900.0,28677,21000,1589,6088
+2020-04-25,Senegal,#Global,16209125.0,545,262,7,276
+2020-04-25,Serbien,#Global,6963764.0,6630,870,125,5635
+2020-04-25,Seychellen,#Global,90000.0,11,6,0,5
+2020-04-25,Sierra Leone,#Global,7901454.0,82,10,2,70
+2020-04-25,Simbabwe,#Global,15159624.0,29,2,4,23
+2020-04-25,Singapur,#Global,5703600.0,12075,924,12,11139
+2020-04-25,Slowakei,#Global,5456362.0,1360,355,17,988
+2020-04-25,Slowenien,#Global,2094060.0,1373,211,80,1082
+2020-04-25,Somalia,#Global,15893219.0,328,8,16,304
+2020-04-25,Spanien,#Global,47100396.0,219764,92355,22524,104885
+2020-04-25,Sri Lanka,#Global,21803000.0,417,109,7,301
+2020-04-25,St. Kitts und Nevis,#Global,52823.0,15,2,0,13
+2020-04-25,St. Lucia,#Global,178696.0,15,15,0,0
+2020-04-25,St. Vincent und die Grenadinen,#Global,110608.0,14,5,0,9
+2020-04-25,Sudan,#Global,42424760.0,174,14,16,144
+2020-04-25,Suriname,#Global,581372.0,10,6,1,3
+2020-04-25,Syrien,#Global,17500657.0,42,6,3,33
+2020-04-25,São Tomé und Príncipe,#Global,201784.0,4,0,0,4
+2020-04-25,Südafrika,#Global,58775022.0,4220,1473,79,2668
+2020-04-25,Südkorea,#Global,51780579.0,10708,8501,240,1967
+2020-04-25,Südsudan,#Global,12778250.0,5,0,0,5
+2020-04-25,Taiwan,#Global,23604265.0,428,264,6,158
+2020-04-25,Tansania,#Global,55890747.0,284,48,10,226
+2020-04-25,Thailand,#Global,66493255.0,2854,2490,50,314
+2020-04-25,Togo,#Global,7538000.0,90,59,6,25
+2020-04-25,Trinidad und Tobago,#Global,1363985.0,115,48,8,59
+2020-04-25,Tschad,#Global,16244513.0,40,8,0,32
+2020-04-25,Tschechien,#Global,10693939.0,7236,2371,214,4651
+2020-04-25,Tunesien,#Global,11722038.0,918,190,38,690
+2020-04-25,Türkei,#Global,83154997.0,104912,21737,2600,80575
+2020-04-25,USA,#Global,329624709.0,888889,96677,50927,741285
+2020-04-25,Uganda,#Global,40299300.0,74,46,0,28
+2020-04-25,Ukraine,#Global,41879904.0,7647,601,193,6853
+2020-04-25,Ungarn,#Global,9772756.0,2383,401,250,1732
+2020-04-25,Uruguay,#Global,3518552.0,557,354,12,191
+2020-04-25,Usbekistan,#Global,34126048.0,1804,621,8,1175
+2020-04-25,Vatikan,#Global,799.0,9,2,0,7
+2020-04-25,Venezuela,#Global,32219521.0,318,132,10,176
+2020-04-25,Vereinigte Arabische Emirate,#Global,9890400.0,9281,1760,64,7457
+2020-04-25,Vietnam,#Global,96208984.0,270,225,0,45
+2020-04-25,Westsahara,#Global,582463.0,6,5,0,1
+2020-04-25,Zentralafrikanische Republik,#Global,5496011.0,16,10,0,6
+2020-04-25,Zypern,#Global,875900.0,804,98,14,692
+2020-04-25,Ägypten,#Global,100247225.0,4092,1075,294,2723
+2020-04-25,Äquatorialguinea,#Global,1358276.0,214,7,1,206
+2020-04-25,Äthiopien,#Global,98665000.0,117,25,3,89
+2020-04-25,Österreich,#Global,8902600.0,15071,11872,530,2669
+2020-04-25,Australisches Hauptstadtterritorium,Australien,358894.0,104,88,3,13
+2020-04-25,New South Wales,Australien,7238819.0,2976,1379,31,1566
+2020-04-25,Northern Territory,Australien,229675.0,27,9,0,18
+2020-04-25,Queensland,Australien,4516361.0,1026,738,6,282
+2020-04-25,South Australia,Australien,1644642.0,438,331,4,103
+2020-04-25,Tasmania,Australien,507626.0,207,67,8,132
+2020-04-25,Victoria,Australien,5547527.0,1337,1172,16,149
+2020-04-25,Western Australia,Australien,2296411.0,546,340,7,199
+2020-04-25,Alb-Donau-Kreis,Baden-Württemberg,196047.0,517,399,10,108
+2020-04-25,Baden-Baden,Baden-Württemberg,55123.0,171,125,16,30
+2020-04-25,Biberach (Kreis),Baden-Württemberg,199742.0,487,265,17,205
+2020-04-25,Bodenseekreis,Baden-Württemberg,216227.0,278,254,7,17
+2020-04-25,Breisgau-Hochschwarzwald (Kreis),Baden-Württemberg,262795.0,1038,625,45,368
+2020-04-25,Böblingen (Kreis),Baden-Württemberg,391640.0,1286,559,37,690
+2020-04-25,Calw (Kreis),Baden-Württemberg,158397.0,640,469,14,157
+2020-04-25,Emmendingen (Kreis),Baden-Württemberg,165383.0,507,161,37,309
+2020-04-25,Enzkreis,Baden-Württemberg,198905.0,495,194,12,289
+2020-04-25,Esslingen (Kreis),Baden-Württemberg,533859.0,1632,1054,77,501
+2020-04-25,Freiburg im Breisgau,Baden-Württemberg,230241.0,922,400,64,458
+2020-04-25,Freudenstadt (Kreis),Baden-Württemberg,117935.0,534,357,26,151
+2020-04-25,Göppingen (Kreis),Baden-Württemberg,257253.0,731,471,36,224
+2020-04-25,Heidelberg,Baden-Württemberg,160355.0,272,215,6,51
+2020-04-25,Heidenheim (Kreis),Baden-Württemberg,132472.0,415,222,30,163
+2020-04-25,Heilbronn,Baden-Württemberg,125960.0,397,74,13,310
+2020-04-25,Heilbronn (Kreis),Baden-Württemberg,343068.0,848,83,26,739
+2020-04-25,Hohenlohekreis,Baden-Württemberg,112010.0,733,439,35,259
+2020-04-25,Karlsruhe,Baden-Württemberg,313092.0,340,199,5,136
+2020-04-25,Karlsruhe (Kreis),Baden-Württemberg,444232.0,880,413,58,409
+2020-04-25,Konstanz (Kreis),Baden-Württemberg,285325.0,412,280,8,124
+2020-04-25,Ludwigsburg (Kreis),Baden-Württemberg,543984.0,1543,1069,51,423
+2020-04-25,Lörrach (Kreis),Baden-Württemberg,228639.0,547,340,38,169
+2020-04-25,Main-Tauber-Kreis,Baden-Württemberg,132321.0,344,211,7,126
+2020-04-25,Mannheim,Baden-Württemberg,309370.0,435,310,7,118
+2020-04-25,Neckar-Odenwald-Kreis,Baden-Württemberg,143535.0,337,139,13,185
+2020-04-25,Ortenaukreis,Baden-Württemberg,429479.0,973,702,79,192
+2020-04-25,Ostalbkreis,Baden-Württemberg,314002.0,1072,678,20,374
+2020-04-25,Pforzheim,Baden-Württemberg,125542.0,230,103,4,123
+2020-04-25,Rastatt (Kreis),Baden-Württemberg,231018.0,476,363,12,101
+2020-04-25,Ravensburg (Kreis),Baden-Württemberg,284285.0,519,321,6,192
+2020-04-25,Rems-Murr-Kreis,Baden-Württemberg,426158.0,1182,740,44,398
+2020-04-25,Reutlingen (Kreis),Baden-Württemberg,286748.0,1377,779,32,566
+2020-04-25,Rhein-Neckar-Kreis,Baden-Württemberg,547625.0,859,676,28,155
+2020-04-25,Rottweil (Kreis),Baden-Württemberg,139455.0,565,314,13,238
+2020-04-25,Schwarzwald-Baar-Kreis,Baden-Württemberg,212381.0,475,301,14,160
+2020-04-25,Schwäbisch Hall (Kreis),Baden-Württemberg,195861.0,748,630,39,79
+2020-04-25,Sigmaringen (Kreis),Baden-Württemberg,130873.0,741,480,30,231
+2020-04-25,Stuttgart (Kreis),Baden-Württemberg,634830.0,1286,623,45,618
+2020-04-25,Tuttlingen (Kreis),Baden-Württemberg,140152.0,418,184,11,223
+2020-04-25,Tübingen (Kreis),Baden-Württemberg,227331.0,1198,130,40,1028
+2020-04-25,Ulm,Baden-Württemberg,126329.0,240,182,4,54
+2020-04-25,Waldshut (Kreis),Baden-Württemberg,170619.0,288,188,32,68
+2020-04-25,Zollernalbkreis,Baden-Württemberg,188935.0,981,460,55,466
+2020-04-25,weitere Fälle in Baden-Württemberg,Baden-Württemberg,,0,2158,0,-2158
+2020-04-25,Aichach-Friedberg (Kreis),Bayern,133596.0,271,197,19,55
+2020-04-25,Altötting (Kreis),Bayern,111210.0,559,300,27,232
+2020-04-25,Amberg,Bayern,41970.0,65,35,3,27
+2020-04-25,Amberg-Sulzbach (Kreis),Bayern,103109.0,428,136,33,259
+2020-04-25,Ansbach,Bayern,41847.0,102,50,5,47
+2020-04-25,Ansbach (Kreis),Bayern,183949.0,486,166,10,310
+2020-04-25,Aschaffenburg,Bayern,70527.0,102,99,1,2
+2020-04-25,Aschaffenburg (Kreis),Bayern,174208.0,462,275,23,164
+2020-04-25,Augsburg,Bayern,295135.0,358,267,9,82
+2020-04-25,Augsburg (Kreis),Bayern,251534.0,354,241,6,107
+2020-04-25,Bad Kissingen (Kreis),Bayern,103218.0,216,112,11,93
+2020-04-25,Bad Tölz (Kreis),Bayern,127227.0,397,284,7,106
+2020-04-25,Bamberg,Bayern,77592.0,179,96,13,70
+2020-04-25,Bamberg (Kreis),Bayern,147086.0,374,160,31,183
+2020-04-25,Bayreuth,Bayern,74657.0,176,123,5,48
+2020-04-25,Bayreuth (Kreis),Bayern,103656.0,373,242,7,124
+2020-04-25,Berchtesgadener Land (Kreis),Bayern,105722.0,259,173,10,76
+2020-04-25,Cham (Kreis),Bayern,127882.0,378,322,14,42
+2020-04-25,Coburg,Bayern,41249.0,50,40,0,10
+2020-04-25,Coburg (Kreis),Bayern,86906.0,163,71,7,85
+2020-04-25,Dachau (Kreis),Bayern,153884.0,790,577,18,195
+2020-04-25,Deggendorf (Kreis),Bayern,119326.0,249,167,9,73
+2020-04-25,Dillingen a.d. Donau (Kreis),Bayern,96021.0,213,95,10,108
+2020-04-25,Dingolfing-Landau (Kreis),Bayern,96217.0,183,128,3,52
+2020-04-25,Donau-Ries (Kreis),Bayern,133496.0,315,149,21,145
+2020-04-25,Ebersberg (Kreis),Bayern,142142.0,421,309,4,108
+2020-04-25,Eichstätt (Kreis),Bayern,132341.0,253,148,13,92
+2020-04-25,Erding (Kreis),Bayern,137660.0,564,412,8,144
+2020-04-25,Erlangen,Bayern,111962.0,221,129,6,86
+2020-04-25,Erlangen-Höchstadt,Bayern,136271.0,197,128,6,63
+2020-04-25,Forchheim (Kreis),Bayern,116099.0,195,141,3,51
+2020-04-25,Freising (Kreis),Bayern,179116.0,917,629,33,255
+2020-04-25,Freyung-Grafenau (Kreis),Bayern,78355.0,162,115,9,38
+2020-04-25,Fürstenfeldbruck (Kreis),Bayern,219320.0,756,583,28,145
+2020-04-25,Fürth,Bayern,127748.0,310,103,20,187
+2020-04-25,Fürth (Kreis),Bayern,117387.0,443,141,48,254
+2020-04-25,Garmisch-Partenkirchen (Kreis),Bayern,88467.0,255,178,13,64
+2020-04-25,Günzburg (Kreis),Bayern,125747.0,210,122,2,86
+2020-04-25,Haßberge (Kreis),Bayern,84599.0,144,85,2,57
+2020-04-25,Hof,Bayern,45930.0,99,57,3,39
+2020-04-25,Hof (Kreis),Bayern,95311.0,367,150,19,198
+2020-04-25,Ingolstadt,Bayern,136981.0,392,189,26,177
+2020-04-25,Kaufbeuren,Bayern,43893.0,97,67,3,27
+2020-04-25,Kelheim (Kreis),Bayern,122258.0,421,308,31,82
+2020-04-25,Kempten,Bayern,68907.0,102,70,7,25
+2020-04-25,Kitzingen (Kreis),Bayern,90909.0,137,70,1,66
+2020-04-25,Kronach (Kreis),Bayern,67135.0,126,83,3,40
+2020-04-25,Kulmbach (Kreis),Bayern,71845.0,188,120,10,58
+2020-04-25,Landsberg am Lech (Kreis),Bayern,120071.0,323,178,9,136
+2020-04-25,Landshut,Bayern,72404.0,252,116,7,129
+2020-04-25,Landshut (Kreis),Bayern,158698.0,628,275,24,329
+2020-04-25,Lichtenfels (Kreis),Bayern,66838.0,190,116,1,73
+2020-04-25,Lindau/Bodensee (Kreis),Bayern,81669.0,238,71,5,162
+2020-04-25,Main-Spessart (Kreis),Bayern,126365.0,145,103,5,37
+2020-04-25,Memmingen,Bayern,43837.0,48,31,0,17
+2020-04-25,Miesbach (Kreis),Bayern,99726.0,490,395,7,88
+2020-04-25,Miltenberg (Kreis),Bayern,128756.0,253,187,3,63
+2020-04-25,Mühldorf a.Inn (Kreis),Bayern,115250.0,449,280,17,152
+2020-04-25,München,Bayern,1471508.0,5389,3858,86,1445
+2020-04-25,München (Kreis),Bayern,348871.0,1218,1033,21,164
+2020-04-25,Neu-Ulm (Kreis),Bayern,174200.0,410,271,15,124
+2020-04-25,Neuburg-Schrobenhausen (Kreis),Bayern,96680.0,245,142,9,94
+2020-04-25,Neumarkt i.d.Opf. (Kreis),Bayern,133561.0,317,164,10,143
+2020-04-25,Neustadt a.d. Aisch-Bad Windsheim,Bayern,100364.0,216,102,8,106
+2020-04-25,Neustadt a.d. Waldnaab,Bayern,94352.0,731,164,35,532
+2020-04-25,Nürnberg,Bayern,518365.0,863,571,19,273
+2020-04-25,Nürnberger Land (Kreis),Bayern,170365.0,582,397,30,155
+2020-04-25,Oberallgäu (Kreis),Bayern,155362.0,165,127,7,31
+2020-04-25,Ostallgäu (Kreis),Bayern,140316.0,493,278,26,189
+2020-04-25,Passau,Bayern,52469.0,120,91,16,13
+2020-04-25,Passau (Kreis),Bayern,192043.0,429,279,18,132
+2020-04-25,Pfaffenhofen a.d.Ilm (Kreis),Bayern,127151.0,316,205,17,94
+2020-04-25,Regen (Kreis),Bayern,77656.0,148,57,2,89
+2020-04-25,Regensburg,Bayern,152610.0,411,35,4,372
+2020-04-25,Regensburg (Kreis),Bayern,193572.0,400,164,7,229
+2020-04-25,Rhön-Grabfeld (Kreis),Bayern,79690.0,162,79,4,79
+2020-04-25,Rosenheim,Bayern,63324.0,414,157,14,243
+2020-04-25,Rosenheim (Kreis),Bayern,260983.0,1914,550,104,1260
+2020-04-25,Roth (Kreis),Bayern,126958.0,276,194,7,75
+2020-04-25,Rottal-Inn (Kreis),Bayern,120659.0,687,521,39,127
+2020-04-25,Schwabach,Bayern,40792.0,74,6,1,67
+2020-04-25,Schwandorf (Kreis),Bayern,147189.0,425,283,14,128
+2020-04-25,Schweinfurt,Bayern,54032.0,151,79,17,55
+2020-04-25,Schweinfurt (Kreis),Bayern,115106.0,427,190,19,218
+2020-04-25,Starnberg (Kreis),Bayern,136092.0,493,420,9,64
+2020-04-25,Straubing,Bayern,47794.0,361,103,31,227
+2020-04-25,Straubing-Bogen (Kreis),Bayern,100649.0,434,123,15,296
+2020-04-25,Tirschenreuth (Kreis),Bayern,72504.0,1088,734,99,255
+2020-04-25,Traunstein (Kreis),Bayern,177089.0,1018,311,51,656
+2020-04-25,Unterallgäu (Kreis),Bayern,144041.0,261,170,8,83
+2020-04-25,Weiden,Bayern,42520.0,271,35,7,229
+2020-04-25,Weilheim-Schongau (Kreis),Bayern,135348.0,340,268,2,70
+2020-04-25,Weißenburg-Gunzenhausen (Kreis),Bayern,94393.0,275,116,11,148
+2020-04-25,Wunsiedel i.Fichtelgebirge (Kreis),Bayern,73178.0,591,487,33,71
+2020-04-25,Würzburg,Bayern,127880.0,462,210,49,203
+2020-04-25,Würzburg (Kreis),Bayern,161834.0,401,200,6,195
+2020-04-25,weitere Fälle in Bayern,Bayern,,0,2572,0,-2572
+2020-04-25,Charlottenburg-Wilmersdorf,Berlin,342332.0,646,518,15,113
+2020-04-25,Friedrichshain-Kreuzberg,Berlin,289762.0,446,392,4,50
+2020-04-25,Lichtenberg,Berlin,291452.0,208,167,5,36
+2020-04-25,Marzahn-Hellersdorf,Berlin,268548.0,262,181,1,80
+2020-04-25,Mitte,Berlin,384172.0,826,661,7,158
+2020-04-25,Neukölln,Berlin,329691.0,585,488,15,82
+2020-04-25,Pankow,Berlin,407765.0,583,435,10,138
+2020-04-25,Reinickendorf,Berlin,265225.0,436,324,19,93
+2020-04-25,Spandau,Berlin,243977.0,227,171,6,50
+2020-04-25,Steglitz-Zehlendorf,Berlin,308697.0,459,382,5,72
+2020-04-25,Tempelhof-Schöneberg,Berlin,351644.0,566,457,14,95
+2020-04-25,Treptow-Köpenick,Berlin,271153.0,288,236,4,48
+2020-04-25,weitere Fälle in Berlin,Berlin,,0,0,8,-8
+2020-04-25,Barnim (Kreis),Brandenburg,182760.0,336,93,18,225
+2020-04-25,Brandenburg a. d. Havel,Brandenburg,72124.0,53,34,0,19
+2020-04-25,Cottbus,Brandenburg,100219.0,39,33,0,6
+2020-04-25,Dahme-Spreewald (Kreis),Brandenburg,169067.0,163,92,4,67
+2020-04-25,Elbe-Elster (Kreis),Brandenburg,102638.0,73,59,3,11
+2020-04-25,Frankfurt (Oder),Brandenburg,57873.0,23,21,0,2
+2020-04-25,Havelland (Kreis),Brandenburg,161909.0,150,59,5,86
+2020-04-25,Märkisch-Oderland (Kreis),Brandenburg,194328.0,166,118,2,46
+2020-04-25,Oberhavel (Kreis),Brandenburg,211249.0,258,123,6,129
+2020-04-25,Oberspreewald-Lausitz (Kreis),Brandenburg,110476.0,42,32,2,8
+2020-04-25,Oder-Spree (Kreis),Brandenburg,178658.0,112,80,1,31
+2020-04-25,Ostprignitz-Ruppin,Brandenburg,99078.0,57,21,1,35
+2020-04-25,Potsdam,Brandenburg,178089.0,548,147,35,366
+2020-04-25,Potsdam-Mittelmark (Kreis),Brandenburg,214664.0,395,142,28,225
+2020-04-25,Prignitz (Kreis),Brandenburg,76508.0,23,13,0,10
+2020-04-25,Spree-Neiße (Kreis),Brandenburg,114429.0,54,51,0,3
+2020-04-25,Teltow-Fläming (Kreis),Brandenburg,168296.0,120,72,7,41
+2020-04-25,Uckermark (Kreis),Brandenburg,119552.0,35,23,1,11
+2020-04-25,weitere Fälle in Brandenburg,Brandenburg,,0,437,0,-437
+2020-04-25,Bremen,Bremen,569352.0,676,336,27,313
+2020-04-25,Bremerhaven,Bremen,113634.0,32,26,0,6
+2020-04-25,weitere Fälle in Bremen,Bremen,,0,0,0,0
+2020-04-25,Kreuzfahrtschiff 'Grand Princess',Bürder der USA+,,103,0,3,100
+2020-04-25,Kreuzfahrtschiff 'Diamond Princess',Bürger Kanadas,,0,0,1,-1
+2020-04-25,Kreuzfahrtschiff 'Diamond Princess',Bürger der USA,,49,0,0,49
+2020-04-25,Anhui,China,59500510.0,991,985,6,0
+2020-04-25,Chongqing,China,28846170.0,579,573,6,0
+2020-04-25,Fujian,China,36894216.0,355,346,1,8
+2020-04-25,Gansu,China,25575254.0,139,137,2,0
+2020-04-25,Guangdong,China,104303132.0,1585,1528,8,49
+2020-04-25,Guangxi,China,46026629.0,254,252,2,0
+2020-04-25,Guizhou,China,34746468.0,147,145,2,0
+2020-04-25,Hainan,China,8671518.0,168,162,6,0
+2020-04-25,Hebei,China,71854202.0,328,317,6,5
+2020-04-25,Heilongjiang,China,38312224.0,928,485,13,430
+2020-04-25,Henan,China,94023567.0,1276,1254,22,0
+2020-04-25,Hong Kong,China,7500700.0,1035,725,4,306
+2020-04-25,Hubei (Wuhan),China,94023567.0,68128,63569,4512,47
+2020-04-25,Hunan,China,65683722.0,1019,1015,4,0
+2020-04-25,Innere Mongolei,China,24706321.0,194,108,1,85
+2020-04-25,Jiangsu,China,78659903.0,653,646,0,7
+2020-04-25,Jiangxi,China,44567475.0,937,936,1,0
+2020-04-25,Jilin,China,27462297.0,108,99,1,8
+2020-04-25,Liaoning,China,43746323.0,146,143,2,1
+2020-04-25,Macau,China,679600.0,45,27,0,18
+2020-04-25,Ningxia,China,6301350.0,75,75,0,0
+2020-04-25,Peking (Beijing),China,19612368.0,593,524,8,61
+2020-04-25,Qinghai,China,5626722.0,18,18,0,0
+2020-04-25,Shaanxi,China,37327378.0,279,253,3,23
+2020-04-25,Shandong,China,95793065.0,787,766,7,14
+2020-04-25,Shanghai,China,23019148.0,641,547,7,87
+2020-04-25,Shanxi,China,35712111.0,197,142,0,55
+2020-04-25,Sichuan,China,80418200.0,561,558,3,0
+2020-04-25,Tianjin,China,12938224.0,190,179,3,8
+2020-04-25,Tibet,China,3002166.0,1,1,0,0
+2020-04-25,Xinjiang,China,21813334.0,76,73,3,0
+2020-04-25,Yunnan,China,45966239.0,184,180,2,2
+2020-04-25,Zhejiang,China,54426891.0,1268,1256,1,11
+2020-04-25,Baden-Württemberg,Deutschland,10880000.0,30369,19339,1203,9827
+2020-04-25,Bayern,Deutschland,12844000.0,40473,26340,1548,12585
+2020-04-25,Berlin,Deutschland,3520000.0,5532,4412,113,1007
+2020-04-25,Brandenburg,Deutschland,2485000.0,2647,1650,113,884
+2020-04-25,Bremen,Deutschland,671000.0,708,362,27,319
+2020-04-25,Hamburg,Deutschland,1787000.0,4558,3000,122,1436
+2020-04-25,Hessen,Deutschland,6176000.0,7796,4843,301,2652
+2020-04-25,Mecklenburg-Vorpommern,Deutschland,1612000.0,665,519,16,130
+2020-04-25,Niedersachsen,Deutschland,7927000.0,9720,6630,376,2714
+2020-04-25,Nordrhein-Westfalen,Deutschland,17866000.0,31129,20257,1052,9820
+2020-04-25,Rheinland-Pfalz,Deutschland,4053000.0,5761,4153,138,1470
+2020-04-25,Saarland,Deutschland,996000.0,2477,1467,122,888
+2020-04-25,Sachsen,Deutschland,4085000.0,4479,3380,141,958
+2020-04-25,Sachsen-Anhalt,Deutschland,2245000.0,1481,1040,35,406
+2020-04-25,Schleswig-Holstein,Deutschland,2859000.0,2557,1900,88,569
+2020-04-25,Thüringen,Deutschland,2171000.0,2023,1430,71,522
+2020-04-25,weitere Fälle bundesweit,Deutschland,,2170,6078,257,-4165
+2020-04-25,Färöer,Dänemark,52124.0,187,178,0,9
+2020-04-25,Grönland,Dänemark,56081.0,11,11,0,0
+2020-04-25,Französisch Polynesien,Frankreich,275918.0,57,36,0,21
+2020-04-25,Französisch-Guyana,Frankreich,290691.0,107,84,1,22
+2020-04-25,Guadeloupe,Frankreich,390253.0,149,82,12,55
+2020-04-25,Martinique,Frankreich,19129952.0,170,77,14,79
+2020-04-25,Mayotte,Frankreich,270372.0,354,144,4,206
+2020-04-25,Neukaledonien,Frankreich,282200.0,18,17,0,1
+2020-04-25,Réunion,Frankreich,859959.0,412,238,0,174
+2020-04-25,Saint Barthélemy,Frankreich,9793.0,6,6,0,0
+2020-04-25,Saint Martin,Frankreich,35746.0,38,20,2,16
+2020-04-25,Saint-Pierre und Miquelon,Frankreich,6008.0,1,0,0,1
+2020-04-25,Anguilla,Großbritannien,14869.0,3,1,0,2
+2020-04-25,Bermuda,Großbritannien,64027.0,99,39,5,55
+2020-04-25,Britische Jungferninseln,Großbritannien,30030.0,5,3,1,1
+2020-04-25,Cayman-Inseln,Großbritannien,65813.0,66,7,1,58
+2020-04-25,Gibraltar,Großbritannien,33701.0,133,129,0,4
+2020-04-25,Isle of Man,Großbritannien,83314.0,308,230,18,60
+2020-04-25,Kanalinseln,Großbritannien,165000.0,523,295,34,194
+2020-04-25,Montserrat,Großbritannien,4989.0,11,2,0,9
+2020-04-25,Turks- und Caicosinseln,Großbritannien,41369.0,11,4,1,6
+2020-04-25,Bergstraße (Kreis),Hessen,269694.0,296,216,2,78
+2020-04-25,Darmstadt,Hessen,159207.0,182,107,7,68
+2020-04-25,Darmstadt-Dieburg (Kreis),Hessen,297399.0,349,236,13,100
+2020-04-25,Frankfurt am Main,Hessen,753056.0,1174,107,28,1039
+2020-04-25,Fulda (Kreis),Hessen,222584.0,296,100,8,188
+2020-04-25,Gießen (Kreis),Hessen,268876.0,210,149,2,59
+2020-04-25,Groß-Gerau (Kreis),Hessen,274526.0,392,233,6,153
+2020-04-25,Hersfeld-Rotenburg (Kreis),Hessen,120829.0,193,91,21,81
+2020-04-25,Hochtaunuskreis,Hessen,236564.0,231,152,5,74
+2020-04-25,Kassel,Hessen,201585.0,209,107,6,96
+2020-04-25,Kassel (Kreis),Hessen,236633.0,292,123,20,149
+2020-04-25,Lahn-Dill-Kreis,Hessen,253777.0,327,243,14,70
+2020-04-25,Limburg-Weilburg (Kreis),Hessen,172083.0,248,196,3,49
+2020-04-25,Main-Kinzig-Kreis,Hessen,41895.0,540,140,28,372
+2020-04-25,Main-Taunus-Kreis,Hessen,237735.0,243,179,5,59
+2020-04-25,Marburg-Biedenkopf (Kreis),Hessen,246648.0,192,159,1,32
+2020-04-25,Odenwaldkreis,Hessen,96798.0,314,145,42,127
+2020-04-25,Offenbach,Hessen,128744.0,74,33,5,36
+2020-04-25,Offenbach (Kreis),Hessen,354092.0,422,185,20,217
+2020-04-25,Rheingau-Taunus-Kreis,Hessen,187157.0,191,164,3,24
+2020-04-25,Schwalm-Eder-Kreis,Hessen,180222.0,444,263,27,154
+2020-04-25,Vogelsbergkreis,Hessen,105878.0,118,83,5,30
+2020-04-25,Waldeck-Frankenberg (Kreis),Hessen,156953.0,143,130,3,10
+2020-04-25,Werra-Meißner-Kreis,Hessen,101017.0,167,48,7,112
+2020-04-25,Wetteraukreis,Hessen,30646.0,257,149,11,97
+2020-04-25,Wiesbaden,Hessen,278342.0,292,222,9,61
+2020-04-25,weitere Fälle in Hessen,Hessen,,0,990,0,-990
+2020-04-25,Kreuzfahrtschiff 'Diamond Princess',International,,761,645,14,102
+2020-04-25,Kreuzfahrtschiff 'Diamond Princess',International,,712,645,13,54
+2020-04-25,Kreuzfahrtschiff 'Grand Princess',International,,103,0,3,100
+2020-04-25,Kreuzfahrtschiff 'MS Zaandam',International,,9,0,2,7
+2020-04-25,Kreuzfahrtschiffe,International,,873,645,19,209
+2020-04-25,Alberta,Kanada,4286134.0,3720,0,68,3652
+2020-04-25,British Columbia,Kanada,4817160.0,1824,0,94,1730
+2020-04-25,Genesene,Kanada,,0,15479,0,-15479
+2020-04-25,Manitoba,Kanada,1338109.0,263,0,6,257
+2020-04-25,Neufundland und Labrador,Kanada,528817.0,256,0,3,253
+2020-04-25,Neuschottland,Kanada,953869.0,850,0,16,834
+2020-04-25,New Brunswick,Kanada,759655.0,118,0,0,118
+2020-04-25,Nordwest-Territorien,Kanada,44520.0,5,0,0,5
+2020-04-25,Ontario,Kanada,14193384.0,14496,0,854,13642
+2020-04-25,Prinz Edward Insel,Kanada,152021.0,26,0,0,26
+2020-04-25,Québec,Kanada,8394034.0,22616,0,1340,21276
+2020-04-25,Saskatchewan,Kanada,1163925.0,341,0,4,337
+2020-04-25,Yukon,Kanada,38459.0,11,0,0,11
+2020-04-25,Ludwigslust-Parchim (Kreis),Mecklenburg-Vorpommern,212618.0,67,51,1,15
+2020-04-25,Mecklenburgische Seenplatte (Kreis),Mecklenburg-Vorpommern,259130.0,108,18,3,87
+2020-04-25,Nordwestmecklenburg (Kreis),Mecklenburg-Vorpommern,25913.0,71,55,1,15
+2020-04-25,Rostock,Mecklenburg-Vorpommern,208886.0,75,25,1,49
+2020-04-25,Rostock (Kreis),Mecklenburg-Vorpommern,215113.0,54,45,3,6
+2020-04-25,Schwerin,Mecklenburg-Vorpommern,95818.0,89,78,0,11
+2020-04-25,Vorpommern-Greifswald (Kreis),Mecklenburg-Vorpommern,236697.0,126,56,4,66
+2020-04-25,Vorpommern-Rügen (Kreis),Mecklenburg-Vorpommern,224684.0,75,61,2,12
+2020-04-25,weitere Fälle in Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,,0,130,1,-131
+2020-04-25,Aruba,Niederlande,112309.0,100,68,2,30
+2020-04-25,"Bonaire, Sint Eustatius und Saba",Niederlande,24547.0,5,0,0,5
+2020-04-25,Curaçao,Niederlande,158665.0,14,11,1,2
+2020-04-25,Sint Maarten,Niederlande,40614.0,73,22,12,39
+2020-04-25,Ammerland (Kreis),Niedersachsen,124071.0,160,119,4,37
+2020-04-25,Aurich (Kreis),Niedersachsen,189848.0,83,70,5,8
+2020-04-25,Braunschweig,Niedersachsen,248292.0,293,214,10,69
+2020-04-25,Celle (Kreis),Niedersachsen,178936.0,154,125,9,20
+2020-04-25,Cloppenburg (Kreis),Niedersachsen,169348.0,91,77,0,14
+2020-04-25,Cuxhaven (Kreis),Niedersachsen,198213.0,91,63,5,23
+2020-04-25,Delmenhorst,Niedersachsen,77607.0,41,24,2,15
+2020-04-25,Diepholz (Kreis),Niedersachsen,216886.0,304,241,21,42
+2020-04-25,Emden,Niedersachsen,50195.0,16,14,0,2
+2020-04-25,Emsland (Kreis),Niedersachsen,325657.0,381,251,16,114
+2020-04-25,Friesland (Kreis),Niedersachsen,98460.0,30,24,1,5
+2020-04-25,Gifhorn (Kreis),Niedersachsen,175920.0,122,77,4,41
+2020-04-25,Goslar (Kreis),Niedersachsen,137014.0,177,59,10,108
+2020-04-25,Grafschaft Bentheim (Kreis),Niedersachsen,136511.0,210,150,13,47
+2020-04-25,Göttingen (Kreis),Niedersachsen,328074.0,678,154,34,490
+2020-04-25,Hameln-Pyrmont (Kreis),Niedersachsen,148559.0,114,83,6,25
+2020-04-25,Hannover (Region),Niedersachsen,1157624.0,1809,889,57,863
+2020-04-25,Harburg (Kreis),Niedersachsen,252776.0,466,255,9,202
+2020-04-25,Heidekreis (Kreis),Niedersachsen,139755.0,66,52,1,13
+2020-04-25,Helmstedt (Kreis),Niedersachsen,91307.0,140,108,1,31
+2020-04-25,Hildesheim (Kreis),Niedersachsen,276594.0,290,205,2,83
+2020-04-25,Holzminden (Kreis),Niedersachsen,70975.0,103,71,5,27
+2020-04-25,Leer (Kreis),Niedersachsen,169809.0,89,62,2,25
+2020-04-25,Lüchow-Dannenberg (Kreis),Niedersachsen,48424.0,17,12,2,3
+2020-04-25,Lüneburg (Kreis),Niedersachsen,183372.0,164,144,0,20
+2020-04-25,Nienburg/Weser (Kreis),Niedersachsen,121386.0,63,54,1,8
+2020-04-25,Northeim (Kreis),Niedersachsen,132765.0,115,52,1,62
+2020-04-25,Oldenburg,Niedersachsen,168210.0,155,14,0,141
+2020-04-25,Oldenburg (Kreis),Niedersachsen,130144.0,197,185,10,2
+2020-04-25,Osnabrück,Niedersachsen,164748.0,433,379,13,41
+2020-04-25,Osnabrück (Kreis),Niedersachsen,357343.0,916,635,38,243
+2020-04-25,Osterholz (Kreis),Niedersachsen,113517.0,78,61,0,17
+2020-04-25,Peine (Kreis),Niedersachsen,133965.0,136,86,10,40
+2020-04-25,Rotenburg/Wümme (Kreis),Niedersachsen,163455.0,92,72,1,19
+2020-04-25,Salzgitter,Niedersachsen,104948.0,125,78,5,42
+2020-04-25,Schaumburg (Kreis),Niedersachsen,157781.0,140,103,5,32
+2020-04-25,Stade (Kreis),Niedersachsen,203102.0,183,156,6,21
+2020-04-25,Uelzen (Kreis),Niedersachsen,92572.0,40,31,0,9
+2020-04-25,Vechta (Kreis),Niedersachsen,141598.0,305,254,10,41
+2020-04-25,Verden (Kreis),Niedersachsen,136792.0,116,103,1,12
+2020-04-25,Wesermarsch (Kreis),Niedersachsen,88624.0,51,50,1,0
+2020-04-25,Wilhelmshaven,Niedersachsen,76278.0,17,14,0,3
+2020-04-25,Wittmund (Kreis),Niedersachsen,56882.0,24,20,0,4
+2020-04-25,Wolfenbüttel (Kreis),Niedersachsen,119960.0,165,90,7,68
+2020-04-25,Wolfsburg,Niedersachsen,124151.0,280,115,48,117
+2020-04-25,weitere Fälle in Niedersachsen,Niedersachsen,,0,535,0,-535
+2020-04-25,Aachen & Städteregion Aachen,Nordrhein-Westfalen,555465.0,1812,1357,74,381
+2020-04-25,Bielefeld,Nordrhein-Westfalen,333786.0,350,245,3,102
+2020-04-25,Bochum,Nordrhein-Westfalen,364628.0,421,302,15,104
+2020-04-25,Bonn,Nordrhein-Westfalen,327258.0,593,409,6,178
+2020-04-25,Borken (Kreis),Nordrhein-Westfalen,370676.0,864,653,31,180
+2020-04-25,Bottrop,Nordrhein-Westfalen,117383.0,126,69,5,52
+2020-04-25,Coesfeld (Kreis),Nordrhein-Westfalen,219929.0,485,369,21,95
+2020-04-25,Dortmund,Nordrhein-Westfalen,587010.0,620,497,5,118
+2020-04-25,Duisburg,Nordrhein-Westfalen,498590.0,762,494,15,253
+2020-04-25,Düren (Kreis),Nordrhein-Westfalen,263722.0,528,348,27,153
+2020-04-25,Düsseldorf,Nordrhein-Westfalen,619294.0,958,657,22,279
+2020-04-25,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,324296.0,370,287,9,74
+2020-04-25,Essen,Nordrhein-Westfalen,583109.0,710,482,30,198
+2020-04-25,Euskirchen (Kreis),Nordrhein-Westfalen,192840.0,331,190,11,130
+2020-04-25,Gelsenkirchen,Nordrhein-Westfalen,260654.0,284,193,8,83
+2020-04-25,Gütersloh (Kreis),Nordrhein-Westfalen,364083.0,587,0,16,571
+2020-04-25,Hagen,Nordrhein-Westfalen,188814.0,229,119,6,104
+2020-04-25,Hamm,Nordrhein-Westfalen,179111.0,419,180,24,215
+2020-04-25,Heinsberg (Kreis),Nordrhein-Westfalen,254322.0,1719,1378,59,282
+2020-04-25,Herford (Kreis),Nordrhein-Westfalen,250783.0,315,185,5,125
+2020-04-25,Herne,Nordrhein-Westfalen,156374.0,146,93,1,52
+2020-04-25,Hochsauerlandkreis,Nordrhein-Westfalen,260475.0,562,317,13,232
+2020-04-25,Höxter (Kreis),Nordrhein-Westfalen,140667.0,275,153,5,117
+2020-04-25,Kleve (Kreis),Nordrhein-Westfalen,310974.0,530,300,21,209
+2020-04-25,Krefeld,Nordrhein-Westfalen,227020.0,437,308,15,114
+2020-04-25,Köln,Nordrhein-Westfalen,1085664.0,2219,1825,72,322
+2020-04-25,Leverkusen,Nordrhein-Westfalen,163838.0,190,138,3,49
+2020-04-25,Lippe (Kreis),Nordrhein-Westfalen,348391.0,679,408,24,247
+2020-04-25,Mettmann (Kreis),Nordrhein-Westfalen,485684.0,784,473,47,264
+2020-04-25,Minden-Lübbecke (Kreis),Nordrhein-Westfalen,310710.0,405,293,7,105
+2020-04-25,Märkischer Kreis,Nordrhein-Westfalen,412120.0,491,191,18,282
+2020-04-25,Mönchengladbach,Nordrhein-Westfalen,261454.0,454,289,28,137
+2020-04-25,Mülheim an der Ruhr,Nordrhein-Westfalen,170880.0,160,105,4,51
+2020-04-25,Münster,Nordrhein-Westfalen,314319.0,620,545,11,64
+2020-04-25,Oberbergischer Kreis,Nordrhein-Westfalen,272471.0,438,302,12,124
+2020-04-25,Oberhausen,Nordrhein-Westfalen,210829.0,171,113,1,57
+2020-04-25,Olpe (Kreis),Nordrhein-Westfalen,134775.0,522,261,25,236
+2020-04-25,Paderborn (Kreis),Nordrhein-Westfalen,306890.0,554,269,25,260
+2020-04-25,Recklinghausen (Kreis),Nordrhein-Westfalen,615261.0,949,612,16,321
+2020-04-25,Remscheid,Nordrhein-Westfalen,110994.0,209,143,12,54
+2020-04-25,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,929,445,53,431
+2020-04-25,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,571,461,17,93
+2020-04-25,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,1107,783,24,300
+2020-04-25,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,406,291,14,101
+2020-04-25,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,259,105,7,147
+2020-04-25,Soest (Kreis),Nordrhein-Westfalen,301902.0,334,223,4,107
+2020-04-25,Solingen,Nordrhein-Westfalen,159360.0,221,144,5,72
+2020-04-25,Steinfurt (Kreis),Nordrhein-Westfalen,447614.0,1185,701,55,429
+2020-04-25,Unna (Kreis),Nordrhein-Westfalen,394782.0,575,253,23,299
+2020-04-25,Viersen (Kreis),Nordrhein-Westfalen,298935.0,581,328,26,227
+2020-04-25,Warendorf (Kreis),Nordrhein-Westfalen,277783.0,445,342,8,95
+2020-04-25,Wesel (Kreis),Nordrhein-Westfalen,459809.0,474,313,19,142
+2020-04-25,Wuppertal,Nordrhein-Westfalen,354382.0,764,349,45,370
+2020-04-25,weitere Fälle in Nordrhein-Westfalen,Nordrhein-Westfalen,,0,-33,0,33
+2020-04-25,Ahrweiler (Kreis),Rheinland-Pfalz,129727.0,112,98,1,13
+2020-04-25,Altenkirchen (Kreis),Rheinland-Pfalz,128705.0,135,73,7,55
+2020-04-25,Alzey-Worms (Kreis),Rheinland-Pfalz,129244.0,172,105,3,64
+2020-04-25,Bad Dürkheim (Kreis),Rheinland-Pfalz,132660.0,309,231,8,70
+2020-04-25,Bad Kreuznach (Kreis),Rheinland-Pfalz,158080.0,184,123,2,59
+2020-04-25,Bernkastel-Wittlich (Kreis),Rheinland-Pfalz,112262.0,127,100,1,26
+2020-04-25,Birkenfeld (Kreis),Rheinland-Pfalz,80720.0,80,62,0,18
+2020-04-25,Bitburg-Prüm (Kreis),Rheinland-Pfalz,98561.0,161,125,3,33
+2020-04-25,Cochem-Zell (Kreis),Rheinland-Pfalz,61587.0,126,119,1,6
+2020-04-25,Donnersbergkreis,Rheinland-Pfalz,75101.0,114,74,3,37
+2020-04-25,Frankenthal,Rheinland-Pfalz,48561.0,38,27,2,9
+2020-04-25,Germersheim (Kreis),Rheinland-Pfalz,129075.0,134,103,3,28
+2020-04-25,Kaiserslautern,Rheinland-Pfalz,99845.0,110,77,3,30
+2020-04-25,Kaiserslautern (Kreis),Rheinland-Pfalz,106057.0,96,74,0,22
+2020-04-25,Koblenz,Rheinland-Pfalz,114024.0,243,165,11,67
+2020-04-25,Kusel (Kreis),Rheinland-Pfalz,70526.0,86,69,1,16
+2020-04-25,Landau i.d.Pfalz,Rheinland-Pfalz,46677.0,54,43,0,11
+2020-04-25,Ludwigshafen,Rheinland-Pfalz,171061.0,260,141,1,118
+2020-04-25,Mainz,Rheinland-Pfalz,217118.0,468,296,15,157
+2020-04-25,Mainz-Bingen (Kreis),Rheinland-Pfalz,210889.0,364,228,11,125
+2020-04-25,Mayen-Koblenz (Kreis),Rheinland-Pfalz,214259.0,337,265,8,64
+2020-04-25,Neustadt Weinst.,Rheinland-Pfalz,53148.0,92,78,1,13
+2020-04-25,Neuwied (Kreis),Rheinland-Pfalz,181941.0,213,165,4,44
+2020-04-25,Pirmasens,Rheinland-Pfalz,40403.0,30,24,0,6
+2020-04-25,Rhein-Hunsrück (Kreis),Rheinland-Pfalz,102937.0,159,127,3,29
+2020-04-25,Rhein-Lahn-Kreis,Rheinland-Pfalz,122308.0,149,119,4,26
+2020-04-25,Rhein-Pfalz-Kreis,Rheinland-Pfalz,154201.0,202,152,3,47
+2020-04-25,Speyer,Rheinland-Pfalz,50378.0,62,41,0,21
+2020-04-25,Südliche Weinstr. (Kreis),Rheinland-Pfalz,110356.0,144,114,2,28
+2020-04-25,Südwestpfalz (Kreis),Rheinland-Pfalz,95113.0,103,78,3,22
+2020-04-25,Trier,Rheinland-Pfalz,110636.0,94,80,1,13
+2020-04-25,Trier-Saarburg (Kreis),Rheinland-Pfalz,148945.0,171,117,4,50
+2020-04-25,Vulkaneifel (Kreis),Rheinland-Pfalz,60603.0,109,82,2,25
+2020-04-25,Westerwaldkreis,Rheinland-Pfalz,201597.0,321,232,20,69
+2020-04-25,Worms,Rheinland-Pfalz,83330.0,167,120,7,40
+2020-04-25,Zweibrücken,Rheinland-Pfalz,34209.0,35,26,0,9
+2020-04-25,weitere Fälle in Rheinland-Pfalz,Rheinland-Pfalz,,0,0,0,0
+2020-04-25,Merzig-Wadern,Saarland,103366.0,189,91,2,96
+2020-04-25,Neunkirchen,Saarland,132206.0,226,108,4,114
+2020-04-25,Saarbrücken,Saarland,329708.0,1098,536,72,490
+2020-04-25,Saarlouis,Saarland,195201.0,495,246,15,234
+2020-04-25,Saarpfalz,Saarland,142631.0,310,196,8,106
+2020-04-25,St. Wendel,Saarland,87397.0,159,72,4,83
+2020-04-25,weitere Fälle im Saarland,Saarland,,0,218,17,-235
+2020-04-25,Bautzen (Kreis),Sachsen,300880.0,345,206,10,129
+2020-04-25,Chemnitz,Sachsen,247237.0,194,72,5,117
+2020-04-25,Dresden,Sachsen,554649.0,536,434,6,96
+2020-04-25,Erzgebirgskreis,Sachsen,337696.0,492,72,38,382
+2020-04-25,Görlitz (Kreis),Sachsen,254894.0,249,73,19,157
+2020-04-25,Leipzig,Sachsen,257763.0,541,238,5,298
+2020-04-25,Leipzig (Kreis),Sachsen,257763.0,184,48,4,132
+2020-04-25,Meißen (Kreis),Sachsen,242165.0,210,152,14,44
+2020-04-25,Mittelsachsen (Kreis),Sachsen,306185.0,240,180,2,58
+2020-04-25,Nordsachsen (Kreis),Sachsen,197673.0,130,84,0,46
+2020-04-25,Sächsische Schweiz-Osterzgebirge (Kreis),Sachsen,245611.0,330,238,2,90
+2020-04-25,Vogtlandkreis,Sachsen,227796.0,298,149,5,144
+2020-04-25,Zwickau (Kreis),Sachsen,317531.0,730,352,31,347
+2020-04-25,weitere Fälle in Sachsen,Sachsen,,0,1082,0,-1082
+2020-04-25,Altmarkkreis Salzwedel,Sachsen-Anhalt,83765.0,30,23,0,7
+2020-04-25,Anhalt-Bitterfeld (Kreis),Sachsen-Anhalt,159854.0,65,45,0,20
+2020-04-25,Burgenlandkreis,Sachsen-Anhalt,180190.0,86,62,1,23
+2020-04-25,Börde (Kreis),Sachsen-Anhalt,171734.0,120,71,4,45
+2020-04-25,Dessau,Sachsen-Anhalt,81237.0,62,30,1,31
+2020-04-25,Halle,Sachsen-Anhalt,239257.0,304,185,9,110
+2020-04-25,Harz (Kreis),Sachsen-Anhalt,214446.0,231,83,3,145
+2020-04-25,Jerichower Land (Kreis),Sachsen-Anhalt,89928.0,33,7,1,25
+2020-04-25,Magdeburg,Sachsen-Anhalt,238697.0,102,0,1,101
+2020-04-25,Mansfeld-Südharz (Kreis),Sachsen-Anhalt,136249.0,36,14,1,21
+2020-04-25,Saalekreis,Sachsen-Anhalt,184582.0,107,53,5,49
+2020-04-25,Salzlandkreis,Sachsen-Anhalt,190560.0,63,49,0,14
+2020-04-25,Stendal (Kreis),Sachsen-Anhalt,111982.0,90,49,6,35
+2020-04-25,Wittenberg (Kreis),Sachsen-Anhalt,125840.0,152,74,3,75
+2020-04-25,weitere Fälle in Sachsen-Anhalt,Sachsen-Anhalt,,0,295,0,-295
+2020-04-25,Dithmarschen (Kreis),Schleswig-Holstein,133210.0,54,43,3,8
+2020-04-25,Flensburg,Schleswig-Holstein,89504.0,33,28,2,3
+2020-04-25,Herzogtum Lauenburg (Kreis),Schleswig-Holstein,197264.0,253,183,8,62
+2020-04-25,Kiel,Schleswig-Holstein,247548.0,244,150,7,87
+2020-04-25,Lübeck,Schleswig-Holstein,217198.0,155,133,1,21
+2020-04-25,Neumünster,Schleswig-Holstein,79487.0,62,26,1,35
+2020-04-25,Nordfriesland (Kreis),Schleswig-Holstein,165507.0,75,54,1,20
+2020-04-25,Ostholstein (Kreis),Schleswig-Holstein,200581.0,60,54,0,6
+2020-04-25,Pinneberg (Kreis),Schleswig-Holstein,314391.0,503,279,20,204
+2020-04-25,Plön (Kreis),Schleswig-Holstein,128647.0,112,13,4,95
+2020-04-25,Rendsburg-Eckernförde (Kreis),Schleswig-Holstein,272775.0,224,157,14,53
+2020-04-25,Schleswig-Flensburg (Kreis),Schleswig-Holstein,200025.0,122,78,3,41
+2020-04-25,Segeberg (Kreis),Schleswig-Holstein,276032.0,207,169,3,35
+2020-04-25,Steinburg (Kreis),Schleswig-Holstein,131347.0,83,51,3,29
+2020-04-25,Stormarn (Kreis),Schleswig-Holstein,243196.0,370,135,18,217
+2020-04-25,weitere Fälle in Schleswig-Holstein,Schleswig-Holstein,,0,347,0,-347
+2020-04-25,Altenburger Land (Kreis),Thüringen,90118.0,47,29,3,15
+2020-04-25,Eichsfeld (Kreis),Thüringen,100380.0,113,64,3,46
+2020-04-25,Eisenach,Thüringen,42370.0,16,12,1,3
+2020-04-25,Erfurt,Thüringen,213699.0,131,106,2,23
+2020-04-25,Gera,Thüringen,94152.0,124,37,2,85
+2020-04-25,Gotha (Kreis),Thüringen,135452.0,168,43,3,122
+2020-04-25,Greiz (Kreis),Thüringen,98159.0,364,114,22,228
+2020-04-25,Hildburghausen (Kreis),Thüringen,63553.0,19,11,1,7
+2020-04-25,Ilm-Kreis,Thüringen,106622.0,120,94,4,22
+2020-04-25,Jena,Thüringen,111407.0,156,144,3,9
+2020-04-25,Kyffhäuserkreis,Thüringen,75009.0,37,27,0,10
+2020-04-25,Nordhausen (Kreis),Thüringen,83822.0,56,26,1,29
+2020-04-25,Saale-Holzland-Kreis,Thüringen,83051.0,55,49,1,5
+2020-04-25,Saale-Orla-Kreis,Thüringen,80868.0,117,49,9,59
+2020-04-25,Saalfeld-Rudolstadt (Kreis),Thüringen,104142.0,56,52,0,4
+2020-04-25,Schmalkalden-Meiningen (Kreis),Thüringen,125646.0,84,49,2,33
+2020-04-25,Sonneberg (Kreis),Thüringen,58410.0,77,35,1,41
+2020-04-25,Suhl,Thüringen,36955.0,13,1,2,10
+2020-04-25,Sömmerda(Kreis),Thüringen,69655.0,36,25,0,11
+2020-04-25,Unstrut-Hainich-Kreis,Thüringen,102912.0,68,35,1,32
+2020-04-25,Wartburgkreis,Thüringen,119726.0,37,25,0,12
+2020-04-25,Weimar,Thüringen,65090.0,60,48,0,12
+2020-04-25,Weimarer Land (Kreis),Thüringen,81947.0,67,32,4,31
+2020-04-25,weitere Fälle in Thüringen,Thüringen,,2,323,6,-327
+2020-04-25,Alabama,USA,4779736.0,5832,0,202,5630
+2020-04-25,Alaska,USA,710231.0,339,0,9,330
+2020-04-25,Amerikanische Jungferninseln,USA,104578.0,54,0,3,51
+2020-04-25,Arizona,USA,6392017.0,6045,0,266,5779
+2020-04-25,Arkansas,USA,2915918.0,2606,0,45,2561
+2020-04-25,California,USA,37253956.0,39719,0,1537,38182
+2020-04-25,Colorado,USA,5029196.0,11278,0,552,10726
+2020-04-25,Connecticut,USA,3574097.0,23936,0,1767,22169
+2020-04-25,Delaware,USA,897934.0,3442,0,100,3342
+2020-04-25,District of Columbia,USA,601723.0,3528,0,153,3375
+2020-04-25,Florida,USA,18801310.0,30174,0,1012,29162
+2020-04-25,Genesene,USA,,0,96677,0,-96677
+2020-04-25,Georgia,USA,9687653.0,22147,0,892,21255
+2020-04-25,Guam,USA,172400.0,139,0,5,134
+2020-04-25,Hawaii,USA,1360301.0,596,0,12,584
+2020-04-25,Idaho,USA,1567582.0,1836,0,54,1782
+2020-04-25,Illinois,USA,12830632.0,39654,0,1795,37859
+2020-04-25,Indiana,USA,6483802.0,13039,0,706,12333
+2020-04-25,Iowa,USA,3046355.0,4445,0,107,4338
+2020-04-25,Kansas,USA,2853118.0,2854,0,116,2738
+2020-04-25,Kentucky,USA,4339367.0,3481,0,191,3290
+2020-04-25,Louisiana,USA,4533372.0,26140,0,1660,24480
+2020-04-25,Maine,USA,1328361.0,965,0,47,918
+2020-04-25,Maryland,USA,5773552.0,16616,0,798,15818
+2020-04-25,Massachusetts,USA,6547629.0,46023,0,2360,43663
+2020-04-25,Michigan,USA,9883640.0,36255,0,3037,33218
+2020-04-25,Minnesota,USA,5303925.0,3185,0,221,2964
+2020-04-25,Mississippi,USA,2967297.0,5434,0,209,5225
+2020-04-25,Missouri,USA,5988927.0,6750,0,270,6480
+2020-04-25,Montana,USA,989415.0,444,0,14,430
+2020-04-25,Nebraska,USA,1826341.0,2202,0,47,2155
+2020-04-25,Nevada,USA,2700551.0,4398,0,197,4201
+2020-04-25,New Hampshire,USA,1316470.0,1670,0,51,1619
+2020-04-25,New Jersey,USA,8791894.0,100025,0,5426,94599
+2020-04-25,New Mexico,USA,2059179.0,2379,0,78,2301
+2020-04-25,New York,USA,19378102.0,271590,0,21349,250241
+2020-04-25,North Carolina,USA,9535483.0,8207,0,292,7915
+2020-04-25,North Dakota,USA,672591.0,748,0,15,733
+2020-04-25,Nördliche Marianen,USA,56200.0,14,0,2,12
+2020-04-25,Ohio,USA,11536504.0,15169,0,690,14479
+2020-04-25,Oklahoma,USA,3751351.0,3121,0,188,2933
+2020-04-25,Oregon,USA,3831074.0,2178,0,86,2092
+2020-04-25,Pennsylvania,USA,12702379.0,39409,0,1734,37675
+2020-04-25,Puerto Rico,USA,3193694.0,1276,0,77,1199
+2020-04-25,Rhode Island,USA,1052567.0,6699,0,202,6497
+2020-04-25,South Carolina,USA,4625364.0,4917,0,150,4767
+2020-04-25,South Dakota,USA,814180.0,2040,0,10,2030
+2020-04-25,Tennessee,USA,6346105.0,8759,0,169,8590
+2020-04-25,Texas,USA,25145561.0,22842,0,608,22234
+2020-04-25,Utah,USA,2763885.0,3782,0,35,3747
+2020-04-25,Vermont,USA,625741.0,827,0,44,783
+2020-04-25,Virginia,USA,8001024.0,11594,0,411,11183
+2020-04-25,Washington,USA,6724540.0,12753,0,711,12042
+2020-04-25,West Virginia,USA,1852994.0,988,0,32,956
+2020-04-25,Wisconsin,USA,5686986.0,5356,0,263,5093
+2020-04-25,Wyoming,USA,563626.0,473,0,7,466
