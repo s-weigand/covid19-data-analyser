@@ -23889,7 +23889,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Turkey,#Global,104912.0,2600.0,21737.0,80575.0
 2020-04-24,US,#Global,905358.0,51949.0,99079.0,754330.0
 2020-04-24,Uganda,#Global,75.0,0.0,46.0,29.0
-2020-04-24,Ukraine,#Global,8125.0,201.0,782.0,7142.0
+2020-04-24,Ukraine,#Global,7647.0,201.0,782.0,6664.0
 2020-04-24,United Arab Emirates,#Global,9281.0,64.0,1760.0,7457.0
 2020-04-24,United Kingdom,#Global,143464.0,19506.0,0.0,123958.0
 2020-04-24,United Kingdom (total),#Global,1176.0,61.0,724.0,391.0
@@ -23969,3 +23969,258 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Isle of Man,United Kingdom,308.0,18.0,230.0,60.0
 2020-04-24,Montserrat,United Kingdom,11.0,1.0,2.0,8.0
 2020-04-24,Turks and Caicos Islands,United Kingdom,11.0,1.0,4.0,6.0
+2020-04-25,Afghanistan,#Global,1463.0,47.0,188.0,1228.0
+2020-04-25,Albania,#Global,712.0,27.0,403.0,282.0
+2020-04-25,Algeria,#Global,3256.0,419.0,1479.0,1358.0
+2020-04-25,Andorra,#Global,738.0,40.0,344.0,354.0
+2020-04-25,Angola,#Global,25.0,2.0,6.0,17.0
+2020-04-25,Antigua and Barbuda,#Global,24.0,3.0,11.0,10.0
+2020-04-25,Argentina,#Global,3780.0,185.0,1030.0,2565.0
+2020-04-25,Armenia,#Global,1677.0,28.0,803.0,846.0
+2020-04-25,Australia (total),#Global,6694.0,80.0,4223.0,2391.0
+2020-04-25,Austria,#Global,15148.0,536.0,12103.0,2509.0
+2020-04-25,Azerbaijan,#Global,1617.0,21.0,1080.0,516.0
+2020-04-25,Bahamas,#Global,78.0,11.0,15.0,52.0
+2020-04-25,Bahrain,#Global,2588.0,8.0,1160.0,1420.0
+2020-04-25,Bangladesh,#Global,4998.0,140.0,113.0,4745.0
+2020-04-25,Barbados,#Global,79.0,6.0,31.0,42.0
+2020-04-25,Belarus,#Global,9590.0,67.0,1573.0,7950.0
+2020-04-25,Belgium,#Global,45325.0,6917.0,10417.0,27991.0
+2020-04-25,Belize,#Global,18.0,2.0,5.0,11.0
+2020-04-25,Benin,#Global,54.0,1.0,27.0,26.0
+2020-04-25,Bhutan,#Global,7.0,0.0,3.0,4.0
+2020-04-25,Bolivia,#Global,866.0,46.0,54.0,766.0
+2020-04-25,Bosnia and Herzegovina,#Global,1486.0,57.0,592.0,837.0
+2020-04-25,Botswana,#Global,22.0,1.0,0.0,21.0
+2020-04-25,Brazil,#Global,59324.0,4057.0,29160.0,26107.0
+2020-04-25,Brunei,#Global,138.0,1.0,121.0,16.0
+2020-04-25,Bulgaria,#Global,1247.0,55.0,197.0,995.0
+2020-04-25,Burkina Faso,#Global,629.0,41.0,442.0,146.0
+2020-04-25,Burma,#Global,146.0,5.0,10.0,131.0
+2020-04-25,Burundi,#Global,11.0,1.0,4.0,6.0
+2020-04-25,Cabo Verde,#Global,90.0,1.0,1.0,88.0
+2020-04-25,Cambodia,#Global,122.0,0.0,117.0,5.0
+2020-04-25,Cameroon,#Global,1518.0,53.0,697.0,768.0
+2020-04-25,Central African Republic,#Global,16.0,0.0,10.0,6.0
+2020-04-25,Chad,#Global,46.0,0.0,15.0,31.0
+2020-04-25,Chile,#Global,12858.0,181.0,6746.0,5931.0
+2020-04-25,China (total),#Global,83909.0,4636.0,78175.0,1098.0
+2020-04-25,Colombia,#Global,5142.0,233.0,1067.0,3842.0
+2020-04-25,Congo (Brazzaville),#Global,200.0,6.0,19.0,175.0
+2020-04-25,Congo (Kinshasa),#Global,416.0,28.0,49.0,339.0
+2020-04-25,Costa Rica,#Global,693.0,6.0,242.0,445.0
+2020-04-25,Cote d'Ivoire,#Global,1077.0,14.0,419.0,644.0
+2020-04-25,Croatia,#Global,2016.0,54.0,1034.0,928.0
+2020-04-25,Cuba,#Global,1337.0,51.0,437.0,849.0
+2020-04-25,Cyprus,#Global,810.0,14.0,148.0,648.0
+2020-04-25,Czechia,#Global,7352.0,218.0,2453.0,4681.0
+2020-04-25,Denmark,#Global,8445.0,418.0,5669.0,2358.0
+2020-04-25,Denmark (total),#Global,198.0,0.0,189.0,9.0
+2020-04-25,Diamond Princess,#Global,712.0,13.0,645.0,54.0
+2020-04-25,Djibouti,#Global,1008.0,2.0,373.0,633.0
+2020-04-25,Dominica,#Global,16.0,0.0,13.0,3.0
+2020-04-25,Dominican Republic,#Global,5926.0,273.0,822.0,4831.0
+2020-04-25,Ecuador,#Global,22719.0,576.0,1366.0,20777.0
+2020-04-25,Egypt,#Global,4319.0,307.0,1114.0,2898.0
+2020-04-25,El Salvador,#Global,274.0,8.0,75.0,191.0
+2020-04-25,Equatorial Guinea,#Global,258.0,1.0,7.0,250.0
+2020-04-25,Eritrea,#Global,39.0,0.0,13.0,26.0
+2020-04-25,Estonia,#Global,1635.0,46.0,228.0,1361.0
+2020-04-25,Eswatini,#Global,56.0,1.0,10.0,45.0
+2020-04-25,Ethiopia,#Global,122.0,3.0,29.0,90.0
+2020-04-25,Fiji,#Global,18.0,0.0,10.0,8.0
+2020-04-25,Finland,#Global,4475.0,186.0,2500.0,1789.0
+2020-04-25,France,#Global,160292.0,22614.0,44594.0,93084.0
+2020-04-25,France (total),#Global,1352.0,34.0,778.0,540.0
+2020-04-25,Gabon,#Global,176.0,3.0,30.0,143.0
+2020-04-25,Gambia,#Global,10.0,1.0,8.0,1.0
+2020-04-25,Georgia,#Global,456.0,5.0,139.0,312.0
+2020-04-25,Germany,#Global,156513.0,5877.0,109800.0,40836.0
+2020-04-25,Ghana,#Global,1279.0,10.0,134.0,1135.0
+2020-04-25,Greece,#Global,2506.0,130.0,577.0,1799.0
+2020-04-25,Grenada,#Global,18.0,0.0,7.0,11.0
+2020-04-25,Guatemala,#Global,473.0,13.0,45.0,415.0
+2020-04-25,Guinea,#Global,996.0,7.0,208.0,781.0
+2020-04-25,Guinea-Bissau,#Global,52.0,0.0,3.0,49.0
+2020-04-25,Guyana,#Global,73.0,7.0,12.0,54.0
+2020-04-25,Haiti,#Global,72.0,6.0,6.0,60.0
+2020-04-25,Holy See,#Global,9.0,0.0,2.0,7.0
+2020-04-25,Honduras,#Global,627.0,59.0,65.0,503.0
+2020-04-25,Hungary,#Global,2443.0,262.0,458.0,1723.0
+2020-04-25,Iceland,#Global,1790.0,10.0,1570.0,210.0
+2020-04-25,India,#Global,26283.0,825.0,5939.0,19519.0
+2020-04-25,Indonesia,#Global,8607.0,720.0,1042.0,6845.0
+2020-04-25,Iran,#Global,89328.0,5650.0,68193.0,15485.0
+2020-04-25,Iraq,#Global,1763.0,86.0,1224.0,453.0
+2020-04-25,Ireland,#Global,18561.0,1063.0,9233.0,8265.0
+2020-04-25,Israel,#Global,15298.0,199.0,6435.0,8664.0
+2020-04-25,Italy,#Global,195351.0,26384.0,63120.0,105847.0
+2020-04-25,Jamaica,#Global,305.0,7.0,28.0,270.0
+2020-04-25,Japan,#Global,13231.0,360.0,1656.0,11215.0
+2020-04-25,Jordan,#Global,444.0,7.0,332.0,105.0
+2020-04-25,Kazakhstan,#Global,2601.0,25.0,646.0,1930.0
+2020-04-25,Kenya,#Global,343.0,14.0,98.0,231.0
+2020-04-25,"Korea, South",#Global,10728.0,242.0,8717.0,1769.0
+2020-04-25,Kosovo,#Global,510.0,12.0,93.0,405.0
+2020-04-25,Kuwait,#Global,2892.0,19.0,656.0,2217.0
+2020-04-25,Kyrgyzstan,#Global,665.0,8.0,345.0,312.0
+2020-04-25,Laos,#Global,19.0,0.0,7.0,12.0
+2020-04-25,Latvia,#Global,804.0,12.0,267.0,525.0
+2020-04-25,Lebanon,#Global,704.0,24.0,143.0,537.0
+2020-04-25,Liberia,#Global,120.0,11.0,25.0,84.0
+2020-04-25,Libya,#Global,61.0,2.0,18.0,41.0
+2020-04-25,Liechtenstein,#Global,81.0,1.0,55.0,25.0
+2020-04-25,Lithuania,#Global,1426.0,41.0,460.0,925.0
+2020-04-25,Luxembourg,#Global,3711.0,85.0,3088.0,538.0
+2020-04-25,MS Zaandam,#Global,9.0,2.0,0.0,7.0
+2020-04-25,Madagascar,#Global,123.0,0.0,62.0,61.0
+2020-04-25,Malawi,#Global,33.0,3.0,4.0,26.0
+2020-04-25,Malaysia,#Global,5742.0,98.0,3762.0,1882.0
+2020-04-25,Maldives,#Global,177.0,0.0,17.0,160.0
+2020-04-25,Mali,#Global,370.0,21.0,91.0,258.0
+2020-04-25,Malta,#Global,448.0,4.0,249.0,195.0
+2020-04-25,Mauritania,#Global,7.0,1.0,6.0,0.0
+2020-04-25,Mauritius,#Global,331.0,9.0,295.0,27.0
+2020-04-25,Mexico,#Global,13842.0,1305.0,7149.0,5388.0
+2020-04-25,Moldova,#Global,3304.0,94.0,825.0,2385.0
+2020-04-25,Monaco,#Global,94.0,4.0,42.0,48.0
+2020-04-25,Mongolia,#Global,37.0,0.0,9.0,28.0
+2020-04-25,Montenegro,#Global,320.0,6.0,153.0,161.0
+2020-04-25,Morocco,#Global,3897.0,159.0,537.0,3201.0
+2020-04-25,Mozambique,#Global,70.0,0.0,12.0,58.0
+2020-04-25,Namibia,#Global,16.0,0.0,7.0,9.0
+2020-04-25,Nepal,#Global,49.0,0.0,12.0,37.0
+2020-04-25,Netherlands,#Global,37190.0,4409.0,0.0,32781.0
+2020-04-25,Netherlands (total),#Global,194.0,15.0,102.0,77.0
+2020-04-25,New Zealand,#Global,1470.0,18.0,1142.0,310.0
+2020-04-25,Nicaragua,#Global,12.0,3.0,7.0,2.0
+2020-04-25,Niger,#Global,684.0,27.0,325.0,332.0
+2020-04-25,Nigeria,#Global,1182.0,35.0,222.0,925.0
+2020-04-25,North Macedonia,#Global,1367.0,59.0,374.0,934.0
+2020-04-25,Norway,#Global,7499.0,201.0,32.0,7266.0
+2020-04-25,Oman,#Global,1905.0,10.0,329.0,1566.0
+2020-04-25,Pakistan,#Global,12723.0,269.0,2866.0,9588.0
+2020-04-25,Panama,#Global,5538.0,159.0,338.0,5041.0
+2020-04-25,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
+2020-04-25,Paraguay,#Global,228.0,9.0,85.0,134.0
+2020-04-25,Peru,#Global,25331.0,700.0,7797.0,16834.0
+2020-04-25,Philippines,#Global,7294.0,494.0,792.0,6008.0
+2020-04-25,Poland,#Global,11273.0,524.0,2126.0,8623.0
+2020-04-25,Portugal,#Global,23392.0,880.0,1277.0,21235.0
+2020-04-25,Qatar,#Global,9358.0,10.0,929.0,8419.0
+2020-04-25,Romania,#Global,10635.0,601.0,2890.0,7144.0
+2020-04-25,Russia,#Global,74588.0,681.0,6250.0,67657.0
+2020-04-25,Rwanda,#Global,183.0,0.0,88.0,95.0
+2020-04-25,Saint Kitts and Nevis,#Global,15.0,0.0,2.0,13.0
+2020-04-25,Saint Lucia,#Global,15.0,0.0,15.0,0.0
+2020-04-25,Saint Vincent and the Grenadines,#Global,14.0,0.0,5.0,9.0
+2020-04-25,San Marino,#Global,513.0,40.0,64.0,409.0
+2020-04-25,Sao Tome and Principe,#Global,4.0,0.0,0.0,4.0
+2020-04-25,Saudi Arabia,#Global,16299.0,136.0,2215.0,13948.0
+2020-04-25,Senegal,#Global,614.0,7.0,276.0,331.0
+2020-04-25,Serbia,#Global,6630.0,125.0,870.0,5635.0
+2020-04-25,Seychelles,#Global,11.0,0.0,6.0,5.0
+2020-04-25,Sierra Leone,#Global,82.0,2.0,10.0,70.0
+2020-04-25,Singapore,#Global,12693.0,12.0,1002.0,11679.0
+2020-04-25,Slovakia,#Global,1373.0,17.0,386.0,970.0
+2020-04-25,Slovenia,#Global,1388.0,81.0,219.0,1088.0
+2020-04-25,Somalia,#Global,390.0,18.0,8.0,364.0
+2020-04-25,South Africa,#Global,4361.0,86.0,1473.0,2802.0
+2020-04-25,South Sudan,#Global,5.0,0.0,0.0,5.0
+2020-04-25,Spain,#Global,223759.0,22902.0,95708.0,105149.0
+2020-04-25,Sri Lanka,#Global,460.0,7.0,118.0,335.0
+2020-04-25,Sudan,#Global,213.0,17.0,19.0,177.0
+2020-04-25,Suriname,#Global,10.0,1.0,7.0,2.0
+2020-04-25,Sweden,#Global,18177.0,2192.0,1005.0,14980.0
+2020-04-25,Switzerland,#Global,28894.0,1599.0,21300.0,5995.0
+2020-04-25,Syria,#Global,42.0,3.0,11.0,28.0
+2020-04-25,Taiwan*,#Global,429.0,6.0,275.0,148.0
+2020-04-25,Tanzania,#Global,299.0,10.0,48.0,241.0
+2020-04-25,Thailand,#Global,2907.0,51.0,2547.0,309.0
+2020-04-25,Timor-Leste,#Global,24.0,0.0,2.0,22.0
+2020-04-25,Togo,#Global,96.0,6.0,62.0,28.0
+2020-04-25,Trinidad and Tobago,#Global,115.0,8.0,53.0,54.0
+2020-04-25,Tunisia,#Global,939.0,38.0,207.0,694.0
+2020-04-25,Turkey,#Global,107773.0,2706.0,25582.0,79485.0
+2020-04-25,US,#Global,938154.0,53755.0,100372.0,784027.0
+2020-04-25,Uganda,#Global,75.0,0.0,46.0,29.0
+2020-04-25,Ukraine,#Global,8125.0,201.0,782.0,7142.0
+2020-04-25,United Arab Emirates,#Global,9813.0,71.0,1887.0,7855.0
+2020-04-25,United Kingdom,#Global,148377.0,20319.0,0.0,128058.0
+2020-04-25,United Kingdom (total),#Global,1192.0,62.0,774.0,356.0
+2020-04-25,Uruguay,#Global,596.0,14.0,370.0,212.0
+2020-04-25,Uzbekistan,#Global,1862.0,8.0,707.0,1147.0
+2020-04-25,Venezuela,#Global,323.0,10.0,132.0,181.0
+2020-04-25,Vietnam,#Global,270.0,0.0,225.0,45.0
+2020-04-25,West Bank and Gaza,#Global,342.0,2.0,92.0,248.0
+2020-04-25,Western Sahara,#Global,6.0,0.0,5.0,1.0
+2020-04-25,Yemen,#Global,1.0,0.0,1.0,0.0
+2020-04-25,Zambia,#Global,84.0,3.0,37.0,44.0
+2020-04-25,Zimbabwe,#Global,31.0,4.0,2.0,25.0
+2020-04-25,Australian Capital Territory,Australia,106.0,3.0,98.0,5.0
+2020-04-25,New South Wales,Australia,2994.0,33.0,2193.0,768.0
+2020-04-25,Northern Territory,Australia,28.0,0.0,0.0,28.0
+2020-04-25,Queensland,Australia,1026.0,6.0,803.0,217.0
+2020-04-25,South Australia,Australia,438.0,4.0,401.0,33.0
+2020-04-25,Tasmania,Australia,207.0,10.0,117.0,80.0
+2020-04-25,Victoria,Australia,1346.0,16.0,133.0,1197.0
+2020-04-25,Western Australia,Australia,549.0,8.0,478.0,63.0
+2020-04-25,Anhui,China,991.0,6.0,985.0,0.0
+2020-04-25,Beijing,China,593.0,8.0,525.0,60.0
+2020-04-25,Chongqing,China,579.0,6.0,573.0,0.0
+2020-04-25,Fujian,China,355.0,1.0,349.0,5.0
+2020-04-25,Gansu,China,139.0,2.0,137.0,0.0
+2020-04-25,Guangdong,China,1586.0,8.0,1542.0,36.0
+2020-04-25,Guangxi,China,254.0,2.0,252.0,0.0
+2020-04-25,Guizhou,China,147.0,2.0,145.0,0.0
+2020-04-25,Hainan,China,168.0,6.0,162.0,0.0
+2020-04-25,Hebei,China,328.0,6.0,318.0,4.0
+2020-04-25,Heilongjiang,China,935.0,13.0,511.0,411.0
+2020-04-25,Henan,China,1276.0,22.0,1254.0,0.0
+2020-04-25,Hong Kong,China,1037.0,4.0,753.0,280.0
+2020-04-25,Hubei,China,68128.0,4512.0,63604.0,12.0
+2020-04-25,Hunan,China,1019.0,4.0,1015.0,0.0
+2020-04-25,Inner Mongolia,China,198.0,1.0,121.0,76.0
+2020-04-25,Jiangsu,China,653.0,0.0,646.0,7.0
+2020-04-25,Jiangxi,China,937.0,1.0,936.0,0.0
+2020-04-25,Jilin,China,109.0,1.0,99.0,9.0
+2020-04-25,Liaoning,China,146.0,2.0,143.0,1.0
+2020-04-25,Macau,China,45.0,0.0,28.0,17.0
+2020-04-25,Ningxia,China,75.0,0.0,75.0,0.0
+2020-04-25,Qinghai,China,18.0,0.0,18.0,0.0
+2020-04-25,Shaanxi,China,286.0,3.0,253.0,30.0
+2020-04-25,Shandong,China,787.0,7.0,767.0,13.0
+2020-04-25,Shanghai,China,642.0,7.0,558.0,77.0
+2020-04-25,Shanxi,China,197.0,0.0,154.0,43.0
+2020-04-25,Sichuan,China,561.0,3.0,558.0,0.0
+2020-04-25,Tianjin,China,190.0,3.0,182.0,5.0
+2020-04-25,Tibet,China,1.0,0.0,1.0,0.0
+2020-04-25,Xinjiang,China,76.0,3.0,73.0,0.0
+2020-04-25,Yunnan,China,185.0,2.0,181.0,2.0
+2020-04-25,Zhejiang,China,1268.0,1.0,1257.0,10.0
+2020-04-25,Faroe Islands,Denmark,187.0,0.0,178.0,9.0
+2020-04-25,Greenland,Denmark,11.0,0.0,11.0,0.0
+2020-04-25,French Guiana,France,111.0,1.0,87.0,23.0
+2020-04-25,French Polynesia,France,57.0,0.0,41.0,16.0
+2020-04-25,Guadeloupe,France,149.0,12.0,82.0,55.0
+2020-04-25,Martinique,France,175.0,14.0,77.0,84.0
+2020-04-25,Mayotte,France,380.0,4.0,144.0,232.0
+2020-04-25,New Caledonia,France,18.0,0.0,17.0,1.0
+2020-04-25,Reunion,France,417.0,0.0,300.0,117.0
+2020-04-25,Saint Barthelemy,France,6.0,0.0,6.0,0.0
+2020-04-25,Saint Pierre and Miquelon,France,1.0,0.0,0.0,1.0
+2020-04-25,St Martin,France,38.0,3.0,24.0,11.0
+2020-04-25,Aruba,Netherlands,100.0,2.0,69.0,29.0
+2020-04-25,"Bonaire, Sint Eustatius and Saba",Netherlands,5.0,0.0,0.0,5.0
+2020-04-25,Curacao,Netherlands,16.0,1.0,11.0,4.0
+2020-04-25,Sint Maarten,Netherlands,73.0,12.0,22.0,39.0
+2020-04-25,Anguilla,United Kingdom,3.0,0.0,1.0,2.0
+2020-04-25,Bermuda,United Kingdom,109.0,5.0,39.0,65.0
+2020-04-25,British Virgin Islands,United Kingdom,6.0,1.0,3.0,2.0
+2020-04-25,Cayman Islands,United Kingdom,70.0,1.0,8.0,61.0
+2020-04-25,Channel Islands,United Kingdom,525.0,35.0,332.0,158.0
+2020-04-25,Falkland Islands (Malvinas),United Kingdom,13.0,0.0,11.0,2.0
+2020-04-25,Gibraltar,United Kingdom,136.0,0.0,131.0,5.0
+2020-04-25,Isle of Man,United Kingdom,308.0,18.0,243.0,47.0
+2020-04-25,Montserrat,United Kingdom,11.0,1.0,2.0,8.0
+2020-04-25,Turks and Caicos Islands,United Kingdom,11.0,1.0,4.0,6.0
