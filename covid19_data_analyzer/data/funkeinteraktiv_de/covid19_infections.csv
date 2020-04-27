@@ -6827,7 +6827,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-16,Remscheid,Nordrhein-Westfalen,110994.0,8,0,0,8
 2020-03-16,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,58,0,0,58
 2020-03-16,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,24,0,0,24
-2020-03-16,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,78,0,0,78
+2020-03-16,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,78,0,0,78
 2020-03-16,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,52,0,0,52
 2020-03-16,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,15,0,0,15
 2020-03-16,Soest (Kreis),Nordrhein-Westfalen,301902.0,15,0,0,15
@@ -7251,7 +7251,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-17,Remscheid,Nordrhein-Westfalen,110994.0,9,0,0,9
 2020-03-17,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,82,0,0,82
 2020-03-17,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,50,0,0,50
-2020-03-17,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,78,0,0,78
+2020-03-17,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,78,0,0,78
 2020-03-17,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,52,0,0,52
 2020-03-17,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,15,0,0,15
 2020-03-17,Soest (Kreis),Nordrhein-Westfalen,301902.0,15,0,0,15
@@ -7679,7 +7679,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-18,Remscheid,Nordrhein-Westfalen,110994.0,10,0,0,10
 2020-03-18,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,90,0,0,90
 2020-03-18,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,50,0,0,50
-2020-03-18,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,139,0,0,139
+2020-03-18,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,139,0,0,139
 2020-03-18,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,60,0,0,60
 2020-03-18,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,26,0,0,26
 2020-03-18,Soest (Kreis),Nordrhein-Westfalen,301902.0,39,0,0,39
@@ -8114,7 +8114,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-19,Remscheid,Nordrhein-Westfalen,110994.0,13,0,0,13
 2020-03-19,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,106,0,0,106
 2020-03-19,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,50,0,0,50
-2020-03-19,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,139,0,0,139
+2020-03-19,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,139,0,0,139
 2020-03-19,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,60,0,0,60
 2020-03-19,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,29,0,0,29
 2020-03-19,Soest (Kreis),Nordrhein-Westfalen,301902.0,49,0,0,49
@@ -8558,7 +8558,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-20,Remscheid,Nordrhein-Westfalen,110994.0,19,0,0,19
 2020-03-20,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,124,0,0,124
 2020-03-20,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,85,0,0,85
-2020-03-20,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,248,0,0,248
+2020-03-20,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,248,0,0,248
 2020-03-20,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,81,0,1,80
 2020-03-20,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,29,0,0,29
 2020-03-20,Soest (Kreis),Nordrhein-Westfalen,301902.0,57,0,0,57
@@ -9006,7 +9006,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-21,Remscheid,Nordrhein-Westfalen,110994.0,21,0,0,21
 2020-03-21,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,154,0,0,154
 2020-03-21,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,96,0,0,96
-2020-03-21,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,248,0,0,248
+2020-03-21,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,248,0,0,248
 2020-03-21,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,81,0,1,80
 2020-03-21,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,29,0,0,29
 2020-03-21,Soest (Kreis),Nordrhein-Westfalen,301902.0,57,0,0,57
@@ -9458,7 +9458,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-22,Remscheid,Nordrhein-Westfalen,110994.0,21,0,0,21
 2020-03-22,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,181,0,0,181
 2020-03-22,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,119,0,2,117
-2020-03-22,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,262,0,0,262
+2020-03-22,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,262,0,0,262
 2020-03-22,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,95,0,1,94
 2020-03-22,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,39,0,0,39
 2020-03-22,Soest (Kreis),Nordrhein-Westfalen,301902.0,73,0,0,73
@@ -9977,7 +9977,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-23,Kassel (Kreis),Hessen,236633.0,44,0,0,44
 2020-03-23,Lahn-Dill-Kreis,Hessen,253777.0,65,0,0,65
 2020-03-23,Limburg-Weilburg (Kreis),Hessen,172083.0,46,0,0,46
-2020-03-23,Main-Kinzig-Kreis,Hessen,41895.0,57,0,0,57
+2020-03-23,Main-Kinzig-Kreis,Hessen,418950.0,57,0,0,57
 2020-03-23,Main-Taunus-Kreis,Hessen,237735.0,55,0,1,54
 2020-03-23,Marburg-Biedenkopf (Kreis),Hessen,246648.0,48,0,0,48
 2020-03-23,Odenwaldkreis,Hessen,96798.0,23,0,0,23
@@ -9988,7 +9988,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-23,Vogelsbergkreis,Hessen,105878.0,25,0,0,25
 2020-03-23,Waldeck-Frankenberg (Kreis),Hessen,156953.0,27,0,0,27
 2020-03-23,Werra-Meißner-Kreis,Hessen,101017.0,5,0,0,5
-2020-03-23,Wetteraukreis,Hessen,30646.0,41,0,0,41
+2020-03-23,Wetteraukreis,Hessen,306460.0,41,0,0,41
 2020-03-23,Wiesbaden,Hessen,278342.0,67,0,1,66
 2020-03-23,Kreuzfahrtschiff 'Diamond Princess',International,,761,325,8,428
 2020-03-23,Kreuzfahrtschiff 'Diamond Princess',International,,49,0,0,49
@@ -10103,7 +10103,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-23,Remscheid,Nordrhein-Westfalen,110994.0,30,0,0,30
 2020-03-23,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,180,0,0,180
 2020-03-23,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,140,0,2,138
-2020-03-23,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,305,0,0,305
+2020-03-23,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,305,0,0,305
 2020-03-23,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,108,0,1,107
 2020-03-23,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,47,0,0,47
 2020-03-23,Soest (Kreis),Nordrhein-Westfalen,301902.0,93,0,0,93
@@ -10709,7 +10709,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-24,Kassel (Kreis),Hessen,236633.0,46,0,0,46
 2020-03-24,Lahn-Dill-Kreis,Hessen,253777.0,82,0,0,82
 2020-03-24,Limburg-Weilburg (Kreis),Hessen,172083.0,54,0,0,54
-2020-03-24,Main-Kinzig-Kreis,Hessen,41895.0,64,0,0,64
+2020-03-24,Main-Kinzig-Kreis,Hessen,418950.0,64,0,0,64
 2020-03-24,Main-Taunus-Kreis,Hessen,237735.0,63,0,1,62
 2020-03-24,Marburg-Biedenkopf (Kreis),Hessen,246648.0,62,0,0,62
 2020-03-24,Odenwaldkreis,Hessen,96798.0,24,0,0,24
@@ -10720,7 +10720,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-24,Vogelsbergkreis,Hessen,105878.0,30,0,0,30
 2020-03-24,Waldeck-Frankenberg (Kreis),Hessen,156953.0,32,0,0,32
 2020-03-24,Werra-Meißner-Kreis,Hessen,101017.0,6,0,0,6
-2020-03-24,Wetteraukreis,Hessen,30646.0,41,0,0,41
+2020-03-24,Wetteraukreis,Hessen,306460.0,41,0,0,41
 2020-03-24,Wiesbaden,Hessen,278342.0,98,0,1,97
 2020-03-24,Kreuzfahrtschiff 'Diamond Princess',International,,761,325,8,428
 2020-03-24,Kreuzfahrtschiff 'Diamond Princess',International,,49,0,0,49
@@ -10836,7 +10836,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-24,Remscheid,Nordrhein-Westfalen,110994.0,33,0,0,33
 2020-03-24,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,199,0,0,199
 2020-03-24,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,153,0,3,150
-2020-03-24,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,335,0,0,335
+2020-03-24,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,335,0,0,335
 2020-03-24,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,135,0,1,134
 2020-03-24,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,51,0,0,51
 2020-03-24,Soest (Kreis),Nordrhein-Westfalen,301902.0,110,0,0,110
@@ -11451,7 +11451,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-25,Kassel (Kreis),Hessen,236633.0,51,0,0,51
 2020-03-25,Lahn-Dill-Kreis,Hessen,253777.0,96,0,0,96
 2020-03-25,Limburg-Weilburg (Kreis),Hessen,172083.0,110,0,0,110
-2020-03-25,Main-Kinzig-Kreis,Hessen,41895.0,68,0,0,68
+2020-03-25,Main-Kinzig-Kreis,Hessen,418950.0,68,0,0,68
 2020-03-25,Main-Taunus-Kreis,Hessen,237735.0,78,0,1,77
 2020-03-25,Marburg-Biedenkopf (Kreis),Hessen,246648.0,71,0,0,71
 2020-03-25,Odenwaldkreis,Hessen,96798.0,31,0,0,31
@@ -11462,7 +11462,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-25,Vogelsbergkreis,Hessen,105878.0,34,0,0,34
 2020-03-25,Waldeck-Frankenberg (Kreis),Hessen,156953.0,36,0,0,36
 2020-03-25,Werra-Meißner-Kreis,Hessen,101017.0,10,0,0,10
-2020-03-25,Wetteraukreis,Hessen,30646.0,54,0,0,54
+2020-03-25,Wetteraukreis,Hessen,306460.0,54,0,0,54
 2020-03-25,Wiesbaden,Hessen,278342.0,109,0,1,108
 2020-03-25,Kreuzfahrtschiff 'Diamond Princess',International,,761,587,11,163
 2020-03-25,Kreuzfahrtschiff 'Diamond Princess',International,,49,0,0,49
@@ -11579,7 +11579,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-25,Remscheid,Nordrhein-Westfalen,110994.0,34,0,0,34
 2020-03-25,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,244,0,0,244
 2020-03-25,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,194,0,3,191
-2020-03-25,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,335,0,0,335
+2020-03-25,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,335,0,0,335
 2020-03-25,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,137,0,1,136
 2020-03-25,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,60,0,0,60
 2020-03-25,Soest (Kreis),Nordrhein-Westfalen,301902.0,121,0,0,121
@@ -12198,7 +12198,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-26,Kassel (Kreis),Hessen,236633.0,63,0,0,63
 2020-03-26,Lahn-Dill-Kreis,Hessen,253777.0,110,0,0,110
 2020-03-26,Limburg-Weilburg (Kreis),Hessen,172083.0,115,0,0,115
-2020-03-26,Main-Kinzig-Kreis,Hessen,41895.0,93,0,0,93
+2020-03-26,Main-Kinzig-Kreis,Hessen,418950.0,93,0,0,93
 2020-03-26,Main-Taunus-Kreis,Hessen,237735.0,84,0,1,83
 2020-03-26,Marburg-Biedenkopf (Kreis),Hessen,246648.0,82,0,0,82
 2020-03-26,Odenwaldkreis,Hessen,96798.0,33,0,0,33
@@ -12209,7 +12209,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-26,Vogelsbergkreis,Hessen,105878.0,38,0,0,38
 2020-03-26,Waldeck-Frankenberg (Kreis),Hessen,156953.0,42,0,0,42
 2020-03-26,Werra-Meißner-Kreis,Hessen,101017.0,13,0,0,13
-2020-03-26,Wetteraukreis,Hessen,30646.0,66,0,0,66
+2020-03-26,Wetteraukreis,Hessen,306460.0,66,0,0,66
 2020-03-26,Wiesbaden,Hessen,278342.0,117,0,1,116
 2020-03-26,Kreuzfahrtschiff 'Diamond Princess',International,,761,597,11,153
 2020-03-26,Kreuzfahrtschiff 'Diamond Princess',International,,712,597,10,105
@@ -12328,7 +12328,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-26,Remscheid,Nordrhein-Westfalen,110994.0,38,0,0,38
 2020-03-26,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,258,0,1,257
 2020-03-26,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,225,0,3,222
-2020-03-26,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,356,0,2,354
+2020-03-26,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,356,0,2,354
 2020-03-26,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,141,0,1,140
 2020-03-26,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,61,0,0,61
 2020-03-26,Soest (Kreis),Nordrhein-Westfalen,301902.0,135,0,0,135
@@ -12949,7 +12949,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-27,Kassel (Kreis),Hessen,236633.0,73,0,0,73
 2020-03-27,Lahn-Dill-Kreis,Hessen,253777.0,116,0,0,116
 2020-03-27,Limburg-Weilburg (Kreis),Hessen,172083.0,136,0,0,136
-2020-03-27,Main-Kinzig-Kreis,Hessen,41895.0,104,0,1,103
+2020-03-27,Main-Kinzig-Kreis,Hessen,418950.0,104,0,1,103
 2020-03-27,Main-Taunus-Kreis,Hessen,237735.0,93,0,1,92
 2020-03-27,Marburg-Biedenkopf (Kreis),Hessen,246648.0,91,0,0,91
 2020-03-27,Odenwaldkreis,Hessen,96798.0,46,0,0,46
@@ -12960,7 +12960,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-27,Vogelsbergkreis,Hessen,105878.0,41,0,0,41
 2020-03-27,Waldeck-Frankenberg (Kreis),Hessen,156953.0,47,0,0,47
 2020-03-27,Werra-Meißner-Kreis,Hessen,101017.0,14,0,0,14
-2020-03-27,Wetteraukreis,Hessen,30646.0,75,0,0,75
+2020-03-27,Wetteraukreis,Hessen,306460.0,75,0,0,75
 2020-03-27,Wiesbaden,Hessen,278342.0,132,0,1,131
 2020-03-27,Kreuzfahrtschiff 'Diamond Princess',International,,761,597,11,153
 2020-03-27,Kreuzfahrtschiff 'Diamond Princess',International,,712,597,10,105
@@ -13079,7 +13079,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-27,Remscheid,Nordrhein-Westfalen,110994.0,43,0,0,43
 2020-03-27,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,276,0,1,275
 2020-03-27,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,266,0,3,263
-2020-03-27,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,417,0,2,415
+2020-03-27,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,417,0,2,415
 2020-03-27,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,162,0,1,161
 2020-03-27,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,79,0,0,79
 2020-03-27,Soest (Kreis),Nordrhein-Westfalen,301902.0,153,0,0,153
@@ -13704,7 +13704,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-28,Kassel (Kreis),Hessen,236633.0,76,0,0,76
 2020-03-28,Lahn-Dill-Kreis,Hessen,253777.0,129,0,0,129
 2020-03-28,Limburg-Weilburg (Kreis),Hessen,172083.0,147,0,0,147
-2020-03-28,Main-Kinzig-Kreis,Hessen,41895.0,113,0,1,112
+2020-03-28,Main-Kinzig-Kreis,Hessen,418950.0,113,0,1,112
 2020-03-28,Main-Taunus-Kreis,Hessen,237735.0,106,0,1,105
 2020-03-28,Marburg-Biedenkopf (Kreis),Hessen,246648.0,97,0,0,97
 2020-03-28,Odenwaldkreis,Hessen,96798.0,53,0,0,53
@@ -13715,7 +13715,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-28,Vogelsbergkreis,Hessen,105878.0,45,0,0,45
 2020-03-28,Waldeck-Frankenberg (Kreis),Hessen,156953.0,55,0,0,55
 2020-03-28,Werra-Meißner-Kreis,Hessen,101017.0,13,0,0,13
-2020-03-28,Wetteraukreis,Hessen,30646.0,84,0,0,84
+2020-03-28,Wetteraukreis,Hessen,306460.0,84,0,0,84
 2020-03-28,Wiesbaden,Hessen,278342.0,147,0,1,146
 2020-03-28,weitere Fälle in Hessen,Hessen,,212,0,0,212
 2020-03-28,Kreuzfahrtschiff 'Diamond Princess',International,,761,597,11,153
@@ -13836,7 +13836,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-28,Remscheid,Nordrhein-Westfalen,110994.0,52,0,1,51
 2020-03-28,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,296,0,1,295
 2020-03-28,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,282,0,4,278
-2020-03-28,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,460,0,2,458
+2020-03-28,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,460,0,2,458
 2020-03-28,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,163,0,1,162
 2020-03-28,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,79,0,1,78
 2020-03-28,Soest (Kreis),Nordrhein-Westfalen,301902.0,153,0,0,153
@@ -14461,7 +14461,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-29,Kassel (Kreis),Hessen,236633.0,81,0,0,81
 2020-03-29,Lahn-Dill-Kreis,Hessen,253777.0,152,0,0,152
 2020-03-29,Limburg-Weilburg (Kreis),Hessen,172083.0,149,0,0,149
-2020-03-29,Main-Kinzig-Kreis,Hessen,41895.0,119,0,1,118
+2020-03-29,Main-Kinzig-Kreis,Hessen,418950.0,119,0,1,118
 2020-03-29,Main-Taunus-Kreis,Hessen,237735.0,115,0,1,114
 2020-03-29,Marburg-Biedenkopf (Kreis),Hessen,246648.0,102,0,1,101
 2020-03-29,Odenwaldkreis,Hessen,96798.0,58,0,0,58
@@ -14472,7 +14472,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-29,Vogelsbergkreis,Hessen,105878.0,51,0,0,51
 2020-03-29,Waldeck-Frankenberg (Kreis),Hessen,156953.0,55,0,0,55
 2020-03-29,Werra-Meißner-Kreis,Hessen,101017.0,13,0,0,13
-2020-03-29,Wetteraukreis,Hessen,30646.0,91,0,0,91
+2020-03-29,Wetteraukreis,Hessen,306460.0,91,0,0,91
 2020-03-29,Wiesbaden,Hessen,278342.0,147,0,1,146
 2020-03-29,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-03-29,Kreuzfahrtschiff 'Diamond Princess',International,,761,597,11,153
@@ -14593,7 +14593,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-29,Remscheid,Nordrhein-Westfalen,110994.0,56,0,1,55
 2020-03-29,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,296,0,1,295
 2020-03-29,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,282,0,4,278
-2020-03-29,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,490,0,2,488
+2020-03-29,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,490,0,2,488
 2020-03-29,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,171,0,1,170
 2020-03-29,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,92,0,1,91
 2020-03-29,Soest (Kreis),Nordrhein-Westfalen,301902.0,176,0,0,176
@@ -15219,7 +15219,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-30,Kassel (Kreis),Hessen,236633.0,82,0,0,82
 2020-03-30,Lahn-Dill-Kreis,Hessen,253777.0,152,0,0,152
 2020-03-30,Limburg-Weilburg (Kreis),Hessen,172083.0,149,0,0,149
-2020-03-30,Main-Kinzig-Kreis,Hessen,41895.0,146,0,1,145
+2020-03-30,Main-Kinzig-Kreis,Hessen,418950.0,146,0,1,145
 2020-03-30,Main-Taunus-Kreis,Hessen,237735.0,115,0,1,114
 2020-03-30,Marburg-Biedenkopf (Kreis),Hessen,246648.0,102,0,1,101
 2020-03-30,Odenwaldkreis,Hessen,96798.0,60,0,0,60
@@ -15230,7 +15230,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-30,Vogelsbergkreis,Hessen,105878.0,53,0,0,53
 2020-03-30,Waldeck-Frankenberg (Kreis),Hessen,156953.0,61,0,0,61
 2020-03-30,Werra-Meißner-Kreis,Hessen,101017.0,20,0,0,20
-2020-03-30,Wetteraukreis,Hessen,30646.0,91,0,0,91
+2020-03-30,Wetteraukreis,Hessen,306460.0,91,0,0,91
 2020-03-30,Wiesbaden,Hessen,278342.0,166,0,1,165
 2020-03-30,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-03-30,Kreuzfahrtschiff 'Diamond Princess',International,,761,603,11,147
@@ -15351,7 +15351,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-30,Remscheid,Nordrhein-Westfalen,110994.0,58,0,1,57
 2020-03-30,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,341,0,1,340
 2020-03-30,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,328,0,6,322
-2020-03-30,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,525,0,2,523
+2020-03-30,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,525,0,2,523
 2020-03-30,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,197,0,2,195
 2020-03-30,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,98,0,1,97
 2020-03-30,Soest (Kreis),Nordrhein-Westfalen,301902.0,193,0,0,193
@@ -15981,7 +15981,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-31,Kassel (Kreis),Hessen,236633.0,86,0,0,86
 2020-03-31,Lahn-Dill-Kreis,Hessen,253777.0,153,0,0,153
 2020-03-31,Limburg-Weilburg (Kreis),Hessen,172083.0,159,0,0,159
-2020-03-31,Main-Kinzig-Kreis,Hessen,41895.0,157,0,1,156
+2020-03-31,Main-Kinzig-Kreis,Hessen,418950.0,157,0,1,156
 2020-03-31,Main-Taunus-Kreis,Hessen,237735.0,128,0,2,126
 2020-03-31,Marburg-Biedenkopf (Kreis),Hessen,246648.0,108,0,1,107
 2020-03-31,Odenwaldkreis,Hessen,96798.0,65,0,0,65
@@ -15992,7 +15992,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-31,Vogelsbergkreis,Hessen,105878.0,53,0,0,53
 2020-03-31,Waldeck-Frankenberg (Kreis),Hessen,156953.0,61,0,0,61
 2020-03-31,Werra-Meißner-Kreis,Hessen,101017.0,21,0,0,21
-2020-03-31,Wetteraukreis,Hessen,30646.0,105,0,1,104
+2020-03-31,Wetteraukreis,Hessen,306460.0,105,0,1,104
 2020-03-31,Wiesbaden,Hessen,278342.0,177,0,2,175
 2020-03-31,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-03-31,Kreuzfahrtschiff 'Diamond Princess',International,,761,603,11,147
@@ -16113,7 +16113,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-03-31,Remscheid,Nordrhein-Westfalen,110994.0,59,0,1,58
 2020-03-31,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,344,0,1,343
 2020-03-31,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,349,0,6,343
-2020-03-31,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,543,0,2,541
+2020-03-31,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,543,0,2,541
 2020-03-31,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,200,0,2,198
 2020-03-31,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,100,0,1,99
 2020-03-31,Soest (Kreis),Nordrhein-Westfalen,301902.0,199,0,0,199
@@ -16743,7 +16743,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-01,Kassel (Kreis),Hessen,236633.0,95,0,2,93
 2020-04-01,Lahn-Dill-Kreis,Hessen,253777.0,168,0,0,168
 2020-04-01,Limburg-Weilburg (Kreis),Hessen,172083.0,168,0,0,168
-2020-04-01,Main-Kinzig-Kreis,Hessen,41895.0,169,0,1,168
+2020-04-01,Main-Kinzig-Kreis,Hessen,418950.0,169,0,1,168
 2020-04-01,Main-Taunus-Kreis,Hessen,237735.0,137,0,2,135
 2020-04-01,Marburg-Biedenkopf (Kreis),Hessen,246648.0,116,0,1,115
 2020-04-01,Odenwaldkreis,Hessen,96798.0,86,0,2,84
@@ -16754,7 +16754,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-01,Vogelsbergkreis,Hessen,105878.0,58,0,0,58
 2020-04-01,Waldeck-Frankenberg (Kreis),Hessen,156953.0,66,0,0,66
 2020-04-01,Werra-Meißner-Kreis,Hessen,101017.0,21,0,0,21
-2020-04-01,Wetteraukreis,Hessen,30646.0,124,0,1,123
+2020-04-01,Wetteraukreis,Hessen,306460.0,124,0,1,123
 2020-04-01,Wiesbaden,Hessen,278342.0,180,0,2,178
 2020-04-01,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-01,Kreuzfahrtschiff 'Diamond Princess',International,,761,603,12,146
@@ -16875,7 +16875,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-01,Remscheid,Nordrhein-Westfalen,110994.0,67,0,1,66
 2020-04-01,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,393,0,2,391
 2020-04-01,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,364,0,6,358
-2020-04-01,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,552,0,2,550
+2020-04-01,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,552,0,2,550
 2020-04-01,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,220,0,3,217
 2020-04-01,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,107,0,1,106
 2020-04-01,Soest (Kreis),Nordrhein-Westfalen,301902.0,209,0,1,208
@@ -17505,7 +17505,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-02,Kassel (Kreis),Hessen,236633.0,99,0,1,98
 2020-04-02,Lahn-Dill-Kreis,Hessen,253777.0,183,0,0,183
 2020-04-02,Limburg-Weilburg (Kreis),Hessen,172083.0,177,0,0,177
-2020-04-02,Main-Kinzig-Kreis,Hessen,41895.0,192,0,1,191
+2020-04-02,Main-Kinzig-Kreis,Hessen,418950.0,192,0,1,191
 2020-04-02,Main-Taunus-Kreis,Hessen,237735.0,145,0,2,143
 2020-04-02,Marburg-Biedenkopf (Kreis),Hessen,246648.0,118,0,1,117
 2020-04-02,Odenwaldkreis,Hessen,96798.0,94,0,2,92
@@ -17516,7 +17516,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-02,Vogelsbergkreis,Hessen,105878.0,66,0,0,66
 2020-04-02,Waldeck-Frankenberg (Kreis),Hessen,156953.0,79,0,0,79
 2020-04-02,Werra-Meißner-Kreis,Hessen,101017.0,23,0,0,23
-2020-04-02,Wetteraukreis,Hessen,30646.0,130,0,1,129
+2020-04-02,Wetteraukreis,Hessen,306460.0,130,0,1,129
 2020-04-02,Wiesbaden,Hessen,278342.0,191,0,2,189
 2020-04-02,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-02,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,12,130
@@ -17637,7 +17637,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-02,Remscheid,Nordrhein-Westfalen,110994.0,78,0,1,77
 2020-04-02,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,432,0,4,428
 2020-04-02,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,380,0,6,374
-2020-04-02,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,581,0,2,579
+2020-04-02,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,581,0,2,579
 2020-04-02,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,225,0,3,222
 2020-04-02,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,115,0,2,113
 2020-04-02,Soest (Kreis),Nordrhein-Westfalen,301902.0,215,0,1,214
@@ -18267,7 +18267,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-03,Kassel (Kreis),Hessen,236633.0,99,0,1,98
 2020-04-03,Lahn-Dill-Kreis,Hessen,253777.0,193,0,0,193
 2020-04-03,Limburg-Weilburg (Kreis),Hessen,172083.0,188,0,0,188
-2020-04-03,Main-Kinzig-Kreis,Hessen,41895.0,213,0,3,210
+2020-04-03,Main-Kinzig-Kreis,Hessen,418950.0,213,0,3,210
 2020-04-03,Main-Taunus-Kreis,Hessen,237735.0,151,0,3,148
 2020-04-03,Marburg-Biedenkopf (Kreis),Hessen,246648.0,122,0,1,121
 2020-04-03,Odenwaldkreis,Hessen,96798.0,103,0,2,101
@@ -18278,7 +18278,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-03,Vogelsbergkreis,Hessen,105878.0,70,0,0,70
 2020-04-03,Waldeck-Frankenberg (Kreis),Hessen,156953.0,80,0,0,80
 2020-04-03,Werra-Meißner-Kreis,Hessen,101017.0,25,0,0,25
-2020-04-03,Wetteraukreis,Hessen,30646.0,141,0,1,140
+2020-04-03,Wetteraukreis,Hessen,306460.0,141,0,1,140
 2020-04-03,Wiesbaden,Hessen,278342.0,194,0,2,192
 2020-04-03,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-03,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,12,130
@@ -18399,7 +18399,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-03,Remscheid,Nordrhein-Westfalen,110994.0,80,0,1,79
 2020-04-03,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,473,0,5,468
 2020-04-03,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,410,0,6,404
-2020-04-03,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,581,0,2,579
+2020-04-03,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,581,0,2,579
 2020-04-03,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,231,0,3,228
 2020-04-03,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,140,0,2,138
 2020-04-03,Soest (Kreis),Nordrhein-Westfalen,301902.0,220,0,1,219
@@ -19029,7 +19029,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-04,Kassel (Kreis),Hessen,236633.0,112,0,2,110
 2020-04-04,Lahn-Dill-Kreis,Hessen,253777.0,193,0,0,193
 2020-04-04,Limburg-Weilburg (Kreis),Hessen,172083.0,194,0,0,194
-2020-04-04,Main-Kinzig-Kreis,Hessen,41895.0,228,0,3,225
+2020-04-04,Main-Kinzig-Kreis,Hessen,418950.0,228,0,3,225
 2020-04-04,Main-Taunus-Kreis,Hessen,237735.0,157,0,3,154
 2020-04-04,Marburg-Biedenkopf (Kreis),Hessen,246648.0,122,0,1,121
 2020-04-04,Odenwaldkreis,Hessen,96798.0,113,0,6,107
@@ -19040,7 +19040,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-04,Vogelsbergkreis,Hessen,105878.0,73,0,1,72
 2020-04-04,Waldeck-Frankenberg (Kreis),Hessen,156953.0,86,0,0,86
 2020-04-04,Werra-Meißner-Kreis,Hessen,101017.0,26,0,0,26
-2020-04-04,Wetteraukreis,Hessen,30646.0,146,0,1,145
+2020-04-04,Wetteraukreis,Hessen,306460.0,146,0,1,145
 2020-04-04,Wiesbaden,Hessen,278342.0,198,0,3,195
 2020-04-04,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-04,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,12,130
@@ -19161,7 +19161,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-04,Remscheid,Nordrhein-Westfalen,110994.0,89,0,1,88
 2020-04-04,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,514,0,7,507
 2020-04-04,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,425,0,6,419
-2020-04-04,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,675,0,3,672
+2020-04-04,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,675,0,3,672
 2020-04-04,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,236,0,3,233
 2020-04-04,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,140,0,2,138
 2020-04-04,Soest (Kreis),Nordrhein-Westfalen,301902.0,220,0,1,219
@@ -19792,7 +19792,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-05,Kassel (Kreis),Hessen,236633.0,114,0,2,112
 2020-04-05,Lahn-Dill-Kreis,Hessen,253777.0,216,0,3,213
 2020-04-05,Limburg-Weilburg (Kreis),Hessen,172083.0,194,0,0,194
-2020-04-05,Main-Kinzig-Kreis,Hessen,41895.0,246,0,3,243
+2020-04-05,Main-Kinzig-Kreis,Hessen,418950.0,246,0,3,243
 2020-04-05,Main-Taunus-Kreis,Hessen,237735.0,163,0,3,160
 2020-04-05,Marburg-Biedenkopf (Kreis),Hessen,246648.0,122,0,1,121
 2020-04-05,Odenwaldkreis,Hessen,96798.0,132,0,9,123
@@ -19803,7 +19803,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-05,Vogelsbergkreis,Hessen,105878.0,76,0,2,74
 2020-04-05,Waldeck-Frankenberg (Kreis),Hessen,156953.0,90,0,0,90
 2020-04-05,Werra-Meißner-Kreis,Hessen,101017.0,28,0,0,28
-2020-04-05,Wetteraukreis,Hessen,30646.0,153,0,1,152
+2020-04-05,Wetteraukreis,Hessen,306460.0,153,0,1,152
 2020-04-05,Wiesbaden,Hessen,278342.0,205,0,4,201
 2020-04-05,weitere Fälle in Hessen,Hessen,,8,0,0,8
 2020-04-05,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,12,130
@@ -19924,7 +19924,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-05,Remscheid,Nordrhein-Westfalen,110994.0,92,0,1,91
 2020-04-05,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,539,0,4,535
 2020-04-05,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,455,0,6,449
-2020-04-05,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,714,0,4,710
+2020-04-05,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,714,0,4,710
 2020-04-05,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,250,0,3,247
 2020-04-05,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,167,0,2,165
 2020-04-05,Soest (Kreis),Nordrhein-Westfalen,301902.0,224,0,1,223
@@ -20559,7 +20559,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-06,Kassel (Kreis),Hessen,236633.0,117,0,3,114
 2020-04-06,Lahn-Dill-Kreis,Hessen,253777.0,238,0,3,235
 2020-04-06,Limburg-Weilburg (Kreis),Hessen,172083.0,201,0,0,201
-2020-04-06,Main-Kinzig-Kreis,Hessen,41895.0,251,0,3,248
+2020-04-06,Main-Kinzig-Kreis,Hessen,418950.0,251,0,3,248
 2020-04-06,Main-Taunus-Kreis,Hessen,237735.0,163,0,3,160
 2020-04-06,Marburg-Biedenkopf (Kreis),Hessen,246648.0,122,0,1,121
 2020-04-06,Odenwaldkreis,Hessen,96798.0,135,0,9,126
@@ -20570,7 +20570,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-06,Vogelsbergkreis,Hessen,105878.0,78,0,2,76
 2020-04-06,Waldeck-Frankenberg (Kreis),Hessen,156953.0,94,0,0,94
 2020-04-06,Werra-Meißner-Kreis,Hessen,101017.0,29,0,0,29
-2020-04-06,Wetteraukreis,Hessen,30646.0,154,0,1,153
+2020-04-06,Wetteraukreis,Hessen,306460.0,154,0,1,153
 2020-04-06,Wiesbaden,Hessen,278342.0,208,0,4,204
 2020-04-06,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-06,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,12,130
@@ -20692,7 +20692,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-06,Remscheid,Nordrhein-Westfalen,110994.0,92,0,2,90
 2020-04-06,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,578,0,13,565
 2020-04-06,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,455,0,6,449
-2020-04-06,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,714,0,6,708
+2020-04-06,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,714,0,6,708
 2020-04-06,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,250,0,3,247
 2020-04-06,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,182,0,4,178
 2020-04-06,Soest (Kreis),Nordrhein-Westfalen,301902.0,235,0,1,234
@@ -21328,7 +21328,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-07,Kassel (Kreis),Hessen,236633.0,120,0,3,117
 2020-04-07,Lahn-Dill-Kreis,Hessen,253777.0,258,0,3,255
 2020-04-07,Limburg-Weilburg (Kreis),Hessen,172083.0,201,0,0,201
-2020-04-07,Main-Kinzig-Kreis,Hessen,41895.0,257,0,3,254
+2020-04-07,Main-Kinzig-Kreis,Hessen,418950.0,257,0,3,254
 2020-04-07,Main-Taunus-Kreis,Hessen,237735.0,166,0,3,163
 2020-04-07,Marburg-Biedenkopf (Kreis),Hessen,246648.0,137,0,1,136
 2020-04-07,Odenwaldkreis,Hessen,96798.0,138,0,14,124
@@ -21339,7 +21339,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-07,Vogelsbergkreis,Hessen,105878.0,80,0,2,78
 2020-04-07,Waldeck-Frankenberg (Kreis),Hessen,156953.0,94,0,1,93
 2020-04-07,Werra-Meißner-Kreis,Hessen,101017.0,30,0,0,30
-2020-04-07,Wetteraukreis,Hessen,30646.0,158,0,1,157
+2020-04-07,Wetteraukreis,Hessen,306460.0,158,0,1,157
 2020-04-07,Wiesbaden,Hessen,278342.0,209,0,4,205
 2020-04-07,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-07,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,12,130
@@ -21461,7 +21461,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-07,Remscheid,Nordrhein-Westfalen,110994.0,99,46,2,51
 2020-04-07,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,593,185,15,393
 2020-04-07,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,489,265,6,218
-2020-04-07,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,789,184,8,597
+2020-04-07,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,789,184,8,597
 2020-04-07,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,281,148,3,130
 2020-04-07,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,188,42,4,142
 2020-04-07,Soest (Kreis),Nordrhein-Westfalen,301902.0,260,111,2,147
@@ -22097,7 +22097,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-08,Kassel (Kreis),Hessen,236633.0,142,0,4,138
 2020-04-08,Lahn-Dill-Kreis,Hessen,253777.0,261,0,6,255
 2020-04-08,Limburg-Weilburg (Kreis),Hessen,172083.0,201,0,0,201
-2020-04-08,Main-Kinzig-Kreis,Hessen,41895.0,277,0,4,273
+2020-04-08,Main-Kinzig-Kreis,Hessen,418950.0,277,0,4,273
 2020-04-08,Main-Taunus-Kreis,Hessen,237735.0,171,0,3,168
 2020-04-08,Marburg-Biedenkopf (Kreis),Hessen,246648.0,142,0,1,141
 2020-04-08,Odenwaldkreis,Hessen,96798.0,157,0,15,142
@@ -22108,7 +22108,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-08,Vogelsbergkreis,Hessen,105878.0,87,0,2,85
 2020-04-08,Waldeck-Frankenberg (Kreis),Hessen,156953.0,102,0,1,101
 2020-04-08,Werra-Meißner-Kreis,Hessen,101017.0,33,0,0,33
-2020-04-08,Wetteraukreis,Hessen,30646.0,167,0,1,166
+2020-04-08,Wetteraukreis,Hessen,306460.0,167,0,1,166
 2020-04-08,Wiesbaden,Hessen,278342.0,220,0,6,214
 2020-04-08,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-08,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,12,130
@@ -22230,7 +22230,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-08,Remscheid,Nordrhein-Westfalen,110994.0,108,50,2,56
 2020-04-08,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,634,193,15,426
 2020-04-08,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,491,280,6,205
-2020-04-08,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,799,212,10,577
+2020-04-08,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,799,212,10,577
 2020-04-08,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,294,151,3,140
 2020-04-08,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,194,51,4,139
 2020-04-08,Soest (Kreis),Nordrhein-Westfalen,301902.0,265,129,2,134
@@ -22866,7 +22866,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-09,Kassel (Kreis),Hessen,236633.0,153,0,5,148
 2020-04-09,Lahn-Dill-Kreis,Hessen,253777.0,265,0,6,259
 2020-04-09,Limburg-Weilburg (Kreis),Hessen,172083.0,204,0,0,204
-2020-04-09,Main-Kinzig-Kreis,Hessen,41895.0,294,0,5,289
+2020-04-09,Main-Kinzig-Kreis,Hessen,418950.0,294,0,5,289
 2020-04-09,Main-Taunus-Kreis,Hessen,237735.0,177,0,3,174
 2020-04-09,Marburg-Biedenkopf (Kreis),Hessen,246648.0,150,0,1,149
 2020-04-09,Odenwaldkreis,Hessen,96798.0,166,0,16,150
@@ -22877,7 +22877,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-09,Vogelsbergkreis,Hessen,105878.0,91,0,2,89
 2020-04-09,Waldeck-Frankenberg (Kreis),Hessen,156953.0,103,0,1,102
 2020-04-09,Werra-Meißner-Kreis,Hessen,101017.0,34,0,0,34
-2020-04-09,Wetteraukreis,Hessen,30646.0,178,0,1,177
+2020-04-09,Wetteraukreis,Hessen,306460.0,178,0,1,177
 2020-04-09,Wiesbaden,Hessen,278342.0,231,0,6,225
 2020-04-09,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-09,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,12,130
@@ -22999,7 +22999,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-09,Remscheid,Nordrhein-Westfalen,110994.0,113,56,2,55
 2020-04-09,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,443,202,18,223
 2020-04-09,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,496,301,8,187
-2020-04-09,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,829,268,12,549
+2020-04-09,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,829,268,12,549
 2020-04-09,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,305,164,3,138
 2020-04-09,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,200,70,4,126
 2020-04-09,Soest (Kreis),Nordrhein-Westfalen,301902.0,283,141,2,140
@@ -23636,7 +23636,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-10,Kassel (Kreis),Hessen,236633.0,170,0,5,165
 2020-04-10,Lahn-Dill-Kreis,Hessen,253777.0,285,0,6,279
 2020-04-10,Limburg-Weilburg (Kreis),Hessen,172083.0,212,0,0,212
-2020-04-10,Main-Kinzig-Kreis,Hessen,41895.0,311,0,5,306
+2020-04-10,Main-Kinzig-Kreis,Hessen,418950.0,311,0,5,306
 2020-04-10,Main-Taunus-Kreis,Hessen,237735.0,184,0,4,180
 2020-04-10,Marburg-Biedenkopf (Kreis),Hessen,246648.0,154,0,1,153
 2020-04-10,Odenwaldkreis,Hessen,96798.0,177,0,18,159
@@ -23647,7 +23647,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-10,Vogelsbergkreis,Hessen,105878.0,96,0,2,94
 2020-04-10,Waldeck-Frankenberg (Kreis),Hessen,156953.0,109,0,1,108
 2020-04-10,Werra-Meißner-Kreis,Hessen,101017.0,56,0,1,55
-2020-04-10,Wetteraukreis,Hessen,30646.0,186,0,3,183
+2020-04-10,Wetteraukreis,Hessen,306460.0,186,0,3,183
 2020-04-10,Wiesbaden,Hessen,278342.0,238,0,6,232
 2020-04-10,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-10,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,12,130
@@ -23769,7 +23769,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-10,Remscheid,Nordrhein-Westfalen,110994.0,129,61,2,66
 2020-04-10,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,482,213,21,248
 2020-04-10,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,517,326,9,182
-2020-04-10,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,866,319,15,532
+2020-04-10,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,866,319,15,532
 2020-04-10,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,316,168,3,145
 2020-04-10,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,200,70,4,126
 2020-04-10,Soest (Kreis),Nordrhein-Westfalen,301902.0,283,141,2,140
@@ -24406,7 +24406,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-11,Kassel (Kreis),Hessen,236633.0,170,0,5,165
 2020-04-11,Lahn-Dill-Kreis,Hessen,253777.0,294,0,6,288
 2020-04-11,Limburg-Weilburg (Kreis),Hessen,172083.0,215,0,0,215
-2020-04-11,Main-Kinzig-Kreis,Hessen,41895.0,328,0,5,323
+2020-04-11,Main-Kinzig-Kreis,Hessen,418950.0,328,0,5,323
 2020-04-11,Main-Taunus-Kreis,Hessen,237735.0,184,0,4,180
 2020-04-11,Marburg-Biedenkopf (Kreis),Hessen,246648.0,154,0,1,153
 2020-04-11,Odenwaldkreis,Hessen,96798.0,182,0,22,160
@@ -24417,7 +24417,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-11,Vogelsbergkreis,Hessen,105878.0,100,0,2,98
 2020-04-11,Waldeck-Frankenberg (Kreis),Hessen,156953.0,112,0,1,111
 2020-04-11,Werra-Meißner-Kreis,Hessen,101017.0,66,0,1,65
-2020-04-11,Wetteraukreis,Hessen,30646.0,193,0,3,190
+2020-04-11,Wetteraukreis,Hessen,306460.0,193,0,3,190
 2020-04-11,Wiesbaden,Hessen,278342.0,245,0,6,239
 2020-04-11,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-11,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,12,130
@@ -24539,7 +24539,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-11,Remscheid,Nordrhein-Westfalen,110994.0,144,61,2,81
 2020-04-11,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,761,230,22,509
 2020-04-11,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,523,326,9,188
-2020-04-11,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,909,375,18,516
+2020-04-11,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,909,375,18,516
 2020-04-11,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,333,185,3,145
 2020-04-11,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,200,70,4,126
 2020-04-11,Soest (Kreis),Nordrhein-Westfalen,301902.0,293,151,2,140
@@ -25176,7 +25176,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-12,Kassel (Kreis),Hessen,236633.0,197,0,6,191
 2020-04-12,Lahn-Dill-Kreis,Hessen,253777.0,294,0,6,288
 2020-04-12,Limburg-Weilburg (Kreis),Hessen,172083.0,216,0,0,216
-2020-04-12,Main-Kinzig-Kreis,Hessen,41895.0,355,0,6,349
+2020-04-12,Main-Kinzig-Kreis,Hessen,418950.0,355,0,6,349
 2020-04-12,Main-Taunus-Kreis,Hessen,237735.0,190,0,4,186
 2020-04-12,Marburg-Biedenkopf (Kreis),Hessen,246648.0,154,0,1,153
 2020-04-12,Odenwaldkreis,Hessen,96798.0,187,0,22,165
@@ -25187,7 +25187,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-12,Vogelsbergkreis,Hessen,105878.0,100,0,4,96
 2020-04-12,Waldeck-Frankenberg (Kreis),Hessen,156953.0,112,0,1,111
 2020-04-12,Werra-Meißner-Kreis,Hessen,101017.0,81,0,2,79
-2020-04-12,Wetteraukreis,Hessen,30646.0,204,0,5,199
+2020-04-12,Wetteraukreis,Hessen,306460.0,204,0,5,199
 2020-04-12,Wiesbaden,Hessen,278342.0,247,0,6,241
 2020-04-12,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-12,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,11,131
@@ -25309,7 +25309,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-12,Remscheid,Nordrhein-Westfalen,110994.0,148,64,2,82
 2020-04-12,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,761,230,22,509
 2020-04-12,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,530,368,10,152
-2020-04-12,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,923,378,18,527
+2020-04-12,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,923,378,18,527
 2020-04-12,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,346,189,3,154
 2020-04-12,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,212,73,6,133
 2020-04-12,Soest (Kreis),Nordrhein-Westfalen,301902.0,310,163,2,145
@@ -25946,7 +25946,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-13,Kassel (Kreis),Hessen,236633.0,197,0,6,191
 2020-04-13,Lahn-Dill-Kreis,Hessen,253777.0,294,0,6,288
 2020-04-13,Limburg-Weilburg (Kreis),Hessen,172083.0,216,0,0,216
-2020-04-13,Main-Kinzig-Kreis,Hessen,41895.0,355,0,6,349
+2020-04-13,Main-Kinzig-Kreis,Hessen,418950.0,355,0,6,349
 2020-04-13,Main-Taunus-Kreis,Hessen,237735.0,190,0,4,186
 2020-04-13,Marburg-Biedenkopf (Kreis),Hessen,246648.0,154,0,1,153
 2020-04-13,Odenwaldkreis,Hessen,96798.0,187,0,22,165
@@ -25957,7 +25957,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-13,Vogelsbergkreis,Hessen,105878.0,100,0,4,96
 2020-04-13,Waldeck-Frankenberg (Kreis),Hessen,156953.0,112,0,1,111
 2020-04-13,Werra-Meißner-Kreis,Hessen,101017.0,81,0,2,79
-2020-04-13,Wetteraukreis,Hessen,30646.0,204,0,5,199
+2020-04-13,Wetteraukreis,Hessen,306460.0,204,0,5,199
 2020-04-13,Wiesbaden,Hessen,278342.0,247,0,6,241
 2020-04-13,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-13,Kreuzfahrtschiff 'Diamond Princess',International,,761,619,11,131
@@ -26079,7 +26079,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-13,Remscheid,Nordrhein-Westfalen,110994.0,149,64,2,83
 2020-04-13,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,792,253,31,508
 2020-04-13,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,536,388,11,137
-2020-04-13,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,938,389,18,531
+2020-04-13,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,938,389,18,531
 2020-04-13,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,364,197,3,164
 2020-04-13,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,212,73,6,133
 2020-04-13,Soest (Kreis),Nordrhein-Westfalen,301902.0,311,170,2,139
@@ -26716,7 +26716,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-14,Kassel (Kreis),Hessen,236633.0,214,0,8,206
 2020-04-14,Lahn-Dill-Kreis,Hessen,253777.0,304,0,9,295
 2020-04-14,Limburg-Weilburg (Kreis),Hessen,172083.0,220,0,0,220
-2020-04-14,Main-Kinzig-Kreis,Hessen,41895.0,368,0,7,361
+2020-04-14,Main-Kinzig-Kreis,Hessen,418950.0,368,0,7,361
 2020-04-14,Main-Taunus-Kreis,Hessen,237735.0,190,0,4,186
 2020-04-14,Marburg-Biedenkopf (Kreis),Hessen,246648.0,159,0,1,158
 2020-04-14,Odenwaldkreis,Hessen,96798.0,200,0,23,177
@@ -26727,7 +26727,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-14,Vogelsbergkreis,Hessen,105878.0,100,0,4,96
 2020-04-14,Waldeck-Frankenberg (Kreis),Hessen,156953.0,112,0,2,110
 2020-04-14,Werra-Meißner-Kreis,Hessen,101017.0,98,0,2,96
-2020-04-14,Wetteraukreis,Hessen,30646.0,206,0,5,201
+2020-04-14,Wetteraukreis,Hessen,306460.0,206,0,5,201
 2020-04-14,Wiesbaden,Hessen,278342.0,250,0,6,244
 2020-04-14,weitere Fälle in Hessen,Hessen,,4,0,0,4
 2020-04-14,Kreuzfahrtschiff 'Diamond Princess',International,,761,639,12,110
@@ -26849,7 +26849,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-14,Remscheid,Nordrhein-Westfalen,110994.0,150,64,2,84
 2020-04-14,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,792,253,32,507
 2020-04-14,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,530,388,11,131
-2020-04-14,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,970,389,18,563
+2020-04-14,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,970,389,18,563
 2020-04-14,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,376,197,4,175
 2020-04-14,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,212,73,6,133
 2020-04-14,Soest (Kreis),Nordrhein-Westfalen,301902.0,314,170,3,141
@@ -27486,7 +27486,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-15,Kassel (Kreis),Hessen,236633.0,214,0,8,206
 2020-04-15,Lahn-Dill-Kreis,Hessen,253777.0,307,0,10,297
 2020-04-15,Limburg-Weilburg (Kreis),Hessen,172083.0,221,0,1,220
-2020-04-15,Main-Kinzig-Kreis,Hessen,41895.0,377,0,10,367
+2020-04-15,Main-Kinzig-Kreis,Hessen,418950.0,377,0,10,367
 2020-04-15,Main-Taunus-Kreis,Hessen,237735.0,194,0,4,190
 2020-04-15,Marburg-Biedenkopf (Kreis),Hessen,246648.0,165,0,1,164
 2020-04-15,Odenwaldkreis,Hessen,96798.0,204,0,29,175
@@ -27497,7 +27497,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-15,Vogelsbergkreis,Hessen,105878.0,102,0,4,98
 2020-04-15,Waldeck-Frankenberg (Kreis),Hessen,156953.0,113,0,2,111
 2020-04-15,Werra-Meißner-Kreis,Hessen,101017.0,100,0,3,97
-2020-04-15,Wetteraukreis,Hessen,30646.0,211,0,5,206
+2020-04-15,Wetteraukreis,Hessen,306460.0,211,0,5,206
 2020-04-15,Wiesbaden,Hessen,278342.0,257,0,8,249
 2020-04-15,weitere Fälle in Hessen,Hessen,,13,2320,0,-2307
 2020-04-15,Kreuzfahrtschiff 'Diamond Princess',International,,761,639,12,110
@@ -27619,7 +27619,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-15,Remscheid,Nordrhein-Westfalen,110994.0,153,73,3,77
 2020-04-15,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,802,294,32,476
 2020-04-15,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,530,413,12,105
-2020-04-15,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,970,389,18,563
+2020-04-15,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,970,389,18,563
 2020-04-15,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,380,212,4,164
 2020-04-15,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,239,90,6,143
 2020-04-15,Soest (Kreis),Nordrhein-Westfalen,301902.0,315,192,3,120
@@ -28257,7 +28257,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-16,Kassel (Kreis),Hessen,236633.0,227,0,13,214
 2020-04-16,Lahn-Dill-Kreis,Hessen,253777.0,309,0,10,299
 2020-04-16,Limburg-Weilburg (Kreis),Hessen,172083.0,225,0,1,224
-2020-04-16,Main-Kinzig-Kreis,Hessen,41895.0,402,0,12,390
+2020-04-16,Main-Kinzig-Kreis,Hessen,418950.0,402,0,12,390
 2020-04-16,Main-Taunus-Kreis,Hessen,237735.0,204,0,4,200
 2020-04-16,Marburg-Biedenkopf (Kreis),Hessen,246648.0,175,0,1,174
 2020-04-16,Odenwaldkreis,Hessen,96798.0,220,0,31,189
@@ -28268,7 +28268,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-16,Vogelsbergkreis,Hessen,105878.0,102,0,4,98
 2020-04-16,Waldeck-Frankenberg (Kreis),Hessen,156953.0,124,0,2,122
 2020-04-16,Werra-Meißner-Kreis,Hessen,101017.0,106,0,3,103
-2020-04-16,Wetteraukreis,Hessen,30646.0,214,0,6,208
+2020-04-16,Wetteraukreis,Hessen,306460.0,214,0,6,208
 2020-04-16,Wiesbaden,Hessen,278342.0,268,0,8,260
 2020-04-16,weitere Fälle in Hessen,Hessen,,0,2320,0,-2320
 2020-04-16,Kreuzfahrtschiff 'Diamond Princess',International,,761,644,12,105
@@ -28390,7 +28390,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-16,Remscheid,Nordrhein-Westfalen,110994.0,166,74,3,89
 2020-04-16,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,802,294,32,476
 2020-04-16,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,527,411,12,104
-2020-04-16,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,973,441,19,513
+2020-04-16,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,973,441,19,513
 2020-04-16,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,382,217,7,158
 2020-04-16,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,239,90,6,143
 2020-04-16,Soest (Kreis),Nordrhein-Westfalen,301902.0,320,301,3,16
@@ -29028,7 +29028,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-17,Kassel (Kreis),Hessen,236633.0,235,80,13,142
 2020-04-17,Lahn-Dill-Kreis,Hessen,253777.0,315,163,10,142
 2020-04-17,Limburg-Weilburg (Kreis),Hessen,172083.0,229,177,1,51
-2020-04-17,Main-Kinzig-Kreis,Hessen,41895.0,432,86,15,331
+2020-04-17,Main-Kinzig-Kreis,Hessen,418950.0,432,86,15,331
 2020-04-17,Main-Taunus-Kreis,Hessen,237735.0,211,139,4,68
 2020-04-17,Marburg-Biedenkopf (Kreis),Hessen,246648.0,176,140,1,35
 2020-04-17,Odenwaldkreis,Hessen,96798.0,231,96,31,104
@@ -29039,7 +29039,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-17,Vogelsbergkreis,Hessen,105878.0,104,58,4,42
 2020-04-17,Waldeck-Frankenberg (Kreis),Hessen,156953.0,130,0,2,128
 2020-04-17,Werra-Meißner-Kreis,Hessen,101017.0,114,25,5,84
-2020-04-17,Wetteraukreis,Hessen,30646.0,215,94,6,115
+2020-04-17,Wetteraukreis,Hessen,306460.0,215,94,6,115
 2020-04-17,Wiesbaden,Hessen,278342.0,271,180,8,83
 2020-04-17,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-17,Kreuzfahrtschiff 'Diamond Princess',International,,761,644,13,104
@@ -29161,7 +29161,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-17,Remscheid,Nordrhein-Westfalen,110994.0,189,92,4,93
 2020-04-17,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,822,321,33,468
 2020-04-17,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,529,428,13,88
-2020-04-17,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,995,493,24,478
+2020-04-17,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,995,493,24,478
 2020-04-17,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,391,230,8,153
 2020-04-17,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,256,105,6,145
 2020-04-17,Soest (Kreis),Nordrhein-Westfalen,301902.0,322,207,3,112
@@ -29799,7 +29799,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-18,Kassel (Kreis),Hessen,236633.0,242,81,13,148
 2020-04-18,Lahn-Dill-Kreis,Hessen,253777.0,318,194,10,114
 2020-04-18,Limburg-Weilburg (Kreis),Hessen,172083.0,233,181,1,51
-2020-04-18,Main-Kinzig-Kreis,Hessen,41895.0,451,97,15,339
+2020-04-18,Main-Kinzig-Kreis,Hessen,418950.0,451,97,15,339
 2020-04-18,Main-Taunus-Kreis,Hessen,237735.0,212,149,4,59
 2020-04-18,Marburg-Biedenkopf (Kreis),Hessen,246648.0,179,144,1,34
 2020-04-18,Odenwaldkreis,Hessen,96798.0,238,109,34,95
@@ -29810,7 +29810,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-18,Vogelsbergkreis,Hessen,105878.0,106,61,4,41
 2020-04-18,Waldeck-Frankenberg (Kreis),Hessen,156953.0,131,0,2,129
 2020-04-18,Werra-Meißner-Kreis,Hessen,101017.0,120,26,5,89
-2020-04-18,Wetteraukreis,Hessen,30646.0,232,94,7,131
+2020-04-18,Wetteraukreis,Hessen,306460.0,232,94,7,131
 2020-04-18,Wiesbaden,Hessen,278342.0,273,185,8,80
 2020-04-18,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-18,Kreuzfahrtschiff 'Diamond Princess',International,,761,644,13,104
@@ -29932,7 +29932,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-18,Remscheid,Nordrhein-Westfalen,110994.0,194,100,4,90
 2020-04-18,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,835,340,39,456
 2020-04-18,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,535,436,14,85
-2020-04-18,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,1015,559,27,429
+2020-04-18,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,1015,559,27,429
 2020-04-18,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,391,236,9,146
 2020-04-18,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,256,105,6,145
 2020-04-18,Soest (Kreis),Nordrhein-Westfalen,301902.0,325,218,4,103
@@ -30570,7 +30570,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-19,Kassel (Kreis),Hessen,236633.0,257,81,13,163
 2020-04-19,Lahn-Dill-Kreis,Hessen,253777.0,318,194,10,114
 2020-04-19,Limburg-Weilburg (Kreis),Hessen,172083.0,234,181,2,51
-2020-04-19,Main-Kinzig-Kreis,Hessen,41895.0,478,97,16,365
+2020-04-19,Main-Kinzig-Kreis,Hessen,418950.0,478,97,16,365
 2020-04-19,Main-Taunus-Kreis,Hessen,237735.0,218,149,4,65
 2020-04-19,Marburg-Biedenkopf (Kreis),Hessen,246648.0,179,144,1,34
 2020-04-19,Odenwaldkreis,Hessen,96798.0,244,109,36,99
@@ -30581,7 +30581,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-19,Vogelsbergkreis,Hessen,105878.0,109,61,4,44
 2020-04-19,Waldeck-Frankenberg (Kreis),Hessen,156953.0,131,0,2,129
 2020-04-19,Werra-Meißner-Kreis,Hessen,101017.0,122,26,5,91
-2020-04-19,Wetteraukreis,Hessen,30646.0,241,94,7,140
+2020-04-19,Wetteraukreis,Hessen,306460.0,241,94,7,140
 2020-04-19,Wiesbaden,Hessen,278342.0,277,185,9,83
 2020-04-19,weitere Fälle in Hessen,Hessen,,0,0,0,0
 2020-04-19,Kreuzfahrtschiff 'Diamond Princess',International,,761,644,13,104
@@ -30703,7 +30703,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-19,Remscheid,Nordrhein-Westfalen,110994.0,196,105,4,87
 2020-04-19,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,868,380,40,448
 2020-04-19,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,541,436,15,90
-2020-04-19,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,1028,628,28,372
+2020-04-19,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,1028,628,28,372
 2020-04-19,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,391,236,9,146
 2020-04-19,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,256,105,6,145
 2020-04-19,Soest (Kreis),Nordrhein-Westfalen,301902.0,330,223,4,103
@@ -31341,7 +31341,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-20,Kassel (Kreis),Hessen,236633.0,260,97,17,146
 2020-04-20,Lahn-Dill-Kreis,Hessen,253777.0,318,233,11,74
 2020-04-20,Limburg-Weilburg (Kreis),Hessen,172083.0,235,185,2,48
-2020-04-20,Main-Kinzig-Kreis,Hessen,41895.0,479,100,18,361
+2020-04-20,Main-Kinzig-Kreis,Hessen,418950.0,479,100,18,361
 2020-04-20,Main-Taunus-Kreis,Hessen,237735.0,218,149,4,65
 2020-04-20,Marburg-Biedenkopf (Kreis),Hessen,246648.0,179,146,1,32
 2020-04-20,Odenwaldkreis,Hessen,96798.0,252,116,36,100
@@ -31352,7 +31352,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-20,Vogelsbergkreis,Hessen,105878.0,110,61,5,44
 2020-04-20,Waldeck-Frankenberg (Kreis),Hessen,156953.0,137,0,3,134
 2020-04-20,Werra-Meißner-Kreis,Hessen,101017.0,122,27,7,88
-2020-04-20,Wetteraukreis,Hessen,30646.0,243,94,7,142
+2020-04-20,Wetteraukreis,Hessen,306460.0,243,94,7,142
 2020-04-20,Wiesbaden,Hessen,278342.0,281,195,9,77
 2020-04-20,weitere Fälle in Hessen,Hessen,,0,1671,0,-1671
 2020-04-20,Kreuzfahrtschiff 'Diamond Princess',International,,761,644,13,104
@@ -31474,7 +31474,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-20,Remscheid,Nordrhein-Westfalen,110994.0,196,106,3,87
 2020-04-20,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,867,398,40,429
 2020-04-20,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,540,444,16,80
-2020-04-20,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,1025,628,22,375
+2020-04-20,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,1025,628,22,375
 2020-04-20,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,397,236,6,155
 2020-04-20,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,246,105,6,135
 2020-04-20,Soest (Kreis),Nordrhein-Westfalen,301902.0,332,223,4,105
@@ -32112,7 +32112,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-21,Kassel (Kreis),Hessen,236633.0,263,97,18,148
 2020-04-21,Lahn-Dill-Kreis,Hessen,253777.0,318,234,11,73
 2020-04-21,Limburg-Weilburg (Kreis),Hessen,172083.0,239,185,2,52
-2020-04-21,Main-Kinzig-Kreis,Hessen,41895.0,489,111,21,357
+2020-04-21,Main-Kinzig-Kreis,Hessen,418950.0,489,111,21,357
 2020-04-21,Main-Taunus-Kreis,Hessen,237735.0,219,157,5,57
 2020-04-21,Marburg-Biedenkopf (Kreis),Hessen,246648.0,180,153,1,26
 2020-04-21,Odenwaldkreis,Hessen,96798.0,275,117,37,121
@@ -32123,7 +32123,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-21,Vogelsbergkreis,Hessen,105878.0,110,71,5,34
 2020-04-21,Waldeck-Frankenberg (Kreis),Hessen,156953.0,137,0,3,134
 2020-04-21,Werra-Meißner-Kreis,Hessen,101017.0,123,30,7,86
-2020-04-21,Wetteraukreis,Hessen,30646.0,245,120,7,118
+2020-04-21,Wetteraukreis,Hessen,306460.0,245,120,7,118
 2020-04-21,Wiesbaden,Hessen,278342.0,282,198,9,75
 2020-04-21,weitere Fälle in Hessen,Hessen,,0,1619,0,-1619
 2020-04-21,Kreuzfahrtschiff 'Diamond Princess',International,,761,644,13,104
@@ -32245,7 +32245,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-21,Remscheid,Nordrhein-Westfalen,110994.0,196,106,3,87
 2020-04-21,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,890,398,45,447
 2020-04-21,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,552,444,16,92
-2020-04-21,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,1055,657,23,375
+2020-04-21,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,1055,657,23,375
 2020-04-21,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,395,268,11,116
 2020-04-21,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,246,105,6,135
 2020-04-21,Soest (Kreis),Nordrhein-Westfalen,301902.0,332,223,4,105
@@ -32883,7 +32883,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Kassel (Kreis),Hessen,236633.0,270,107,19,144
 2020-04-22,Lahn-Dill-Kreis,Hessen,253777.0,323,239,12,72
 2020-04-22,Limburg-Weilburg (Kreis),Hessen,172083.0,241,189,2,50
-2020-04-22,Main-Kinzig-Kreis,Hessen,41895.0,511,119,24,368
+2020-04-22,Main-Kinzig-Kreis,Hessen,418950.0,511,119,24,368
 2020-04-22,Main-Taunus-Kreis,Hessen,237735.0,228,162,5,61
 2020-04-22,Marburg-Biedenkopf (Kreis),Hessen,246648.0,177,153,1,23
 2020-04-22,Odenwaldkreis,Hessen,96798.0,289,140,40,109
@@ -32894,7 +32894,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Vogelsbergkreis,Hessen,105878.0,113,76,5,32
 2020-04-22,Waldeck-Frankenberg (Kreis),Hessen,156953.0,138,130,3,5
 2020-04-22,Werra-Meißner-Kreis,Hessen,101017.0,125,30,7,88
-2020-04-22,Wetteraukreis,Hessen,30646.0,250,120,11,119
+2020-04-22,Wetteraukreis,Hessen,306460.0,250,120,11,119
 2020-04-22,Wiesbaden,Hessen,278342.0,290,199,9,82
 2020-04-22,weitere Fälle in Hessen,Hessen,,0,1367,0,-1367
 2020-04-22,Kreuzfahrtschiff 'Diamond Princess',International,,761,644,13,104
@@ -33016,7 +33016,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-22,Remscheid,Nordrhein-Westfalen,110994.0,203,112,8,83
 2020-04-22,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,899,424,47,428
 2020-04-22,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,554,448,17,89
-2020-04-22,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,1100,754,24,322
+2020-04-22,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,1100,754,24,322
 2020-04-22,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,395,274,11,110
 2020-04-22,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,250,105,6,139
 2020-04-22,Soest (Kreis),Nordrhein-Westfalen,301902.0,332,223,4,105
@@ -33653,7 +33653,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-23,Kassel (Kreis),Hessen,236633.0,284,116,19,149
 2020-04-23,Lahn-Dill-Kreis,Hessen,253777.0,323,243,12,68
 2020-04-23,Limburg-Weilburg (Kreis),Hessen,172083.0,240,191,2,47
-2020-04-23,Main-Kinzig-Kreis,Hessen,41895.0,537,120,26,391
+2020-04-23,Main-Kinzig-Kreis,Hessen,418950.0,537,120,26,391
 2020-04-23,Main-Taunus-Kreis,Hessen,237735.0,240,170,5,65
 2020-04-23,Marburg-Biedenkopf (Kreis),Hessen,246648.0,176,158,1,17
 2020-04-23,Odenwaldkreis,Hessen,96798.0,304,140,42,122
@@ -33664,7 +33664,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-23,Vogelsbergkreis,Hessen,105878.0,117,80,5,32
 2020-04-23,Waldeck-Frankenberg (Kreis),Hessen,156953.0,142,130,3,9
 2020-04-23,Werra-Meißner-Kreis,Hessen,101017.0,133,45,7,81
-2020-04-23,Wetteraukreis,Hessen,30646.0,256,120,11,125
+2020-04-23,Wetteraukreis,Hessen,306460.0,256,120,11,125
 2020-04-23,Wiesbaden,Hessen,278342.0,289,201,9,79
 2020-04-23,weitere Fälle in Hessen,Hessen,,0,1167,0,-1167
 2020-04-23,Kreuzfahrtschiff 'Diamond Princess',International,,761,645,14,102
@@ -33786,7 +33786,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-23,Remscheid,Nordrhein-Westfalen,110994.0,205,143,11,51
 2020-04-23,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,922,445,50,427
 2020-04-23,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,560,461,17,82
-2020-04-23,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,1093,754,24,315
+2020-04-23,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,1093,754,24,315
 2020-04-23,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,403,281,12,110
 2020-04-23,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,258,105,7,146
 2020-04-23,Soest (Kreis),Nordrhein-Westfalen,301902.0,334,223,4,107
@@ -34423,7 +34423,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Kassel (Kreis),Hessen,236633.0,292,123,20,149
 2020-04-24,Lahn-Dill-Kreis,Hessen,253777.0,327,243,14,70
 2020-04-24,Limburg-Weilburg (Kreis),Hessen,172083.0,248,196,3,49
-2020-04-24,Main-Kinzig-Kreis,Hessen,41895.0,540,140,28,372
+2020-04-24,Main-Kinzig-Kreis,Hessen,418950.0,540,140,28,372
 2020-04-24,Main-Taunus-Kreis,Hessen,237735.0,243,179,5,59
 2020-04-24,Marburg-Biedenkopf (Kreis),Hessen,246648.0,192,159,1,32
 2020-04-24,Odenwaldkreis,Hessen,96798.0,314,145,42,127
@@ -34434,7 +34434,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Vogelsbergkreis,Hessen,105878.0,118,83,5,30
 2020-04-24,Waldeck-Frankenberg (Kreis),Hessen,156953.0,143,130,3,10
 2020-04-24,Werra-Meißner-Kreis,Hessen,101017.0,167,48,7,112
-2020-04-24,Wetteraukreis,Hessen,30646.0,257,149,11,97
+2020-04-24,Wetteraukreis,Hessen,306460.0,257,149,11,97
 2020-04-24,Wiesbaden,Hessen,278342.0,292,222,9,61
 2020-04-24,weitere Fälle in Hessen,Hessen,,0,990,0,-990
 2020-04-24,Kreuzfahrtschiff 'Diamond Princess',International,,761,645,14,102
@@ -34556,7 +34556,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-24,Remscheid,Nordrhein-Westfalen,110994.0,209,143,12,54
 2020-04-24,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,929,445,53,431
 2020-04-24,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,571,461,17,93
-2020-04-24,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,1107,783,24,300
+2020-04-24,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,1107,783,24,300
 2020-04-24,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,406,291,14,101
 2020-04-24,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,259,105,7,147
 2020-04-24,Soest (Kreis),Nordrhein-Westfalen,301902.0,334,223,4,107
@@ -35193,7 +35193,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-25,Kassel (Kreis),Hessen,236633.0,317,123,20,174
 2020-04-25,Lahn-Dill-Kreis,Hessen,253777.0,352,243,14,95
 2020-04-25,Limburg-Weilburg (Kreis),Hessen,172083.0,276,196,3,77
-2020-04-25,Main-Kinzig-Kreis,Hessen,41895.0,553,140,28,385
+2020-04-25,Main-Kinzig-Kreis,Hessen,418950.0,553,140,28,385
 2020-04-25,Main-Taunus-Kreis,Hessen,237735.0,248,179,5,64
 2020-04-25,Marburg-Biedenkopf (Kreis),Hessen,246648.0,196,159,2,35
 2020-04-25,Odenwaldkreis,Hessen,96798.0,343,145,46,152
@@ -35204,7 +35204,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-25,Vogelsbergkreis,Hessen,105878.0,119,83,5,31
 2020-04-25,Waldeck-Frankenberg (Kreis),Hessen,156953.0,143,130,3,10
 2020-04-25,Werra-Meißner-Kreis,Hessen,101017.0,175,48,10,117
-2020-04-25,Wetteraukreis,Hessen,30646.0,260,149,11,100
+2020-04-25,Wetteraukreis,Hessen,306460.0,260,149,11,100
 2020-04-25,Wiesbaden,Hessen,278342.0,301,222,10,69
 2020-04-25,weitere Fälle in Hessen,Hessen,,0,1247,0,-1247
 2020-04-25,Kreuzfahrtschiff 'Diamond Princess',International,,761,645,14,102
@@ -35326,7 +35326,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-25,Remscheid,Nordrhein-Westfalen,110994.0,210,165,12,33
 2020-04-25,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,934,483,55,396
 2020-04-25,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,573,469,18,86
-2020-04-25,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,1116,814,26,276
+2020-04-25,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,1116,814,26,276
 2020-04-25,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,406,297,14,95
 2020-04-25,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,262,0,7,255
 2020-04-25,Soest (Kreis),Nordrhein-Westfalen,301902.0,335,0,4,331
@@ -35963,7 +35963,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-26,Kassel (Kreis),Hessen,236633.0,317,123,20,174
 2020-04-26,Lahn-Dill-Kreis,Hessen,253777.0,352,243,14,95
 2020-04-26,Limburg-Weilburg (Kreis),Hessen,172083.0,276,196,3,77
-2020-04-26,Main-Kinzig-Kreis,Hessen,41895.0,553,140,28,385
+2020-04-26,Main-Kinzig-Kreis,Hessen,418950.0,553,140,28,385
 2020-04-26,Main-Taunus-Kreis,Hessen,237735.0,248,179,5,64
 2020-04-26,Marburg-Biedenkopf (Kreis),Hessen,246648.0,196,159,2,35
 2020-04-26,Odenwaldkreis,Hessen,96798.0,343,145,46,152
@@ -35974,7 +35974,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-26,Vogelsbergkreis,Hessen,105878.0,119,83,5,31
 2020-04-26,Waldeck-Frankenberg (Kreis),Hessen,156953.0,143,130,3,10
 2020-04-26,Werra-Meißner-Kreis,Hessen,101017.0,175,48,10,117
-2020-04-26,Wetteraukreis,Hessen,30646.0,260,149,11,100
+2020-04-26,Wetteraukreis,Hessen,306460.0,260,149,11,100
 2020-04-26,Wiesbaden,Hessen,278342.0,301,222,10,69
 2020-04-26,weitere Fälle in Hessen,Hessen,,0,1247,0,-1247
 2020-04-26,Kreuzfahrtschiff 'Diamond Princess',International,,761,645,14,102
@@ -36095,7 +36095,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-26,Remscheid,Nordrhein-Westfalen,110994.0,210,167,12,31
 2020-04-26,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,940,511,55,374
 2020-04-26,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,573,476,18,79
-2020-04-26,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,1121,831,26,264
+2020-04-26,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,1121,831,26,264
 2020-04-26,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,406,301,14,91
 2020-04-26,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,262,0,8,254
 2020-04-26,Soest (Kreis),Nordrhein-Westfalen,301902.0,336,277,4,55
@@ -36276,22 +36276,22 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-26,West Virginia,USA,1852994.0,1046,0,34,1012
 2020-04-26,Wisconsin,USA,5686986.0,5912,0,272,5640
 2020-04-26,Wyoming,USA,563626.0,502,0,7,495
-2020-04-27,Afghanistan,#Global,32225560.0,1531,207,50,1274
+2020-04-27,Afghanistan,#Global,32225560.0,1703,220,57,1426
 2020-04-27,Albanien,#Global,2845955.0,726,410,28,288
 2020-04-27,Algerien,#Global,43000000.0,3382,1508,425,1449
 2020-04-27,Andorra,#Global,77543.0,738,344,40,354
 2020-04-27,Angola,#Global,31127674.0,26,6,2,18
 2020-04-27,Antigua und Barbuda,#Global,96453.0,24,11,3,10
 2020-04-27,Argentinien,#Global,44938712.0,3892,1107,192,2593
-2020-04-27,Armenien,#Global,2957500.0,1746,833,28,885
+2020-04-27,Armenien,#Global,2957500.0,1808,848,29,931
 2020-04-27,Aserbaidschan,#Global,10067108.0,1645,1139,21,485
 2020-04-27,Australien,#Global,25677680.0,6714,5541,83,1090
 2020-04-27,Bahamas,#Global,385340.0,80,22,11,47
 2020-04-27,Bahrain,#Global,1543300.0,2647,1189,8,1450
-2020-04-27,Bangladesch,#Global,168439432.0,5416,122,145,5149
+2020-04-27,Bangladesch,#Global,168439432.0,5913,131,152,5630
 2020-04-27,Barbados,#Global,287025.0,79,39,6,34
-2020-04-27,Belarus,#Global,9408400.0,10463,1695,72,8696
-2020-04-27,Belgien,#Global,11524454.0,46134,10785,7094,28255
+2020-04-27,Belarus,#Global,9408400.0,11289,1740,75,9474
+2020-04-27,Belgien,#Global,11524454.0,46687,10878,7207,28602
 2020-04-27,Belize,#Global,408487.0,18,5,2,11
 2020-04-27,Benin,#Global,11733059.0,64,33,1,30
 2020-04-27,Bhutan,#Global,741672.0,7,4,0,3
@@ -36299,32 +36299,32 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Bosnien und Herzegowina,#Global,3301000.0,1516,624,59,833
 2020-04-27,Botswana,#Global,2338851.0,22,0,1,21
 2020-04-27,Brasilien,#Global,211389669.0,63100,30152,4286,28662
-2020-04-27,Brunei,#Global,442400.0,138,123,1,14
-2020-04-27,Bulgarien,#Global,7000039.0,1300,205,56,1039
+2020-04-27,Brunei,#Global,442400.0,138,124,1,13
+2020-04-27,Bulgarien,#Global,7000039.0,1348,206,56,1086
 2020-04-27,Burkina Faso,#Global,20870060.0,632,453,42,137
 2020-04-27,Burundi,#Global,10953317.0,11,4,1,6
 2020-04-27,Chile,#Global,19107216.0,13331,7024,189,6118
-2020-04-27,China,#Global,1386800000.0,82830,77474,4633,723
+2020-04-27,China,#Global,1386800000.0,82830,77487,4633,710
 2020-04-27,Costa Rica,#Global,5058007.0,695,264,6,425
-2020-04-27,Demokratische Republik Kongo,#Global,89561404.0,442,50,28,364
-2020-04-27,Deutschland,#Global,83149300.0,157770,114500,5976,37294
+2020-04-27,Demokratische Republik Kongo,#Global,89561404.0,459,50,28,381
+2020-04-27,Deutschland,#Global,83149300.0,157781,114500,5976,37305
 2020-04-27,Dominica,#Global,71808.0,16,13,0,3
 2020-04-27,Dominikanische Republik,#Global,10358320.0,6135,910,278,4947
 2020-04-27,Dschibuti,#Global,1078373.0,1023,411,2,610
-2020-04-27,Dänemark,#Global,5822763.0,8575,5805,422,2348
+2020-04-27,Dänemark,#Global,5822763.0,8698,5805,422,2471
 2020-04-27,Ecuador,#Global,16800000.0,22719,1366,576,20777
-2020-04-27,El Salvador,#Global,6486201.0,298,83,8,207
+2020-04-27,El Salvador,#Global,6486201.0,323,89,8,226
 2020-04-27,Elfenbeinküste,#Global,25823071.0,1150,468,14,668
 2020-04-27,Eritrea,#Global,3497117.0,39,13,0,26
-2020-04-27,Estland,#Global,1328360.0,1643,233,49,1361
+2020-04-27,Estland,#Global,1328360.0,1647,233,50,1364
 2020-04-27,Eswatini,#Global,1136191.0,59,10,1,48
 2020-04-27,Falklandinseln (Malwinen),#Global,3198.0,13,11,0,2
 2020-04-27,Fidschi,#Global,884887.0,18,12,0,6
-2020-04-27,Finnland,#Global,5527573.0,4576,2500,190,1886
+2020-04-27,Finnland,#Global,5527573.0,4695,2500,190,2005
 2020-04-27,Frankreich,#Global,67076000.0,124575,44903,22856,56816
 2020-04-27,Gabon,#Global,2172579.0,176,30,3,143
 2020-04-27,Gambia,#Global,2347706.0,10,8,1,1
-2020-04-27,Georgien,#Global,3723464.0,486,149,6,331
+2020-04-27,Georgien,#Global,3723464.0,496,149,6,341
 2020-04-27,Ghana,#Global,30280811.0,1550,155,11,1384
 2020-04-27,Grenada,#Global,112003.0,18,7,0,11
 2020-04-27,Griechenland,#Global,10724599.0,2517,577,134,1806
@@ -36336,12 +36336,12 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Haiti,#Global,11577779.0,74,7,6,61
 2020-04-27,Honduras,#Global,9158345.0,661,79,61,521
 2020-04-27,Indien,#Global,1361020116.0,27977,6523,884,20570
-2020-04-27,Indonesien,#Global,266911900.0,8882,1107,743,7032
+2020-04-27,Indonesien,#Global,266911900.0,9096,1151,765,7180
 2020-04-27,Irak,#Global,39127900.0,1820,1263,87,470
-2020-04-27,Iran,#Global,83363802.0,90481,69657,5710,15114
+2020-04-27,Iran,#Global,83363802.0,91472,70933,5806,14733
 2020-04-27,Irland,#Global,4921500.0,19262,9233,1087,8942
 2020-04-27,Island,#Global,364260.0,1792,1608,10,174
-2020-04-27,Israel,#Global,9185400.0,15443,6731,201,8511
+2020-04-27,Israel,#Global,9185400.0,15466,6796,202,8468
 2020-04-27,Italien,#Global,60238522.0,197675,64928,26644,106103
 2020-04-27,Jamaika,#Global,2726667.0,350,28,7,315
 2020-04-27,Japan,#Global,125950000.0,13441,1809,372,11260
@@ -36351,18 +36351,18 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Kamerun,#Global,26545864.0,1621,786,56,779
 2020-04-27,Kanada,#Global,37993130.0,47147,16883,2662,27602
 2020-04-27,Kap Verde,#Global,550483.0,106,1,1,104
-2020-04-27,Kasachstan,#Global,18681864.0,2717,682,25,2010
-2020-04-27,Katar,#Global,2747282.0,10287,1012,10,9265
-2020-04-27,Kenia,#Global,47564296.0,355,106,14,235
+2020-04-27,Kasachstan,#Global,18681864.0,2791,682,25,2084
+2020-04-27,Katar,#Global,2747282.0,11244,1066,10,10168
+2020-04-27,Kenia,#Global,47564296.0,363,114,14,235
 2020-04-27,Kirgisistan,#Global,6533500.0,695,395,8,292
 2020-04-27,Kolumbien,#Global,49395678.0,5379,1133,244,4002
 2020-04-27,Kosovo,#Global,1795666.0,510,93,12,405
 2020-04-27,Kroatien,#Global,4076246.0,2030,1103,55,872
 2020-04-27,Kuba,#Global,11209628.0,1369,501,54,814
-2020-04-27,Kuwait,#Global,4420110.0,3075,806,20,2249
+2020-04-27,Kuwait,#Global,4420110.0,3288,1012,22,2254
 2020-04-27,Laos,#Global,7123205.0,19,7,0,12
-2020-04-27,Lettland,#Global,1906800.0,812,267,12,533
-2020-04-27,Libanon,#Global,6825442.0,707,145,24,538
+2020-04-27,Lettland,#Global,1906800.0,818,267,13,538
+2020-04-27,Libanon,#Global,6825442.0,710,145,24,541
 2020-04-27,Liberia,#Global,4475353.0,124,25,12,87
 2020-04-27,Libyen,#Global,6871287.0,61,18,2,41
 2020-04-27,Liechtenstein,#Global,38749.0,82,55,1,26
@@ -36370,15 +36370,15 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Luxemburg,#Global,626108.0,3723,3104,88,531
 2020-04-27,Madagaskar,#Global,26251309.0,124,71,0,53
 2020-04-27,Malawi,#Global,18600000.0,34,4,3,27
-2020-04-27,Malaysia,#Global,32749760.0,5780,3862,98,1820
+2020-04-27,Malaysia,#Global,32749760.0,5820,3957,99,1764
 2020-04-27,Malediven,#Global,374775.0,214,17,0,197
 2020-04-27,Mali,#Global,20250833.0,389,112,23,254
-2020-04-27,Malta,#Global,493559.0,448,282,4,162
-2020-04-27,Marokko,#Global,35868274.0,4065,593,161,3311
+2020-04-27,Malta,#Global,493559.0,450,286,4,160
+2020-04-27,Marokko,#Global,35868274.0,4115,669,161,3285
 2020-04-27,Mauretanien,#Global,4077347.0,7,6,1,0
 2020-04-27,Mauritius,#Global,1300000.0,332,299,9,24
 2020-04-27,Mexiko,#Global,126577691.0,14677,8354,1351,4972
-2020-04-27,Moldawien,#Global,2681735.0,3408,895,96,2417
+2020-04-27,Moldawien,#Global,2681735.0,3408,925,101,2382
 2020-04-27,Monaco,#Global,38300.0,94,42,4,48
 2020-04-27,Mongolei,#Global,3312557.0,38,10,0,28
 2020-04-27,Montenegro,#Global,622359.0,321,153,7,161
@@ -36392,8 +36392,8 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Niger,#Global,22314743.0,696,350,29,317
 2020-04-27,Nigeria,#Global,206139587.0,1273,239,40,994
 2020-04-27,Nordmazedonien,#Global,2077132.0,1386,500,61,825
-2020-04-27,Norwegen,#Global,5367580.0,7527,32,201,7294
-2020-04-27,Oman,#Global,4664790.0,1998,333,10,1655
+2020-04-27,Norwegen,#Global,5367580.0,7527,32,202,7293
+2020-04-27,Oman,#Global,4664790.0,2049,364,10,1675
 2020-04-27,Osttimor,#Global,1387149.0,24,2,0,22
 2020-04-27,Pakistan,#Global,219280520.0,13328,3029,281,10018
 2020-04-27,Palästinensische Autonomiegebiete,#Global,4900000.0,342,83,2,257
@@ -36401,29 +36401,29 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Papua-Neuguinea,#Global,8935000.0,8,0,0,8
 2020-04-27,Paraguay,#Global,7152703.0,228,85,9,134
 2020-04-27,Peru,#Global,32131400.0,27517,8088,728,18701
-2020-04-27,Philippinen,#Global,108539263.0,7579,862,501,6216
-2020-04-27,Polen,#Global,38379000.0,11617,2265,535,8817
+2020-04-27,Philippinen,#Global,108539263.0,7777,932,511,6334
+2020-04-27,Polen,#Global,38379000.0,11761,2466,539,8756
 2020-04-27,Portugal,#Global,10276617.0,23864,1329,903,21632
 2020-04-27,Republik Kongo,#Global,5518092.0,200,19,6,175
 2020-04-27,Ruanda,#Global,12374397.0,191,92,0,99
-2020-04-27,Rumänien,#Global,19405156.0,11036,3054,619,7363
-2020-04-27,Russland,#Global,146745098.0,80949,6767,747,73435
+2020-04-27,Rumänien,#Global,19405156.0,11339,3141,631,7567
+2020-04-27,Russland,#Global,146745098.0,87147,7346,794,79007
 2020-04-27,Sambia,#Global,17885422.0,88,42,3,43
 2020-04-27,San Marino,#Global,33574.0,538,64,41,433
 2020-04-27,Saudiarabien,#Global,34218169.0,17522,2357,139,15026
 2020-04-27,Schweden,#Global,10338368.0,18640,1005,2194,15441
-2020-04-27,Schweiz,#Global,8603900.0,29061,21800,1610,5651
+2020-04-27,Schweiz,#Global,8603900.0,29061,21800,1640,5621
 2020-04-27,Senegal,#Global,16209125.0,671,283,9,379
 2020-04-27,Serbien,#Global,6963764.0,6630,870,125,5635
 2020-04-27,Seychellen,#Global,90000.0,11,6,0,5
 2020-04-27,Sierra Leone,#Global,7901454.0,93,10,4,79
-2020-04-27,Simbabwe,#Global,15159624.0,31,2,4,25
-2020-04-27,Singapur,#Global,5703600.0,13624,1060,12,12552
-2020-04-27,Slowakei,#Global,5456362.0,1379,394,18,967
-2020-04-27,Slowenien,#Global,2094060.0,1396,221,82,1093
+2020-04-27,Simbabwe,#Global,15159624.0,31,5,4,22
+2020-04-27,Singapur,#Global,5703600.0,14423,1060,12,13351
+2020-04-27,Slowakei,#Global,5456362.0,1381,403,18,960
+2020-04-27,Slowenien,#Global,2094060.0,1402,221,83,1098
 2020-04-27,Somalia,#Global,15893219.0,436,10,23,403
-2020-04-27,Spanien,#Global,47100396.0,226629,117727,23190,85712
-2020-04-27,Sri Lanka,#Global,21803000.0,523,120,7,396
+2020-04-27,Spanien,#Global,47100396.0,236199,127609,23521,85069
+2020-04-27,Sri Lanka,#Global,21803000.0,567,126,7,434
 2020-04-27,St. Kitts und Nevis,#Global,52823.0,15,2,0,13
 2020-04-27,St. Lucia,#Global,178696.0,15,15,0,0
 2020-04-27,St. Vincent und die Grenadinen,#Global,110608.0,14,5,0,9
@@ -36434,21 +36434,21 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Südafrika,#Global,58775022.0,4546,1473,87,2986
 2020-04-27,Südkorea,#Global,51780579.0,10738,8764,243,1731
 2020-04-27,Südsudan,#Global,12778250.0,6,0,0,6
-2020-04-27,Taiwan,#Global,23604265.0,429,281,6,142
+2020-04-27,Taiwan,#Global,23604265.0,429,290,6,133
 2020-04-27,Tansania,#Global,55890747.0,299,48,10,241
-2020-04-27,Thailand,#Global,66493255.0,2922,2594,51,277
+2020-04-27,Thailand,#Global,66493255.0,2931,2609,52,270
 2020-04-27,Togo,#Global,7538000.0,98,62,6,30
 2020-04-27,Trinidad und Tobago,#Global,1363985.0,116,58,8,50
 2020-04-27,Tschad,#Global,16244513.0,46,15,0,31
-2020-04-27,Tschechien,#Global,10693939.0,7404,2545,220,4639
+2020-04-27,Tschechien,#Global,10693939.0,7408,2600,221,4587
 2020-04-27,Tunesien,#Global,11722038.0,949,216,38,695
 2020-04-27,Türkei,#Global,83154997.0,110130,29140,2805,78185
-2020-04-27,USA,#Global,329624709.0,964175,107045,54778,802352
+2020-04-27,USA,#Global,329624709.0,964198,107045,54779,802374
 2020-04-27,Uganda,#Global,40299300.0,79,46,0,33
-2020-04-27,Ukraine,#Global,41879904.0,8617,840,209,7568
+2020-04-27,Ukraine,#Global,41879904.0,9009,864,220,7925
 2020-04-27,Ungarn,#Global,9772756.0,2583,498,280,1805
 2020-04-27,Uruguay,#Global,3518552.0,606,375,15,216
-2020-04-27,Usbekistan,#Global,34126048.0,1869,789,8,1072
+2020-04-27,Usbekistan,#Global,34126048.0,1887,826,8,1053
 2020-04-27,Vatikan,#Global,799.0,9,2,0,7
 2020-04-27,Venezuela,#Global,32219521.0,325,137,10,178
 2020-04-27,Vereinigte Arabische Emirate,#Global,9890400.0,10349,1978,76,8295
@@ -36458,8 +36458,8 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Zypern,#Global,875900.0,817,148,14,655
 2020-04-27,Ägypten,#Global,100247225.0,4534,1176,317,3041
 2020-04-27,Äquatorialguinea,#Global,1358276.0,258,8,1,249
-2020-04-27,Äthiopien,#Global,98665000.0,123,41,3,79
-2020-04-27,Österreich,#Global,8902600.0,15225,12282,542,2401
+2020-04-27,Äthiopien,#Global,98665000.0,124,50,3,71
+2020-04-27,Österreich,#Global,8902600.0,15274,12362,549,2363
 2020-04-27,Australisches Hauptstadtterritorium,Australien,358894.0,106,99,3,4
 2020-04-27,New South Wales,Australien,7238819.0,3002,2208,34,760
 2020-04-27,Northern Territory,Australien,229675.0,28,23,0,5
@@ -36609,7 +36609,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Wunsiedel i.Fichtelgebirge (Kreis),Bayern,73178.0,608,515,33,60
 2020-04-27,Würzburg,Bayern,127880.0,463,94,49,320
 2020-04-27,Würzburg (Kreis),Bayern,161834.0,401,210,6,185
-2020-04-27,weitere Fälle in Bayern,Bayern,,0,4132,0,-4132
+2020-04-27,weitere Fälle in Bayern,Bayern,,0,4132,8,-4140
 2020-04-27,Charlottenburg-Wilmersdorf,Berlin,342332.0,659,546,15,98
 2020-04-27,Friedrichshain-Kreuzberg,Berlin,289762.0,452,399,4,49
 2020-04-27,Lichtenberg,Berlin,291452.0,219,168,5,46
@@ -36673,7 +36673,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Qinghai,China,5626722.0,18,18,0,0
 2020-04-27,Shaanxi,China,37327378.0,286,253,3,30
 2020-04-27,Shandong,China,95793065.0,787,768,7,12
-2020-04-27,Shanghai,China,23019148.0,642,568,7,67
+2020-04-27,Shanghai,China,23019148.0,642,581,7,54
 2020-04-27,Shanxi,China,35712111.0,197,157,0,40
 2020-04-27,Sichuan,China,80418200.0,561,558,3,0
 2020-04-27,Tianjin,China,12938224.0,190,182,3,5
@@ -36682,25 +36682,25 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Yunnan,China,45966239.0,185,181,2,2
 2020-04-27,Zhejiang,China,54426891.0,1268,1258,1,9
 2020-04-27,Baden-Württemberg,Deutschland,10880000.0,31017,20701,1249,9067
-2020-04-27,Bayern,Deutschland,12844000.0,41295,28300,1613,11382
+2020-04-27,Bayern,Deutschland,12844000.0,41295,28300,1621,11374
 2020-04-27,Berlin,Deutschland,3520000.0,5644,4587,125,932
 2020-04-27,Brandenburg,Deutschland,2485000.0,2780,1820,128,832
 2020-04-27,Bremen,Deutschland,671000.0,754,375,27,352
-2020-04-27,Hamburg,Deutschland,1787000.0,4636,3200,140,1296
-2020-04-27,Hessen,Deutschland,6176000.0,8257,5100,325,2832
-2020-04-27,Mecklenburg-Vorpommern,Deutschland,1612000.0,673,544,16,113
+2020-04-27,Hamburg,Deutschland,1787000.0,4636,3200,142,1294
+2020-04-27,Hessen,Deutschland,6176000.0,8257,5800,325,2132
+2020-04-27,Mecklenburg-Vorpommern,Deutschland,1612000.0,674,544,16,114
 2020-04-27,Niedersachsen,Deutschland,7927000.0,9909,6961,397,2551
-2020-04-27,Nordrhein-Westfalen,Deutschland,17866000.0,31669,21883,1096,8690
-2020-04-27,Rheinland-Pfalz,Deutschland,4053000.0,5873,4385,149,1339
+2020-04-27,Nordrhein-Westfalen,Deutschland,17866000.0,31879,21883,1131,8865
+2020-04-27,Rheinland-Pfalz,Deutschland,4053000.0,5879,4385,152,1342
 2020-04-27,Saarland,Deutschland,996000.0,2512,1503,124,885
 2020-04-27,Sachsen,Deutschland,4085000.0,4541,3570,147,824
 2020-04-27,Sachsen-Anhalt,Deutschland,2245000.0,1516,1060,36,420
-2020-04-27,Schleswig-Holstein,Deutschland,2859000.0,2630,1900,96,634
-2020-04-27,Thüringen,Deutschland,2171000.0,2098,1490,73,535
-2020-04-27,weitere Fälle bundesweit,Deutschland,,1966,7121,235,-5390
+2020-04-27,Schleswig-Holstein,Deutschland,2859000.0,2638,1900,98,640
+2020-04-27,Thüringen,Deutschland,2171000.0,2120,1490,74,556
+2020-04-27,weitere Fälle bundesweit,Deutschland,,1730,6421,184,-4875
 2020-04-27,Färöer,Dänemark,52124.0,187,178,0,9
 2020-04-27,Grönland,Dänemark,56081.0,11,11,0,0
-2020-04-27,Französisch Polynesien,Frankreich,275918.0,57,41,0,16
+2020-04-27,Französisch Polynesien,Frankreich,275918.0,57,43,0,14
 2020-04-27,Französisch-Guyana,Frankreich,290691.0,111,87,1,23
 2020-04-27,Guadeloupe,Frankreich,390253.0,149,82,12,55
 2020-04-27,Martinique,Frankreich,19129952.0,175,77,14,84
@@ -36710,7 +36710,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Saint Barthélemy,Frankreich,9793.0,6,6,0,0
 2020-04-27,Saint Martin,Frankreich,35746.0,38,24,3,11
 2020-04-27,Saint-Pierre und Miquelon,Frankreich,6008.0,1,0,0,1
-2020-04-27,Anguilla,Großbritannien,14869.0,3,1,0,2
+2020-04-27,Anguilla,Großbritannien,14869.0,3,3,0,0
 2020-04-27,Bermuda,Großbritannien,64027.0,109,39,6,64
 2020-04-27,Britische Jungferninseln,Großbritannien,30030.0,6,3,1,2
 2020-04-27,Cayman-Inseln,Großbritannien,65813.0,70,8,1,61
@@ -36732,7 +36732,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Kassel (Kreis),Hessen,236633.0,317,123,20,174
 2020-04-27,Lahn-Dill-Kreis,Hessen,253777.0,352,243,14,95
 2020-04-27,Limburg-Weilburg (Kreis),Hessen,172083.0,276,196,3,77
-2020-04-27,Main-Kinzig-Kreis,Hessen,41895.0,553,140,28,385
+2020-04-27,Main-Kinzig-Kreis,Hessen,418950.0,553,140,28,385
 2020-04-27,Main-Taunus-Kreis,Hessen,237735.0,248,179,5,64
 2020-04-27,Marburg-Biedenkopf (Kreis),Hessen,246648.0,196,159,2,35
 2020-04-27,Odenwaldkreis,Hessen,96798.0,343,145,46,152
@@ -36743,9 +36743,9 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Vogelsbergkreis,Hessen,105878.0,119,83,5,31
 2020-04-27,Waldeck-Frankenberg (Kreis),Hessen,156953.0,143,130,3,10
 2020-04-27,Werra-Meißner-Kreis,Hessen,101017.0,175,48,10,117
-2020-04-27,Wetteraukreis,Hessen,30646.0,260,149,11,100
+2020-04-27,Wetteraukreis,Hessen,306460.0,260,149,11,100
 2020-04-27,Wiesbaden,Hessen,278342.0,301,222,10,69
-2020-04-27,weitere Fälle in Hessen,Hessen,,0,1247,0,-1247
+2020-04-27,weitere Fälle in Hessen,Hessen,,0,1947,0,-1947
 2020-04-27,Kreuzfahrtschiff 'Diamond Princess',International,,761,645,14,102
 2020-04-27,Kreuzfahrtschiff 'Diamond Princess',International,,712,645,13,54
 2020-04-27,Kreuzfahrtschiff 'Grand Princess',International,,103,0,3,100
@@ -36771,7 +36771,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Schwerin,Mecklenburg-Vorpommern,95818.0,89,78,0,11
 2020-04-27,Vorpommern-Greifswald (Kreis),Mecklenburg-Vorpommern,236697.0,128,56,4,68
 2020-04-27,Vorpommern-Rügen (Kreis),Mecklenburg-Vorpommern,224684.0,76,61,2,13
-2020-04-27,weitere Fälle in Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,,1,155,1,-155
+2020-04-27,weitere Fälle in Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,,2,155,1,-154
 2020-04-27,Aruba,Niederlande,112309.0,100,73,2,25
 2020-04-27,"Bonaire, Sint Eustatius und Saba",Niederlande,24547.0,5,0,0,5
 2020-04-27,Curaçao,Niederlande,158665.0,16,11,1,4
@@ -36864,7 +36864,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Remscheid,Nordrhein-Westfalen,110994.0,210,167,12,31
 2020-04-27,Rhein-Erft-Kreis,Nordrhein-Westfalen,470089.0,940,511,55,374
 2020-04-27,Rhein-Kreis Neuss,Nordrhein-Westfalen,451007.0,573,476,18,79
-2020-04-27,Rhein-Sieg-Kreis,Nordrhein-Westfalen,59978.0,1121,831,26,264
+2020-04-27,Rhein-Sieg-Kreis,Nordrhein-Westfalen,599780.0,1121,831,26,264
 2020-04-27,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,283455.0,406,301,14,91
 2020-04-27,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,278210.0,262,0,8,254
 2020-04-27,Soest (Kreis),Nordrhein-Westfalen,301902.0,336,277,4,55
@@ -36875,7 +36875,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Warendorf (Kreis),Nordrhein-Westfalen,277783.0,449,347,10,92
 2020-04-27,Wesel (Kreis),Nordrhein-Westfalen,459809.0,490,329,19,142
 2020-04-27,Wuppertal,Nordrhein-Westfalen,354382.0,768,379,45,344
-2020-04-27,weitere Fälle in Nordrhein-Westfalen,Nordrhein-Westfalen,,12,300,0,-288
+2020-04-27,weitere Fälle in Nordrhein-Westfalen,Nordrhein-Westfalen,,222,300,35,-113
 2020-04-27,Ahrweiler (Kreis),Rheinland-Pfalz,129727.0,112,103,1,8
 2020-04-27,Altenkirchen (Kreis),Rheinland-Pfalz,128705.0,140,77,8,55
 2020-04-27,Alzey-Worms (Kreis),Rheinland-Pfalz,129244.0,191,112,3,76
@@ -36912,7 +36912,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Westerwaldkreis,Rheinland-Pfalz,201597.0,325,234,20,71
 2020-04-27,Worms,Rheinland-Pfalz,83330.0,173,126,7,40
 2020-04-27,Zweibrücken,Rheinland-Pfalz,34209.0,35,27,0,8
-2020-04-27,weitere Fälle in Rheinland-Pfalz,Rheinland-Pfalz,,0,0,0,0
+2020-04-27,weitere Fälle in Rheinland-Pfalz,Rheinland-Pfalz,,6,0,3,3
 2020-04-27,Merzig-Wadern,Saarland,103366.0,190,91,2,97
 2020-04-27,Neunkirchen,Saarland,132206.0,227,108,4,115
 2020-04-27,Saarbrücken,Saarland,329708.0,1119,536,72,511
@@ -36949,22 +36949,22 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Stendal (Kreis),Sachsen-Anhalt,111982.0,97,56,6,35
 2020-04-27,Wittenberg (Kreis),Sachsen-Anhalt,125840.0,153,74,3,76
 2020-04-27,weitere Fälle in Sachsen-Anhalt,Sachsen-Anhalt,,0,280,0,-280
-2020-04-27,Dithmarschen (Kreis),Schleswig-Holstein,133210.0,54,43,3,8
+2020-04-27,Dithmarschen (Kreis),Schleswig-Holstein,133210.0,54,46,3,5
 2020-04-27,Flensburg,Schleswig-Holstein,89504.0,33,28,2,3
-2020-04-27,Herzogtum Lauenburg (Kreis),Schleswig-Holstein,197264.0,253,183,8,62
-2020-04-27,Kiel,Schleswig-Holstein,247548.0,244,150,7,87
-2020-04-27,Lübeck,Schleswig-Holstein,217198.0,155,133,1,21
-2020-04-27,Neumünster,Schleswig-Holstein,79487.0,62,26,1,35
-2020-04-27,Nordfriesland (Kreis),Schleswig-Holstein,165507.0,75,54,1,20
-2020-04-27,Ostholstein (Kreis),Schleswig-Holstein,200581.0,60,54,0,6
-2020-04-27,Pinneberg (Kreis),Schleswig-Holstein,314391.0,503,279,20,204
-2020-04-27,Plön (Kreis),Schleswig-Holstein,128647.0,112,13,4,95
-2020-04-27,Rendsburg-Eckernförde (Kreis),Schleswig-Holstein,272775.0,224,157,14,53
-2020-04-27,Schleswig-Flensburg (Kreis),Schleswig-Holstein,200025.0,122,78,3,41
-2020-04-27,Segeberg (Kreis),Schleswig-Holstein,276032.0,207,169,3,35
-2020-04-27,Steinburg (Kreis),Schleswig-Holstein,131347.0,83,51,3,29
-2020-04-27,Stormarn (Kreis),Schleswig-Holstein,243196.0,370,135,18,217
-2020-04-27,weitere Fälle in Schleswig-Holstein,Schleswig-Holstein,,73,347,8,-282
+2020-04-27,Herzogtum Lauenburg (Kreis),Schleswig-Holstein,197264.0,255,188,8,59
+2020-04-27,Kiel,Schleswig-Holstein,247548.0,252,156,7,89
+2020-04-27,Lübeck,Schleswig-Holstein,217198.0,156,141,1,14
+2020-04-27,Neumünster,Schleswig-Holstein,79487.0,62,35,1,26
+2020-04-27,Nordfriesland (Kreis),Schleswig-Holstein,165507.0,77,59,1,17
+2020-04-27,Ostholstein (Kreis),Schleswig-Holstein,200581.0,64,59,0,5
+2020-04-27,Pinneberg (Kreis),Schleswig-Holstein,314391.0,530,285,28,217
+2020-04-27,Plön (Kreis),Schleswig-Holstein,128647.0,115,13,5,97
+2020-04-27,Rendsburg-Eckernförde (Kreis),Schleswig-Holstein,272775.0,230,164,14,52
+2020-04-27,Schleswig-Flensburg (Kreis),Schleswig-Holstein,200025.0,124,88,3,33
+2020-04-27,Segeberg (Kreis),Schleswig-Holstein,276032.0,214,179,3,32
+2020-04-27,Steinburg (Kreis),Schleswig-Holstein,131347.0,82,51,3,28
+2020-04-27,Stormarn (Kreis),Schleswig-Holstein,243196.0,390,182,19,189
+2020-04-27,weitere Fälle in Schleswig-Holstein,Schleswig-Holstein,,0,226,0,-226
 2020-04-27,Altenburger Land (Kreis),Thüringen,90118.0,47,29,3,15
 2020-04-27,Eichsfeld (Kreis),Thüringen,100380.0,115,64,3,48
 2020-04-27,Eisenach,Thüringen,42370.0,16,12,1,3
@@ -36988,14 +36988,14 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Wartburgkreis,Thüringen,119726.0,38,25,0,13
 2020-04-27,Weimar,Thüringen,65090.0,61,48,0,13
 2020-04-27,Weimarer Land (Kreis),Thüringen,81947.0,67,32,4,31
-2020-04-27,weitere Fälle in Thüringen,Thüringen,,0,383,1,-384
+2020-04-27,weitere Fälle in Thüringen,Thüringen,,22,383,2,-363
 2020-04-27,Alabama,USA,4779736.0,6421,0,219,6202
 2020-04-27,Alaska,USA,710231.0,340,0,9,331
 2020-04-27,Amerikanische Jungferninseln,USA,104578.0,57,0,4,53
 2020-04-27,Arizona,USA,6392017.0,6534,0,275,6259
 2020-04-27,Arkansas,USA,2915918.0,3001,0,50,2951
-2020-04-27,California,USA,37253956.0,43717,0,1723,41994
-2020-04-27,Colorado,USA,5029196.0,13441,0,688,12753
+2020-04-27,California,USA,37253956.0,43720,0,1723,41997
+2020-04-27,Colorado,USA,5029196.0,13441,0,687,12754
 2020-04-27,Connecticut,USA,3574097.0,25269,0,1924,23345
 2020-04-27,Delaware,USA,897934.0,4034,0,120,3914
 2020-04-27,District of Columbia,USA,601723.0,3841,0,178,3663
@@ -37017,7 +37017,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-04-27,Michigan,USA,9883640.0,37778,0,3315,34463
 2020-04-27,Minnesota,USA,5303925.0,3602,0,272,3330
 2020-04-27,Mississippi,USA,2967297.0,5911,0,227,5684
-2020-04-27,Missouri,USA,5988927.0,7100,0,281,6819
+2020-04-27,Missouri,USA,5988927.0,7120,0,283,6837
 2020-04-27,Montana,USA,989415.0,448,0,14,434
 2020-04-27,Nebraska,USA,1826341.0,3028,0,56,2972
 2020-04-27,Nevada,USA,2700551.0,4734,0,206,4528
