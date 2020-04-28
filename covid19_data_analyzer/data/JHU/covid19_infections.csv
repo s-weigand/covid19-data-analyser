@@ -13116,7 +13116,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-13,Malta,#Global,12.0,0.0,1.0,11.0
 2020-03-13,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Mauritius,#Global,0.0,0.0,0.0,0.0
-2020-03-13,Mexico,#Global,12.0,0.0,4.0,8.0
+2020-03-13,Mexico,#Global,26.0,0.0,4.0,22.0
 2020-03-13,Moldova,#Global,6.0,0.0,0.0,6.0
 2020-03-13,Monaco,#Global,2.0,0.0,0.0,2.0
 2020-03-13,Mongolia,#Global,1.0,0.0,0.0,1.0
@@ -13371,7 +13371,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-14,Malta,#Global,18.0,0.0,1.0,17.0
 2020-03-14,Mauritania,#Global,1.0,0.0,0.0,1.0
 2020-03-14,Mauritius,#Global,0.0,0.0,0.0,0.0
-2020-03-14,Mexico,#Global,26.0,0.0,4.0,22.0
+2020-03-14,Mexico,#Global,41.0,0.0,4.0,37.0
 2020-03-14,Moldova,#Global,12.0,0.0,0.0,12.0
 2020-03-14,Monaco,#Global,2.0,0.0,0.0,2.0
 2020-03-14,Mongolia,#Global,1.0,0.0,0.0,1.0
@@ -13626,7 +13626,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-15,Malta,#Global,21.0,0.0,1.0,20.0
 2020-03-15,Mauritania,#Global,1.0,0.0,0.0,1.0
 2020-03-15,Mauritius,#Global,0.0,0.0,0.0,0.0
-2020-03-15,Mexico,#Global,41.0,0.0,4.0,37.0
+2020-03-15,Mexico,#Global,53.0,0.0,4.0,49.0
 2020-03-15,Moldova,#Global,23.0,0.0,0.0,23.0
 2020-03-15,Monaco,#Global,2.0,0.0,0.0,2.0
 2020-03-15,Mongolia,#Global,1.0,0.0,0.0,1.0
@@ -13881,7 +13881,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-16,Malta,#Global,30.0,0.0,2.0,28.0
 2020-03-16,Mauritania,#Global,1.0,0.0,0.0,1.0
 2020-03-16,Mauritius,#Global,0.0,0.0,0.0,0.0
-2020-03-16,Mexico,#Global,53.0,0.0,4.0,49.0
+2020-03-16,Mexico,#Global,82.0,0.0,4.0,78.0
 2020-03-16,Moldova,#Global,23.0,0.0,0.0,23.0
 2020-03-16,Monaco,#Global,7.0,0.0,0.0,7.0
 2020-03-16,Mongolia,#Global,1.0,0.0,0.0,1.0
@@ -14136,7 +14136,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-17,Malta,#Global,38.0,0.0,2.0,36.0
 2020-03-17,Mauritania,#Global,1.0,0.0,0.0,1.0
 2020-03-17,Mauritius,#Global,0.0,0.0,0.0,0.0
-2020-03-17,Mexico,#Global,82.0,0.0,4.0,78.0
+2020-03-17,Mexico,#Global,93.0,0.0,4.0,89.0
 2020-03-17,Moldova,#Global,30.0,0.0,1.0,29.0
 2020-03-17,Monaco,#Global,7.0,0.0,0.0,7.0
 2020-03-17,Mongolia,#Global,5.0,0.0,0.0,5.0
@@ -14391,7 +14391,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-18,Malta,#Global,38.0,0.0,2.0,36.0
 2020-03-18,Mauritania,#Global,1.0,0.0,0.0,1.0
 2020-03-18,Mauritius,#Global,3.0,0.0,0.0,3.0
-2020-03-18,Mexico,#Global,93.0,0.0,4.0,89.0
+2020-03-18,Mexico,#Global,118.0,0.0,4.0,114.0
 2020-03-18,Moldova,#Global,30.0,1.0,1.0,28.0
 2020-03-18,Monaco,#Global,7.0,0.0,0.0,7.0
 2020-03-18,Mongolia,#Global,6.0,0.0,0.0,6.0
@@ -14646,7 +14646,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-19,Malta,#Global,53.0,0.0,2.0,51.0
 2020-03-19,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-19,Mauritius,#Global,3.0,0.0,0.0,3.0
-2020-03-19,Mexico,#Global,118.0,1.0,4.0,113.0
+2020-03-19,Mexico,#Global,164.0,1.0,4.0,159.0
 2020-03-19,Moldova,#Global,49.0,1.0,1.0,47.0
 2020-03-19,Monaco,#Global,7.0,0.0,0.0,7.0
 2020-03-19,Mongolia,#Global,6.0,0.0,0.0,6.0
@@ -14901,7 +14901,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-20,Malta,#Global,64.0,0.0,2.0,62.0
 2020-03-20,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-20,Mauritius,#Global,12.0,0.0,0.0,12.0
-2020-03-20,Mexico,#Global,164.0,1.0,4.0,159.0
+2020-03-20,Mexico,#Global,203.0,2.0,4.0,197.0
 2020-03-20,Moldova,#Global,66.0,1.0,1.0,64.0
 2020-03-20,Monaco,#Global,11.0,0.0,0.0,11.0
 2020-03-20,Mongolia,#Global,6.0,0.0,0.0,6.0
@@ -15156,7 +15156,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-21,Malta,#Global,73.0,0.0,2.0,71.0
 2020-03-21,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-21,Mauritius,#Global,14.0,1.0,0.0,13.0
-2020-03-21,Mexico,#Global,203.0,2.0,4.0,197.0
+2020-03-21,Mexico,#Global,251.0,2.0,4.0,245.0
 2020-03-21,Moldova,#Global,80.0,1.0,1.0,78.0
 2020-03-21,Monaco,#Global,11.0,0.0,0.0,11.0
 2020-03-21,Mongolia,#Global,10.0,0.0,0.0,10.0
@@ -15411,7 +15411,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-22,Malta,#Global,90.0,0.0,2.0,88.0
 2020-03-22,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-22,Mauritius,#Global,28.0,2.0,0.0,26.0
-2020-03-22,Mexico,#Global,251.0,2.0,4.0,245.0
+2020-03-22,Mexico,#Global,316.0,3.0,4.0,309.0
 2020-03-22,Moldova,#Global,94.0,1.0,1.0,92.0
 2020-03-22,Monaco,#Global,23.0,0.0,1.0,22.0
 2020-03-22,Mongolia,#Global,10.0,0.0,0.0,10.0
@@ -15666,7 +15666,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-23,Malta,#Global,107.0,0.0,2.0,105.0
 2020-03-23,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-23,Mauritius,#Global,36.0,2.0,0.0,34.0
-2020-03-23,Mexico,#Global,316.0,3.0,4.0,309.0
+2020-03-23,Mexico,#Global,367.0,4.0,4.0,359.0
 2020-03-23,Moldova,#Global,109.0,1.0,1.0,107.0
 2020-03-23,Monaco,#Global,23.0,0.0,1.0,22.0
 2020-03-23,Mongolia,#Global,10.0,0.0,0.0,10.0
@@ -15921,7 +15921,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-24,Malta,#Global,110.0,0.0,2.0,108.0
 2020-03-24,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-24,Mauritius,#Global,42.0,2.0,0.0,40.0
-2020-03-24,Mexico,#Global,367.0,4.0,4.0,359.0
+2020-03-24,Mexico,#Global,405.0,5.0,4.0,396.0
 2020-03-24,Moldova,#Global,125.0,1.0,2.0,122.0
 2020-03-24,Monaco,#Global,23.0,0.0,1.0,22.0
 2020-03-24,Mongolia,#Global,10.0,0.0,0.0,10.0
@@ -16176,7 +16176,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-25,Malta,#Global,129.0,0.0,2.0,127.0
 2020-03-25,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-25,Mauritius,#Global,48.0,2.0,0.0,46.0
-2020-03-25,Mexico,#Global,405.0,5.0,4.0,396.0
+2020-03-25,Mexico,#Global,475.0,6.0,4.0,465.0
 2020-03-25,Moldova,#Global,149.0,1.0,2.0,146.0
 2020-03-25,Monaco,#Global,31.0,0.0,1.0,30.0
 2020-03-25,Mongolia,#Global,10.0,0.0,0.0,10.0
@@ -16431,7 +16431,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-26,Malta,#Global,134.0,0.0,2.0,132.0
 2020-03-26,Mauritania,#Global,3.0,0.0,0.0,3.0
 2020-03-26,Mauritius,#Global,81.0,2.0,0.0,79.0
-2020-03-26,Mexico,#Global,475.0,6.0,4.0,465.0
+2020-03-26,Mexico,#Global,585.0,8.0,4.0,573.0
 2020-03-26,Moldova,#Global,177.0,1.0,2.0,174.0
 2020-03-26,Monaco,#Global,33.0,0.0,1.0,32.0
 2020-03-26,Mongolia,#Global,11.0,0.0,0.0,11.0
@@ -16686,7 +16686,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-27,Malta,#Global,139.0,0.0,2.0,137.0
 2020-03-27,Mauritania,#Global,3.0,0.0,0.0,3.0
 2020-03-27,Mauritius,#Global,94.0,2.0,0.0,92.0
-2020-03-27,Mexico,#Global,585.0,8.0,4.0,573.0
+2020-03-27,Mexico,#Global,717.0,12.0,4.0,701.0
 2020-03-27,Moldova,#Global,199.0,2.0,2.0,195.0
 2020-03-27,Monaco,#Global,42.0,0.0,1.0,41.0
 2020-03-27,Mongolia,#Global,11.0,0.0,0.0,11.0
@@ -16941,7 +16941,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-28,Malta,#Global,149.0,0.0,2.0,147.0
 2020-03-28,Mauritania,#Global,5.0,0.0,0.0,5.0
 2020-03-28,Mauritius,#Global,102.0,2.0,0.0,100.0
-2020-03-28,Mexico,#Global,717.0,12.0,4.0,701.0
+2020-03-28,Mexico,#Global,848.0,16.0,4.0,828.0
 2020-03-28,Moldova,#Global,231.0,2.0,2.0,227.0
 2020-03-28,Monaco,#Global,42.0,0.0,1.0,41.0
 2020-03-28,Mongolia,#Global,12.0,0.0,0.0,12.0
@@ -17196,7 +17196,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-29,Malta,#Global,151.0,0.0,2.0,149.0
 2020-03-29,Mauritania,#Global,5.0,0.0,2.0,3.0
 2020-03-29,Mauritius,#Global,107.0,3.0,0.0,104.0
-2020-03-29,Mexico,#Global,848.0,16.0,4.0,828.0
+2020-03-29,Mexico,#Global,993.0,20.0,4.0,969.0
 2020-03-29,Moldova,#Global,263.0,2.0,2.0,259.0
 2020-03-29,Monaco,#Global,46.0,1.0,1.0,44.0
 2020-03-29,Mongolia,#Global,12.0,0.0,0.0,12.0
@@ -17451,7 +17451,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-30,Malta,#Global,156.0,0.0,2.0,154.0
 2020-03-30,Mauritania,#Global,5.0,1.0,2.0,2.0
 2020-03-30,Mauritius,#Global,128.0,3.0,0.0,125.0
-2020-03-30,Mexico,#Global,993.0,20.0,35.0,938.0
+2020-03-30,Mexico,#Global,1094.0,28.0,35.0,1031.0
 2020-03-30,Moldova,#Global,298.0,2.0,15.0,281.0
 2020-03-30,Monaco,#Global,49.0,1.0,1.0,47.0
 2020-03-30,Mongolia,#Global,12.0,0.0,2.0,10.0
@@ -17706,7 +17706,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-31,Malta,#Global,169.0,0.0,2.0,167.0
 2020-03-31,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-03-31,Mauritius,#Global,143.0,5.0,0.0,138.0
-2020-03-31,Mexico,#Global,1094.0,28.0,35.0,1031.0
+2020-03-31,Mexico,#Global,1215.0,29.0,35.0,1151.0
 2020-03-31,Moldova,#Global,353.0,4.0,18.0,331.0
 2020-03-31,Monaco,#Global,52.0,1.0,2.0,49.0
 2020-03-31,Mongolia,#Global,12.0,0.0,2.0,10.0
@@ -17961,7 +17961,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-01,Malta,#Global,188.0,0.0,2.0,186.0
 2020-04-01,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-01,Mauritius,#Global,161.0,6.0,0.0,155.0
-2020-04-01,Mexico,#Global,1215.0,29.0,35.0,1151.0
+2020-04-01,Mexico,#Global,1378.0,37.0,35.0,1306.0
 2020-04-01,Moldova,#Global,423.0,5.0,23.0,395.0
 2020-04-01,Monaco,#Global,55.0,1.0,2.0,52.0
 2020-04-01,Mongolia,#Global,14.0,0.0,2.0,12.0
@@ -18216,7 +18216,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-02,Malta,#Global,196.0,0.0,2.0,194.0
 2020-04-02,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-02,Mauritius,#Global,169.0,7.0,0.0,162.0
-2020-04-02,Mexico,#Global,1378.0,37.0,35.0,1306.0
+2020-04-02,Mexico,#Global,1510.0,50.0,35.0,1425.0
 2020-04-02,Moldova,#Global,505.0,6.0,23.0,476.0
 2020-04-02,Monaco,#Global,60.0,1.0,2.0,57.0
 2020-04-02,Mongolia,#Global,14.0,0.0,2.0,12.0
@@ -18471,7 +18471,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-03,Malta,#Global,202.0,0.0,2.0,200.0
 2020-04-03,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-03,Mauritius,#Global,186.0,7.0,0.0,179.0
-2020-04-03,Mexico,#Global,1510.0,50.0,633.0,827.0
+2020-04-03,Mexico,#Global,1688.0,60.0,633.0,995.0
 2020-04-03,Moldova,#Global,591.0,8.0,26.0,557.0
 2020-04-03,Monaco,#Global,64.0,1.0,3.0,60.0
 2020-04-03,Mongolia,#Global,14.0,0.0,2.0,12.0
@@ -18726,7 +18726,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-04,Malta,#Global,213.0,0.0,2.0,211.0
 2020-04-04,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-04,Mauritius,#Global,196.0,7.0,7.0,182.0
-2020-04-04,Mexico,#Global,1688.0,60.0,633.0,995.0
+2020-04-04,Mexico,#Global,1890.0,79.0,633.0,1178.0
 2020-04-04,Moldova,#Global,752.0,12.0,29.0,711.0
 2020-04-04,Monaco,#Global,66.0,1.0,3.0,62.0
 2020-04-04,Mongolia,#Global,14.0,0.0,2.0,12.0
@@ -18981,7 +18981,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-05,Malta,#Global,227.0,0.0,5.0,222.0
 2020-04-05,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-05,Mauritius,#Global,227.0,7.0,7.0,213.0
-2020-04-05,Mexico,#Global,1890.0,79.0,633.0,1178.0
+2020-04-05,Mexico,#Global,2143.0,94.0,633.0,1416.0
 2020-04-05,Moldova,#Global,864.0,15.0,30.0,819.0
 2020-04-05,Monaco,#Global,73.0,1.0,3.0,69.0
 2020-04-05,Mongolia,#Global,14.0,0.0,2.0,12.0
@@ -19236,7 +19236,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-06,Malta,#Global,241.0,0.0,5.0,236.0
 2020-04-06,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-06,Mauritius,#Global,244.0,7.0,7.0,230.0
-2020-04-06,Mexico,#Global,2143.0,94.0,633.0,1416.0
+2020-04-06,Mexico,#Global,2439.0,125.0,633.0,1681.0
 2020-04-06,Moldova,#Global,965.0,19.0,37.0,909.0
 2020-04-06,Monaco,#Global,77.0,1.0,4.0,72.0
 2020-04-06,Mongolia,#Global,15.0,0.0,2.0,13.0
@@ -19491,7 +19491,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-07,Malta,#Global,293.0,0.0,5.0,288.0
 2020-04-07,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-07,Mauritius,#Global,268.0,7.0,8.0,253.0
-2020-04-07,Mexico,#Global,2439.0,125.0,633.0,1681.0
+2020-04-07,Mexico,#Global,2785.0,141.0,633.0,2011.0
 2020-04-07,Moldova,#Global,1056.0,22.0,40.0,994.0
 2020-04-07,Monaco,#Global,79.0,1.0,4.0,74.0
 2020-04-07,Mongolia,#Global,15.0,0.0,4.0,11.0
@@ -19746,7 +19746,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-08,Malta,#Global,299.0,1.0,16.0,282.0
 2020-04-08,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-08,Mauritius,#Global,273.0,7.0,19.0,247.0
-2020-04-08,Mexico,#Global,2785.0,141.0,633.0,2011.0
+2020-04-08,Mexico,#Global,3181.0,174.0,633.0,2374.0
 2020-04-08,Moldova,#Global,1174.0,27.0,40.0,1107.0
 2020-04-08,Monaco,#Global,81.0,1.0,4.0,76.0
 2020-04-08,Mongolia,#Global,16.0,0.0,4.0,12.0
@@ -20001,7 +20001,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-09,Malta,#Global,337.0,2.0,16.0,319.0
 2020-04-09,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-09,Mauritius,#Global,314.0,7.0,23.0,284.0
-2020-04-09,Mexico,#Global,3181.0,174.0,633.0,2374.0
+2020-04-09,Mexico,#Global,3441.0,194.0,633.0,2614.0
 2020-04-09,Moldova,#Global,1289.0,29.0,50.0,1210.0
 2020-04-09,Monaco,#Global,84.0,1.0,5.0,78.0
 2020-04-09,Mongolia,#Global,16.0,0.0,4.0,12.0
@@ -20256,7 +20256,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-10,Malta,#Global,350.0,2.0,16.0,332.0
 2020-04-10,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-10,Mauritius,#Global,318.0,9.0,23.0,286.0
-2020-04-10,Mexico,#Global,3441.0,194.0,633.0,2614.0
+2020-04-10,Mexico,#Global,3844.0,233.0,633.0,2978.0
 2020-04-10,Moldova,#Global,1438.0,29.0,56.0,1353.0
 2020-04-10,Monaco,#Global,90.0,1.0,5.0,84.0
 2020-04-10,Mongolia,#Global,16.0,0.0,4.0,12.0
@@ -20511,7 +20511,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-11,Malta,#Global,370.0,3.0,16.0,351.0
 2020-04-11,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-11,Mauritius,#Global,319.0,9.0,28.0,282.0
-2020-04-11,Mexico,#Global,3844.0,233.0,633.0,2978.0
+2020-04-11,Mexico,#Global,4219.0,273.0,633.0,3313.0
 2020-04-11,Moldova,#Global,1560.0,30.0,75.0,1455.0
 2020-04-11,Monaco,#Global,92.0,1.0,5.0,86.0
 2020-04-11,Mongolia,#Global,16.0,0.0,4.0,12.0
@@ -20766,7 +20766,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-12,Malta,#Global,378.0,3.0,44.0,331.0
 2020-04-12,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-12,Mauritius,#Global,324.0,9.0,42.0,273.0
-2020-04-12,Mexico,#Global,4219.0,273.0,1772.0,2174.0
+2020-04-12,Mexico,#Global,4661.0,296.0,1772.0,2593.0
 2020-04-12,Moldova,#Global,1662.0,31.0,94.0,1537.0
 2020-04-12,Monaco,#Global,93.0,1.0,6.0,86.0
 2020-04-12,Mongolia,#Global,16.0,0.0,4.0,12.0
@@ -21021,7 +21021,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-13,Malta,#Global,384.0,3.0,44.0,337.0
 2020-04-13,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-13,Mauritius,#Global,324.0,9.0,42.0,273.0
-2020-04-13,Mexico,#Global,4661.0,296.0,1843.0,2522.0
+2020-04-13,Mexico,#Global,5014.0,332.0,1843.0,2839.0
 2020-04-13,Moldova,#Global,1712.0,35.0,107.0,1570.0
 2020-04-13,Monaco,#Global,93.0,1.0,6.0,86.0
 2020-04-13,Mongolia,#Global,17.0,0.0,4.0,13.0
@@ -21276,7 +21276,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-14,Malta,#Global,393.0,3.0,44.0,346.0
 2020-04-14,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-14,Mauritius,#Global,324.0,9.0,51.0,264.0
-2020-04-14,Mexico,#Global,5014.0,332.0,1964.0,2718.0
+2020-04-14,Mexico,#Global,5399.0,406.0,1964.0,3029.0
 2020-04-14,Moldova,#Global,1934.0,40.0,134.0,1760.0
 2020-04-14,Monaco,#Global,93.0,1.0,6.0,86.0
 2020-04-14,Mongolia,#Global,30.0,0.0,5.0,25.0
@@ -21531,7 +21531,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,Malta,#Global,399.0,3.0,44.0,352.0
 2020-04-15,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-15,Mauritius,#Global,324.0,9.0,65.0,250.0
-2020-04-15,Mexico,#Global,5399.0,406.0,2125.0,2868.0
+2020-04-15,Mexico,#Global,5847.0,449.0,2125.0,3273.0
 2020-04-15,Moldova,#Global,2049.0,46.0,171.0,1832.0
 2020-04-15,Monaco,#Global,93.0,3.0,12.0,78.0
 2020-04-15,Mongolia,#Global,30.0,0.0,5.0,25.0
@@ -21786,7 +21786,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,Malta,#Global,412.0,3.0,82.0,327.0
 2020-04-16,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-16,Mauritius,#Global,324.0,9.0,81.0,234.0
-2020-04-16,Mexico,#Global,5847.0,449.0,2125.0,3273.0
+2020-04-16,Mexico,#Global,6297.0,486.0,2125.0,3686.0
 2020-04-16,Moldova,#Global,2154.0,54.0,235.0,1865.0
 2020-04-16,Monaco,#Global,93.0,3.0,12.0,78.0
 2020-04-16,Mongolia,#Global,31.0,0.0,5.0,26.0
@@ -22041,7 +22041,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,Malta,#Global,422.0,3.0,91.0,328.0
 2020-04-17,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-17,Mauritius,#Global,324.0,9.0,108.0,207.0
-2020-04-17,Mexico,#Global,6297.0,486.0,2125.0,3686.0
+2020-04-17,Mexico,#Global,6875.0,546.0,2125.0,4204.0
 2020-04-17,Moldova,#Global,2264.0,56.0,276.0,1932.0
 2020-04-17,Monaco,#Global,94.0,3.0,20.0,71.0
 2020-04-17,Mongolia,#Global,31.0,0.0,5.0,26.0
@@ -22296,7 +22296,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Malta,#Global,426.0,3.0,99.0,324.0
 2020-04-18,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-18,Mauritius,#Global,325.0,9.0,180.0,136.0
-2020-04-18,Mexico,#Global,6875.0,546.0,2125.0,4204.0
+2020-04-18,Mexico,#Global,7497.0,650.0,2125.0,4722.0
 2020-04-18,Moldova,#Global,2378.0,57.0,391.0,1930.0
 2020-04-18,Monaco,#Global,94.0,3.0,22.0,69.0
 2020-04-18,Mongolia,#Global,31.0,0.0,5.0,26.0
@@ -22551,7 +22551,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Malta,#Global,427.0,3.0,118.0,306.0
 2020-04-19,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-19,Mauritius,#Global,328.0,9.0,208.0,111.0
-2020-04-19,Mexico,#Global,7497.0,650.0,2627.0,4220.0
+2020-04-19,Mexico,#Global,8261.0,686.0,2627.0,4948.0
 2020-04-19,Moldova,#Global,2472.0,67.0,457.0,1948.0
 2020-04-19,Monaco,#Global,94.0,3.0,22.0,69.0
 2020-04-19,Mongolia,#Global,32.0,0.0,7.0,25.0
@@ -22806,7 +22806,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Malta,#Global,431.0,3.0,126.0,302.0
 2020-04-20,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-20,Mauritius,#Global,328.0,9.0,224.0,95.0
-2020-04-20,Mexico,#Global,8261.0,686.0,2627.0,4948.0
+2020-04-20,Mexico,#Global,8772.0,712.0,2627.0,5433.0
 2020-04-20,Moldova,#Global,2548.0,70.0,457.0,2021.0
 2020-04-20,Monaco,#Global,94.0,3.0,23.0,68.0
 2020-04-20,Mongolia,#Global,33.0,0.0,7.0,26.0
@@ -23061,7 +23061,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Malta,#Global,443.0,3.0,150.0,290.0
 2020-04-21,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-21,Mauritius,#Global,328.0,9.0,243.0,76.0
-2020-04-21,Mexico,#Global,8772.0,712.0,2627.0,5433.0
+2020-04-21,Mexico,#Global,9501.0,857.0,2627.0,6017.0
 2020-04-21,Moldova,#Global,2614.0,72.0,505.0,2037.0
 2020-04-21,Monaco,#Global,94.0,3.0,26.0,65.0
 2020-04-21,Mongolia,#Global,34.0,0.0,8.0,26.0
@@ -23316,7 +23316,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Malta,#Global,444.0,3.0,165.0,276.0
 2020-04-22,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-22,Mauritius,#Global,329.0,9.0,261.0,59.0
-2020-04-22,Mexico,#Global,9501.0,857.0,2627.0,6017.0
+2020-04-22,Mexico,#Global,10544.0,970.0,2627.0,6947.0
 2020-04-22,Moldova,#Global,2778.0,75.0,560.0,2143.0
 2020-04-22,Monaco,#Global,94.0,3.0,26.0,65.0
 2020-04-22,Mongolia,#Global,35.0,0.0,8.0,27.0
@@ -23826,7 +23826,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Malta,#Global,447.0,3.0,223.0,221.0
 2020-04-24,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-24,Mauritius,#Global,331.0,9.0,285.0,37.0
-2020-04-24,Mexico,#Global,11633.0,1069.0,2627.0,7937.0
+2020-04-24,Mexico,#Global,12872.0,1221.0,2627.0,9024.0
 2020-04-24,Moldova,#Global,3110.0,84.0,755.0,2271.0
 2020-04-24,Monaco,#Global,94.0,4.0,41.0,49.0
 2020-04-24,Mongolia,#Global,37.0,0.0,9.0,28.0
