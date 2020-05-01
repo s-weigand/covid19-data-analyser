@@ -36,6 +36,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-22,Chile,#Global,0.0,0.0,0.0,0.0
 2020-01-22,China (total),#Global,548.0,17.0,28.0,503.0
 2020-01-22,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-01-22,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-01-22,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-01-22,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -165,6 +166,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-22,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Syria,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Taiwan*,#Global,1.0,0.0,0.0,1.0
+2020-01-22,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Thailand,#Global,2.0,0.0,0.0,2.0
 2020-01-22,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -291,6 +293,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-23,Chile,#Global,0.0,0.0,0.0,0.0
 2020-01-23,China (total),#Global,643.0,18.0,30.0,595.0
 2020-01-23,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-01-23,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-01-23,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-01-23,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -420,6 +423,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-23,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Syria,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Taiwan*,#Global,1.0,0.0,0.0,1.0
+2020-01-23,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Thailand,#Global,3.0,0.0,0.0,3.0
 2020-01-23,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -546,6 +550,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-24,Chile,#Global,0.0,0.0,0.0,0.0
 2020-01-24,China (total),#Global,920.0,26.0,36.0,858.0
 2020-01-24,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-01-24,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-01-24,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-01-24,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -675,6 +680,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-24,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Syria,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Taiwan*,#Global,3.0,0.0,0.0,3.0
+2020-01-24,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Thailand,#Global,5.0,0.0,0.0,5.0
 2020-01-24,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -801,6 +807,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-25,Chile,#Global,0.0,0.0,0.0,0.0
 2020-01-25,China (total),#Global,1406.0,42.0,39.0,1325.0
 2020-01-25,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-01-25,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-01-25,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-01-25,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -930,6 +937,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-25,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Syria,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Taiwan*,#Global,3.0,0.0,0.0,3.0
+2020-01-25,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Thailand,#Global,7.0,0.0,0.0,7.0
 2020-01-25,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -1056,6 +1064,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-26,Chile,#Global,0.0,0.0,0.0,0.0
 2020-01-26,China (total),#Global,2075.0,56.0,49.0,1970.0
 2020-01-26,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-01-26,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-01-26,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-01-26,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -1185,6 +1194,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-26,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Syria,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Taiwan*,#Global,4.0,0.0,0.0,4.0
+2020-01-26,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Thailand,#Global,8.0,0.0,2.0,6.0
 2020-01-26,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -1311,6 +1321,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-27,Chile,#Global,0.0,0.0,0.0,0.0
 2020-01-27,China (total),#Global,2877.0,82.0,58.0,2737.0
 2020-01-27,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-01-27,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-01-27,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-01-27,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -1440,6 +1451,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-27,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Syria,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Taiwan*,#Global,5.0,0.0,0.0,5.0
+2020-01-27,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Thailand,#Global,8.0,0.0,2.0,6.0
 2020-01-27,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -1566,6 +1578,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-28,Chile,#Global,0.0,0.0,0.0,0.0
 2020-01-28,China (total),#Global,5509.0,131.0,101.0,5277.0
 2020-01-28,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-01-28,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-01-28,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-01-28,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -1695,6 +1708,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-28,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Syria,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Taiwan*,#Global,8.0,0.0,0.0,8.0
+2020-01-28,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Thailand,#Global,14.0,0.0,5.0,9.0
 2020-01-28,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -1821,6 +1835,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-29,Chile,#Global,0.0,0.0,0.0,0.0
 2020-01-29,China (total),#Global,6087.0,133.0,120.0,5834.0
 2020-01-29,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-01-29,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-01-29,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-01-29,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -1950,6 +1965,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-29,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Syria,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Taiwan*,#Global,8.0,0.0,0.0,8.0
+2020-01-29,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Thailand,#Global,14.0,0.0,5.0,9.0
 2020-01-29,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -2076,6 +2092,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-30,Chile,#Global,0.0,0.0,0.0,0.0
 2020-01-30,China (total),#Global,8141.0,171.0,135.0,7835.0
 2020-01-30,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-01-30,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-01-30,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-01-30,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -2205,6 +2222,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-30,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Syria,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Taiwan*,#Global,9.0,0.0,0.0,9.0
+2020-01-30,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Thailand,#Global,14.0,0.0,5.0,9.0
 2020-01-30,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -2331,6 +2349,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-31,Chile,#Global,0.0,0.0,0.0,0.0
 2020-01-31,China (total),#Global,9802.0,213.0,214.0,9375.0
 2020-01-31,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-01-31,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-01-31,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-01-31,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -2460,6 +2479,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-31,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Syria,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Taiwan*,#Global,10.0,0.0,0.0,10.0
+2020-01-31,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Thailand,#Global,19.0,0.0,5.0,14.0
 2020-01-31,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -2586,6 +2606,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-01,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-01,China (total),#Global,11891.0,259.0,275.0,11357.0
 2020-02-01,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-01,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-01,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-01,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -2715,6 +2736,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-01,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Taiwan*,#Global,10.0,0.0,0.0,10.0
+2020-02-01,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Thailand,#Global,19.0,0.0,5.0,14.0
 2020-02-01,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -2841,6 +2863,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-02,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-02,China (total),#Global,16630.0,361.0,463.0,15806.0
 2020-02-02,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-02,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-02,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-02,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -2970,6 +2993,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-02,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Taiwan*,#Global,10.0,0.0,0.0,10.0
+2020-02-02,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Thailand,#Global,19.0,0.0,5.0,14.0
 2020-02-02,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -3096,6 +3120,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-03,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-03,China (total),#Global,19716.0,425.0,614.0,18677.0
 2020-02-03,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-03,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-03,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-03,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -3225,6 +3250,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-03,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Taiwan*,#Global,10.0,0.0,0.0,10.0
+2020-02-03,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Thailand,#Global,19.0,0.0,5.0,14.0
 2020-02-03,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -3351,6 +3377,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-04,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-04,China (total),#Global,23707.0,491.0,843.0,22373.0
 2020-02-04,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-04,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-04,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-04,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -3480,6 +3507,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-04,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Taiwan*,#Global,11.0,0.0,0.0,11.0
+2020-02-04,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Thailand,#Global,25.0,0.0,5.0,20.0
 2020-02-04,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -3606,6 +3634,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-05,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-05,China (total),#Global,27440.0,563.0,1115.0,25762.0
 2020-02-05,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-05,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-05,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-05,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -3735,6 +3764,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-05,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Taiwan*,#Global,11.0,0.0,0.0,11.0
+2020-02-05,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Thailand,#Global,25.0,0.0,5.0,20.0
 2020-02-05,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -3861,6 +3891,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-06,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-06,China (total),#Global,30587.0,633.0,1477.0,28477.0
 2020-02-06,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-06,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-06,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-06,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -3990,6 +4021,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-06,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Taiwan*,#Global,16.0,0.0,1.0,15.0
+2020-02-06,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Thailand,#Global,25.0,0.0,5.0,20.0
 2020-02-06,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -4116,6 +4148,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-07,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-07,China (total),#Global,34110.0,718.0,1999.0,31393.0
 2020-02-07,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-07,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-07,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-07,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -4245,6 +4278,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-07,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Taiwan*,#Global,16.0,0.0,1.0,15.0
+2020-02-07,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Thailand,#Global,25.0,0.0,5.0,20.0
 2020-02-07,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -4371,6 +4405,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-08,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-08,China (total),#Global,36814.0,805.0,2596.0,33413.0
 2020-02-08,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-08,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-08,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-08,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -4500,6 +4535,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-08,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Taiwan*,#Global,17.0,0.0,1.0,16.0
+2020-02-08,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Thailand,#Global,32.0,0.0,10.0,22.0
 2020-02-08,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -4626,6 +4662,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-09,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-09,China (total),#Global,39829.0,905.0,3219.0,35705.0
 2020-02-09,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-09,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-09,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-09,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -4755,6 +4792,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-09,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Taiwan*,#Global,18.0,0.0,1.0,17.0
+2020-02-09,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Thailand,#Global,32.0,0.0,10.0,22.0
 2020-02-09,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -4881,6 +4919,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-10,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-10,China (total),#Global,42354.0,1012.0,3918.0,37424.0
 2020-02-10,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-10,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-10,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-10,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -5010,6 +5049,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-10,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Taiwan*,#Global,18.0,0.0,1.0,17.0
+2020-02-10,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Thailand,#Global,32.0,0.0,10.0,22.0
 2020-02-10,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -5136,6 +5176,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-11,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-11,China (total),#Global,44386.0,1112.0,4636.0,38638.0
 2020-02-11,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-11,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-11,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-11,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -5265,6 +5306,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-11,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Taiwan*,#Global,18.0,0.0,1.0,17.0
+2020-02-11,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Thailand,#Global,33.0,0.0,10.0,23.0
 2020-02-11,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -5391,6 +5433,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-12,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-12,China (total),#Global,44759.0,1117.0,5082.0,38560.0
 2020-02-12,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-12,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-12,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-12,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -5520,6 +5563,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-12,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Taiwan*,#Global,18.0,0.0,1.0,17.0
+2020-02-12,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Thailand,#Global,33.0,0.0,10.0,23.0
 2020-02-12,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -5646,6 +5690,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-13,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-13,China (total),#Global,59895.0,1369.0,6217.0,52309.0
 2020-02-13,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-13,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-13,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-13,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -5775,6 +5820,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-13,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Taiwan*,#Global,18.0,0.0,1.0,17.0
+2020-02-13,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Thailand,#Global,33.0,0.0,12.0,21.0
 2020-02-13,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -5901,6 +5947,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-14,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-14,China (total),#Global,66358.0,1521.0,7977.0,56860.0
 2020-02-14,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-14,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-14,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-14,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -6030,6 +6077,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-14,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Taiwan*,#Global,18.0,0.0,2.0,16.0
+2020-02-14,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Thailand,#Global,33.0,0.0,12.0,21.0
 2020-02-14,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -6156,6 +6204,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-15,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-15,China (total),#Global,68413.0,1663.0,9298.0,57452.0
 2020-02-15,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-15,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-15,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-15,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -6285,6 +6334,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-15,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Taiwan*,#Global,18.0,0.0,2.0,16.0
+2020-02-15,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Thailand,#Global,33.0,0.0,12.0,21.0
 2020-02-15,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -6411,6 +6461,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-16,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-16,China (total),#Global,70513.0,1766.0,10755.0,57992.0
 2020-02-16,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-16,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-16,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-16,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -6540,6 +6591,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-16,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Taiwan*,#Global,20.0,1.0,2.0,17.0
+2020-02-16,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Thailand,#Global,34.0,0.0,14.0,20.0
 2020-02-16,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -6666,6 +6718,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-17,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-17,China (total),#Global,72434.0,1864.0,12462.0,58108.0
 2020-02-17,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-17,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-17,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-17,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -6795,6 +6848,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-17,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Taiwan*,#Global,22.0,1.0,2.0,19.0
+2020-02-17,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Thailand,#Global,35.0,0.0,15.0,20.0
 2020-02-17,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -6921,6 +6975,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-18,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-18,China (total),#Global,74211.0,2003.0,14206.0,58002.0
 2020-02-18,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-18,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-18,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-18,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -7050,6 +7105,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-18,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Taiwan*,#Global,22.0,1.0,2.0,19.0
+2020-02-18,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Thailand,#Global,35.0,0.0,15.0,20.0
 2020-02-18,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -7176,6 +7232,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-19,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-19,China (total),#Global,74619.0,2116.0,15962.0,56541.0
 2020-02-19,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-19,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-19,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-19,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -7305,6 +7362,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-19,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Taiwan*,#Global,23.0,1.0,2.0,20.0
+2020-02-19,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Thailand,#Global,35.0,0.0,15.0,20.0
 2020-02-19,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -7431,6 +7489,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-20,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-20,China (total),#Global,75077.0,2238.0,18014.0,54825.0
 2020-02-20,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-20,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-20,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-20,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -7560,6 +7619,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-20,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Taiwan*,#Global,24.0,1.0,2.0,21.0
+2020-02-20,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Thailand,#Global,35.0,0.0,15.0,20.0
 2020-02-20,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -7686,6 +7746,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-21,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-21,China (total),#Global,75550.0,2238.0,18704.0,54608.0
 2020-02-21,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-21,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-21,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-21,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -7815,6 +7876,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-21,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Taiwan*,#Global,26.0,1.0,2.0,23.0
+2020-02-21,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Thailand,#Global,35.0,0.0,17.0,18.0
 2020-02-21,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -7941,6 +8003,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-22,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-22,China (total),#Global,77001.0,2443.0,22699.0,51859.0
 2020-02-22,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-22,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-22,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-22,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -8070,6 +8133,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-22,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Taiwan*,#Global,26.0,1.0,2.0,23.0
+2020-02-22,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Thailand,#Global,35.0,0.0,17.0,18.0
 2020-02-22,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -8196,6 +8260,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-23,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-23,China (total),#Global,77022.0,2445.0,23187.0,51390.0
 2020-02-23,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-23,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-23,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-23,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -8325,6 +8390,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-23,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Taiwan*,#Global,28.0,1.0,2.0,25.0
+2020-02-23,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Thailand,#Global,35.0,0.0,21.0,14.0
 2020-02-23,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -8451,6 +8517,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-24,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-24,China (total),#Global,77241.0,2595.0,25015.0,49631.0
 2020-02-24,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-24,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-24,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-24,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -8580,6 +8647,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-24,Switzerland,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Taiwan*,#Global,30.0,1.0,5.0,24.0
+2020-02-24,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Thailand,#Global,35.0,0.0,21.0,14.0
 2020-02-24,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -8706,6 +8774,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-25,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-25,China (total),#Global,77754.0,2665.0,27676.0,47413.0
 2020-02-25,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-25,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-25,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-25,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -8835,6 +8904,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-25,Switzerland,#Global,1.0,0.0,0.0,1.0
 2020-02-25,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Taiwan*,#Global,31.0,1.0,5.0,25.0
+2020-02-25,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Thailand,#Global,37.0,0.0,22.0,15.0
 2020-02-25,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -8961,6 +9031,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-26,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-26,China (total),#Global,78166.0,2717.0,30084.0,45365.0
 2020-02-26,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-26,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-26,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-26,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -9090,6 +9161,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-26,Switzerland,#Global,1.0,0.0,0.0,1.0
 2020-02-26,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Taiwan*,#Global,32.0,1.0,5.0,26.0
+2020-02-26,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Thailand,#Global,40.0,0.0,22.0,18.0
 2020-02-26,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -9216,6 +9288,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-27,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-27,China (total),#Global,78600.0,2746.0,32930.0,42924.0
 2020-02-27,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-27,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-27,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-27,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -9345,6 +9418,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-27,Switzerland,#Global,8.0,0.0,0.0,8.0
 2020-02-27,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Taiwan*,#Global,32.0,1.0,5.0,26.0
+2020-02-27,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Thailand,#Global,40.0,0.0,22.0,18.0
 2020-02-27,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -9471,6 +9545,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-28,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-28,China (total),#Global,78928.0,2790.0,36329.0,39809.0
 2020-02-28,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-28,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-28,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-28,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -9600,6 +9675,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-28,Switzerland,#Global,8.0,0.0,0.0,8.0
 2020-02-28,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Taiwan*,#Global,34.0,1.0,6.0,27.0
+2020-02-28,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Thailand,#Global,41.0,0.0,28.0,13.0
 2020-02-28,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -9726,6 +9802,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-29,Chile,#Global,0.0,0.0,0.0,0.0
 2020-02-29,China (total),#Global,79356.0,2837.0,39320.0,37199.0
 2020-02-29,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-02-29,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-02-29,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-02-29,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -9855,6 +9932,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-29,Switzerland,#Global,18.0,0.0,0.0,18.0
 2020-02-29,Syria,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Taiwan*,#Global,39.0,1.0,9.0,29.0
+2020-02-29,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Thailand,#Global,42.0,0.0,28.0,14.0
 2020-02-29,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -9981,6 +10059,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-01,Chile,#Global,0.0,0.0,0.0,0.0
 2020-03-01,China (total),#Global,79932.0,2872.0,42162.0,34898.0
 2020-03-01,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-03-01,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-01,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-03-01,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -10110,6 +10189,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-01,Switzerland,#Global,27.0,0.0,0.0,27.0
 2020-03-01,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Taiwan*,#Global,40.0,1.0,9.0,30.0
+2020-03-01,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Thailand,#Global,42.0,1.0,28.0,13.0
 2020-03-01,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -10236,6 +10316,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-02,Chile,#Global,0.0,0.0,0.0,0.0
 2020-03-02,China (total),#Global,80136.0,2914.0,44854.0,32368.0
 2020-03-02,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-03-02,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-02,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-03-02,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -10365,6 +10446,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-02,Switzerland,#Global,42.0,0.0,0.0,42.0
 2020-03-02,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Taiwan*,#Global,41.0,1.0,12.0,28.0
+2020-03-02,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Thailand,#Global,43.0,1.0,31.0,11.0
 2020-03-02,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -10491,6 +10573,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-03,Chile,#Global,1.0,0.0,0.0,1.0
 2020-03-03,China (total),#Global,80261.0,2947.0,47450.0,29864.0
 2020-03-03,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-03-03,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-03,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-03-03,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -10620,6 +10703,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-03,Switzerland,#Global,56.0,0.0,2.0,54.0
 2020-03-03,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Taiwan*,#Global,42.0,1.0,12.0,29.0
+2020-03-03,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Thailand,#Global,43.0,1.0,31.0,11.0
 2020-03-03,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -10746,6 +10830,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-04,Chile,#Global,1.0,0.0,0.0,1.0
 2020-03-04,China (total),#Global,80386.0,2983.0,50001.0,27402.0
 2020-03-04,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-03-04,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-04,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-03-04,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -10875,6 +10960,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-04,Switzerland,#Global,90.0,0.0,3.0,87.0
 2020-03-04,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Taiwan*,#Global,42.0,1.0,12.0,29.0
+2020-03-04,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Thailand,#Global,43.0,1.0,31.0,11.0
 2020-03-04,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -11001,6 +11087,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-05,Chile,#Global,4.0,0.0,0.0,4.0
 2020-03-05,China (total),#Global,80537.0,3015.0,52292.0,25230.0
 2020-03-05,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-03-05,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-05,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-03-05,Costa Rica,#Global,0.0,0.0,0.0,0.0
@@ -11130,6 +11217,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-05,Switzerland,#Global,114.0,1.0,3.0,110.0
 2020-03-05,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Taiwan*,#Global,44.0,1.0,12.0,31.0
+2020-03-05,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Thailand,#Global,47.0,1.0,31.0,15.0
 2020-03-05,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -11256,6 +11344,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-06,Chile,#Global,4.0,0.0,0.0,4.0
 2020-03-06,China (total),#Global,80690.0,3044.0,53944.0,23702.0
 2020-03-06,Colombia,#Global,1.0,0.0,0.0,1.0
+2020-03-06,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-06,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-03-06,Costa Rica,#Global,1.0,0.0,0.0,1.0
@@ -11385,6 +11474,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-06,Switzerland,#Global,214.0,1.0,3.0,210.0
 2020-03-06,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Taiwan*,#Global,45.0,1.0,12.0,32.0
+2020-03-06,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Thailand,#Global,48.0,1.0,31.0,16.0
 2020-03-06,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -11511,6 +11601,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-07,Chile,#Global,4.0,0.0,0.0,4.0
 2020-03-07,China (total),#Global,80770.0,3072.0,55539.0,22159.0
 2020-03-07,Colombia,#Global,1.0,0.0,0.0,1.0
+2020-03-07,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-07,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-03-07,Costa Rica,#Global,1.0,0.0,0.0,1.0
@@ -11640,6 +11731,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-07,Switzerland,#Global,268.0,1.0,3.0,264.0
 2020-03-07,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Taiwan*,#Global,45.0,1.0,12.0,32.0
+2020-03-07,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Thailand,#Global,50.0,1.0,31.0,18.0
 2020-03-07,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -11766,6 +11858,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-08,Chile,#Global,8.0,0.0,0.0,8.0
 2020-03-08,China (total),#Global,80823.0,3100.0,57388.0,20335.0
 2020-03-08,Colombia,#Global,1.0,0.0,0.0,1.0
+2020-03-08,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-08,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-03-08,Costa Rica,#Global,5.0,0.0,0.0,5.0
@@ -11895,6 +11988,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-08,Switzerland,#Global,337.0,2.0,3.0,332.0
 2020-03-08,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Taiwan*,#Global,45.0,1.0,13.0,31.0
+2020-03-08,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Thailand,#Global,50.0,1.0,31.0,18.0
 2020-03-08,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -12021,6 +12115,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-09,Chile,#Global,8.0,0.0,0.0,8.0
 2020-03-09,China (total),#Global,80860.0,3123.0,58804.0,18933.0
 2020-03-09,Colombia,#Global,1.0,0.0,0.0,1.0
+2020-03-09,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-09,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-03-09,Costa Rica,#Global,9.0,0.0,0.0,9.0
@@ -12150,6 +12245,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-09,Switzerland,#Global,374.0,2.0,3.0,369.0
 2020-03-09,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Taiwan*,#Global,45.0,1.0,15.0,29.0
+2020-03-09,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Thailand,#Global,50.0,1.0,31.0,18.0
 2020-03-09,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -12276,6 +12372,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-10,Chile,#Global,13.0,0.0,0.0,13.0
 2020-03-10,China (total),#Global,80887.0,3139.0,60181.0,17567.0
 2020-03-10,Colombia,#Global,3.0,0.0,0.0,3.0
+2020-03-10,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-10,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
 2020-03-10,Costa Rica,#Global,9.0,0.0,0.0,9.0
@@ -12405,6 +12502,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-10,Switzerland,#Global,491.0,3.0,3.0,485.0
 2020-03-10,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Taiwan*,#Global,47.0,1.0,17.0,29.0
+2020-03-10,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Thailand,#Global,53.0,1.0,33.0,19.0
 2020-03-10,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -12531,6 +12629,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-11,Chile,#Global,23.0,0.0,0.0,23.0
 2020-03-11,China (total),#Global,80921.0,3161.0,61644.0,16116.0
 2020-03-11,Colombia,#Global,9.0,0.0,0.0,9.0
+2020-03-11,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-11,Congo (Kinshasa),#Global,1.0,0.0,0.0,1.0
 2020-03-11,Costa Rica,#Global,13.0,0.0,0.0,13.0
@@ -12660,6 +12759,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-11,Switzerland,#Global,652.0,4.0,4.0,644.0
 2020-03-11,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Taiwan*,#Global,48.0,1.0,17.0,30.0
+2020-03-11,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Thailand,#Global,59.0,1.0,34.0,24.0
 2020-03-11,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -12786,6 +12886,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-12,Chile,#Global,23.0,0.0,0.0,23.0
 2020-03-12,China (total),#Global,80932.0,3172.0,62901.0,14859.0
 2020-03-12,Colombia,#Global,9.0,0.0,0.0,9.0
+2020-03-12,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-12,Congo (Kinshasa),#Global,1.0,0.0,0.0,1.0
 2020-03-12,Costa Rica,#Global,22.0,0.0,0.0,22.0
@@ -12915,6 +13016,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-12,Switzerland,#Global,652.0,4.0,4.0,644.0
 2020-03-12,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Taiwan*,#Global,49.0,1.0,20.0,28.0
+2020-03-12,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Thailand,#Global,70.0,1.0,34.0,35.0
 2020-03-12,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -13041,6 +13143,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-13,Chile,#Global,43.0,0.0,0.0,43.0
 2020-03-13,China (total),#Global,80945.0,3180.0,64196.0,13569.0
 2020-03-13,Colombia,#Global,13.0,0.0,0.0,13.0
+2020-03-13,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-13,Congo (Kinshasa),#Global,2.0,0.0,0.0,2.0
 2020-03-13,Costa Rica,#Global,23.0,0.0,0.0,23.0
@@ -13170,6 +13273,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-13,Switzerland,#Global,1139.0,11.0,4.0,1124.0
 2020-03-13,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Taiwan*,#Global,50.0,1.0,20.0,29.0
+2020-03-13,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Thailand,#Global,75.0,1.0,35.0,39.0
 2020-03-13,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -13296,6 +13400,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-14,Chile,#Global,61.0,0.0,0.0,61.0
 2020-03-14,China (total),#Global,80977.0,3193.0,65660.0,12124.0
 2020-03-14,Colombia,#Global,22.0,0.0,0.0,22.0
+2020-03-14,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
 2020-03-14,Congo (Kinshasa),#Global,2.0,0.0,0.0,2.0
 2020-03-14,Costa Rica,#Global,26.0,0.0,0.0,26.0
@@ -13425,6 +13530,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-14,Switzerland,#Global,1359.0,13.0,4.0,1342.0
 2020-03-14,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Taiwan*,#Global,53.0,1.0,20.0,32.0
+2020-03-14,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Thailand,#Global,82.0,1.0,35.0,46.0
 2020-03-14,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -13551,6 +13657,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-15,Chile,#Global,74.0,0.0,0.0,74.0
 2020-03-15,China (total),#Global,81003.0,3203.0,67017.0,10783.0
 2020-03-15,Colombia,#Global,34.0,0.0,0.0,34.0
+2020-03-15,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Congo (Brazzaville),#Global,1.0,0.0,0.0,1.0
 2020-03-15,Congo (Kinshasa),#Global,2.0,0.0,0.0,2.0
 2020-03-15,Costa Rica,#Global,27.0,0.0,0.0,27.0
@@ -13680,6 +13787,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-15,Switzerland,#Global,2200.0,14.0,4.0,2182.0
 2020-03-15,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Taiwan*,#Global,59.0,1.0,20.0,38.0
+2020-03-15,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Tanzania,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Thailand,#Global,114.0,1.0,35.0,78.0
 2020-03-15,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -13806,6 +13914,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-16,Chile,#Global,155.0,0.0,0.0,155.0
 2020-03-16,China (total),#Global,81033.0,3217.0,67910.0,9906.0
 2020-03-16,Colombia,#Global,54.0,0.0,0.0,54.0
+2020-03-16,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Congo (Brazzaville),#Global,1.0,0.0,0.0,1.0
 2020-03-16,Congo (Kinshasa),#Global,2.0,0.0,0.0,2.0
 2020-03-16,Costa Rica,#Global,35.0,0.0,0.0,35.0
@@ -13935,6 +14044,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-16,Switzerland,#Global,2200.0,14.0,4.0,2182.0
 2020-03-16,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Taiwan*,#Global,67.0,1.0,20.0,46.0
+2020-03-16,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Tanzania,#Global,1.0,0.0,0.0,1.0
 2020-03-16,Thailand,#Global,147.0,1.0,35.0,111.0
 2020-03-16,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -14061,6 +14171,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-17,Chile,#Global,201.0,0.0,0.0,201.0
 2020-03-17,China (total),#Global,81058.0,3230.0,68798.0,9030.0
 2020-03-17,Colombia,#Global,65.0,0.0,1.0,64.0
+2020-03-17,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Congo (Brazzaville),#Global,1.0,0.0,0.0,1.0
 2020-03-17,Congo (Kinshasa),#Global,3.0,0.0,0.0,3.0
 2020-03-17,Costa Rica,#Global,41.0,0.0,0.0,41.0
@@ -14190,6 +14301,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-17,Switzerland,#Global,2700.0,27.0,4.0,2669.0
 2020-03-17,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Taiwan*,#Global,77.0,1.0,22.0,54.0
+2020-03-17,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Tanzania,#Global,1.0,0.0,0.0,1.0
 2020-03-17,Thailand,#Global,177.0,1.0,41.0,135.0
 2020-03-17,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -14316,6 +14428,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-18,Chile,#Global,238.0,0.0,0.0,238.0
 2020-03-18,China (total),#Global,81102.0,3241.0,69755.0,8106.0
 2020-03-18,Colombia,#Global,93.0,0.0,1.0,92.0
+2020-03-18,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Congo (Brazzaville),#Global,1.0,0.0,0.0,1.0
 2020-03-18,Congo (Kinshasa),#Global,4.0,0.0,0.0,4.0
 2020-03-18,Costa Rica,#Global,50.0,0.0,0.0,50.0
@@ -14445,6 +14558,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-18,Switzerland,#Global,3028.0,28.0,15.0,2985.0
 2020-03-18,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Taiwan*,#Global,100.0,1.0,22.0,77.0
+2020-03-18,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Tanzania,#Global,3.0,0.0,0.0,3.0
 2020-03-18,Thailand,#Global,212.0,1.0,42.0,169.0
 2020-03-18,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -14571,6 +14685,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-19,Chile,#Global,238.0,0.0,0.0,238.0
 2020-03-19,China (total),#Global,81156.0,3249.0,70535.0,7372.0
 2020-03-19,Colombia,#Global,102.0,0.0,1.0,101.0
+2020-03-19,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Congo (Brazzaville),#Global,3.0,0.0,0.0,3.0
 2020-03-19,Congo (Kinshasa),#Global,14.0,0.0,0.0,14.0
 2020-03-19,Costa Rica,#Global,69.0,1.0,0.0,68.0
@@ -14700,6 +14815,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-19,Switzerland,#Global,4075.0,41.0,15.0,4019.0
 2020-03-19,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Taiwan*,#Global,108.0,1.0,26.0,81.0
+2020-03-19,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Tanzania,#Global,6.0,0.0,0.0,6.0
 2020-03-19,Thailand,#Global,272.0,1.0,42.0,229.0
 2020-03-19,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -14826,6 +14942,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-20,Chile,#Global,434.0,0.0,6.0,428.0
 2020-03-20,China (total),#Global,81250.0,3253.0,71266.0,6731.0
 2020-03-20,Colombia,#Global,128.0,0.0,1.0,127.0
+2020-03-20,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Congo (Brazzaville),#Global,3.0,0.0,0.0,3.0
 2020-03-20,Congo (Kinshasa),#Global,18.0,0.0,0.0,18.0
 2020-03-20,Costa Rica,#Global,89.0,1.0,0.0,88.0
@@ -14955,6 +15072,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-20,Switzerland,#Global,5294.0,54.0,15.0,5225.0
 2020-03-20,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Taiwan*,#Global,135.0,2.0,26.0,107.0
+2020-03-20,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Tanzania,#Global,6.0,0.0,0.0,6.0
 2020-03-20,Thailand,#Global,322.0,1.0,42.0,279.0
 2020-03-20,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -15081,6 +15199,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-21,Chile,#Global,537.0,0.0,6.0,531.0
 2020-03-21,China (total),#Global,81305.0,3259.0,71857.0,6189.0
 2020-03-21,Colombia,#Global,196.0,0.0,1.0,195.0
+2020-03-21,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-21,Congo (Brazzaville),#Global,3.0,0.0,0.0,3.0
 2020-03-21,Congo (Kinshasa),#Global,23.0,1.0,0.0,22.0
 2020-03-21,Costa Rica,#Global,117.0,2.0,2.0,113.0
@@ -15210,6 +15329,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-21,Switzerland,#Global,6575.0,75.0,15.0,6485.0
 2020-03-21,Syria,#Global,0.0,0.0,0.0,0.0
 2020-03-21,Taiwan*,#Global,153.0,2.0,28.0,123.0
+2020-03-21,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-21,Tanzania,#Global,6.0,0.0,0.0,6.0
 2020-03-21,Thailand,#Global,411.0,1.0,42.0,368.0
 2020-03-21,Timor-Leste,#Global,0.0,0.0,0.0,0.0
@@ -15336,6 +15456,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-22,Chile,#Global,632.0,1.0,8.0,623.0
 2020-03-22,China (total),#Global,81435.0,3274.0,72362.0,5799.0
 2020-03-22,Colombia,#Global,231.0,2.0,3.0,226.0
+2020-03-22,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-22,Congo (Brazzaville),#Global,3.0,0.0,0.0,3.0
 2020-03-22,Congo (Kinshasa),#Global,30.0,1.0,0.0,29.0
 2020-03-22,Costa Rica,#Global,134.0,2.0,2.0,130.0
@@ -15465,6 +15586,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-22,Switzerland,#Global,7474.0,98.0,131.0,7245.0
 2020-03-22,Syria,#Global,1.0,0.0,0.0,1.0
 2020-03-22,Taiwan*,#Global,169.0,2.0,28.0,139.0
+2020-03-22,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-22,Tanzania,#Global,12.0,0.0,0.0,12.0
 2020-03-22,Thailand,#Global,599.0,1.0,44.0,554.0
 2020-03-22,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -15591,6 +15713,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-23,Chile,#Global,746.0,2.0,8.0,736.0
 2020-03-23,China (total),#Global,81498.0,3274.0,72814.0,5410.0
 2020-03-23,Colombia,#Global,277.0,3.0,3.0,271.0
+2020-03-23,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-23,Congo (Brazzaville),#Global,4.0,0.0,0.0,4.0
 2020-03-23,Congo (Kinshasa),#Global,36.0,1.0,0.0,35.0
 2020-03-23,Costa Rica,#Global,158.0,2.0,2.0,154.0
@@ -15720,6 +15843,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-23,Switzerland,#Global,8795.0,120.0,131.0,8544.0
 2020-03-23,Syria,#Global,1.0,0.0,0.0,1.0
 2020-03-23,Taiwan*,#Global,195.0,2.0,28.0,165.0
+2020-03-23,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-23,Tanzania,#Global,12.0,0.0,0.0,12.0
 2020-03-23,Thailand,#Global,721.0,1.0,44.0,676.0
 2020-03-23,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -15846,6 +15970,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-24,Chile,#Global,922.0,2.0,17.0,903.0
 2020-03-24,China (total),#Global,81591.0,3281.0,73280.0,5030.0
 2020-03-24,Colombia,#Global,378.0,3.0,6.0,369.0
+2020-03-24,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-24,Congo (Brazzaville),#Global,4.0,0.0,0.0,4.0
 2020-03-24,Congo (Kinshasa),#Global,45.0,2.0,0.0,43.0
 2020-03-24,Costa Rica,#Global,177.0,2.0,2.0,173.0
@@ -15975,6 +16100,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-24,Switzerland,#Global,9877.0,122.0,131.0,9624.0
 2020-03-24,Syria,#Global,1.0,0.0,0.0,1.0
 2020-03-24,Taiwan*,#Global,215.0,2.0,29.0,184.0
+2020-03-24,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-24,Tanzania,#Global,12.0,0.0,0.0,12.0
 2020-03-24,Thailand,#Global,827.0,4.0,52.0,771.0
 2020-03-24,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -16101,6 +16227,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-25,Chile,#Global,1142.0,3.0,22.0,1117.0
 2020-03-25,China (total),#Global,81661.0,3285.0,73773.0,4603.0
 2020-03-25,Colombia,#Global,470.0,4.0,8.0,458.0
+2020-03-25,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-25,Congo (Brazzaville),#Global,4.0,0.0,0.0,4.0
 2020-03-25,Congo (Kinshasa),#Global,48.0,2.0,0.0,46.0
 2020-03-25,Costa Rica,#Global,201.0,2.0,2.0,197.0
@@ -16230,6 +16357,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-25,Switzerland,#Global,10897.0,153.0,131.0,10613.0
 2020-03-25,Syria,#Global,5.0,0.0,0.0,5.0
 2020-03-25,Taiwan*,#Global,235.0,2.0,29.0,204.0
+2020-03-25,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-25,Tanzania,#Global,12.0,0.0,0.0,12.0
 2020-03-25,Thailand,#Global,934.0,4.0,70.0,860.0
 2020-03-25,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -16356,6 +16484,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-26,Chile,#Global,1306.0,4.0,22.0,1280.0
 2020-03-26,China (total),#Global,81782.0,3291.0,74181.0,4310.0
 2020-03-26,Colombia,#Global,491.0,6.0,8.0,477.0
+2020-03-26,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-26,Congo (Brazzaville),#Global,4.0,0.0,0.0,4.0
 2020-03-26,Congo (Kinshasa),#Global,51.0,3.0,0.0,48.0
 2020-03-26,Costa Rica,#Global,231.0,2.0,2.0,227.0
@@ -16485,6 +16614,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-26,Switzerland,#Global,11811.0,191.0,131.0,11489.0
 2020-03-26,Syria,#Global,5.0,0.0,0.0,5.0
 2020-03-26,Taiwan*,#Global,252.0,2.0,29.0,221.0
+2020-03-26,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-26,Tanzania,#Global,13.0,0.0,0.0,13.0
 2020-03-26,Thailand,#Global,1045.0,4.0,88.0,953.0
 2020-03-26,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -16611,6 +16741,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-27,Chile,#Global,1610.0,5.0,43.0,1562.0
 2020-03-27,China (total),#Global,81897.0,3296.0,74720.0,3881.0
 2020-03-27,Colombia,#Global,539.0,6.0,10.0,523.0
+2020-03-27,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-27,Congo (Brazzaville),#Global,4.0,0.0,0.0,4.0
 2020-03-27,Congo (Kinshasa),#Global,51.0,3.0,2.0,46.0
 2020-03-27,Costa Rica,#Global,263.0,2.0,3.0,258.0
@@ -16740,6 +16871,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-27,Switzerland,#Global,12928.0,231.0,1530.0,11167.0
 2020-03-27,Syria,#Global,5.0,0.0,0.0,5.0
 2020-03-27,Taiwan*,#Global,267.0,2.0,29.0,236.0
+2020-03-27,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-27,Tanzania,#Global,13.0,0.0,1.0,12.0
 2020-03-27,Thailand,#Global,1136.0,5.0,97.0,1034.0
 2020-03-27,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -16866,6 +16998,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-28,Chile,#Global,1909.0,6.0,61.0,1842.0
 2020-03-28,China (total),#Global,81999.0,3299.0,75100.0,3600.0
 2020-03-28,Colombia,#Global,608.0,6.0,10.0,592.0
+2020-03-28,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-28,Congo (Brazzaville),#Global,4.0,0.0,0.0,4.0
 2020-03-28,Congo (Kinshasa),#Global,65.0,6.0,2.0,57.0
 2020-03-28,Costa Rica,#Global,295.0,2.0,3.0,290.0
@@ -16995,6 +17128,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-28,Switzerland,#Global,14076.0,264.0,1530.0,12282.0
 2020-03-28,Syria,#Global,5.0,0.0,0.0,5.0
 2020-03-28,Taiwan*,#Global,283.0,2.0,30.0,251.0
+2020-03-28,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-28,Tanzania,#Global,14.0,0.0,1.0,13.0
 2020-03-28,Thailand,#Global,1245.0,6.0,97.0,1142.0
 2020-03-28,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -17121,6 +17255,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-29,Chile,#Global,2139.0,7.0,75.0,2057.0
 2020-03-29,China (total),#Global,82122.0,3304.0,75582.0,3236.0
 2020-03-29,Colombia,#Global,702.0,10.0,10.0,682.0
+2020-03-29,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-29,Congo (Brazzaville),#Global,19.0,0.0,0.0,19.0
 2020-03-29,Congo (Kinshasa),#Global,65.0,6.0,2.0,57.0
 2020-03-29,Costa Rica,#Global,314.0,2.0,3.0,309.0
@@ -17250,6 +17385,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-29,Switzerland,#Global,14829.0,300.0,1595.0,12934.0
 2020-03-29,Syria,#Global,9.0,1.0,0.0,8.0
 2020-03-29,Taiwan*,#Global,298.0,2.0,30.0,266.0
+2020-03-29,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-29,Tanzania,#Global,14.0,0.0,1.0,13.0
 2020-03-29,Thailand,#Global,1388.0,7.0,97.0,1284.0
 2020-03-29,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -17376,6 +17512,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-30,Chile,#Global,2449.0,8.0,156.0,2285.0
 2020-03-30,China (total),#Global,82198.0,3308.0,75923.0,2967.0
 2020-03-30,Colombia,#Global,798.0,12.0,15.0,771.0
+2020-03-30,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-30,Congo (Brazzaville),#Global,19.0,0.0,0.0,19.0
 2020-03-30,Congo (Kinshasa),#Global,81.0,8.0,2.0,71.0
 2020-03-30,Costa Rica,#Global,330.0,2.0,4.0,324.0
@@ -17505,6 +17642,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-30,Switzerland,#Global,15922.0,359.0,1823.0,13740.0
 2020-03-30,Syria,#Global,10.0,2.0,0.0,8.0
 2020-03-30,Taiwan*,#Global,306.0,5.0,39.0,262.0
+2020-03-30,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-30,Tanzania,#Global,19.0,0.0,1.0,18.0
 2020-03-30,Thailand,#Global,1524.0,9.0,229.0,1286.0
 2020-03-30,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -17631,6 +17769,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-31,Chile,#Global,2738.0,12.0,156.0,2570.0
 2020-03-31,China (total),#Global,82279.0,3309.0,76206.0,2764.0
 2020-03-31,Colombia,#Global,906.0,16.0,31.0,859.0
+2020-03-31,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-03-31,Congo (Brazzaville),#Global,19.0,0.0,0.0,19.0
 2020-03-31,Congo (Kinshasa),#Global,98.0,8.0,2.0,88.0
 2020-03-31,Costa Rica,#Global,347.0,2.0,4.0,341.0
@@ -17760,6 +17899,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-31,Switzerland,#Global,16605.0,433.0,1823.0,14349.0
 2020-03-31,Syria,#Global,10.0,2.0,0.0,8.0
 2020-03-31,Taiwan*,#Global,322.0,5.0,39.0,278.0
+2020-03-31,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-03-31,Tanzania,#Global,19.0,1.0,1.0,17.0
 2020-03-31,Thailand,#Global,1651.0,10.0,342.0,1299.0
 2020-03-31,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -17886,6 +18026,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-01,Chile,#Global,3031.0,16.0,234.0,2781.0
 2020-04-01,China (total),#Global,82361.0,3316.0,76405.0,2640.0
 2020-04-01,Colombia,#Global,1065.0,17.0,39.0,1009.0
+2020-04-01,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-01,Congo (Brazzaville),#Global,19.0,0.0,0.0,19.0
 2020-04-01,Congo (Kinshasa),#Global,109.0,9.0,3.0,97.0
 2020-04-01,Costa Rica,#Global,375.0,2.0,4.0,369.0
@@ -18015,6 +18156,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-01,Switzerland,#Global,17768.0,488.0,2967.0,14313.0
 2020-04-01,Syria,#Global,10.0,2.0,0.0,8.0
 2020-04-01,Taiwan*,#Global,329.0,5.0,39.0,285.0
+2020-04-01,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-01,Tanzania,#Global,20.0,1.0,1.0,18.0
 2020-04-01,Thailand,#Global,1771.0,12.0,505.0,1254.0
 2020-04-01,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -18141,6 +18283,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-02,Chile,#Global,3404.0,18.0,335.0,3051.0
 2020-04-02,China (total),#Global,82432.0,3322.0,76565.0,2545.0
 2020-04-02,Colombia,#Global,1161.0,19.0,55.0,1087.0
+2020-04-02,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-02,Congo (Brazzaville),#Global,22.0,2.0,2.0,18.0
 2020-04-02,Congo (Kinshasa),#Global,134.0,13.0,3.0,118.0
 2020-04-02,Costa Rica,#Global,396.0,2.0,6.0,388.0
@@ -18270,6 +18413,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-02,Switzerland,#Global,18827.0,536.0,4013.0,14278.0
 2020-04-02,Syria,#Global,16.0,2.0,0.0,14.0
 2020-04-02,Taiwan*,#Global,339.0,5.0,45.0,289.0
+2020-04-02,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-02,Tanzania,#Global,20.0,1.0,2.0,17.0
 2020-04-02,Thailand,#Global,1875.0,15.0,505.0,1355.0
 2020-04-02,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -18396,6 +18540,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-03,Chile,#Global,3737.0,22.0,427.0,3288.0
 2020-04-03,China (total),#Global,82511.0,3326.0,76760.0,2425.0
 2020-04-03,Colombia,#Global,1267.0,25.0,55.0,1187.0
+2020-04-03,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-03,Congo (Brazzaville),#Global,22.0,2.0,2.0,18.0
 2020-04-03,Congo (Kinshasa),#Global,134.0,13.0,3.0,118.0
 2020-04-03,Costa Rica,#Global,416.0,2.0,11.0,403.0
@@ -18525,6 +18670,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-03,Switzerland,#Global,19606.0,591.0,4846.0,14169.0
 2020-04-03,Syria,#Global,16.0,2.0,0.0,14.0
 2020-04-03,Taiwan*,#Global,348.0,5.0,50.0,293.0
+2020-04-03,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-03,Tanzania,#Global,20.0,1.0,3.0,16.0
 2020-04-03,Thailand,#Global,1978.0,19.0,612.0,1347.0
 2020-04-03,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -18651,6 +18797,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-04,Chile,#Global,4161.0,27.0,528.0,3606.0
 2020-04-04,China (total),#Global,82543.0,3330.0,76946.0,2267.0
 2020-04-04,Colombia,#Global,1406.0,32.0,85.0,1289.0
+2020-04-04,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-04,Congo (Brazzaville),#Global,22.0,2.0,2.0,18.0
 2020-04-04,Congo (Kinshasa),#Global,154.0,18.0,3.0,133.0
 2020-04-04,Costa Rica,#Global,435.0,2.0,13.0,420.0
@@ -18780,6 +18927,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-04,Switzerland,#Global,20505.0,666.0,6415.0,13424.0
 2020-04-04,Syria,#Global,16.0,2.0,2.0,12.0
 2020-04-04,Taiwan*,#Global,355.0,5.0,50.0,300.0
+2020-04-04,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-04,Tanzania,#Global,20.0,1.0,3.0,16.0
 2020-04-04,Thailand,#Global,2067.0,20.0,674.0,1373.0
 2020-04-04,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -18906,6 +19054,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-05,Chile,#Global,4471.0,34.0,618.0,3819.0
 2020-04-05,China (total),#Global,82602.0,3333.0,77207.0,2062.0
 2020-04-05,Colombia,#Global,1485.0,35.0,88.0,1362.0
+2020-04-05,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-05,Congo (Brazzaville),#Global,45.0,5.0,2.0,38.0
 2020-04-05,Congo (Kinshasa),#Global,154.0,18.0,3.0,133.0
 2020-04-05,Costa Rica,#Global,454.0,2.0,16.0,436.0
@@ -19035,6 +19184,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-05,Switzerland,#Global,21100.0,715.0,6415.0,13970.0
 2020-04-05,Syria,#Global,19.0,2.0,2.0,15.0
 2020-04-05,Taiwan*,#Global,363.0,5.0,50.0,308.0
+2020-04-05,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-05,Tanzania,#Global,22.0,1.0,3.0,18.0
 2020-04-05,Thailand,#Global,2169.0,23.0,793.0,1353.0
 2020-04-05,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -19161,6 +19311,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-06,Chile,#Global,4815.0,37.0,728.0,4050.0
 2020-04-06,China (total),#Global,82665.0,3335.0,77310.0,2020.0
 2020-04-06,Colombia,#Global,1579.0,46.0,88.0,1445.0
+2020-04-06,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-06,Congo (Brazzaville),#Global,45.0,5.0,2.0,38.0
 2020-04-06,Congo (Kinshasa),#Global,161.0,18.0,5.0,138.0
 2020-04-06,Costa Rica,#Global,467.0,2.0,18.0,447.0
@@ -19290,6 +19441,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-06,Switzerland,#Global,21657.0,765.0,8056.0,12836.0
 2020-04-06,Syria,#Global,19.0,2.0,2.0,15.0
 2020-04-06,Taiwan*,#Global,373.0,5.0,57.0,311.0
+2020-04-06,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-06,Tanzania,#Global,24.0,1.0,3.0,20.0
 2020-04-06,Thailand,#Global,2220.0,26.0,793.0,1401.0
 2020-04-06,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -19416,6 +19568,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-07,Chile,#Global,5116.0,43.0,898.0,4175.0
 2020-04-07,China (total),#Global,82718.0,3335.0,77410.0,1973.0
 2020-04-07,Colombia,#Global,1780.0,50.0,100.0,1630.0
+2020-04-07,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-07,Congo (Brazzaville),#Global,45.0,5.0,2.0,38.0
 2020-04-07,Congo (Kinshasa),#Global,180.0,18.0,9.0,153.0
 2020-04-07,Costa Rica,#Global,483.0,2.0,24.0,457.0
@@ -19545,6 +19698,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-07,Switzerland,#Global,22253.0,821.0,8704.0,12728.0
 2020-04-07,Syria,#Global,19.0,2.0,3.0,14.0
 2020-04-07,Taiwan*,#Global,376.0,5.0,57.0,314.0
+2020-04-07,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-07,Tanzania,#Global,24.0,1.0,5.0,18.0
 2020-04-07,Thailand,#Global,2258.0,27.0,888.0,1343.0
 2020-04-07,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -19671,6 +19825,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-08,Chile,#Global,5546.0,48.0,1115.0,4383.0
 2020-04-08,China (total),#Global,82809.0,3337.0,77567.0,1905.0
 2020-04-08,Colombia,#Global,2054.0,54.0,123.0,1877.0
+2020-04-08,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-08,Congo (Brazzaville),#Global,45.0,5.0,2.0,38.0
 2020-04-08,Congo (Kinshasa),#Global,180.0,18.0,9.0,153.0
 2020-04-08,Costa Rica,#Global,502.0,3.0,29.0,470.0
@@ -19800,6 +19955,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-08,Switzerland,#Global,23280.0,895.0,9800.0,12585.0
 2020-04-08,Syria,#Global,19.0,2.0,4.0,13.0
 2020-04-08,Taiwan*,#Global,379.0,5.0,61.0,313.0
+2020-04-08,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-08,Tanzania,#Global,25.0,1.0,5.0,19.0
 2020-04-08,Thailand,#Global,2369.0,30.0,888.0,1451.0
 2020-04-08,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -19926,6 +20082,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-09,Chile,#Global,5972.0,57.0,1274.0,4641.0
 2020-04-09,China (total),#Global,82883.0,3339.0,77679.0,1865.0
 2020-04-09,Colombia,#Global,2223.0,69.0,174.0,1980.0
+2020-04-09,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-09,Congo (Brazzaville),#Global,60.0,5.0,5.0,50.0
 2020-04-09,Congo (Kinshasa),#Global,180.0,18.0,9.0,153.0
 2020-04-09,Costa Rica,#Global,539.0,3.0,30.0,506.0
@@ -20055,6 +20212,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-09,Switzerland,#Global,24051.0,948.0,10600.0,12503.0
 2020-04-09,Syria,#Global,19.0,2.0,4.0,13.0
 2020-04-09,Taiwan*,#Global,380.0,5.0,67.0,308.0
+2020-04-09,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-09,Tanzania,#Global,25.0,1.0,5.0,19.0
 2020-04-09,Thailand,#Global,2423.0,32.0,940.0,1451.0
 2020-04-09,Timor-Leste,#Global,1.0,0.0,0.0,1.0
@@ -20181,6 +20339,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-10,Chile,#Global,6501.0,65.0,1571.0,4865.0
 2020-04-10,China (total),#Global,82941.0,3340.0,77791.0,1810.0
 2020-04-10,Colombia,#Global,2473.0,80.0,197.0,2196.0
+2020-04-10,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-10,Congo (Brazzaville),#Global,60.0,5.0,5.0,50.0
 2020-04-10,Congo (Kinshasa),#Global,215.0,20.0,13.0,182.0
 2020-04-10,Costa Rica,#Global,558.0,3.0,42.0,513.0
@@ -20310,6 +20469,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-10,Switzerland,#Global,24551.0,1002.0,11100.0,12449.0
 2020-04-10,Syria,#Global,19.0,2.0,4.0,13.0
 2020-04-10,Taiwan*,#Global,382.0,6.0,91.0,285.0
+2020-04-10,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-10,Tanzania,#Global,32.0,3.0,5.0,24.0
 2020-04-10,Thailand,#Global,2473.0,33.0,1013.0,1427.0
 2020-04-10,Timor-Leste,#Global,2.0,0.0,1.0,1.0
@@ -20436,6 +20596,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-11,Chile,#Global,6927.0,73.0,1864.0,4990.0
 2020-04-11,China (total),#Global,83014.0,3343.0,77877.0,1794.0
 2020-04-11,Colombia,#Global,2709.0,100.0,214.0,2395.0
+2020-04-11,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-11,Congo (Brazzaville),#Global,60.0,5.0,5.0,50.0
 2020-04-11,Congo (Kinshasa),#Global,223.0,20.0,16.0,187.0
 2020-04-11,Costa Rica,#Global,577.0,3.0,49.0,525.0
@@ -20565,6 +20726,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-11,Switzerland,#Global,25107.0,1036.0,12100.0,11971.0
 2020-04-11,Syria,#Global,25.0,2.0,5.0,18.0
 2020-04-11,Taiwan*,#Global,385.0,6.0,99.0,280.0
+2020-04-11,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-11,Tanzania,#Global,32.0,3.0,5.0,24.0
 2020-04-11,Thailand,#Global,2518.0,35.0,1135.0,1348.0
 2020-04-11,Timor-Leste,#Global,2.0,0.0,1.0,1.0
@@ -20691,6 +20853,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-12,Chile,#Global,7213.0,80.0,2059.0,5074.0
 2020-04-12,China (total),#Global,83134.0,3343.0,77956.0,1835.0
 2020-04-12,Colombia,#Global,2776.0,109.0,270.0,2397.0
+2020-04-12,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-12,Congo (Brazzaville),#Global,60.0,5.0,5.0,50.0
 2020-04-12,Congo (Kinshasa),#Global,234.0,20.0,16.0,198.0
 2020-04-12,Costa Rica,#Global,595.0,3.0,56.0,536.0
@@ -20820,6 +20983,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-12,Switzerland,#Global,25415.0,1106.0,12700.0,11609.0
 2020-04-12,Syria,#Global,25.0,2.0,5.0,18.0
 2020-04-12,Taiwan*,#Global,388.0,6.0,109.0,273.0
+2020-04-12,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-12,Tanzania,#Global,32.0,3.0,5.0,24.0
 2020-04-12,Thailand,#Global,2551.0,38.0,1218.0,1295.0
 2020-04-12,Timor-Leste,#Global,2.0,0.0,1.0,1.0
@@ -20946,6 +21110,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-13,Chile,#Global,7525.0,82.0,2367.0,5076.0
 2020-04-13,China (total),#Global,83213.0,3345.0,78039.0,1829.0
 2020-04-13,Colombia,#Global,2852.0,112.0,319.0,2421.0
+2020-04-13,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-13,Congo (Brazzaville),#Global,60.0,5.0,5.0,50.0
 2020-04-13,Congo (Kinshasa),#Global,235.0,20.0,17.0,198.0
 2020-04-13,Costa Rica,#Global,612.0,3.0,62.0,547.0
@@ -21075,6 +21240,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-13,Switzerland,#Global,25688.0,1138.0,13700.0,10850.0
 2020-04-13,Syria,#Global,25.0,2.0,5.0,18.0
 2020-04-13,Taiwan*,#Global,393.0,6.0,109.0,278.0
+2020-04-13,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-13,Tanzania,#Global,49.0,3.0,7.0,39.0
 2020-04-13,Thailand,#Global,2579.0,40.0,1288.0,1251.0
 2020-04-13,Timor-Leste,#Global,4.0,0.0,1.0,3.0
@@ -21201,6 +21367,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-14,Chile,#Global,7917.0,92.0,2646.0,5179.0
 2020-04-14,China (total),#Global,83306.0,3345.0,78200.0,1761.0
 2020-04-14,Colombia,#Global,2979.0,127.0,354.0,2498.0
+2020-04-14,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-14,Congo (Brazzaville),#Global,60.0,5.0,5.0,50.0
 2020-04-14,Congo (Kinshasa),#Global,241.0,20.0,20.0,201.0
 2020-04-14,Costa Rica,#Global,618.0,3.0,66.0,549.0
@@ -21330,6 +21497,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-14,Switzerland,#Global,25936.0,1174.0,13700.0,11062.0
 2020-04-14,Syria,#Global,29.0,2.0,5.0,22.0
 2020-04-14,Taiwan*,#Global,393.0,6.0,124.0,263.0
+2020-04-14,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-14,Tanzania,#Global,53.0,3.0,7.0,43.0
 2020-04-14,Thailand,#Global,2613.0,41.0,1405.0,1167.0
 2020-04-14,Timor-Leste,#Global,6.0,0.0,1.0,5.0
@@ -21456,6 +21624,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,Chile,#Global,8273.0,94.0,2937.0,5242.0
 2020-04-15,China (total),#Global,83356.0,3346.0,78311.0,1699.0
 2020-04-15,Colombia,#Global,3105.0,131.0,452.0,2522.0
+2020-04-15,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-15,Congo (Brazzaville),#Global,117.0,5.0,11.0,101.0
 2020-04-15,Congo (Kinshasa),#Global,254.0,21.0,21.0,212.0
 2020-04-15,Costa Rica,#Global,626.0,4.0,67.0,555.0
@@ -21585,6 +21754,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,Switzerland,#Global,26336.0,1239.0,15400.0,9697.0
 2020-04-15,Syria,#Global,33.0,2.0,5.0,26.0
 2020-04-15,Taiwan*,#Global,395.0,6.0,124.0,265.0
+2020-04-15,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-15,Tanzania,#Global,88.0,4.0,11.0,73.0
 2020-04-15,Thailand,#Global,2643.0,43.0,1497.0,1103.0
 2020-04-15,Timor-Leste,#Global,8.0,0.0,1.0,7.0
@@ -21711,6 +21881,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,Chile,#Global,8807.0,105.0,3299.0,5403.0
 2020-04-16,China (total),#Global,83403.0,3346.0,78401.0,1656.0
 2020-04-16,Colombia,#Global,3233.0,144.0,550.0,2539.0
+2020-04-16,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-16,Congo (Brazzaville),#Global,117.0,5.0,11.0,101.0
 2020-04-16,Congo (Kinshasa),#Global,267.0,22.0,23.0,222.0
 2020-04-16,Costa Rica,#Global,642.0,4.0,74.0,564.0
@@ -21840,6 +22011,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,Switzerland,#Global,26732.0,1281.0,15900.0,9551.0
 2020-04-16,Syria,#Global,33.0,2.0,5.0,26.0
 2020-04-16,Taiwan*,#Global,395.0,6.0,155.0,234.0
+2020-04-16,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-16,Tanzania,#Global,94.0,4.0,11.0,79.0
 2020-04-16,Thailand,#Global,2672.0,46.0,1593.0,1033.0
 2020-04-16,Timor-Leste,#Global,18.0,0.0,1.0,17.0
@@ -21966,6 +22138,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,Chile,#Global,9252.0,116.0,3621.0,5515.0
 2020-04-17,China (total),#Global,83760.0,4636.0,77552.0,1572.0
 2020-04-17,Colombia,#Global,3439.0,153.0,634.0,2652.0
+2020-04-17,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-17,Congo (Brazzaville),#Global,143.0,6.0,11.0,126.0
 2020-04-17,Congo (Kinshasa),#Global,287.0,23.0,25.0,239.0
 2020-04-17,Costa Rica,#Global,649.0,4.0,88.0,557.0
@@ -22095,6 +22268,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,Switzerland,#Global,27078.0,1327.0,16400.0,9351.0
 2020-04-17,Syria,#Global,38.0,2.0,5.0,31.0
 2020-04-17,Taiwan*,#Global,395.0,6.0,166.0,223.0
+2020-04-17,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-17,Tanzania,#Global,147.0,5.0,11.0,131.0
 2020-04-17,Thailand,#Global,2700.0,47.0,1689.0,964.0
 2020-04-17,Timor-Leste,#Global,18.0,0.0,1.0,17.0
@@ -22221,6 +22395,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Chile,#Global,9730.0,126.0,4035.0,5569.0
 2020-04-18,China (total),#Global,83787.0,4636.0,77614.0,1537.0
 2020-04-18,Colombia,#Global,3439.0,153.0,634.0,2652.0
+2020-04-18,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-18,Congo (Brazzaville),#Global,143.0,6.0,11.0,126.0
 2020-04-18,Congo (Kinshasa),#Global,307.0,25.0,26.0,256.0
 2020-04-18,Costa Rica,#Global,655.0,4.0,97.0,554.0
@@ -22350,6 +22525,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Switzerland,#Global,27404.0,1368.0,17100.0,8936.0
 2020-04-18,Syria,#Global,38.0,2.0,5.0,31.0
 2020-04-18,Taiwan*,#Global,398.0,6.0,178.0,214.0
+2020-04-18,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-18,Tanzania,#Global,147.0,5.0,11.0,131.0
 2020-04-18,Thailand,#Global,2733.0,47.0,1787.0,899.0
 2020-04-18,Timor-Leste,#Global,18.0,0.0,1.0,17.0
@@ -22476,6 +22652,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Chile,#Global,10088.0,133.0,4338.0,5617.0
 2020-04-19,China (total),#Global,83805.0,4636.0,77690.0,1479.0
 2020-04-19,Colombia,#Global,3792.0,179.0,711.0,2902.0
+2020-04-19,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-19,Congo (Brazzaville),#Global,143.0,6.0,11.0,126.0
 2020-04-19,Congo (Kinshasa),#Global,327.0,25.0,26.0,276.0
 2020-04-19,Costa Rica,#Global,660.0,5.0,112.0,543.0
@@ -22605,6 +22782,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Switzerland,#Global,27740.0,1393.0,17800.0,8547.0
 2020-04-19,Syria,#Global,39.0,3.0,5.0,31.0
 2020-04-19,Taiwan*,#Global,420.0,6.0,189.0,225.0
+2020-04-19,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-19,Tanzania,#Global,170.0,7.0,11.0,152.0
 2020-04-19,Thailand,#Global,2765.0,47.0,1928.0,790.0
 2020-04-19,Timor-Leste,#Global,19.0,0.0,1.0,18.0
@@ -22731,6 +22909,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Chile,#Global,10507.0,139.0,4676.0,5692.0
 2020-04-20,China (total),#Global,83817.0,4636.0,77745.0,1436.0
 2020-04-20,Colombia,#Global,3977.0,189.0,804.0,2984.0
+2020-04-20,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-20,Congo (Brazzaville),#Global,160.0,6.0,16.0,138.0
 2020-04-20,Congo (Kinshasa),#Global,332.0,25.0,27.0,280.0
 2020-04-20,Costa Rica,#Global,662.0,6.0,124.0,532.0
@@ -22860,6 +23039,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Switzerland,#Global,27944.0,1429.0,18600.0,7915.0
 2020-04-20,Syria,#Global,39.0,3.0,5.0,31.0
 2020-04-20,Taiwan*,#Global,422.0,6.0,203.0,213.0
+2020-04-20,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-20,Tanzania,#Global,254.0,10.0,11.0,233.0
 2020-04-20,Thailand,#Global,2792.0,47.0,1999.0,746.0
 2020-04-20,Timor-Leste,#Global,22.0,0.0,1.0,21.0
@@ -22986,6 +23166,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Chile,#Global,10832.0,147.0,4969.0,5716.0
 2020-04-21,China (total),#Global,83853.0,4636.0,77799.0,1418.0
 2020-04-21,Colombia,#Global,4149.0,196.0,804.0,3149.0
+2020-04-21,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-21,Congo (Brazzaville),#Global,165.0,6.0,16.0,143.0
 2020-04-21,Congo (Kinshasa),#Global,350.0,25.0,35.0,290.0
 2020-04-21,Costa Rica,#Global,669.0,6.0,150.0,513.0
@@ -23115,6 +23296,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Switzerland,#Global,28063.0,1478.0,19400.0,7185.0
 2020-04-21,Syria,#Global,42.0,3.0,6.0,33.0
 2020-04-21,Taiwan*,#Global,425.0,6.0,217.0,202.0
+2020-04-21,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-21,Tanzania,#Global,254.0,10.0,11.0,233.0
 2020-04-21,Thailand,#Global,2811.0,48.0,2108.0,655.0
 2020-04-21,Timor-Leste,#Global,23.0,0.0,1.0,22.0
@@ -23241,6 +23423,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Chile,#Global,11296.0,160.0,5386.0,5750.0
 2020-04-22,China (total),#Global,83868.0,4636.0,77861.0,1371.0
 2020-04-22,Colombia,#Global,4356.0,206.0,870.0,3280.0
+2020-04-22,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-22,Congo (Brazzaville),#Global,186.0,6.0,16.0,164.0
 2020-04-22,Congo (Kinshasa),#Global,359.0,25.0,45.0,289.0
 2020-04-22,Costa Rica,#Global,681.0,6.0,180.0,495.0
@@ -23370,6 +23553,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Switzerland,#Global,28268.0,1509.0,19900.0,6859.0
 2020-04-22,Syria,#Global,42.0,3.0,6.0,33.0
 2020-04-22,Taiwan*,#Global,426.0,6.0,236.0,184.0
+2020-04-22,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-22,Tanzania,#Global,284.0,10.0,11.0,263.0
 2020-04-22,Thailand,#Global,2826.0,49.0,2352.0,425.0
 2020-04-22,Timor-Leste,#Global,23.0,0.0,1.0,22.0
@@ -23496,6 +23680,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,Chile,#Global,11812.0,168.0,5804.0,5840.0
 2020-04-23,China (total),#Global,83884.0,4636.0,77983.0,1265.0
 2020-04-23,Colombia,#Global,4561.0,215.0,927.0,3419.0
+2020-04-23,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-23,Congo (Brazzaville),#Global,186.0,6.0,16.0,164.0
 2020-04-23,Congo (Kinshasa),#Global,377.0,25.0,47.0,305.0
 2020-04-23,Costa Rica,#Global,686.0,6.0,196.0,484.0
@@ -23625,6 +23810,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,Switzerland,#Global,28496.0,1549.0,20600.0,6347.0
 2020-04-23,Syria,#Global,42.0,3.0,6.0,33.0
 2020-04-23,Taiwan*,#Global,427.0,6.0,253.0,168.0
+2020-04-23,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-23,Tanzania,#Global,284.0,10.0,11.0,263.0
 2020-04-23,Thailand,#Global,2839.0,50.0,2430.0,359.0
 2020-04-23,Timor-Leste,#Global,23.0,0.0,1.0,22.0
@@ -23751,6 +23937,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Chile,#Global,12306.0,174.0,6327.0,5805.0
 2020-04-24,China (total),#Global,83899.0,4636.0,78109.0,1154.0
 2020-04-24,Colombia,#Global,4881.0,225.0,1003.0,3653.0
+2020-04-24,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-24,Congo (Brazzaville),#Global,200.0,6.0,19.0,175.0
 2020-04-24,Congo (Kinshasa),#Global,394.0,25.0,48.0,321.0
 2020-04-24,Costa Rica,#Global,687.0,6.0,216.0,465.0
@@ -23880,6 +24067,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Switzerland,#Global,28677.0,1589.0,21000.0,6088.0
 2020-04-24,Syria,#Global,42.0,3.0,6.0,33.0
 2020-04-24,Taiwan*,#Global,428.0,6.0,264.0,158.0
+2020-04-24,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-24,Tanzania,#Global,299.0,10.0,48.0,241.0
 2020-04-24,Thailand,#Global,2907.0,51.0,2547.0,309.0
 2020-04-24,Timor-Leste,#Global,24.0,0.0,2.0,22.0
@@ -24006,6 +24194,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-25,Chile,#Global,12858.0,181.0,6746.0,5931.0
 2020-04-25,China (total),#Global,83909.0,4636.0,78175.0,1098.0
 2020-04-25,Colombia,#Global,5142.0,233.0,1067.0,3842.0
+2020-04-25,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-25,Congo (Brazzaville),#Global,200.0,6.0,19.0,175.0
 2020-04-25,Congo (Kinshasa),#Global,416.0,28.0,49.0,339.0
 2020-04-25,Costa Rica,#Global,693.0,6.0,242.0,445.0
@@ -24135,6 +24324,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-25,Switzerland,#Global,28894.0,1599.0,21300.0,5995.0
 2020-04-25,Syria,#Global,42.0,3.0,11.0,28.0
 2020-04-25,Taiwan*,#Global,429.0,6.0,275.0,148.0
+2020-04-25,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-25,Tanzania,#Global,299.0,10.0,48.0,241.0
 2020-04-25,Thailand,#Global,2907.0,51.0,2547.0,309.0
 2020-04-25,Timor-Leste,#Global,24.0,0.0,2.0,22.0
@@ -24261,6 +24451,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-26,Chile,#Global,13331.0,189.0,7024.0,6118.0
 2020-04-26,China (total),#Global,83912.0,4637.0,78277.0,998.0
 2020-04-26,Colombia,#Global,5379.0,244.0,1133.0,4002.0
+2020-04-26,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-26,Congo (Brazzaville),#Global,200.0,6.0,19.0,175.0
 2020-04-26,Congo (Kinshasa),#Global,442.0,28.0,50.0,364.0
 2020-04-26,Costa Rica,#Global,695.0,6.0,264.0,425.0
@@ -24390,6 +24581,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-26,Switzerland,#Global,29061.0,1610.0,21800.0,5651.0
 2020-04-26,Syria,#Global,43.0,3.0,14.0,26.0
 2020-04-26,Taiwan*,#Global,429.0,6.0,281.0,142.0
+2020-04-26,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-26,Tanzania,#Global,299.0,10.0,48.0,241.0
 2020-04-26,Thailand,#Global,2922.0,51.0,2594.0,277.0
 2020-04-26,Timor-Leste,#Global,24.0,0.0,2.0,22.0
@@ -24516,6 +24708,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-27,Chile,#Global,13813.0,198.0,7327.0,6288.0
 2020-04-27,China (total),#Global,83918.0,4637.0,78374.0,907.0
 2020-04-27,Colombia,#Global,5597.0,253.0,1210.0,4134.0
+2020-04-27,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-27,Congo (Brazzaville),#Global,200.0,6.0,19.0,175.0
 2020-04-27,Congo (Kinshasa),#Global,459.0,28.0,50.0,381.0
 2020-04-27,Costa Rica,#Global,697.0,6.0,287.0,404.0
@@ -24645,6 +24838,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-27,Switzerland,#Global,29164.0,1665.0,22200.0,5299.0
 2020-04-27,Syria,#Global,43.0,3.0,19.0,21.0
 2020-04-27,Taiwan*,#Global,429.0,6.0,290.0,133.0
+2020-04-27,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-27,Tanzania,#Global,299.0,10.0,48.0,241.0
 2020-04-27,Thailand,#Global,2931.0,52.0,2609.0,270.0
 2020-04-27,Timor-Leste,#Global,24.0,0.0,2.0,22.0
@@ -24771,6 +24965,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-28,Chile,#Global,14365.0,207.0,7710.0,6448.0
 2020-04-28,China (total),#Global,83940.0,4637.0,78422.0,881.0
 2020-04-28,Colombia,#Global,5949.0,269.0,1268.0,4412.0
+2020-04-28,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-28,Congo (Brazzaville),#Global,207.0,8.0,19.0,180.0
 2020-04-28,Congo (Kinshasa),#Global,471.0,30.0,56.0,385.0
 2020-04-28,Costa Rica,#Global,705.0,6.0,306.0,393.0
@@ -24900,6 +25095,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-28,Switzerland,#Global,29264.0,1699.0,22600.0,4965.0
 2020-04-28,Syria,#Global,43.0,3.0,21.0,19.0
 2020-04-28,Taiwan*,#Global,429.0,6.0,307.0,116.0
+2020-04-28,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-28,Tanzania,#Global,299.0,10.0,48.0,241.0
 2020-04-28,Thailand,#Global,2938.0,54.0,2652.0,232.0
 2020-04-28,Timor-Leste,#Global,24.0,0.0,6.0,18.0
@@ -25026,6 +25222,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-29,Chile,#Global,14885.0,216.0,8057.0,6612.0
 2020-04-29,China (total),#Global,83944.0,4637.0,78474.0,833.0
 2020-04-29,Colombia,#Global,6207.0,278.0,1411.0,4518.0
+2020-04-29,Comoros,#Global,0.0,0.0,0.0,0.0
 2020-04-29,Congo (Brazzaville),#Global,207.0,8.0,19.0,180.0
 2020-04-29,Congo (Kinshasa),#Global,491.0,30.0,59.0,402.0
 2020-04-29,Costa Rica,#Global,713.0,6.0,323.0,384.0
@@ -25155,6 +25352,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-29,Switzerland,#Global,29407.0,1716.0,22600.0,5091.0
 2020-04-29,Syria,#Global,43.0,3.0,21.0,19.0
 2020-04-29,Taiwan*,#Global,429.0,6.0,311.0,112.0
+2020-04-29,Tajikistan,#Global,0.0,0.0,0.0,0.0
 2020-04-29,Tanzania,#Global,480.0,16.0,167.0,297.0
 2020-04-29,Thailand,#Global,2947.0,54.0,2665.0,228.0
 2020-04-29,Timor-Leste,#Global,24.0,0.0,6.0,18.0
@@ -25244,3 +25442,260 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-29,Isle of Man,United Kingdom,313.0,21.0,258.0,34.0
 2020-04-29,Montserrat,United Kingdom,11.0,1.0,2.0,8.0
 2020-04-29,Turks and Caicos Islands,United Kingdom,12.0,1.0,5.0,6.0
+2020-04-30,Afghanistan,#Global,2171.0,64.0,260.0,1847.0
+2020-04-30,Albania,#Global,773.0,31.0,470.0,272.0
+2020-04-30,Algeria,#Global,4006.0,450.0,1779.0,1777.0
+2020-04-30,Andorra,#Global,745.0,42.0,468.0,235.0
+2020-04-30,Angola,#Global,27.0,2.0,7.0,18.0
+2020-04-30,Antigua and Barbuda,#Global,24.0,3.0,11.0,10.0
+2020-04-30,Argentina,#Global,4428.0,218.0,1256.0,2954.0
+2020-04-30,Armenia,#Global,2066.0,32.0,929.0,1105.0
+2020-04-30,Australia (total),#Global,6766.0,93.0,5742.0,931.0
+2020-04-30,Austria,#Global,15452.0,584.0,12907.0,1961.0
+2020-04-30,Azerbaijan,#Global,1804.0,24.0,1325.0,455.0
+2020-04-30,Bahamas,#Global,81.0,11.0,25.0,45.0
+2020-04-30,Bahrain,#Global,3040.0,8.0,1500.0,1532.0
+2020-04-30,Bangladesh,#Global,7667.0,168.0,160.0,7339.0
+2020-04-30,Barbados,#Global,81.0,7.0,39.0,35.0
+2020-04-30,Belarus,#Global,14027.0,89.0,2386.0,11552.0
+2020-04-30,Belgium,#Global,48519.0,7594.0,11576.0,29349.0
+2020-04-30,Belize,#Global,18.0,2.0,9.0,7.0
+2020-04-30,Benin,#Global,64.0,1.0,33.0,30.0
+2020-04-30,Bhutan,#Global,7.0,0.0,5.0,2.0
+2020-04-30,Bolivia,#Global,1110.0,59.0,117.0,934.0
+2020-04-30,Bosnia and Herzegovina,#Global,1757.0,69.0,727.0,961.0
+2020-04-30,Botswana,#Global,23.0,1.0,5.0,17.0
+2020-04-30,Brazil,#Global,87187.0,6006.0,35935.0,45246.0
+2020-04-30,Brunei,#Global,138.0,1.0,124.0,13.0
+2020-04-30,Bulgaria,#Global,1506.0,66.0,266.0,1174.0
+2020-04-30,Burkina Faso,#Global,645.0,43.0,506.0,96.0
+2020-04-30,Burma,#Global,151.0,6.0,27.0,118.0
+2020-04-30,Burundi,#Global,11.0,1.0,4.0,6.0
+2020-04-30,Cabo Verde,#Global,121.0,1.0,4.0,116.0
+2020-04-30,Cambodia,#Global,122.0,0.0,119.0,3.0
+2020-04-30,Cameroon,#Global,1832.0,61.0,934.0,837.0
+2020-04-30,Central African Republic,#Global,50.0,0.0,10.0,40.0
+2020-04-30,Chad,#Global,73.0,5.0,33.0,35.0
+2020-04-30,Chile,#Global,16023.0,227.0,8580.0,7216.0
+2020-04-30,China (total),#Global,83956.0,4637.0,78523.0,796.0
+2020-04-30,Colombia,#Global,6507.0,293.0,1439.0,4775.0
+2020-04-30,Comoros,#Global,1.0,0.0,0.0,1.0
+2020-04-30,Congo (Brazzaville),#Global,220.0,9.0,19.0,192.0
+2020-04-30,Congo (Kinshasa),#Global,572.0,31.0,73.0,468.0
+2020-04-30,Costa Rica,#Global,719.0,6.0,338.0,375.0
+2020-04-30,Cote d'Ivoire,#Global,1275.0,14.0,574.0,687.0
+2020-04-30,Croatia,#Global,2076.0,69.0,1348.0,659.0
+2020-04-30,Cuba,#Global,1501.0,61.0,681.0,759.0
+2020-04-30,Cyprus,#Global,850.0,15.0,296.0,539.0
+2020-04-30,Czechia,#Global,7682.0,236.0,3314.0,4132.0
+2020-04-30,Denmark,#Global,9158.0,452.0,6546.0,2160.0
+2020-04-30,Denmark (total),#Global,198.0,0.0,195.0,3.0
+2020-04-30,Diamond Princess,#Global,712.0,13.0,645.0,54.0
+2020-04-30,Djibouti,#Global,1089.0,2.0,642.0,445.0
+2020-04-30,Dominica,#Global,16.0,0.0,13.0,3.0
+2020-04-30,Dominican Republic,#Global,6972.0,301.0,1301.0,5370.0
+2020-04-30,Ecuador,#Global,24934.0,900.0,1558.0,22476.0
+2020-04-30,Egypt,#Global,5537.0,392.0,1381.0,3764.0
+2020-04-30,El Salvador,#Global,395.0,10.0,119.0,266.0
+2020-04-30,Equatorial Guinea,#Global,315.0,1.0,9.0,305.0
+2020-04-30,Eritrea,#Global,39.0,0.0,26.0,13.0
+2020-04-30,Estonia,#Global,1689.0,52.0,249.0,1388.0
+2020-04-30,Eswatini,#Global,100.0,1.0,12.0,87.0
+2020-04-30,Ethiopia,#Global,131.0,3.0,59.0,69.0
+2020-04-30,Fiji,#Global,18.0,0.0,12.0,6.0
+2020-04-30,Finland,#Global,4995.0,211.0,3000.0,1784.0
+2020-04-30,France,#Global,165764.0,24376.0,49476.0,91912.0
+2020-04-30,France (total),#Global,1535.0,34.0,904.0,597.0
+2020-04-30,Gabon,#Global,276.0,3.0,67.0,206.0
+2020-04-30,Gambia,#Global,11.0,1.0,8.0,2.0
+2020-04-30,Georgia,#Global,539.0,6.0,184.0,349.0
+2020-04-30,Germany,#Global,163009.0,6623.0,123500.0,32886.0
+2020-04-30,Ghana,#Global,2074.0,17.0,212.0,1845.0
+2020-04-30,Greece,#Global,2591.0,140.0,1374.0,1077.0
+2020-04-30,Grenada,#Global,20.0,0.0,13.0,7.0
+2020-04-30,Guatemala,#Global,599.0,16.0,66.0,517.0
+2020-04-30,Guinea,#Global,1495.0,7.0,329.0,1159.0
+2020-04-30,Guinea-Bissau,#Global,205.0,1.0,19.0,185.0
+2020-04-30,Guyana,#Global,82.0,9.0,22.0,51.0
+2020-04-30,Haiti,#Global,81.0,8.0,8.0,65.0
+2020-04-30,Holy See,#Global,11.0,0.0,2.0,9.0
+2020-04-30,Honduras,#Global,771.0,71.0,79.0,621.0
+2020-04-30,Hungary,#Global,2775.0,312.0,581.0,1882.0
+2020-04-30,Iceland,#Global,1797.0,10.0,1670.0,117.0
+2020-04-30,India,#Global,34863.0,1154.0,9068.0,24641.0
+2020-04-30,Indonesia,#Global,10118.0,792.0,1522.0,7804.0
+2020-04-30,Iran,#Global,94640.0,6028.0,75103.0,13509.0
+2020-04-30,Iraq,#Global,2085.0,93.0,1375.0,617.0
+2020-04-30,Ireland,#Global,20612.0,1232.0,13386.0,5994.0
+2020-04-30,Israel,#Global,15946.0,222.0,8561.0,7163.0
+2020-04-30,Italy,#Global,205463.0,27967.0,75945.0,101551.0
+2020-04-30,Jamaica,#Global,422.0,8.0,29.0,385.0
+2020-04-30,Japan,#Global,14088.0,430.0,2460.0,11198.0
+2020-04-30,Jordan,#Global,453.0,8.0,362.0,83.0
+2020-04-30,Kazakhstan,#Global,3402.0,25.0,866.0,2511.0
+2020-04-30,Kenya,#Global,396.0,17.0,144.0,235.0
+2020-04-30,"Korea, South",#Global,10774.0,248.0,9072.0,1454.0
+2020-04-30,Kosovo,#Global,799.0,22.0,249.0,528.0
+2020-04-30,Kuwait,#Global,4024.0,26.0,1539.0,2459.0
+2020-04-30,Kyrgyzstan,#Global,746.0,8.0,462.0,276.0
+2020-04-30,Laos,#Global,19.0,0.0,8.0,11.0
+2020-04-30,Latvia,#Global,858.0,15.0,348.0,495.0
+2020-04-30,Lebanon,#Global,725.0,24.0,150.0,551.0
+2020-04-30,Liberia,#Global,141.0,16.0,45.0,80.0
+2020-04-30,Libya,#Global,61.0,3.0,18.0,40.0
+2020-04-30,Liechtenstein,#Global,82.0,1.0,55.0,26.0
+2020-04-30,Lithuania,#Global,1385.0,45.0,589.0,751.0
+2020-04-30,Luxembourg,#Global,3784.0,90.0,3213.0,481.0
+2020-04-30,MS Zaandam,#Global,9.0,2.0,0.0,7.0
+2020-04-30,Madagascar,#Global,128.0,0.0,92.0,36.0
+2020-04-30,Malawi,#Global,37.0,3.0,7.0,27.0
+2020-04-30,Malaysia,#Global,6002.0,102.0,4171.0,1729.0
+2020-04-30,Maldives,#Global,468.0,1.0,17.0,450.0
+2020-04-30,Mali,#Global,490.0,26.0,135.0,329.0
+2020-04-30,Malta,#Global,465.0,4.0,351.0,110.0
+2020-04-30,Mauritania,#Global,8.0,1.0,6.0,1.0
+2020-04-30,Mauritius,#Global,332.0,10.0,310.0,12.0
+2020-04-30,Mexico,#Global,19224.0,1859.0,11423.0,5942.0
+2020-04-30,Moldova,#Global,3897.0,116.0,1182.0,2599.0
+2020-04-30,Monaco,#Global,95.0,4.0,64.0,27.0
+2020-04-30,Mongolia,#Global,38.0,0.0,10.0,28.0
+2020-04-30,Montenegro,#Global,322.0,7.0,214.0,101.0
+2020-04-30,Morocco,#Global,4423.0,170.0,984.0,3269.0
+2020-04-30,Mozambique,#Global,76.0,0.0,12.0,64.0
+2020-04-30,Namibia,#Global,16.0,0.0,8.0,8.0
+2020-04-30,Nepal,#Global,57.0,0.0,16.0,41.0
+2020-04-30,Netherlands,#Global,39316.0,4795.0,0.0,34521.0
+2020-04-30,Netherlands (total),#Global,196.0,16.0,125.0,55.0
+2020-04-30,New Zealand,#Global,1479.0,19.0,1252.0,208.0
+2020-04-30,Nicaragua,#Global,14.0,3.0,7.0,4.0
+2020-04-30,Niger,#Global,719.0,32.0,452.0,235.0
+2020-04-30,Nigeria,#Global,1932.0,58.0,319.0,1555.0
+2020-04-30,North Macedonia,#Global,1465.0,77.0,738.0,650.0
+2020-04-30,Norway,#Global,7738.0,210.0,32.0,7496.0
+2020-04-30,Oman,#Global,2348.0,11.0,495.0,1842.0
+2020-04-30,Pakistan,#Global,16817.0,385.0,4315.0,12117.0
+2020-04-30,Panama,#Global,6532.0,188.0,576.0,5768.0
+2020-04-30,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
+2020-04-30,Paraguay,#Global,266.0,10.0,113.0,143.0
+2020-04-30,Peru,#Global,36976.0,1051.0,10405.0,25520.0
+2020-04-30,Philippines,#Global,8488.0,568.0,1043.0,6877.0
+2020-04-30,Poland,#Global,12877.0,644.0,3236.0,8997.0
+2020-04-30,Portugal,#Global,25045.0,989.0,1519.0,22537.0
+2020-04-30,Qatar,#Global,13409.0,10.0,1372.0,12027.0
+2020-04-30,Romania,#Global,12240.0,717.0,4017.0,7506.0
+2020-04-30,Russia,#Global,106498.0,1073.0,11619.0,93806.0
+2020-04-30,Rwanda,#Global,243.0,0.0,104.0,139.0
+2020-04-30,Saint Kitts and Nevis,#Global,15.0,0.0,6.0,9.0
+2020-04-30,Saint Lucia,#Global,17.0,0.0,15.0,2.0
+2020-04-30,Saint Vincent and the Grenadines,#Global,16.0,0.0,8.0,8.0
+2020-04-30,San Marino,#Global,569.0,41.0,78.0,450.0
+2020-04-30,Sao Tome and Principe,#Global,14.0,0.0,4.0,10.0
+2020-04-30,Saudi Arabia,#Global,22753.0,162.0,3163.0,19428.0
+2020-04-30,Senegal,#Global,933.0,9.0,334.0,590.0
+2020-04-30,Serbia,#Global,9009.0,179.0,1343.0,7487.0
+2020-04-30,Seychelles,#Global,11.0,0.0,6.0,5.0
+2020-04-30,Sierra Leone,#Global,124.0,7.0,21.0,96.0
+2020-04-30,Singapore,#Global,16169.0,15.0,1244.0,14910.0
+2020-04-30,Slovakia,#Global,1396.0,23.0,524.0,849.0
+2020-04-30,Slovenia,#Global,1429.0,91.0,233.0,1105.0
+2020-04-30,Somalia,#Global,601.0,28.0,31.0,542.0
+2020-04-30,South Africa,#Global,5647.0,103.0,2073.0,3471.0
+2020-04-30,South Sudan,#Global,35.0,0.0,0.0,35.0
+2020-04-30,Spain,#Global,213435.0,24543.0,112050.0,76842.0
+2020-04-30,Sri Lanka,#Global,663.0,7.0,154.0,502.0
+2020-04-30,Sudan,#Global,442.0,31.0,39.0,372.0
+2020-04-30,Suriname,#Global,10.0,1.0,8.0,1.0
+2020-04-30,Sweden,#Global,21092.0,2586.0,1005.0,17501.0
+2020-04-30,Switzerland,#Global,29586.0,1737.0,23400.0,4449.0
+2020-04-30,Syria,#Global,43.0,3.0,21.0,19.0
+2020-04-30,Taiwan*,#Global,429.0,6.0,322.0,101.0
+2020-04-30,Tajikistan,#Global,15.0,0.0,0.0,15.0
+2020-04-30,Tanzania,#Global,480.0,16.0,167.0,297.0
+2020-04-30,Thailand,#Global,2954.0,54.0,2684.0,216.0
+2020-04-30,Timor-Leste,#Global,24.0,0.0,16.0,8.0
+2020-04-30,Togo,#Global,116.0,9.0,65.0,42.0
+2020-04-30,Trinidad and Tobago,#Global,116.0,8.0,72.0,36.0
+2020-04-30,Tunisia,#Global,994.0,41.0,305.0,648.0
+2020-04-30,Turkey,#Global,120204.0,3174.0,48886.0,68144.0
+2020-04-30,US,#Global,1069424.0,62996.0,153947.0,852481.0
+2020-04-30,Uganda,#Global,83.0,0.0,52.0,31.0
+2020-04-30,Ukraine,#Global,10406.0,261.0,1238.0,8907.0
+2020-04-30,United Arab Emirates,#Global,12481.0,105.0,2429.0,9947.0
+2020-04-30,United Kingdom,#Global,171253.0,26771.0,0.0,144482.0
+2020-04-30,United Kingdom (total),#Global,1228.0,71.0,859.0,298.0
+2020-04-30,Uruguay,#Global,643.0,17.0,417.0,209.0
+2020-04-30,Uzbekistan,#Global,2039.0,9.0,1133.0,897.0
+2020-04-30,Venezuela,#Global,333.0,16.0,142.0,175.0
+2020-04-30,Vietnam,#Global,270.0,0.0,219.0,51.0
+2020-04-30,West Bank and Gaza,#Global,344.0,2.0,76.0,266.0
+2020-04-30,Western Sahara,#Global,6.0,0.0,5.0,1.0
+2020-04-30,Yemen,#Global,6.0,2.0,1.0,3.0
+2020-04-30,Zambia,#Global,106.0,3.0,55.0,48.0
+2020-04-30,Zimbabwe,#Global,40.0,4.0,5.0,31.0
+2020-04-30,Australian Capital Territory,Australia,106.0,3.0,103.0,0.0
+2020-04-30,New South Wales,Australia,3025.0,41.0,2293.0,691.0
+2020-04-30,Northern Territory,Australia,28.0,0.0,25.0,3.0
+2020-04-30,Queensland,Australia,1033.0,6.0,948.0,79.0
+2020-04-30,South Australia,Australia,438.0,4.0,420.0,14.0
+2020-04-30,Tasmania,Australia,221.0,13.0,153.0,55.0
+2020-04-30,Victoria,Australia,1364.0,18.0,1293.0,53.0
+2020-04-30,Western Australia,Australia,551.0,8.0,507.0,36.0
+2020-04-30,Anhui,China,991.0,6.0,985.0,0.0
+2020-04-30,Beijing,China,593.0,9.0,547.0,37.0
+2020-04-30,Chongqing,China,579.0,6.0,573.0,0.0
+2020-04-30,Fujian,China,356.0,1.0,353.0,2.0
+2020-04-30,Gansu,China,139.0,2.0,137.0,0.0
+2020-04-30,Guangdong,China,1588.0,8.0,1565.0,15.0
+2020-04-30,Guangxi,China,254.0,2.0,252.0,0.0
+2020-04-30,Guizhou,China,147.0,2.0,145.0,0.0
+2020-04-30,Hainan,China,168.0,6.0,162.0,0.0
+2020-04-30,Hebei,China,328.0,6.0,318.0,4.0
+2020-04-30,Heilongjiang,China,944.0,13.0,587.0,344.0
+2020-04-30,Henan,China,1276.0,22.0,1254.0,0.0
+2020-04-30,Hong Kong,China,1037.0,4.0,846.0,187.0
+2020-04-30,Hubei,China,68128.0,4512.0,63616.0,0.0
+2020-04-30,Hunan,China,1019.0,4.0,1015.0,0.0
+2020-04-30,Inner Mongolia,China,201.0,1.0,152.0,48.0
+2020-04-30,Jiangsu,China,653.0,0.0,650.0,3.0
+2020-04-30,Jiangxi,China,937.0,1.0,936.0,0.0
+2020-04-30,Jilin,China,111.0,1.0,101.0,9.0
+2020-04-30,Liaoning,China,146.0,2.0,143.0,1.0
+2020-04-30,Macau,China,45.0,0.0,35.0,10.0
+2020-04-30,Ningxia,China,75.0,0.0,75.0,0.0
+2020-04-30,Qinghai,China,18.0,0.0,18.0,0.0
+2020-04-30,Shaanxi,China,306.0,3.0,254.0,49.0
+2020-04-30,Shandong,China,787.0,7.0,772.0,8.0
+2020-04-30,Shanghai,China,652.0,7.0,599.0,46.0
+2020-04-30,Shanxi,China,197.0,0.0,172.0,25.0
+2020-04-30,Sichuan,China,561.0,3.0,558.0,0.0
+2020-04-30,Tianjin,China,190.0,3.0,184.0,3.0
+2020-04-30,Tibet,China,1.0,0.0,1.0,0.0
+2020-04-30,Xinjiang,China,76.0,3.0,73.0,0.0
+2020-04-30,Yunnan,China,185.0,2.0,181.0,2.0
+2020-04-30,Zhejiang,China,1268.0,1.0,1264.0,3.0
+2020-04-30,Faroe Islands,Denmark,187.0,0.0,184.0,3.0
+2020-04-30,Greenland,Denmark,11.0,0.0,11.0,0.0
+2020-04-30,French Guiana,France,126.0,1.0,94.0,31.0
+2020-04-30,French Polynesia,France,58.0,0.0,50.0,8.0
+2020-04-30,Guadeloupe,France,151.0,12.0,95.0,44.0
+2020-04-30,Martinique,France,178.0,14.0,83.0,81.0
+2020-04-30,Mayotte,France,539.0,4.0,235.0,300.0
+2020-04-30,New Caledonia,France,18.0,0.0,17.0,1.0
+2020-04-30,Reunion,France,420.0,0.0,300.0,120.0
+2020-04-30,Saint Barthelemy,France,6.0,0.0,6.0,0.0
+2020-04-30,Saint Pierre and Miquelon,France,1.0,0.0,0.0,1.0
+2020-04-30,St Martin,France,38.0,3.0,24.0,11.0
+2020-04-30,Aruba,Netherlands,100.0,2.0,79.0,19.0
+2020-04-30,"Bonaire, Sint Eustatius and Saba",Netherlands,5.0,0.0,0.0,5.0
+2020-04-30,Curacao,Netherlands,16.0,1.0,13.0,2.0
+2020-04-30,Sint Maarten,Netherlands,75.0,13.0,33.0,29.0
+2020-04-30,Anguilla,United Kingdom,3.0,0.0,3.0,0.0
+2020-04-30,Bermuda,United Kingdom,114.0,6.0,48.0,60.0
+2020-04-30,British Virgin Islands,United Kingdom,6.0,1.0,3.0,2.0
+2020-04-30,Cayman Islands,United Kingdom,73.0,1.0,10.0,62.0
+2020-04-30,Channel Islands,United Kingdom,537.0,40.0,386.0,111.0
+2020-04-30,Falkland Islands (Malvinas),United Kingdom,13.0,0.0,11.0,2.0
+2020-04-30,Gibraltar,United Kingdom,144.0,0.0,131.0,13.0
+2020-04-30,Isle of Man,United Kingdom,315.0,21.0,260.0,34.0
+2020-04-30,Montserrat,United Kingdom,11.0,1.0,2.0,8.0
+2020-04-30,Turks and Caicos Islands,United Kingdom,12.0,1.0,5.0,6.0
