@@ -21392,7 +21392,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-14,Ethiopia,#Global,82.0,3.0,14.0,65.0
 2020-04-14,Fiji,#Global,16.0,0.0,0.0,16.0
 2020-04-14,Finland,#Global,3161.0,64.0,300.0,2797.0
-2020-04-14,France,#Global,129257.0,15729.0,28805.0,84723.0
+2020-04-14,France,#Global,129257.0,15712.0,28512.0,85033.0
 2020-04-14,France (total),#Global,1108.0,19.0,293.0,796.0
 2020-04-14,Gabon,#Global,57.0,1.0,1.0,55.0
 2020-04-14,Gambia,#Global,9.0,1.0,2.0,6.0
@@ -21649,7 +21649,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,Ethiopia,#Global,85.0,3.0,15.0,67.0
 2020-04-15,Fiji,#Global,16.0,0.0,0.0,16.0
 2020-04-15,Finland,#Global,3237.0,72.0,300.0,2865.0
-2020-04-15,France,#Global,132473.0,17167.0,30955.0,84351.0
+2020-04-15,France,#Global,132473.0,17148.0,30440.0,84885.0
 2020-04-15,France (total),#Global,1112.0,21.0,515.0,576.0
 2020-04-15,Gabon,#Global,80.0,1.0,4.0,75.0
 2020-04-15,Gambia,#Global,9.0,1.0,2.0,6.0
@@ -21906,7 +21906,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,Ethiopia,#Global,92.0,3.0,15.0,74.0
 2020-04-16,Fiji,#Global,17.0,0.0,0.0,17.0
 2020-04-16,Finland,#Global,3369.0,75.0,1700.0,1594.0
-2020-04-16,France,#Global,144944.0,17920.0,32812.0,94212.0
+2020-04-16,France,#Global,144944.0,17901.0,32297.0,94746.0
 2020-04-16,France (total),#Global,1131.0,21.0,515.0,595.0
 2020-04-16,Gabon,#Global,80.0,1.0,4.0,75.0
 2020-04-16,Gambia,#Global,9.0,1.0,2.0,6.0
@@ -22163,7 +22163,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,Ethiopia,#Global,96.0,3.0,15.0,78.0
 2020-04-17,Fiji,#Global,17.0,0.0,0.0,17.0
 2020-04-17,Finland,#Global,3489.0,82.0,1700.0,1707.0
-2020-04-17,France,#Global,146923.0,18681.0,34420.0,93822.0
+2020-04-17,France,#Global,146923.0,18661.0,33834.0,94428.0
 2020-04-17,France (total),#Global,1161.0,22.0,586.0,553.0
 2020-04-17,Gabon,#Global,108.0,1.0,7.0,100.0
 2020-04-17,Gambia,#Global,9.0,1.0,2.0,6.0
@@ -22420,7 +22420,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Ethiopia,#Global,105.0,3.0,16.0,86.0
 2020-04-18,Fiji,#Global,17.0,0.0,0.0,17.0
 2020-04-18,Finland,#Global,3681.0,90.0,1700.0,1891.0
-2020-04-18,France,#Global,146906.0,19323.0,35983.0,91600.0
+2020-04-18,France,#Global,146906.0,19303.0,35379.0,92224.0
 2020-04-18,France (total),#Global,1180.0,22.0,604.0,554.0
 2020-04-18,Gabon,#Global,108.0,1.0,7.0,100.0
 2020-04-18,Gambia,#Global,9.0,1.0,2.0,6.0
@@ -22677,7 +22677,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Ethiopia,#Global,108.0,3.0,16.0,89.0
 2020-04-19,Fiji,#Global,17.0,0.0,0.0,17.0
 2020-04-19,Finland,#Global,3783.0,94.0,1700.0,1989.0
-2020-04-19,France,#Global,151808.0,19718.0,36578.0,95512.0
+2020-04-19,France,#Global,151808.0,19694.0,35973.0,96141.0
 2020-04-19,France (total),#Global,1203.0,26.0,605.0,572.0
 2020-04-19,Gabon,#Global,109.0,1.0,7.0,101.0
 2020-04-19,Gambia,#Global,10.0,1.0,2.0,7.0
@@ -22934,7 +22934,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Ethiopia,#Global,111.0,3.0,16.0,92.0
 2020-04-20,Fiji,#Global,18.0,0.0,3.0,15.0
 2020-04-20,Finland,#Global,3868.0,98.0,2000.0,1770.0
-2020-04-20,France,#Global,154188.0,20265.0,37409.0,96514.0
+2020-04-20,France,#Global,154188.0,20240.0,36782.0,97166.0
 2020-04-20,France (total),#Global,1205.0,27.0,627.0,551.0
 2020-04-20,Gabon,#Global,120.0,1.0,7.0,112.0
 2020-04-20,Gambia,#Global,10.0,1.0,2.0,7.0
@@ -23191,7 +23191,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Ethiopia,#Global,114.0,3.0,16.0,95.0
 2020-04-21,Fiji,#Global,18.0,0.0,3.0,15.0
 2020-04-21,Finland,#Global,4014.0,141.0,2000.0,1873.0
-2020-04-21,France,#Global,156921.0,20796.0,39181.0,96944.0
+2020-04-21,France,#Global,156921.0,20765.0,38543.0,97613.0
 2020-04-21,France (total),#Global,1247.0,33.0,638.0,576.0
 2020-04-21,Gabon,#Global,156.0,1.0,16.0,139.0
 2020-04-21,Gambia,#Global,10.0,1.0,2.0,7.0
@@ -23448,7 +23448,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Ethiopia,#Global,116.0,3.0,21.0,92.0
 2020-04-22,Fiji,#Global,18.0,0.0,8.0,10.0
 2020-04-22,Finland,#Global,4129.0,149.0,2000.0,1980.0
-2020-04-22,France,#Global,154715.0,21340.0,40657.0,92718.0
+2020-04-22,France,#Global,154715.0,21309.0,39988.0,93418.0
 2020-04-22,France (total),#Global,1265.0,33.0,669.0,563.0
 2020-04-22,Gabon,#Global,166.0,1.0,24.0,141.0
 2020-04-22,Gambia,#Global,10.0,1.0,2.0,7.0
@@ -23705,7 +23705,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,Ethiopia,#Global,116.0,3.0,21.0,92.0
 2020-04-23,Fiji,#Global,18.0,0.0,8.0,10.0
 2020-04-23,Finland,#Global,4284.0,172.0,2000.0,2112.0
-2020-04-23,France,#Global,157026.0,21856.0,42088.0,93082.0
+2020-04-23,France,#Global,157026.0,21825.0,41414.0,93787.0
 2020-04-23,France (total),#Global,1277.0,33.0,674.0,570.0
 2020-04-23,Gabon,#Global,167.0,2.0,24.0,141.0
 2020-04-23,Gambia,#Global,10.0,1.0,2.0,7.0
@@ -23962,7 +23962,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Ethiopia,#Global,117.0,3.0,25.0,89.0
 2020-04-24,Fiji,#Global,18.0,0.0,10.0,8.0
 2020-04-24,Finland,#Global,4395.0,177.0,2500.0,1718.0
-2020-04-24,France,#Global,158636.0,22245.0,43493.0,92898.0
+2020-04-24,France,#Global,158636.0,22214.0,42715.0,93707.0
 2020-04-24,France (total),#Global,1316.0,34.0,778.0,504.0
 2020-04-24,Gabon,#Global,172.0,3.0,26.0,143.0
 2020-04-24,Gambia,#Global,10.0,1.0,2.0,7.0
@@ -24219,7 +24219,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-25,Ethiopia,#Global,122.0,3.0,29.0,90.0
 2020-04-25,Fiji,#Global,18.0,0.0,10.0,8.0
 2020-04-25,Finland,#Global,4475.0,186.0,2500.0,1789.0
-2020-04-25,France,#Global,160292.0,22614.0,44594.0,93084.0
+2020-04-25,France,#Global,160292.0,22583.0,43816.0,93893.0
 2020-04-25,France (total),#Global,1352.0,34.0,778.0,540.0
 2020-04-25,Gabon,#Global,176.0,3.0,30.0,143.0
 2020-04-25,Gambia,#Global,10.0,1.0,8.0,1.0
@@ -24476,7 +24476,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-26,Ethiopia,#Global,123.0,3.0,41.0,79.0
 2020-04-26,Fiji,#Global,18.0,0.0,12.0,6.0
 2020-04-26,Finland,#Global,4576.0,190.0,2500.0,1886.0
-2020-04-26,France,#Global,160847.0,22856.0,44903.0,93088.0
+2020-04-26,France,#Global,160847.0,22825.0,44125.0,93897.0
 2020-04-26,France (total),#Global,1373.0,34.0,778.0,561.0
 2020-04-26,Gabon,#Global,176.0,3.0,30.0,143.0
 2020-04-26,Gambia,#Global,10.0,1.0,8.0,1.0
@@ -24733,7 +24733,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-27,Ethiopia,#Global,124.0,3.0,50.0,71.0
 2020-04-27,Fiji,#Global,18.0,0.0,12.0,6.0
 2020-04-27,Finland,#Global,4695.0,193.0,2500.0,2002.0
-2020-04-27,France,#Global,164589.0,23293.0,45513.0,95783.0
+2020-04-27,France,#Global,164589.0,23262.0,44733.0,96594.0
 2020-04-27,France (total),#Global,1374.0,34.0,780.0,560.0
 2020-04-27,Gabon,#Global,211.0,3.0,43.0,165.0
 2020-04-27,Gambia,#Global,10.0,1.0,8.0,1.0
@@ -24990,7 +24990,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-28,Ethiopia,#Global,126.0,3.0,50.0,73.0
 2020-04-28,Fiji,#Global,18.0,0.0,12.0,6.0
 2020-04-28,Finland,#Global,4740.0,199.0,2800.0,1741.0
-2020-04-28,France,#Global,167605.0,23660.0,46886.0,97059.0
+2020-04-28,France,#Global,167605.0,23629.0,45997.0,97979.0
 2020-04-28,France (total),#Global,1448.0,34.0,889.0,525.0
 2020-04-28,Gabon,#Global,238.0,3.0,53.0,182.0
 2020-04-28,Gambia,#Global,10.0,1.0,8.0,1.0
@@ -25247,7 +25247,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-29,Ethiopia,#Global,130.0,3.0,58.0,69.0
 2020-04-29,Fiji,#Global,18.0,0.0,12.0,6.0
 2020-04-29,Finland,#Global,4906.0,206.0,2800.0,1900.0
-2020-04-29,France,#Global,165093.0,24087.0,48228.0,92778.0
+2020-04-29,France,#Global,165093.0,24056.0,47338.0,93699.0
 2020-04-29,France (total),#Global,1450.0,34.0,890.0,526.0
 2020-04-29,Gabon,#Global,276.0,3.0,67.0,206.0
 2020-04-29,Gambia,#Global,10.0,1.0,8.0,1.0
@@ -25504,7 +25504,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-30,Ethiopia,#Global,131.0,3.0,59.0,69.0
 2020-04-30,Fiji,#Global,18.0,0.0,12.0,6.0
 2020-04-30,Finland,#Global,4995.0,211.0,3000.0,1784.0
-2020-04-30,France,#Global,165764.0,24376.0,49476.0,91912.0
+2020-04-30,France,#Global,165764.0,24345.0,48572.0,92847.0
 2020-04-30,France (total),#Global,1535.0,34.0,904.0,597.0
 2020-04-30,Gabon,#Global,276.0,3.0,67.0,206.0
 2020-04-30,Gambia,#Global,11.0,1.0,8.0,2.0
@@ -25761,7 +25761,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-01,Ethiopia,#Global,133.0,3.0,66.0,64.0
 2020-05-01,Fiji,#Global,18.0,0.0,12.0,6.0
 2020-05-01,Finland,#Global,5051.0,218.0,3000.0,1833.0
-2020-05-01,France,#Global,165764.0,24594.0,50212.0,90958.0
+2020-05-01,France,#Global,165764.0,24563.0,49300.0,91901.0
 2020-05-01,France (total),#Global,1541.0,34.0,912.0,595.0
 2020-05-01,Gabon,#Global,276.0,3.0,67.0,206.0
 2020-05-01,Gambia,#Global,12.0,1.0,8.0,3.0
