@@ -21001,7 +21001,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-12,Uzbekistan,#Global,865.0,4.0,66.0,795.0
 2020-04-12,Venezuela,#Global,181.0,9.0,93.0,79.0
 2020-04-12,Vietnam,#Global,262.0,0.0,144.0,118.0
-2020-04-12,West Bank and Gaza,#Global,290.0,2.0,58.0,230.0
+2020-04-12,West Bank and Gaza,#Global,271.0,2.0,58.0,211.0
 2020-04-12,Western Sahara,#Global,6.0,0.0,0.0,6.0
 2020-04-12,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-12,Zambia,#Global,43.0,2.0,30.0,11.0
@@ -21258,7 +21258,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-13,Uzbekistan,#Global,998.0,4.0,85.0,909.0
 2020-04-13,Venezuela,#Global,189.0,9.0,110.0,70.0
 2020-04-13,Vietnam,#Global,265.0,0.0,146.0,119.0
-2020-04-13,West Bank and Gaza,#Global,308.0,2.0,58.0,248.0
+2020-04-13,West Bank and Gaza,#Global,273.0,2.0,58.0,213.0
 2020-04-13,Western Sahara,#Global,6.0,0.0,0.0,6.0
 2020-04-13,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-13,Zambia,#Global,45.0,2.0,30.0,13.0
@@ -21515,7 +21515,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-14,Uzbekistan,#Global,1165.0,4.0,99.0,1062.0
 2020-04-14,Venezuela,#Global,189.0,9.0,110.0,70.0
 2020-04-14,Vietnam,#Global,266.0,0.0,169.0,97.0
-2020-04-14,West Bank and Gaza,#Global,308.0,2.0,62.0,244.0
+2020-04-14,West Bank and Gaza,#Global,284.0,2.0,62.0,220.0
 2020-04-14,Western Sahara,#Global,6.0,0.0,0.0,6.0
 2020-04-14,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-14,Zambia,#Global,45.0,2.0,30.0,13.0
@@ -21772,7 +21772,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,Uzbekistan,#Global,1302.0,4.0,107.0,1191.0
 2020-04-15,Venezuela,#Global,197.0,9.0,111.0,77.0
 2020-04-15,Vietnam,#Global,267.0,0.0,171.0,96.0
-2020-04-15,West Bank and Gaza,#Global,374.0,2.0,63.0,309.0
+2020-04-15,West Bank and Gaza,#Global,291.0,2.0,63.0,226.0
 2020-04-15,Western Sahara,#Global,6.0,0.0,0.0,6.0
 2020-04-15,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-15,Zambia,#Global,48.0,2.0,30.0,16.0
@@ -22029,7 +22029,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,Uzbekistan,#Global,1349.0,4.0,129.0,1216.0
 2020-04-16,Venezuela,#Global,204.0,9.0,111.0,84.0
 2020-04-16,Vietnam,#Global,268.0,0.0,177.0,91.0
-2020-04-16,West Bank and Gaza,#Global,374.0,2.0,63.0,309.0
+2020-04-16,West Bank and Gaza,#Global,294.0,2.0,63.0,229.0
 2020-04-16,Western Sahara,#Global,6.0,0.0,0.0,6.0
 2020-04-16,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-16,Zambia,#Global,48.0,2.0,30.0,16.0
@@ -22286,7 +22286,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,Uzbekistan,#Global,1405.0,4.0,156.0,1245.0
 2020-04-17,Venezuela,#Global,204.0,9.0,111.0,84.0
 2020-04-17,Vietnam,#Global,268.0,0.0,198.0,70.0
-2020-04-17,West Bank and Gaza,#Global,402.0,2.0,69.0,331.0
+2020-04-17,West Bank and Gaza,#Global,307.0,2.0,69.0,236.0
 2020-04-17,Western Sahara,#Global,6.0,0.0,0.0,6.0
 2020-04-17,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-17,Zambia,#Global,52.0,2.0,30.0,20.0
@@ -22543,7 +22543,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Uzbekistan,#Global,1490.0,5.0,194.0,1291.0
 2020-04-18,Venezuela,#Global,227.0,9.0,113.0,105.0
 2020-04-18,Vietnam,#Global,268.0,0.0,201.0,67.0
-2020-04-18,West Bank and Gaza,#Global,418.0,2.0,69.0,347.0
+2020-04-18,West Bank and Gaza,#Global,313.0,2.0,69.0,242.0
 2020-04-18,Western Sahara,#Global,6.0,0.0,0.0,6.0
 2020-04-18,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-18,Zambia,#Global,57.0,2.0,33.0,22.0
@@ -22800,7 +22800,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Uzbekistan,#Global,1565.0,5.0,225.0,1335.0
 2020-04-19,Venezuela,#Global,256.0,9.0,117.0,130.0
 2020-04-19,Vietnam,#Global,268.0,0.0,202.0,66.0
-2020-04-19,West Bank and Gaza,#Global,437.0,3.0,71.0,363.0
+2020-04-19,West Bank and Gaza,#Global,319.0,2.0,71.0,246.0
 2020-04-19,Western Sahara,#Global,6.0,0.0,0.0,6.0
 2020-04-19,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-19,Zambia,#Global,61.0,3.0,33.0,25.0
@@ -23057,7 +23057,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Uzbekistan,#Global,1627.0,5.0,261.0,1361.0
 2020-04-20,Venezuela,#Global,256.0,9.0,117.0,130.0
 2020-04-20,Vietnam,#Global,268.0,0.0,214.0,54.0
-2020-04-20,West Bank and Gaza,#Global,449.0,3.0,71.0,375.0
+2020-04-20,West Bank and Gaza,#Global,329.0,2.0,71.0,256.0
 2020-04-20,Western Sahara,#Global,6.0,0.0,0.0,6.0
 2020-04-20,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-20,Zambia,#Global,65.0,3.0,35.0,27.0
@@ -23314,7 +23314,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Uzbekistan,#Global,1678.0,6.0,357.0,1315.0
 2020-04-21,Venezuela,#Global,285.0,10.0,117.0,158.0
 2020-04-21,Vietnam,#Global,268.0,0.0,216.0,52.0
-2020-04-21,West Bank and Gaza,#Global,466.0,4.0,71.0,391.0
+2020-04-21,West Bank and Gaza,#Global,329.0,2.0,71.0,256.0
 2020-04-21,Western Sahara,#Global,6.0,0.0,0.0,6.0
 2020-04-21,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-21,Zambia,#Global,70.0,3.0,35.0,32.0
@@ -23571,7 +23571,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Uzbekistan,#Global,1716.0,7.0,450.0,1259.0
 2020-04-22,Venezuela,#Global,288.0,10.0,122.0,156.0
 2020-04-22,Vietnam,#Global,268.0,0.0,223.0,45.0
-2020-04-22,West Bank and Gaza,#Global,474.0,4.0,71.0,399.0
+2020-04-22,West Bank and Gaza,#Global,335.0,2.0,71.0,262.0
 2020-04-22,Western Sahara,#Global,6.0,0.0,0.0,6.0
 2020-04-22,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-22,Zambia,#Global,74.0,3.0,35.0,36.0
@@ -23828,7 +23828,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,Uzbekistan,#Global,1758.0,7.0,561.0,1190.0
 2020-04-23,Venezuela,#Global,311.0,10.0,126.0,175.0
 2020-04-23,Vietnam,#Global,268.0,0.0,224.0,44.0
-2020-04-23,West Bank and Gaza,#Global,480.0,4.0,92.0,384.0
+2020-04-23,West Bank and Gaza,#Global,336.0,2.0,74.0,260.0
 2020-04-23,Western Sahara,#Global,6.0,0.0,5.0,1.0
 2020-04-23,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-23,Zambia,#Global,76.0,3.0,37.0,36.0
@@ -24085,7 +24085,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Uzbekistan,#Global,1804.0,8.0,621.0,1175.0
 2020-04-24,Venezuela,#Global,318.0,10.0,132.0,176.0
 2020-04-24,Vietnam,#Global,270.0,0.0,220.0,50.0
-2020-04-24,West Bank and Gaza,#Global,484.0,4.0,92.0,388.0
+2020-04-24,West Bank and Gaza,#Global,340.0,2.0,81.0,257.0
 2020-04-24,Western Sahara,#Global,6.0,0.0,5.0,1.0
 2020-04-24,Yemen,#Global,1.0,0.0,1.0,0.0
 2020-04-24,Zambia,#Global,84.0,3.0,37.0,44.0
@@ -24342,7 +24342,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-25,Uzbekistan,#Global,1862.0,8.0,707.0,1147.0
 2020-04-25,Venezuela,#Global,323.0,10.0,132.0,181.0
 2020-04-25,Vietnam,#Global,270.0,0.0,225.0,45.0
-2020-04-25,West Bank and Gaza,#Global,342.0,2.0,92.0,248.0
+2020-04-25,West Bank and Gaza,#Global,342.0,2.0,83.0,257.0
 2020-04-25,Western Sahara,#Global,6.0,0.0,5.0,1.0
 2020-04-25,Yemen,#Global,1.0,0.0,1.0,0.0
 2020-04-25,Zambia,#Global,84.0,3.0,37.0,44.0
@@ -24948,7 +24948,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-28,Belize,#Global,18.0,2.0,9.0,7.0
 2020-04-28,Benin,#Global,64.0,1.0,33.0,30.0
 2020-04-28,Bhutan,#Global,7.0,0.0,5.0,2.0
-2020-04-28,Bolivia,#Global,1014.0,53.0,98.0,863.0
+2020-04-28,Bolivia,#Global,1053.0,55.0,110.0,888.0
 2020-04-28,Bosnia and Herzegovina,#Global,1585.0,63.0,682.0,840.0
 2020-04-28,Botswana,#Global,23.0,1.0,0.0,22.0
 2020-04-28,Brazil,#Global,73235.0,5083.0,32544.0,35608.0
@@ -25462,7 +25462,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-30,Belize,#Global,18.0,2.0,9.0,7.0
 2020-04-30,Benin,#Global,64.0,1.0,33.0,30.0
 2020-04-30,Bhutan,#Global,7.0,0.0,5.0,2.0
-2020-04-30,Bolivia,#Global,1110.0,59.0,117.0,934.0
+2020-04-30,Bolivia,#Global,1167.0,62.0,132.0,973.0
 2020-04-30,Bosnia and Herzegovina,#Global,1757.0,69.0,727.0,961.0
 2020-04-30,Botswana,#Global,23.0,1.0,5.0,17.0
 2020-04-30,Brazil,#Global,87187.0,6006.0,35935.0,45246.0
@@ -25976,7 +25976,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-02,Belize,#Global,18.0,2.0,13.0,3.0
 2020-05-02,Benin,#Global,90.0,2.0,42.0,46.0
 2020-05-02,Bhutan,#Global,7.0,0.0,5.0,2.0
-2020-05-02,Bolivia,#Global,1229.0,66.0,134.0,1029.0
+2020-05-02,Bolivia,#Global,1470.0,71.0,159.0,1240.0
 2020-05-02,Bosnia and Herzegovina,#Global,1839.0,72.0,779.0,988.0
 2020-05-02,Botswana,#Global,23.0,1.0,8.0,14.0
 2020-05-02,Brazil,#Global,97100.0,6761.0,40937.0,49402.0
