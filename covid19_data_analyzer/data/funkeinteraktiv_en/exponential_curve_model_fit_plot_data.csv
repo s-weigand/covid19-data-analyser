@@ -10885,7 +10885,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-03-24,Sächsische Schweiz-Osterzgebirge (Kreis),Saxony,0.0,0.0,0.0,0.0
 2020-03-24,Vogtlandkreis,Saxony,0.0,0.0,0.0,0.0
 2020-03-24,Zwickau (Kreis),Saxony,0.0,0.0,0.0,0.0
-2020-03-24,other cases in Saxony,Saxony,0.0,0.0,3.0,-3.0
+2020-03-24,other cases in Saxony,Saxony,0.0,0.0,3.000000000006544,-3.000000000006544
 2020-03-24,Altmarkkreis Salzwedel,Saxony-Anhalt,0.0,0.0,0.0,0.0
 2020-03-24,Anhalt-Bitterfeld (Kreis),Saxony-Anhalt,0.0,0.0,0.0,0.0
 2020-03-24,Burgenlandkreis,Saxony-Anhalt,0.0,0.0,0.0,0.0
