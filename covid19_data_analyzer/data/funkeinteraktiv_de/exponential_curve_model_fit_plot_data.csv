@@ -50654,6 +50654,27 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-05-15,Kreuzfahrtschiff 'Diamond Princess',International,0.0,0.0,0.0,0.0
 2020-05-15,Kreuzfahrtschiff 'MS Zaandam',International,0.0,0.0,0.0,0.0
 2020-05-15,Kreuzfahrtschiffe,International,0.0,0.0,0.0,0.0
+2020-05-15,Abruzzen,Italien,3147.9999992485173,1313.000000002674,381.0000000003534,1453.99999924549
+2020-05-15,Aostatal,Italien,1172.000000002059,953.0000000011037,142.0000000001832,77.00000000077222
+2020-05-15,Apulien,Italien,4366.0000072656885,1724.0000000009773,461.0000000007024,2181.0000072640087
+2020-05-15,Basilikata,Italien,389.00000000038824,242.00000000061942,27.00000000005889,119.99999999970993
+2020-05-15,Emilia-Romagna,Italien,27110.000005810398,17165.999986678667,3942.9999962643215,6001.000022867409
+2020-05-15,Friaul-Julisch Venetien,Italien,3175.0000007848103,2115.999999824748,318.000000000951,741.0000009591112
+2020-05-15,Kalabrien,Italien,1144.0000000019372,544.0000000010643,95.00000000020721,505.0000000006657
+2020-05-15,Kampanien,Italien,4654.00000709414,2521.9999967864446,396.0000000004188,1736.0000103072762
+2020-05-15,Lazio,Italien,7363.999988845154,2671.999995939692,604.000000001326,4087.999992904136
+2020-05-15,Ligurien,Italien,9059.99999682656,5120.999996433416,1336.0000000027744,2603.00000039037
+2020-05-15,Lombardei,Italien,84118.99984768628,40961.999903574186,15411.000021690596,27745.9999224215
+2020-05-15,Marken,Italien,6619.000004040034,2847.0000056275553,977.0000000012085,2794.99999841127
+2020-05-15,Molise,Italien,407.0000000004668,158.000000000253,22.000000000047987,227.0000000001658
+2020-05-15,Piemont,Italien,29346.000009990887,14676.000009770765,3556.9999998807525,11113.000000339369
+2020-05-15,Sardinien,Italien,1348.0000000028267,762.0000000002705,125.00000000010905,461.0000000024472
+2020-05-15,Sizilien,Italien,3373.999997784686,1351.0000000028404,263.00000000071105,1759.9999977811347
+2020-05-15,Sürdtirol,Italien,2577.9999957755026,1928.9999989050948,290.00000000082883,358.999996869579
+2020-05-15,Toskana,Italien,9883.000018264582,5738.999989431157,976.0000000012042,3168.000028832221
+2020-05-15,Trentino,Italien,4317.999991446544,3461.0000003438263,451.0000000006587,405.9999911020593
+2020-05-15,Umbrien,Italien,1422.0000000031496,1259.0000000024384,73.00000000015922,90.000000000552
+2020-05-15,Venetien,Italien,18888.999995596467,12687.999995650905,1762.0000000011432,4438.999999944418
 2020-05-15,Alberta,Kanada,0.0,0.0,0.0,0.0
 2020-05-15,British Columbia,Kanada,0.0,0.0,0.0,0.0
 2020-05-15,Manitoba,Kanada,0.0,0.0,0.0,0.0
@@ -50868,6 +50889,25 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-05-15,Steinburg (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
 2020-05-15,Stormarn (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
 2020-05-15,weitere Fälle in Schleswig-Holstein,Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-15,Andalusien,Spanien,12401.000002935818,10147.999986486488,1344.0000000028094,909.0000164465209
+2020-05-15,Aragon,Spanien,5432.000009933404,3534.0000014641278,837.0000000005977,1061.0000084686785
+2020-05-15,Asturien,Spanien,2359.0000026521893,1053.0000000015398,310.0000000009161,996.0000026497335
+2020-05-15,Balearen,Spanien,1967.0000020780803,1513.0000000035468,216.00000000047112,238.00000207406242
+2020-05-15,Baskenland,Spanien,13257.000000737684,15256.000008032046,1454.0000000032892,-3453.0000072976513
+2020-05-15,Ceuta,Spanien,116.00000000006979,160.00000000026174,4.000000000008725,-48.00000000020067
+2020-05-15,Extremadura,Spanien,2933.0000037464715,2586.9999943170433,494.0000000008463,-147.99999057141804
+2020-05-15,Galicien,Spanien,9322.999984057802,8283.00000229348,601.0000000013132,438.9999817630088
+2020-05-15,Kanaren,Spanien,2279.9999988684112,1506.000000003516,151.00000000022249,622.9999988646726
+2020-05-15,Kantabrien,Spanien,2263.000001480389,2151.9999988411046,206.00000000044932,-94.99999736116482
+2020-05-15,Kastilien - La Mancha,Spanien,16513.000018741805,6293.999998542004,2870.0000020064517,7349.000018193349
+2020-05-15,Kastilien und León,Spanien,18271.999997615785,7672.000000603619,1929.9999982474576,8669.999998764708
+2020-05-15,Katalonien,Spanien,55463.99997282665,25903.9999938782,5881.999998167465,23677.999980780987
+2020-05-15,La Rioja,Spanien,4015.999996766981,2927.0000032422067,348.0000000002094,740.9999935245648
+2020-05-15,Madrid,Spanien,66005.00009012342,40382.999956860716,8808.999991602133,16813.000141660566
+2020-05-15,Melilla,Spanien,119.00000000008288,119.00000000008288,2.0000000000043623,-2.0000000000043623
+2020-05-15,Murcia,Spanien,1534.0000000036387,2033.9999977529071,143.00000000018758,-642.999997749456
+2020-05-15,Navarra,Spanien,5115.999996358241,3550.000000510996,500.0000000008726,1065.9999958463727
+2020-05-15,Valencia,Spanien,10813.000013980705,9708.00000059862,1358.0000000028706,-252.99998662078565
 2020-05-15,Altenburger Land (Kreis),Thüringen,0.0,0.0,0.0,0.0
 2020-05-15,Eichsfeld (Kreis),Thüringen,0.0,0.0,0.0,0.0
 2020-05-15,Eisenach,Thüringen,0.0,0.0,0.0,0.0
@@ -50947,3 +50987,816 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-05-15,West Virginia,USA,0.0,0.0,0.0,0.0
 2020-05-15,Wisconsin,USA,0.0,0.0,0.0,0.0
 2020-05-15,Wyoming,USA,0.0,0.0,0.0,0.0
+2020-05-16,Afghanistan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Albanien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Algerien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Andorra,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Angola,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Antigua und Barbuda,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Argentinien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Armenien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Aserbaidschan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Australien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Bahamas,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Bahrain,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Bangladesch,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Barbados,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Belarus,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Belgien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Belize,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Benin,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Bhutan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Bolivien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Bosnien und Herzegowina,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Botswana,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Brasilien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Brunei,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Bulgarien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Burkina Faso,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Burundi,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Chile,#Global,0.0,0.0,0.0,0.0
+2020-05-16,China,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Costa Rica,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Demokratische Republik Kongo,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Deutschland,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Dominica,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Dominikanische Republik,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Dschibuti,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Dänemark,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Ecuador,#Global,0.0,0.0,0.0,0.0
+2020-05-16,El Salvador,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Elfenbeinküste,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Eritrea,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Estland,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Eswatini,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Falklandinseln (Malwinen),#Global,0.0,0.0,0.0,0.0
+2020-05-16,Fidschi,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Finnland,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Frankreich,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Gabon,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Gambia,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Georgien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Ghana,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Grenada,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Griechenland,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Großbritannien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Guatemala,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Guinea,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Guinea-Bissau,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Guyana,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Haiti,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Honduras,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Indien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Indonesien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Irak,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Iran,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Irland,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Island,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Israel,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Italien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Jamaika,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Japan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Jemen,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Jordanien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kambodscha,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kamerun,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kanada,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kap Verde,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kasachstan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Katar,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kenia,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kirgisistan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kolumbien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Komoren,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kosovo,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kroatien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kuba,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Kuwait,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Laos,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Lesotho,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Lettland,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Libanon,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Liberia,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Libyen,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Liechtenstein,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Litauen,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Luxemburg,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Madagaskar,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Malawi,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Malaysia,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Malediven,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Mali,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Malta,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Marokko,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Mauretanien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Mauritius,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Mexiko,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Moldawien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Monaco,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Mongolei,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Montenegro,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Mosambik,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Myanmar,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Namibia,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Nepal,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Neuseeland,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Nicaragua,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Niederlande,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Niger,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Nigeria,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Nordmazedonien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Norwegen,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Oman,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Osttimor,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Pakistan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Palästinensische Autonomiegebiete,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Panama,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Papua-Neuguinea,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Paraguay,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Peru,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Philippinen,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Polen,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Portugal,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Republik Kongo,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Ruanda,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Rumänien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Russland,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Sambia,#Global,0.0,0.0,0.0,0.0
+2020-05-16,San Marino,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Saudiarabien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Schweden,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Schweiz,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Senegal,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Serbien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Seychellen,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Sierra Leone,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Simbabwe,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Singapur,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Slowakei,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Slowenien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Somalia,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Spanien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Sri Lanka,#Global,0.0,0.0,0.0,0.0
+2020-05-16,St. Kitts und Nevis,#Global,0.0,0.0,0.0,0.0
+2020-05-16,St. Lucia,#Global,0.0,0.0,0.0,0.0
+2020-05-16,St. Vincent und die Grenadinen,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Sudan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Suriname,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Syrien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,São Tomé und Príncipe,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Südafrika,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Südkorea,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Südsudan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Tadschikistan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Taiwan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Tansania,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Thailand,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Togo,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Trinidad und Tobago,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Tschad,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Tschechien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Tunesien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Türkei,#Global,0.0,0.0,0.0,0.0
+2020-05-16,USA,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Uganda,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Ukraine,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Ungarn,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Uruguay,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Usbekistan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Vatikan,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Venezuela,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Vereinigte Arabische Emirate,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Vietnam,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Westsahara,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Zentralafrikanische Republik,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Zypern,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Ägypten,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Äquatorialguinea,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Äthiopien,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Österreich,#Global,0.0,0.0,0.0,0.0
+2020-05-16,Australisches Hauptstadtterritorium,Australien,0.0,0.0,0.0,0.0
+2020-05-16,New South Wales,Australien,0.0,0.0,0.0,0.0
+2020-05-16,Northern Territory,Australien,0.0,0.0,0.0,0.0
+2020-05-16,Queensland,Australien,0.0,0.0,0.0,0.0
+2020-05-16,South Australia,Australien,0.0,0.0,0.0,0.0
+2020-05-16,Tasmania,Australien,0.0,0.0,0.0,0.0
+2020-05-16,Victoria,Australien,0.0,0.0,0.0,0.0
+2020-05-16,Western Australia,Australien,0.0,0.0,0.0,0.0
+2020-05-16,Alb-Donau-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Baden-Baden,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Biberach (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Bodenseekreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Breisgau-Hochschwarzwald (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Böblingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Calw (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Emmendingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Enzkreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Esslingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Freiburg im Breisgau,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Freudenstadt (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Göppingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Heidelberg,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Heidenheim (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Heilbronn,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Heilbronn (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Hohenlohekreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Karlsruhe,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Karlsruhe (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Konstanz (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Ludwigsburg (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Lörrach (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Main-Tauber-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Mannheim,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Neckar-Odenwald-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Ortenaukreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Ostalbkreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Pforzheim,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Rastatt (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Ravensburg (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Rems-Murr-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Reutlingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Rhein-Neckar-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Rottweil (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Schwarzwald-Baar-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Schwäbisch Hall (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Sigmaringen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Stuttgart (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Tuttlingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Tübingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Ulm,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Waldshut (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Zollernalbkreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Baden-Württemberg,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-05-16,Aichach-Friedberg (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Altötting (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Amberg,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Amberg-Sulzbach (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Ansbach,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Ansbach (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Aschaffenburg,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Aschaffenburg (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Augsburg,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Augsburg (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Bad Kissingen (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Bad Tölz (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Bamberg,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Bamberg (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Bayreuth,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Bayreuth (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Berchtesgadener Land (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Cham (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Coburg,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Coburg (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Dachau (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Deggendorf (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Dillingen a.d. Donau (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Dingolfing-Landau (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Donau-Ries (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Ebersberg (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Eichstätt (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Erding (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Erlangen,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Erlangen-Höchstadt,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Forchheim (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Freising (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Freyung-Grafenau (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Fürstenfeldbruck (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Fürth,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Fürth (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Garmisch-Partenkirchen (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Günzburg (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Haßberge (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Hof,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Hof (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Ingolstadt,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Kaufbeuren,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Kelheim (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Kempten,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Kitzingen (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Kronach (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Kulmbach (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Landsberg am Lech (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Landshut,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Landshut (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Lichtenfels (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Lindau/Bodensee (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Main-Spessart (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Memmingen,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Miesbach (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Miltenberg (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Mühldorf a.Inn (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,München,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,München (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Neu-Ulm (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Neuburg-Schrobenhausen (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Neumarkt i.d.Opf. (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Neustadt a.d. Aisch-Bad Windsheim,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Neustadt a.d. Waldnaab,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Nürnberg,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Nürnberger Land (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Oberallgäu (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Ostallgäu (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Passau,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Passau (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Pfaffenhofen a.d.Ilm (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Regen (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Regensburg,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Regensburg (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Rhön-Grabfeld (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Rosenheim,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Rosenheim (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Roth (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Rottal-Inn (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Schwabach,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Schwandorf (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Schweinfurt,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Schweinfurt (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Starnberg (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Straubing,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Straubing-Bogen (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Tirschenreuth (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Traunstein (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Unterallgäu (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Weiden,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Weilheim-Schongau (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Weißenburg-Gunzenhausen (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Wunsiedel i.Fichtelgebirge (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Würzburg,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Würzburg (Kreis),Bayern,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Bayern,Bayern,0.0,0.0,0.0,0.0
+2020-05-16,Charlottenburg-Wilmersdorf,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Friedrichshain-Kreuzberg,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Lichtenberg,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Marzahn-Hellersdorf,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Mitte,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Neukölln,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Pankow,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Reinickendorf,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Spandau,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Steglitz-Zehlendorf,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Tempelhof-Schöneberg,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Treptow-Köpenick,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Berlin,Berlin,0.0,0.0,0.0,0.0
+2020-05-16,Barnim (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Brandenburg a. d. Havel,Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Cottbus,Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Dahme-Spreewald (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Elbe-Elster (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Frankfurt (Oder),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Havelland (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Märkisch-Oderland (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Oberhavel (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Oberspreewald-Lausitz (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Oder-Spree (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Ostprignitz-Ruppin,Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Potsdam,Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Potsdam-Mittelmark (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Prignitz (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Spree-Neiße (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Teltow-Fläming (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Uckermark (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Brandenburg,Brandenburg,0.0,0.0,0.0,0.0
+2020-05-16,Bremerhaven,Bremen,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Bremen,Bremen,0.0,0.0,0.0,0.0
+2020-05-16,Kreuzfahrtschiff 'Grand Princess',Bürder der USA+,0.0,0.0,0.0,0.0
+2020-05-16,Anhui,China,0.0,0.0,0.0,0.0
+2020-05-16,Chongqing,China,0.0,0.0,0.0,0.0
+2020-05-16,Fujian,China,0.0,0.0,0.0,0.0
+2020-05-16,Gansu,China,0.0,0.0,0.0,0.0
+2020-05-16,Guangdong,China,0.0,0.0,0.0,0.0
+2020-05-16,Guangxi,China,0.0,0.0,0.0,0.0
+2020-05-16,Guizhou,China,0.0,0.0,0.0,0.0
+2020-05-16,Hainan,China,0.0,0.0,0.0,0.0
+2020-05-16,Hebei,China,0.0,0.0,0.0,0.0
+2020-05-16,Heilongjiang,China,0.0,0.0,0.0,0.0
+2020-05-16,Henan,China,0.0,0.0,0.0,0.0
+2020-05-16,Hong Kong,China,0.0,0.0,0.0,0.0
+2020-05-16,Hubei (Wuhan),China,0.0,0.0,0.0,0.0
+2020-05-16,Hunan,China,0.0,0.0,0.0,0.0
+2020-05-16,Innere Mongolei,China,0.0,0.0,0.0,0.0
+2020-05-16,Jiangsu,China,0.0,0.0,0.0,0.0
+2020-05-16,Jiangxi,China,0.0,0.0,0.0,0.0
+2020-05-16,Jilin,China,0.0,0.0,0.0,0.0
+2020-05-16,Liaoning,China,0.0,0.0,0.0,0.0
+2020-05-16,Macau,China,0.0,0.0,0.0,0.0
+2020-05-16,Ningxia,China,0.0,0.0,0.0,0.0
+2020-05-16,Peking (Beijing),China,0.0,0.0,0.0,0.0
+2020-05-16,Qinghai,China,0.0,0.0,0.0,0.0
+2020-05-16,Shaanxi,China,0.0,0.0,0.0,0.0
+2020-05-16,Shandong,China,0.0,0.0,0.0,0.0
+2020-05-16,Shanghai,China,0.0,0.0,0.0,0.0
+2020-05-16,Shanxi,China,0.0,0.0,0.0,0.0
+2020-05-16,Sichuan,China,0.0,0.0,0.0,0.0
+2020-05-16,Tianjin,China,0.0,0.0,0.0,0.0
+2020-05-16,Tibet,China,0.0,0.0,0.0,0.0
+2020-05-16,Xinjiang,China,0.0,0.0,0.0,0.0
+2020-05-16,Yunnan,China,0.0,0.0,0.0,0.0
+2020-05-16,Zhejiang,China,0.0,0.0,0.0,0.0
+2020-05-16,Baden-Württemberg,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Bayern,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Berlin,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Brandenburg,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Bremen,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Hamburg,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Hessen,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Mecklenburg-Vorpommern,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Niedersachsen,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Nordrhein-Westfalen,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Rheinland-Pfalz,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Saarland,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Sachsen,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Sachsen-Anhalt,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Schleswig-Holstein,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Thüringen,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle bundesweit,Deutschland,0.0,0.0,0.0,0.0
+2020-05-16,Färöer,Dänemark,0.0,0.0,0.0,0.0
+2020-05-16,Grönland,Dänemark,0.0,0.0,0.0,0.0
+2020-05-16,Französisch Polynesien,Frankreich,0.0,0.0,0.0,0.0
+2020-05-16,Französisch-Guyana,Frankreich,0.0,0.0,0.0,0.0
+2020-05-16,Guadeloupe,Frankreich,0.0,0.0,0.0,0.0
+2020-05-16,Martinique,Frankreich,0.0,0.0,0.0,0.0
+2020-05-16,Mayotte,Frankreich,0.0,0.0,0.0,0.0
+2020-05-16,Neukaledonien,Frankreich,0.0,0.0,0.0,0.0
+2020-05-16,Réunion,Frankreich,0.0,0.0,0.0,0.0
+2020-05-16,Saint Barthélemy,Frankreich,0.0,0.0,0.0,0.0
+2020-05-16,Saint Martin,Frankreich,0.0,0.0,0.0,0.0
+2020-05-16,Saint-Pierre und Miquelon,Frankreich,0.0,0.0,0.0,0.0
+2020-05-16,Anguilla,Großbritannien,0.0,0.0,0.0,0.0
+2020-05-16,Bermuda,Großbritannien,0.0,0.0,0.0,0.0
+2020-05-16,Britische Jungferninseln,Großbritannien,0.0,0.0,0.0,0.0
+2020-05-16,Cayman-Inseln,Großbritannien,0.0,0.0,0.0,0.0
+2020-05-16,Gibraltar,Großbritannien,0.0,0.0,0.0,0.0
+2020-05-16,Isle of Man,Großbritannien,0.0,0.0,0.0,0.0
+2020-05-16,Kanalinseln,Großbritannien,0.0,0.0,0.0,0.0
+2020-05-16,Montserrat,Großbritannien,0.0,0.0,0.0,0.0
+2020-05-16,Turks- und Caicosinseln,Großbritannien,0.0,0.0,0.0,0.0
+2020-05-16,Bergstraße (Kreis),Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Darmstadt,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Darmstadt-Dieburg (Kreis),Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Frankfurt am Main,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Fulda (Kreis),Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Gießen (Kreis),Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Groß-Gerau (Kreis),Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Hersfeld-Rotenburg (Kreis),Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Hochtaunuskreis,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Kassel,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Kassel (Kreis),Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Lahn-Dill-Kreis,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Limburg-Weilburg (Kreis),Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Main-Kinzig-Kreis,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Main-Taunus-Kreis,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Marburg-Biedenkopf (Kreis),Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Odenwaldkreis,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Offenbach,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Offenbach (Kreis),Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Rheingau-Taunus-Kreis,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Schwalm-Eder-Kreis,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Vogelsbergkreis,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Waldeck-Frankenberg (Kreis),Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Werra-Meißner-Kreis,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Wetteraukreis,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Wiesbaden,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Hessen,Hessen,0.0,0.0,0.0,0.0
+2020-05-16,Kreuzfahrtschiff 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-05-16,Kreuzfahrtschiff 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-05-16,Kreuzfahrtschiff 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-05-16,Kreuzfahrtschiff 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-05-16,Kreuzfahrtschiff 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-05-16,Kreuzfahrtschiff 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-05-16,Kreuzfahrtschiff 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-05-16,Kreuzfahrtschiff 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-05-16,Kreuzfahrtschiff 'MS Zaandam',International,0.0,0.0,0.0,0.0
+2020-05-16,Kreuzfahrtschiffe,International,0.0,0.0,0.0,0.0
+2020-05-16,Abruzzen,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Aostatal,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Apulien,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Basilikata,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Emilia-Romagna,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Friaul-Julisch Venetien,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Kalabrien,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Kampanien,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Lazio,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Ligurien,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Lombardei,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Marken,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Molise,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Piemont,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Sardinien,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Sizilien,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Sürdtirol,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Toskana,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Trentino,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Umbrien,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Venetien,Italien,0.0,0.0,0.0,0.0
+2020-05-16,Alberta,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,British Columbia,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,Manitoba,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,Neufundland und Labrador,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,Neuschottland,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,New Brunswick,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,Nordwest-Territorien,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,Ontario,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,Prinz Edward Insel,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,Québec,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,Saskatchewan,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,Yukon,Kanada,0.0,0.0,0.0,0.0
+2020-05-16,Ludwigslust-Parchim (Kreis),Mecklenburg-Vorpommern,0.0,0.0,0.0,0.0
+2020-05-16,Mecklenburgische Seenplatte (Kreis),Mecklenburg-Vorpommern,0.0,0.0,0.0,0.0
+2020-05-16,Nordwestmecklenburg (Kreis),Mecklenburg-Vorpommern,0.0,0.0,0.0,0.0
+2020-05-16,Rostock,Mecklenburg-Vorpommern,0.0,0.0,0.0,0.0
+2020-05-16,Rostock (Kreis),Mecklenburg-Vorpommern,0.0,0.0,0.0,0.0
+2020-05-16,Schwerin,Mecklenburg-Vorpommern,0.0,0.0,0.0,0.0
+2020-05-16,Vorpommern-Greifswald (Kreis),Mecklenburg-Vorpommern,0.0,0.0,0.0,0.0
+2020-05-16,Vorpommern-Rügen (Kreis),Mecklenburg-Vorpommern,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,0.0,0.0,0.0,0.0
+2020-05-16,Aruba,Niederlande,0.0,0.0,0.0,0.0
+2020-05-16,"Bonaire, Sint Eustatius und Saba",Niederlande,0.0,0.0,0.0,0.0
+2020-05-16,Curaçao,Niederlande,0.0,0.0,0.0,0.0
+2020-05-16,Sint Maarten,Niederlande,0.0,0.0,0.0,0.0
+2020-05-16,Ammerland (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Aurich (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Braunschweig,Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Celle (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Cloppenburg (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Cuxhaven (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Delmenhorst,Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Diepholz (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Emden,Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Emsland (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Friesland (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Gifhorn (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Goslar (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Grafschaft Bentheim (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Göttingen (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Hameln-Pyrmont (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Hannover (Region),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Harburg (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Heidekreis (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Helmstedt (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Hildesheim (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Holzminden (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Leer (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Lüchow-Dannenberg (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Lüneburg (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Nienburg/Weser (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Northeim (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Oldenburg,Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Oldenburg (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Osnabrück,Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Osnabrück (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Osterholz (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Peine (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Rotenburg/Wümme (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Salzgitter,Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Schaumburg (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Stade (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Uelzen (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Vechta (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Verden (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Wesermarsch (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Wilhelmshaven,Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Wittmund (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Wolfenbüttel (Kreis),Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Wolfsburg,Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Niedersachsen,Niedersachsen,0.0,0.0,0.0,0.0
+2020-05-16,Aachen & Städteregion Aachen,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Bielefeld,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Bochum,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Bonn,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Borken (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Bottrop,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Coesfeld (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Dortmund,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Duisburg,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Düren (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Düsseldorf,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Essen,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Euskirchen (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Gelsenkirchen,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Gütersloh (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Hagen,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Hamm,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Heinsberg (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Herford (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Herne,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Hochsauerlandkreis,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Höxter (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Kleve (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Krefeld,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Köln,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Leverkusen,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Lippe (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Mettmann (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Minden-Lübbecke (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Märkischer Kreis,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Mönchengladbach,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Mülheim an der Ruhr,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Münster,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Oberbergischer Kreis,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Oberhausen,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Olpe (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Paderborn (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Recklinghausen (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Remscheid,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Rhein-Erft-Kreis,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Rhein-Kreis Neuss,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Rhein-Sieg-Kreis,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Siegen-Wittgenstein (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Soest (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Solingen,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Steinfurt (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Unna (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Viersen (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Warendorf (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Wesel (Kreis),Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Wuppertal,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Nordrhein-Westfalen,Nordrhein-Westfalen,0.0,0.0,0.0,0.0
+2020-05-16,Ahrweiler (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Altenkirchen (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Alzey-Worms (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Bad Dürkheim (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Bad Kreuznach (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Bernkastel-Wittlich (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Birkenfeld (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Bitburg-Prüm (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Cochem-Zell (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Donnersbergkreis,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Frankenthal,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Germersheim (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Kaiserslautern,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Kaiserslautern (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Koblenz,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Kusel (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Landau i.d.Pfalz,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Ludwigshafen,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Mainz,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Mainz-Bingen (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Mayen-Koblenz (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Neustadt Weinst.,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Neuwied (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Pirmasens,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Rhein-Hunsrück (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Rhein-Lahn-Kreis,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Rhein-Pfalz-Kreis,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Speyer,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Südliche Weinstr. (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Südwestpfalz (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Trier,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Trier-Saarburg (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Vulkaneifel (Kreis),Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Westerwaldkreis,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Worms,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Zweibrücken,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Rheinland-Pfalz,Rheinland-Pfalz,0.0,0.0,0.0,0.0
+2020-05-16,Merzig-Wadern,Saarland,0.0,0.0,0.0,0.0
+2020-05-16,Neunkirchen,Saarland,0.0,0.0,0.0,0.0
+2020-05-16,Saarbrücken,Saarland,0.0,0.0,0.0,0.0
+2020-05-16,Saarlouis,Saarland,0.0,0.0,0.0,0.0
+2020-05-16,Saarpfalz,Saarland,0.0,0.0,0.0,0.0
+2020-05-16,St. Wendel,Saarland,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle im Saarland,Saarland,0.0,0.0,0.0,0.0
+2020-05-16,Bautzen (Kreis),Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Chemnitz,Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Dresden,Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Erzgebirgskreis,Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Görlitz (Kreis),Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Leipzig,Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Leipzig (Kreis),Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Meißen (Kreis),Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Mittelsachsen (Kreis),Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Nordsachsen (Kreis),Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Sächsische Schweiz-Osterzgebirge (Kreis),Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Vogtlandkreis,Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Zwickau (Kreis),Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Sachsen,Sachsen,0.0,0.0,0.0,0.0
+2020-05-16,Altmarkkreis Salzwedel,Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Anhalt-Bitterfeld (Kreis),Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Burgenlandkreis,Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Börde (Kreis),Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Dessau,Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Halle,Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Harz (Kreis),Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Jerichower Land (Kreis),Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Magdeburg,Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Mansfeld-Südharz (Kreis),Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Saalekreis,Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Salzlandkreis,Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Stendal (Kreis),Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Wittenberg (Kreis),Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Sachsen-Anhalt,Sachsen-Anhalt,0.0,0.0,0.0,0.0
+2020-05-16,Dithmarschen (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Flensburg,Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Herzogtum Lauenburg (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Kiel,Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Lübeck,Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Neumünster,Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Nordfriesland (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Ostholstein (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Pinneberg (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Plön (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Rendsburg-Eckernförde (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Schleswig-Flensburg (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Segeberg (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Steinburg (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Stormarn (Kreis),Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Schleswig-Holstein,Schleswig-Holstein,0.0,0.0,0.0,0.0
+2020-05-16,Andalusien,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Aragon,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Asturien,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Balearen,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Baskenland,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Ceuta,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Extremadura,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Galicien,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Kanaren,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Kantabrien,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Kastilien - La Mancha,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Kastilien und León,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Katalonien,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,La Rioja,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Madrid,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Melilla,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Murcia,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Navarra,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Valencia,Spanien,0.0,0.0,0.0,0.0
+2020-05-16,Altenburger Land (Kreis),Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Eichsfeld (Kreis),Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Eisenach,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Erfurt,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Gera,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Gotha (Kreis),Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Greiz (Kreis),Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Hildburghausen (Kreis),Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Ilm-Kreis,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Jena,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Kyffhäuserkreis,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Nordhausen (Kreis),Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Saale-Holzland-Kreis,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Saale-Orla-Kreis,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Saalfeld-Rudolstadt (Kreis),Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Schmalkalden-Meiningen (Kreis),Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Sonneberg (Kreis),Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Suhl,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Sömmerda(Kreis),Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Unstrut-Hainich-Kreis,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Wartburgkreis,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Weimar,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Weimarer Land (Kreis),Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,weitere Fälle in Thüringen,Thüringen,0.0,0.0,0.0,0.0
+2020-05-16,Alabama,USA,0.0,0.0,0.0,0.0
+2020-05-16,Alaska,USA,0.0,0.0,0.0,0.0
+2020-05-16,Amerikanische Jungferninseln,USA,0.0,0.0,0.0,0.0
+2020-05-16,Arizona,USA,0.0,0.0,0.0,0.0
+2020-05-16,Arkansas,USA,0.0,0.0,0.0,0.0
+2020-05-16,California,USA,0.0,0.0,0.0,0.0
+2020-05-16,Colorado,USA,0.0,0.0,0.0,0.0
+2020-05-16,Connecticut,USA,0.0,0.0,0.0,0.0
+2020-05-16,Delaware,USA,0.0,0.0,0.0,0.0
+2020-05-16,District of Columbia,USA,0.0,0.0,0.0,0.0
+2020-05-16,Florida,USA,0.0,0.0,0.0,0.0
+2020-05-16,Georgia,USA,0.0,0.0,0.0,0.0
+2020-05-16,Guam,USA,0.0,0.0,0.0,0.0
+2020-05-16,Hawaii,USA,0.0,0.0,0.0,0.0
+2020-05-16,Idaho,USA,0.0,0.0,0.0,0.0
+2020-05-16,Illinois,USA,0.0,0.0,0.0,0.0
+2020-05-16,Indiana,USA,0.0,0.0,0.0,0.0
+2020-05-16,Iowa,USA,0.0,0.0,0.0,0.0
+2020-05-16,Kansas,USA,0.0,0.0,0.0,0.0
+2020-05-16,Kentucky,USA,0.0,0.0,0.0,0.0
+2020-05-16,Louisiana,USA,0.0,0.0,0.0,0.0
+2020-05-16,Maine,USA,0.0,0.0,0.0,0.0
+2020-05-16,Maryland,USA,0.0,0.0,0.0,0.0
+2020-05-16,Massachusetts,USA,0.0,0.0,0.0,0.0
+2020-05-16,Michigan,USA,0.0,0.0,0.0,0.0
+2020-05-16,Minnesota,USA,0.0,0.0,0.0,0.0
+2020-05-16,Mississippi,USA,0.0,0.0,0.0,0.0
+2020-05-16,Missouri,USA,0.0,0.0,0.0,0.0
+2020-05-16,Montana,USA,0.0,0.0,0.0,0.0
+2020-05-16,Nebraska,USA,0.0,0.0,0.0,0.0
+2020-05-16,Nevada,USA,0.0,0.0,0.0,0.0
+2020-05-16,New Hampshire,USA,0.0,0.0,0.0,0.0
+2020-05-16,New Jersey,USA,0.0,0.0,0.0,0.0
+2020-05-16,New Mexico,USA,0.0,0.0,0.0,0.0
+2020-05-16,New York,USA,0.0,0.0,0.0,0.0
+2020-05-16,North Carolina,USA,0.0,0.0,0.0,0.0
+2020-05-16,North Dakota,USA,0.0,0.0,0.0,0.0
+2020-05-16,Nördliche Marianen,USA,0.0,0.0,0.0,0.0
+2020-05-16,Ohio,USA,0.0,0.0,0.0,0.0
+2020-05-16,Oklahoma,USA,0.0,0.0,0.0,0.0
+2020-05-16,Oregon,USA,0.0,0.0,0.0,0.0
+2020-05-16,Pennsylvania,USA,0.0,0.0,0.0,0.0
+2020-05-16,Puerto Rico,USA,0.0,0.0,0.0,0.0
+2020-05-16,Rhode Island,USA,0.0,0.0,0.0,0.0
+2020-05-16,South Carolina,USA,0.0,0.0,0.0,0.0
+2020-05-16,South Dakota,USA,0.0,0.0,0.0,0.0
+2020-05-16,Tennessee,USA,0.0,0.0,0.0,0.0
+2020-05-16,Texas,USA,0.0,0.0,0.0,0.0
+2020-05-16,Utah,USA,0.0,0.0,0.0,0.0
+2020-05-16,Vermont,USA,0.0,0.0,0.0,0.0
+2020-05-16,Virginia,USA,0.0,0.0,0.0,0.0
+2020-05-16,Washington,USA,0.0,0.0,0.0,0.0
+2020-05-16,West Virginia,USA,0.0,0.0,0.0,0.0
+2020-05-16,Wisconsin,USA,0.0,0.0,0.0,0.0
+2020-05-16,Wyoming,USA,0.0,0.0,0.0,0.0
