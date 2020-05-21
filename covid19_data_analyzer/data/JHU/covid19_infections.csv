@@ -11269,7 +11269,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-05,Trinidad and Tobago,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Tunisia,#Global,1.0,0.0,0.0,1.0
 2020-03-05,Turkey,#Global,0.0,0.0,0.0,0.0
-2020-03-05,US,#Global,217.0,12.0,7.0,198.0
+2020-03-05,US,#Global,219.0,12.0,7.0,200.0
 2020-03-05,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Ukraine,#Global,1.0,0.0,0.0,1.0
 2020-03-05,United Arab Emirates,#Global,29.0,0.0,5.0,24.0
@@ -11527,7 +11527,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-06,Trinidad and Tobago,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Tunisia,#Global,1.0,0.0,0.0,1.0
 2020-03-06,Turkey,#Global,0.0,0.0,0.0,0.0
-2020-03-06,US,#Global,262.0,14.0,7.0,241.0
+2020-03-06,US,#Global,267.0,14.0,7.0,246.0
 2020-03-06,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Ukraine,#Global,1.0,0.0,0.0,1.0
 2020-03-06,United Arab Emirates,#Global,29.0,0.0,5.0,24.0
@@ -11785,7 +11785,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-07,Trinidad and Tobago,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Tunisia,#Global,1.0,0.0,0.0,1.0
 2020-03-07,Turkey,#Global,0.0,0.0,0.0,0.0
-2020-03-07,US,#Global,402.0,17.0,7.0,378.0
+2020-03-07,US,#Global,403.0,17.0,7.0,379.0
 2020-03-07,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Ukraine,#Global,1.0,0.0,0.0,1.0
 2020-03-07,United Arab Emirates,#Global,45.0,0.0,7.0,38.0
@@ -12043,7 +12043,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-08,Trinidad and Tobago,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Tunisia,#Global,2.0,0.0,0.0,2.0
 2020-03-08,Turkey,#Global,0.0,0.0,0.0,0.0
-2020-03-08,US,#Global,518.0,21.0,7.0,490.0
+2020-03-08,US,#Global,519.0,21.0,7.0,491.0
 2020-03-08,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Ukraine,#Global,1.0,0.0,0.0,1.0
 2020-03-08,United Arab Emirates,#Global,45.0,0.0,7.0,38.0
@@ -12301,7 +12301,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-09,Trinidad and Tobago,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Tunisia,#Global,2.0,0.0,0.0,2.0
 2020-03-09,Turkey,#Global,0.0,0.0,0.0,0.0
-2020-03-09,US,#Global,583.0,22.0,7.0,554.0
+2020-03-09,US,#Global,588.0,22.0,7.0,559.0
 2020-03-09,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Ukraine,#Global,1.0,0.0,0.0,1.0
 2020-03-09,United Arab Emirates,#Global,45.0,0.0,7.0,38.0
@@ -12559,7 +12559,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-10,Trinidad and Tobago,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Tunisia,#Global,5.0,0.0,0.0,5.0
 2020-03-10,Turkey,#Global,0.0,0.0,0.0,0.0
-2020-03-10,US,#Global,959.0,28.0,8.0,923.0
+2020-03-10,US,#Global,962.0,28.0,8.0,926.0
 2020-03-10,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Ukraine,#Global,1.0,0.0,0.0,1.0
 2020-03-10,United Arab Emirates,#Global,74.0,0.0,12.0,62.0
@@ -12817,7 +12817,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-11,Trinidad and Tobago,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Tunisia,#Global,7.0,0.0,0.0,7.0
 2020-03-11,Turkey,#Global,1.0,0.0,0.0,1.0
-2020-03-11,US,#Global,1281.0,36.0,8.0,1237.0
+2020-03-11,US,#Global,1285.0,36.0,8.0,1241.0
 2020-03-11,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Ukraine,#Global,1.0,0.0,0.0,1.0
 2020-03-11,United Arab Emirates,#Global,74.0,0.0,17.0,57.0
@@ -13075,7 +13075,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-12,Trinidad and Tobago,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Tunisia,#Global,7.0,0.0,0.0,7.0
 2020-03-12,Turkey,#Global,1.0,0.0,0.0,1.0
-2020-03-12,US,#Global,1663.0,41.0,12.0,1610.0
+2020-03-12,US,#Global,1667.0,42.0,12.0,1613.0
 2020-03-12,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Ukraine,#Global,1.0,0.0,0.0,1.0
 2020-03-12,United Arab Emirates,#Global,85.0,0.0,17.0,68.0
@@ -13333,7 +13333,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-13,Trinidad and Tobago,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Tunisia,#Global,16.0,0.0,0.0,16.0
 2020-03-13,Turkey,#Global,5.0,0.0,0.0,5.0
-2020-03-13,US,#Global,2179.0,49.0,12.0,2118.0
+2020-03-13,US,#Global,2181.0,50.0,12.0,2119.0
 2020-03-13,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Ukraine,#Global,3.0,1.0,0.0,2.0
 2020-03-13,United Arab Emirates,#Global,85.0,0.0,17.0,68.0
@@ -13591,7 +13591,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-14,Trinidad and Tobago,#Global,2.0,0.0,0.0,2.0
 2020-03-14,Tunisia,#Global,18.0,0.0,0.0,18.0
 2020-03-14,Turkey,#Global,5.0,0.0,0.0,5.0
-2020-03-14,US,#Global,2727.0,58.0,12.0,2657.0
+2020-03-14,US,#Global,2729.0,60.0,12.0,2657.0
 2020-03-14,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Ukraine,#Global,3.0,1.0,0.0,2.0
 2020-03-14,United Arab Emirates,#Global,85.0,0.0,17.0,68.0
@@ -13849,7 +13849,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-15,Trinidad and Tobago,#Global,2.0,0.0,0.0,2.0
 2020-03-15,Tunisia,#Global,18.0,0.0,0.0,18.0
 2020-03-15,Turkey,#Global,6.0,0.0,0.0,6.0
-2020-03-15,US,#Global,3499.0,73.0,12.0,3414.0
+2020-03-15,US,#Global,3536.0,74.0,12.0,3450.0
 2020-03-15,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Ukraine,#Global,3.0,1.0,0.0,2.0
 2020-03-15,United Arab Emirates,#Global,98.0,0.0,23.0,75.0
@@ -14107,7 +14107,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-16,Trinidad and Tobago,#Global,4.0,0.0,0.0,4.0
 2020-03-16,Tunisia,#Global,20.0,0.0,0.0,20.0
 2020-03-16,Turkey,#Global,18.0,0.0,0.0,18.0
-2020-03-16,US,#Global,4632.0,99.0,17.0,4516.0
+2020-03-16,US,#Global,4661.0,100.0,17.0,4544.0
 2020-03-16,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Ukraine,#Global,7.0,1.0,0.0,6.0
 2020-03-16,United Arab Emirates,#Global,98.0,0.0,23.0,75.0
@@ -14365,7 +14365,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-17,Trinidad and Tobago,#Global,5.0,0.0,0.0,5.0
 2020-03-17,Tunisia,#Global,24.0,0.0,0.0,24.0
 2020-03-17,Turkey,#Global,47.0,1.0,0.0,46.0
-2020-03-17,US,#Global,6421.0,133.0,17.0,6271.0
+2020-03-17,US,#Global,6437.0,134.0,17.0,6286.0
 2020-03-17,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Ukraine,#Global,14.0,2.0,0.0,12.0
 2020-03-17,United Arab Emirates,#Global,98.0,0.0,23.0,75.0
@@ -14623,7 +14623,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-18,Trinidad and Tobago,#Global,7.0,0.0,0.0,7.0
 2020-03-18,Tunisia,#Global,29.0,0.0,0.0,29.0
 2020-03-18,Turkey,#Global,98.0,1.0,0.0,97.0
-2020-03-18,US,#Global,7783.0,164.0,105.0,7514.0
+2020-03-18,US,#Global,7781.0,165.0,105.0,7511.0
 2020-03-18,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Ukraine,#Global,14.0,2.0,0.0,12.0
 2020-03-18,United Arab Emirates,#Global,113.0,0.0,26.0,87.0
@@ -14881,7 +14881,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-19,Trinidad and Tobago,#Global,9.0,0.0,0.0,9.0
 2020-03-19,Tunisia,#Global,39.0,1.0,0.0,38.0
 2020-03-19,Turkey,#Global,192.0,3.0,0.0,189.0
-2020-03-19,US,#Global,13747.0,258.0,121.0,13368.0
+2020-03-19,US,#Global,13748.0,259.0,121.0,13368.0
 2020-03-19,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Ukraine,#Global,16.0,2.0,0.0,14.0
 2020-03-19,United Arab Emirates,#Global,140.0,0.0,31.0,109.0
@@ -15139,7 +15139,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-20,Trinidad and Tobago,#Global,9.0,0.0,0.0,9.0
 2020-03-20,Tunisia,#Global,54.0,1.0,0.0,53.0
 2020-03-20,Turkey,#Global,359.0,4.0,0.0,355.0
-2020-03-20,US,#Global,19273.0,349.0,147.0,18777.0
+2020-03-20,US,#Global,19274.0,350.0,147.0,18777.0
 2020-03-20,Uganda,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Ukraine,#Global,29.0,3.0,0.0,26.0
 2020-03-20,United Arab Emirates,#Global,140.0,2.0,31.0,107.0
@@ -15655,7 +15655,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-22,Trinidad and Tobago,#Global,50.0,0.0,1.0,49.0
 2020-03-22,Tunisia,#Global,75.0,3.0,1.0,71.0
 2020-03-22,Turkey,#Global,1236.0,30.0,0.0,1206.0
-2020-03-22,US,#Global,33276.0,586.0,178.0,32512.0
+2020-03-22,US,#Global,33280.0,587.0,178.0,32515.0
 2020-03-22,Uganda,#Global,1.0,0.0,0.0,1.0
 2020-03-22,Ukraine,#Global,73.0,3.0,1.0,69.0
 2020-03-22,United Arab Emirates,#Global,153.0,2.0,38.0,113.0
@@ -15913,7 +15913,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-23,Trinidad and Tobago,#Global,51.0,0.0,1.0,50.0
 2020-03-23,Tunisia,#Global,89.0,3.0,1.0,85.0
 2020-03-23,Turkey,#Global,1529.0,37.0,0.0,1492.0
-2020-03-23,US,#Global,43843.0,786.0,178.0,42879.0
+2020-03-23,US,#Global,43862.0,786.0,178.0,42898.0
 2020-03-23,Uganda,#Global,9.0,0.0,0.0,9.0
 2020-03-23,Ukraine,#Global,73.0,3.0,1.0,69.0
 2020-03-23,United Arab Emirates,#Global,198.0,2.0,38.0,158.0
@@ -16171,7 +16171,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-24,Trinidad and Tobago,#Global,57.0,0.0,0.0,57.0
 2020-03-24,Tunisia,#Global,114.0,4.0,1.0,109.0
 2020-03-24,Turkey,#Global,1872.0,44.0,0.0,1828.0
-2020-03-24,US,#Global,53736.0,1008.0,348.0,52380.0
+2020-03-24,US,#Global,53925.0,1011.0,348.0,52566.0
 2020-03-24,Uganda,#Global,9.0,0.0,0.0,9.0
 2020-03-24,Ukraine,#Global,97.0,3.0,1.0,93.0
 2020-03-24,United Arab Emirates,#Global,248.0,2.0,45.0,201.0
@@ -16429,7 +16429,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-25,Trinidad and Tobago,#Global,60.0,1.0,0.0,59.0
 2020-03-25,Tunisia,#Global,173.0,5.0,2.0,166.0
 2020-03-25,Turkey,#Global,2433.0,59.0,26.0,2348.0
-2020-03-25,US,#Global,65778.0,1316.0,361.0,64101.0
+2020-03-25,US,#Global,65844.0,1320.0,361.0,64163.0
 2020-03-25,Uganda,#Global,14.0,0.0,0.0,14.0
 2020-03-25,Ukraine,#Global,145.0,5.0,1.0,139.0
 2020-03-25,United Arab Emirates,#Global,333.0,2.0,52.0,279.0
@@ -16945,7 +16945,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-27,Trinidad and Tobago,#Global,66.0,2.0,1.0,63.0
 2020-03-27,Tunisia,#Global,227.0,6.0,2.0,219.0
 2020-03-27,Turkey,#Global,5698.0,92.0,42.0,5564.0
-2020-03-27,US,#Global,101657.0,2265.0,869.0,98523.0
+2020-03-27,US,#Global,101962.0,2269.0,869.0,98824.0
 2020-03-27,Uganda,#Global,23.0,0.0,0.0,23.0
 2020-03-27,Ukraine,#Global,310.0,5.0,5.0,300.0
 2020-03-27,United Arab Emirates,#Global,405.0,2.0,52.0,351.0
@@ -17203,7 +17203,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-28,Trinidad and Tobago,#Global,74.0,3.0,1.0,70.0
 2020-03-28,Tunisia,#Global,278.0,8.0,2.0,268.0
 2020-03-28,Turkey,#Global,7402.0,108.0,70.0,7224.0
-2020-03-28,US,#Global,121465.0,2731.0,1072.0,117662.0
+2020-03-28,US,#Global,121786.0,2744.0,1072.0,117970.0
 2020-03-28,Uganda,#Global,30.0,0.0,0.0,30.0
 2020-03-28,Ukraine,#Global,356.0,9.0,5.0,342.0
 2020-03-28,United Arab Emirates,#Global,468.0,2.0,52.0,414.0
@@ -17461,7 +17461,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-29,Trinidad and Tobago,#Global,78.0,3.0,1.0,74.0
 2020-03-29,Tunisia,#Global,312.0,8.0,2.0,302.0
 2020-03-29,Turkey,#Global,9217.0,131.0,105.0,8981.0
-2020-03-29,US,#Global,140909.0,3420.0,2665.0,134824.0
+2020-03-29,US,#Global,140910.0,3420.0,2665.0,134825.0
 2020-03-29,Uganda,#Global,33.0,0.0,0.0,33.0
 2020-03-29,Ukraine,#Global,475.0,10.0,6.0,459.0
 2020-03-29,United Arab Emirates,#Global,570.0,3.0,58.0,509.0
@@ -17719,7 +17719,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-30,Trinidad and Tobago,#Global,82.0,3.0,1.0,78.0
 2020-03-30,Tunisia,#Global,312.0,8.0,3.0,301.0
 2020-03-30,Turkey,#Global,10827.0,168.0,162.0,10497.0
-2020-03-30,US,#Global,161831.0,4192.0,5644.0,151995.0
+2020-03-30,US,#Global,162147.0,4196.0,5644.0,152307.0
 2020-03-30,Uganda,#Global,33.0,0.0,0.0,33.0
 2020-03-30,Ukraine,#Global,548.0,13.0,8.0,527.0
 2020-03-30,United Arab Emirates,#Global,611.0,5.0,61.0,545.0
@@ -18235,7 +18235,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-01,Trinidad and Tobago,#Global,90.0,5.0,1.0,84.0
 2020-04-01,Tunisia,#Global,423.0,12.0,5.0,406.0
 2020-04-01,Turkey,#Global,15679.0,277.0,333.0,15069.0
-2020-04-01,US,#Global,213242.0,6501.0,8474.0,198267.0
+2020-04-01,US,#Global,213602.0,6511.0,8474.0,198617.0
 2020-04-01,Uganda,#Global,44.0,0.0,0.0,44.0
 2020-04-01,Ukraine,#Global,794.0,20.0,13.0,761.0
 2020-04-01,United Arab Emirates,#Global,814.0,8.0,61.0,745.0
@@ -18493,7 +18493,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-02,Trinidad and Tobago,#Global,94.0,5.0,1.0,88.0
 2020-04-02,Tunisia,#Global,455.0,14.0,5.0,436.0
 2020-04-02,Turkey,#Global,18135.0,356.0,415.0,17364.0
-2020-04-02,US,#Global,243622.0,7921.0,9001.0,226700.0
+2020-04-02,US,#Global,244008.0,7938.0,9001.0,227069.0
 2020-04-02,Uganda,#Global,45.0,0.0,0.0,45.0
 2020-04-02,Ukraine,#Global,897.0,22.0,19.0,856.0
 2020-04-02,United Arab Emirates,#Global,1024.0,8.0,96.0,920.0
@@ -18751,7 +18751,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-03,Trinidad and Tobago,#Global,98.0,6.0,1.0,91.0
 2020-04-03,Tunisia,#Global,495.0,18.0,5.0,472.0
 2020-04-03,Turkey,#Global,20921.0,425.0,484.0,20012.0
-2020-04-03,US,#Global,275367.0,9246.0,9707.0,256414.0
+2020-04-03,US,#Global,275798.0,9260.0,9707.0,256831.0
 2020-04-03,Uganda,#Global,48.0,0.0,0.0,48.0
 2020-04-03,Ukraine,#Global,1072.0,27.0,22.0,1023.0
 2020-04-03,United Arab Emirates,#Global,1264.0,9.0,108.0,1147.0
@@ -19009,7 +19009,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-04,Trinidad and Tobago,#Global,103.0,6.0,1.0,96.0
 2020-04-04,Tunisia,#Global,553.0,18.0,5.0,530.0
 2020-04-04,Turkey,#Global,23934.0,501.0,786.0,22647.0
-2020-04-04,US,#Global,308650.0,10855.0,14652.0,283143.0
+2020-04-04,US,#Global,309027.0,10870.0,14652.0,283505.0
 2020-04-04,Uganda,#Global,48.0,0.0,0.0,48.0
 2020-04-04,Ukraine,#Global,1225.0,32.0,25.0,1168.0
 2020-04-04,United Arab Emirates,#Global,1505.0,10.0,125.0,1370.0
@@ -20299,7 +20299,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-09,Trinidad and Tobago,#Global,109.0,8.0,1.0,100.0
 2020-04-09,Tunisia,#Global,643.0,25.0,25.0,593.0
 2020-04-09,Turkey,#Global,42282.0,908.0,2142.0,39232.0
-2020-04-09,US,#Global,462780.0,20255.0,25410.0,417115.0
+2020-04-09,US,#Global,463327.0,20288.0,25410.0,417629.0
 2020-04-09,Uganda,#Global,53.0,0.0,0.0,53.0
 2020-04-09,Ukraine,#Global,1892.0,57.0,45.0,1790.0
 2020-04-09,United Arab Emirates,#Global,2990.0,14.0,268.0,2708.0
@@ -20557,7 +20557,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-10,Trinidad and Tobago,#Global,109.0,8.0,1.0,100.0
 2020-04-10,Tunisia,#Global,671.0,25.0,25.0,621.0
 2020-04-10,Turkey,#Global,47029.0,1006.0,2423.0,43600.0
-2020-04-10,US,#Global,496535.0,22333.0,28790.0,445412.0
+2020-04-10,US,#Global,496846.0,22357.0,28790.0,445699.0
 2020-04-10,Uganda,#Global,53.0,0.0,0.0,53.0
 2020-04-10,Ukraine,#Global,2203.0,69.0,61.0,2073.0
 2020-04-10,United Arab Emirates,#Global,3360.0,16.0,418.0,2926.0
@@ -20815,7 +20815,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-11,Trinidad and Tobago,#Global,112.0,8.0,12.0,92.0
 2020-04-11,Tunisia,#Global,685.0,28.0,43.0,614.0
 2020-04-11,Turkey,#Global,52167.0,1101.0,2965.0,48101.0
-2020-04-11,US,#Global,526396.0,24342.0,31270.0,470784.0
+2020-04-11,US,#Global,526776.0,24366.0,31270.0,471140.0
 2020-04-11,Uganda,#Global,53.0,0.0,4.0,49.0
 2020-04-11,Ukraine,#Global,2511.0,73.0,79.0,2359.0
 2020-04-11,United Arab Emirates,#Global,3736.0,20.0,588.0,3128.0
@@ -21331,7 +21331,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-13,Trinidad and Tobago,#Global,113.0,8.0,16.0,89.0
 2020-04-13,Tunisia,#Global,726.0,34.0,43.0,649.0
 2020-04-13,Turkey,#Global,61049.0,1296.0,3957.0,55796.0
-2020-04-13,US,#Global,580619.0,27870.0,43482.0,509267.0
+2020-04-13,US,#Global,580624.0,27870.0,43482.0,509272.0
 2020-04-13,Uganda,#Global,54.0,0.0,7.0,47.0
 2020-04-13,Ukraine,#Global,3102.0,93.0,97.0,2912.0
 2020-04-13,United Arab Emirates,#Global,4521.0,25.0,852.0,3644.0
@@ -21847,7 +21847,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,Trinidad and Tobago,#Global,114.0,8.0,19.0,87.0
 2020-04-15,Tunisia,#Global,780.0,35.0,43.0,702.0
 2020-04-15,Turkey,#Global,69392.0,1518.0,5674.0,62200.0
-2020-04-15,US,#Global,636350.0,32734.0,52096.0,551520.0
+2020-04-15,US,#Global,636674.0,32760.0,52096.0,551818.0
 2020-04-15,Uganda,#Global,55.0,0.0,12.0,43.0
 2020-04-15,Ukraine,#Global,3764.0,108.0,143.0,3513.0
 2020-04-15,United Arab Emirates,#Global,5365.0,33.0,1034.0,4298.0
@@ -22105,7 +22105,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,Trinidad and Tobago,#Global,114.0,8.0,20.0,86.0
 2020-04-16,Tunisia,#Global,822.0,37.0,43.0,742.0
 2020-04-16,Turkey,#Global,74193.0,1643.0,7089.0,65461.0
-2020-04-16,US,#Global,667592.0,34827.0,54703.0,578062.0
+2020-04-16,US,#Global,667981.0,34844.0,54703.0,578434.0
 2020-04-16,Uganda,#Global,55.0,0.0,20.0,35.0
 2020-04-16,Ukraine,#Global,4161.0,116.0,186.0,3859.0
 2020-04-16,United Arab Emirates,#Global,5825.0,35.0,1095.0,4695.0
@@ -22363,7 +22363,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,Trinidad and Tobago,#Global,114.0,8.0,20.0,86.0
 2020-04-17,Tunisia,#Global,864.0,37.0,43.0,784.0
 2020-04-17,Turkey,#Global,78546.0,1769.0,8631.0,68146.0
-2020-04-17,US,#Global,699706.0,37411.0,58545.0,603750.0
+2020-04-17,US,#Global,700062.0,37428.0,58545.0,604089.0
 2020-04-17,Uganda,#Global,56.0,0.0,20.0,36.0
 2020-04-17,Ukraine,#Global,4662.0,125.0,246.0,4291.0
 2020-04-17,United Arab Emirates,#Global,6302.0,37.0,1188.0,5077.0
@@ -22621,7 +22621,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Trinidad and Tobago,#Global,114.0,8.0,21.0,85.0
 2020-04-18,Tunisia,#Global,864.0,37.0,43.0,784.0
 2020-04-18,Turkey,#Global,82329.0,1890.0,10453.0,69986.0
-2020-04-18,US,#Global,732197.0,39753.0,64840.0,627604.0
+2020-04-18,US,#Global,732590.0,39775.0,64840.0,627975.0
 2020-04-18,Uganda,#Global,55.0,0.0,22.0,33.0
 2020-04-18,Ukraine,#Global,5106.0,133.0,275.0,4698.0
 2020-04-18,United Arab Emirates,#Global,6302.0,37.0,1188.0,5077.0
@@ -23137,7 +23137,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Trinidad and Tobago,#Global,114.0,8.0,22.0,84.0
 2020-04-20,Tunisia,#Global,884.0,38.0,148.0,698.0
 2020-04-20,Turkey,#Global,90980.0,2140.0,13430.0,75410.0
-2020-04-20,US,#Global,784326.0,42659.0,72329.0,669338.0
+2020-04-20,US,#Global,784708.0,42686.0,72329.0,669693.0
 2020-04-20,Uganda,#Global,56.0,0.0,38.0,18.0
 2020-04-20,Ukraine,#Global,5710.0,151.0,359.0,5200.0
 2020-04-20,United Arab Emirates,#Global,7265.0,43.0,1360.0,5862.0
@@ -30603,7 +30603,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-19,Somalia,#Global,1502.0,59.0,178.0,1265.0
 2020-05-19,South Africa,#Global,17200.0,312.0,7960.0,8928.0
 2020-05-19,South Sudan,#Global,290.0,4.0,4.0,282.0
-2020-05-19,Spain,#Global,232037.0,27778.0,0.0,204259.0
+2020-05-19,Spain,#Global,232037.0,27778.0,150376.0,53883.0
 2020-05-19,Sri Lanka,#Global,1027.0,9.0,569.0,449.0
 2020-05-19,Sudan,#Global,2728.0,111.0,286.0,2331.0
 2020-05-19,Suriname,#Global,11.0,1.0,9.0,1.0
