@@ -56853,16 +56853,16 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-22,Wyoming,USA,563626.0,801,0,12,789
 2020-05-23,Afghanistan,#Global,32225560.0,9998,1040,216,8742
 2020-05-23,Albania,#Global,2845955.0,989,783,31,175
-2020-05-23,Algeria,#Global,43000000.0,7918,4256,582,3080
-2020-05-23,Andorra,#Global,77543.0,762,652,51,59
+2020-05-23,Algeria,#Global,43000000.0,8113,4426,592,3095
+2020-05-23,Andorra,#Global,77543.0,762,653,51,58
 2020-05-23,Angola,#Global,31127674.0,60,17,3,40
 2020-05-23,Antigua and Barbuda,#Global,96453.0,25,19,3,3
-2020-05-23,Argentina,#Global,44938712.0,10649,3062,433,7154
+2020-05-23,Argentina,#Global,44938712.0,10649,3530,439,6680
 2020-05-23,Armenia,#Global,2957500.0,6302,2936,77,3289
-2020-05-23,Azerbaijan,#Global,10067108.0,3855,2399,46,1410
+2020-05-23,Azerbaijan,#Global,10067108.0,3982,2506,49,1427
 2020-05-23,Australia,#Global,25677680.0,7111,6494,102,515
-2020-05-23,Bahamas,#Global,385340.0,97,44,11,42
-2020-05-23,Bahrain,#Global,1543300.0,8774,4462,12,4300
+2020-05-23,Bahamas,#Global,385340.0,97,45,11,41
+2020-05-23,Bahrain,#Global,1543300.0,8774,4462,13,4299
 2020-05-23,Bangladesh,#Global,168439432.0,32078,6486,452,25140
 2020-05-23,Barbados,#Global,287025.0,90,70,7,13
 2020-05-23,Belarus,#Global,9408400.0,35244,13528,194,21522
@@ -56878,16 +56878,16 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,Bulgaria,#Global,7000039.0,2408,808,126,1474
 2020-05-23,Burkina Faso,#Global,20870060.0,814,672,52,90
 2020-05-23,Burundi,#Global,10953317.0,42,20,1,21
-2020-05-23,Chile,#Global,19107216.0,61857,25342,630,35885
+2020-05-23,Chile,#Global,19107216.0,65393,26546,673,38174
 2020-05-23,China,#Global,1386800000.0,82971,78258,4634,79
 2020-05-23,Costa Rica,#Global,5058007.0,911,600,10,301
 2020-05-23,Democratic Republic of the Congo,#Global,89561404.0,2025,312,63,1650
-2020-05-23,Germany,#Global,83149300.0,179730,159391,8242,12097
+2020-05-23,Germany,#Global,83149300.0,179850,159716,8261,11873
 2020-05-23,Dominica,#Global,71808.0,16,16,0,0
-2020-05-23,Dominican Republic,#Global,10358320.0,13989,7572,456,5961
+2020-05-23,Dominican Republic,#Global,10358320.0,14422,7854,458,6110
 2020-05-23,Djibouti,#Global,1078373.0,2270,1064,10,1196
-2020-05-23,Denmark,#Global,5822763.0,11230,9764,561,905
-2020-05-23,Ecuador,#Global,16800000.0,35828,3557,3056,29215
+2020-05-23,Denmark,#Global,5822763.0,11289,9836,561,892
+2020-05-23,Ecuador,#Global,16800000.0,36258,3557,3096,29605
 2020-05-23,El Salvador,#Global,6486201.0,1819,570,33,1216
 2020-05-23,Ivory Coast,#Global,25823071.0,2341,1146,29,1166
 2020-05-23,Eritrea,#Global,3497117.0,39,39,0,0
@@ -56896,111 +56896,111 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,Falkland Islands (Malvinas),#Global,3198.0,13,13,0,0
 2020-05-23,Fiji,#Global,884887.0,18,15,0,3
 2020-05-23,Finland,#Global,5527573.0,6568,4800,306,1462
-2020-05-23,France,#Global,67076000.0,144566,64209,28289,52068
+2020-05-23,France,#Global,67076000.0,144306,64547,28332,51427
 2020-05-23,Gabon,#Global,2172579.0,1728,402,12,1314
 2020-05-23,Gambia,#Global,2347706.0,25,13,1,11
 2020-05-23,Georgia,#Global,3723464.0,728,509,12,207
 2020-05-23,Ghana,#Global,30280811.0,6617,1976,31,4610
 2020-05-23,Grenada,#Global,112003.0,22,17,0,5
-2020-05-23,Greece,#Global,10724599.0,2874,1374,169,1331
-2020-05-23,United Kingdom,#Global,66435550.0,254195,0,36393,217802
+2020-05-23,Greece,#Global,10724599.0,2876,1374,171,1331
+2020-05-23,United Kingdom,#Global,66435550.0,257154,0,36675,220479
 2020-05-23,Guatemala,#Global,16604026.0,2743,222,51,2470
 2020-05-23,Guinea,#Global,12218357.0,3067,1575,19,1473
 2020-05-23,Guinea-Bissau,#Global,1604528.0,1114,42,6,1066
 2020-05-23,Guyana,#Global,782766.0,127,57,10,60
 2020-05-23,Haiti,#Global,11577779.0,812,22,25,765
 2020-05-23,Honduras,#Global,9158345.0,3477,439,167,2871
-2020-05-23,India,#Global,1361020116.0,126308,52258,3754,70296
+2020-05-23,India,#Global,1361020116.0,131103,54298,3865,72940
 2020-05-23,Indonesia,#Global,266911900.0,21745,5249,1351,15145
-2020-05-23,Iraq,#Global,39127900.0,3964,2532,147,1285
+2020-05-23,Iraq,#Global,39127900.0,4272,2585,152,1535
 2020-05-23,Iran,#Global,83363802.0,133521,104072,7359,22090
-2020-05-23,Ireland,#Global,4921500.0,24506,21060,1592,1854
-2020-05-23,Iceland,#Global,364260.0,1803,1791,10,2
+2020-05-23,Ireland,#Global,4921500.0,24582,21060,1604,1918
+2020-05-23,Iceland,#Global,364260.0,1804,1791,10,3
 2020-05-23,Israel,#Global,9185400.0,16712,14085,279,2348
-2020-05-23,Italy,#Global,60238522.0,228658,136720,32616,59322
+2020-05-23,Italy,#Global,60238522.0,229327,138840,32735,57752
 2020-05-23,Jamaica,#Global,2726667.0,544,191,9,344
 2020-05-23,Japan,#Global,125950000.0,16513,13005,796,2712
 2020-05-23,Yemen,#Global,29825968.0,209,11,33,165
-2020-05-23,Jordan,#Global,10658084.0,700,461,9,230
+2020-05-23,Jordan,#Global,10658084.0,704,470,9,225
 2020-05-23,Cambodia,#Global,15288489.0,124,122,0,2
 2020-05-23,Cameroon,#Global,26545864.0,4400,1822,159,2419
-2020-05-23,Canada,#Global,37993130.0,83933,42595,6359,34979
-2020-05-23,Cape Verde,#Global,550483.0,362,130,3,229
-2020-05-23,Kazakhstan,#Global,18681864.0,7919,4096,35,3788
-2020-05-23,Qatar,#Global,2747282.0,40481,7893,19,32569
+2020-05-23,Canada,#Global,37993130.0,84117,42975,6364,34778
+2020-05-23,Cape Verde,#Global,550483.0,371,142,3,226
+2020-05-23,Kazakhstan,#Global,18681864.0,7919,4214,35,3670
+2020-05-23,Qatar,#Global,2747282.0,42213,8513,21,33679
 2020-05-23,Kenya,#Global,47564296.0,1192,380,50,762
 2020-05-23,Kyrgyzstan,#Global,6533500.0,1365,957,14,394
 2020-05-23,Colombia,#Global,49395678.0,19131,4575,682,13874
 2020-05-23,Comoros,#Global,873724.0,78,18,1,59
-2020-05-23,Kosovo,#Global,1795666.0,1004,772,29,203
-2020-05-23,Croatia,#Global,4076246.0,2243,2011,99,133
-2020-05-23,Cuba,#Global,11209628.0,1916,1631,81,204
+2020-05-23,Kosovo,#Global,1795666.0,1025,782,29,214
+2020-05-23,Croatia,#Global,4076246.0,2243,2023,99,121
+2020-05-23,Cuba,#Global,11209628.0,1931,1671,81,179
 2020-05-23,Kuwait,#Global,4420110.0,20464,5747,148,14569
 2020-05-23,Laos,#Global,7123205.0,19,14,0,5
 2020-05-23,Lesotho,#Global,2108132.0,2,0,0,2
 2020-05-23,Latvia,#Global,1906800.0,1046,712,22,312
-2020-05-23,Lebanon,#Global,6825442.0,1086,663,26,397
-2020-05-23,Liberia,#Global,4475353.0,249,136,24,89
-2020-05-23,Libya,#Global,6871287.0,72,38,3,31
+2020-05-23,Lebanon,#Global,6825442.0,1097,667,26,404
+2020-05-23,Liberia,#Global,4475353.0,255,136,26,93
+2020-05-23,Libya,#Global,6871287.0,75,39,3,33
 2020-05-23,Liechtenstein,#Global,38749.0,82,55,1,26
 2020-05-23,Lithuania,#Global,2793471.0,1616,1135,63,418
-2020-05-23,Luxembourg,#Global,626108.0,3981,3748,109,124
+2020-05-23,Luxembourg,#Global,626108.0,3990,3758,109,123
 2020-05-23,Madagascar,#Global,26251309.0,488,138,2,348
 2020-05-23,Malawi,#Global,18600000.0,82,28,3,51
 2020-05-23,Malaysia,#Global,32749760.0,7185,5912,115,1158
-2020-05-23,Maledives,#Global,374775.0,1274,109,4,1161
+2020-05-23,Maledives,#Global,374775.0,1313,109,4,1200
 2020-05-23,Libya,#Global,20250833.0,969,560,62,347
 2020-05-23,Malta,#Global,493559.0,609,473,6,130
-2020-05-23,Morocco,#Global,35868274.0,7375,4573,197,2605
+2020-05-23,Morocco,#Global,35868274.0,7406,4638,198,2570
 2020-05-23,Mauritania,#Global,4077347.0,200,7,6,187
 2020-05-23,Mauritius,#Global,1300000.0,332,322,10,0
 2020-05-23,Mexico,#Global,126577691.0,62527,42191,6989,13347
-2020-05-23,Moldova,#Global,2681735.0,6847,3369,237,3241
+2020-05-23,Moldova,#Global,2681735.0,6994,3452,242,3300
 2020-05-23,Monaco,#Global,38300.0,97,90,4,3
 2020-05-23,Mongolia,#Global,3312557.0,141,30,0,111
 2020-05-23,Montenegro,#Global,622359.0,324,314,9,1
-2020-05-23,Mozambique,#Global,30066648.0,164,48,0,116
+2020-05-23,Mozambique,#Global,30066648.0,168,48,0,120
 2020-05-23,Myanmar,#Global,54339766.0,201,116,6,79
 2020-05-23,Namibia,#Global,2458936.0,20,14,0,6
 2020-05-23,Nepal,#Global,29996478.0,584,70,3,511
 2020-05-23,New Zealand,#Global,4978026.0,1504,1455,21,28
 2020-05-23,Nicaragua,#Global,6460411.0,279,199,17,63
-2020-05-23,Netherlands,#Global,17455231.0,44888,0,5788,39100
+2020-05-23,Netherlands,#Global,17455231.0,45064,0,5811,39253
 2020-05-23,Niger,#Global,22314743.0,937,764,60,113
 2020-05-23,Nigeria,#Global,206139587.0,7261,2007,221,5033
-2020-05-23,North Macedonia,#Global,2077132.0,1921,1387,112,422
-2020-05-23,Norway,#Global,5367580.0,8332,7727,235,370
-2020-05-23,Oman,#Global,4664790.0,7257,1848,34,5375
+2020-05-23,North Macedonia,#Global,2077132.0,1941,1411,113,417
+2020-05-23,Norway,#Global,5367580.0,8340,7727,235,378
+2020-05-23,Oman,#Global,4664790.0,7257,1848,35,5374
 2020-05-23,East Timor,#Global,1387149.0,24,24,0,0
 2020-05-23,Pakistan,#Global,219280520.0,52437,16653,1101,34683
-2020-05-23,Palestinian territories,#Global,4900000.0,423,346,2,75
+2020-05-23,Palestinian territories,#Global,4900000.0,423,346,3,74
 2020-05-23,Panama,#Global,4218808.0,10267,6275,295,3697
 2020-05-23,Papua New Guinea,#Global,8935000.0,8,8,0,0
-2020-05-23,Paraguay,#Global,7152703.0,838,264,11,563
+2020-05-23,Paraguay,#Global,7152703.0,850,298,11,541
 2020-05-23,Peru,#Global,32131400.0,111698,44848,3244,63606
 2020-05-23,Philippines,#Global,108539263.0,13777,3177,863,9737
-2020-05-23,Poland,#Global,38379000.0,20838,8977,990,10871
-2020-05-23,Portugal,#Global,10276617.0,30200,7590,1289,21321
+2020-05-23,Poland,#Global,38379000.0,20931,8977,993,10961
+2020-05-23,Portugal,#Global,10276617.0,30471,7705,1302,21464
 2020-05-23,Republic of the Congo,#Global,5518092.0,469,137,16,316
-2020-05-23,Rwanda,#Global,12374397.0,321,222,0,99
-2020-05-23,Romania,#Global,19405156.0,17857,11187,1170,5500
+2020-05-23,Rwanda,#Global,12374397.0,325,227,0,98
+2020-05-23,Romania,#Global,19405156.0,17857,11187,1173,5497
 2020-05-23,Russia,#Global,146745098.0,335882,107936,3388,224558
 2020-05-23,Zambia,#Global,17885422.0,920,336,7,577
 2020-05-23,San Marino,#Global,33574.0,665,266,42,357
-2020-05-23,Saudi Arabia,#Global,34218169.0,67719,39003,364,28352
-2020-05-23,Sweden,#Global,10338368.0,32809,4971,3925,23913
-2020-05-23,Switzerland,#Global,8603900.0,30725,27900,1904,921
+2020-05-23,Saudi Arabia,#Global,34218169.0,70161,41236,379,28546
+2020-05-23,Sweden,#Global,10338368.0,33188,4971,3992,24225
+2020-05-23,Switzerland,#Global,8603900.0,30725,27900,1905,920
 2020-05-23,Senegal,#Global,16209125.0,2976,1416,34,1526
-2020-05-23,Serbia,#Global,6963764.0,11024,5541,237,5246
+2020-05-23,Serbia,#Global,6963764.0,11092,5699,238,5155
 2020-05-23,Seychelles,#Global,90000.0,11,11,0,0
-2020-05-23,Sierra Leone,#Global,7901454.0,606,230,38,338
-2020-05-23,Zimbabwe,#Global,15159624.0,51,18,4,29
-2020-05-23,Singapore,#Global,5703600.0,31068,12995,23,18050
+2020-05-23,Sierra Leone,#Global,7901454.0,621,241,39,341
+2020-05-23,Zimbabwe,#Global,15159624.0,56,18,4,34
+2020-05-23,Singapore,#Global,5703600.0,31068,13882,23,17163
 2020-05-23,Slovakia,#Global,5456362.0,1504,1280,28,196
 2020-05-23,Slovenia,#Global,2094060.0,1468,1340,106,22
 2020-05-23,Somalia,#Global,15893219.0,1594,204,61,1329
 2020-05-23,Spain,#Global,47100396.0,234824,150376,28628,55820
-2020-05-23,Sri Lanka,#Global,21803000.0,1068,660,9,399
+2020-05-23,Sri Lanka,#Global,21803000.0,1085,660,9,416
 2020-05-23,St. Kitts and Nevis,#Global,52823.0,15,15,0,0
 2020-05-23,St. Lucia,#Global,178696.0,18,18,0,0
 2020-05-23,Saint Vincent and the Grenadines,#Global,110608.0,18,14,0,4
@@ -57011,30 +57011,30 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,South Africa,#Global,58775022.0,20125,10104,397,9624
 2020-05-23,South Korea,#Global,51780579.0,11165,10194,266,705
 2020-05-23,South Sudan,#Global,12778250.0,563,6,6,551
-2020-05-23,Tajikistan,#Global,9127000.0,2551,1089,44,1418
+2020-05-23,Tajikistan,#Global,9127000.0,2738,1223,44,1471
 2020-05-23,Taiwan,#Global,23604265.0,441,408,7,26
 2020-05-23,Tanzania,#Global,55890747.0,509,183,21,305
 2020-05-23,Thailand,#Global,66493255.0,3040,2916,56,68
 2020-05-23,Togo,#Global,7538000.0,363,121,12,230
 2020-05-23,Trinidad and Tobago,#Global,1363985.0,116,108,8,0
-2020-05-23,Chad,#Global,16244513.0,611,196,58,357
-2020-05-23,Czechia,#Global,10693939.0,8813,6025,312,2476
+2020-05-23,Chad,#Global,16244513.0,648,204,60,384
+2020-05-23,Czechia,#Global,10693939.0,8853,6038,314,2501
 2020-05-23,Tunisia,#Global,11722038.0,1048,903,47,98
-2020-05-23,Turkey,#Global,83154997.0,154500,116111,4276,34113
-2020-05-23,USA,#Global,329624709.0,1597996,350135,95865,1151996
+2020-05-23,Turkey,#Global,83154997.0,155686,117602,4308,33776
+2020-05-23,USA,#Global,329624709.0,1608183,350135,96336,1161712
 2020-05-23,Uganda,#Global,40299300.0,175,68,0,107
 2020-05-23,Ukraine,#Global,41879904.0,20580,6929,605,13046
 2020-05-23,Hungary,#Global,9772756.0,3713,1655,482,1576
 2020-05-23,Uruguay,#Global,3518552.0,753,603,20,130
-2020-05-23,Uzbekistan,#Global,34126048.0,3036,2492,13,531
+2020-05-23,Uzbekistan,#Global,34126048.0,3089,2525,13,551
 2020-05-23,Vatican City,#Global,799.0,12,2,0,10
 2020-05-23,Venezuela,#Global,32219521.0,944,262,10,672
 2020-05-23,United Arab Emirates,#Global,9890400.0,27892,13798,241,13853
 2020-05-23,Vietnam,#Global,96208984.0,324,267,0,57
 2020-05-23,Western Sahara,#Global,582463.0,6,6,0,0
-2020-05-23,Central African Republic,#Global,5496011.0,479,18,0,461
+2020-05-23,Central African Republic,#Global,5496011.0,552,18,1,533
 2020-05-23,Cyprus,#Global,875900.0,927,561,17,349
-2020-05-23,Egypt,#Global,100247225.0,15786,4374,707,10705
+2020-05-23,Egypt,#Global,100247225.0,16513,4628,735,11150
 2020-05-23,Equatorial Guinea,#Global,1358276.0,960,165,11,784
 2020-05-23,Ethiopia,#Global,98665000.0,494,151,5,338
 2020-05-23,Austia,#Global,8902600.0,16486,15037,639,810
@@ -57046,161 +57046,161 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,Tasmania,Australia,507626.0,228,199,13,16
 2020-05-23,Victoria,Australia,5547527.0,1602,1484,19,99
 2020-05-23,Western Australia,Australia,2296411.0,560,549,9,2
-2020-05-23,Alb-Donau-Kreis,Baden-Württemberg,196047.0,624,536,21,67
+2020-05-23,Alb-Donau-Kreis,Baden-Württemberg,196047.0,627,536,21,70
 2020-05-23,Baden-Baden,Baden-Württemberg,55123.0,184,160,19,5
-2020-05-23,Biberach (Kreis),Baden-Württemberg,199742.0,575,435,33,107
+2020-05-23,Biberach (Kreis),Baden-Württemberg,199742.0,576,435,33,108
 2020-05-23,Bodenseekreis,Baden-Württemberg,216227.0,289,275,8,6
 2020-05-23,Breisgau-Hochschwarzwald (Kreis),Baden-Württemberg,262795.0,1120,1010,65,45
-2020-05-23,Böblingen (Kreis),Baden-Württemberg,391640.0,1329,1053,44,232
+2020-05-23,Böblingen (Kreis),Baden-Württemberg,391640.0,1330,1053,44,233
 2020-05-23,Calw (Kreis),Baden-Württemberg,158397.0,732,688,24,20
 2020-05-23,Emmendingen (Kreis),Baden-Württemberg,165383.0,513,444,40,29
 2020-05-23,Enzkreis,Baden-Württemberg,198905.0,631,510,17,104
-2020-05-23,Esslingen (Kreis),Baden-Württemberg,533859.0,1795,1548,106,141
+2020-05-23,Esslingen (Kreis),Baden-Württemberg,533859.0,1799,1548,107,144
 2020-05-23,Freiburg im Breisgau,Baden-Württemberg,230241.0,958,872,76,10
-2020-05-23,Freudenstadt (Kreis),Baden-Württemberg,117935.0,565,507,37,21
-2020-05-23,Göppingen (Kreis),Baden-Württemberg,257253.0,772,656,39,77
+2020-05-23,Freudenstadt (Kreis),Baden-Württemberg,117935.0,567,507,37,23
+2020-05-23,Göppingen (Kreis),Baden-Württemberg,257253.0,776,656,40,80
 2020-05-23,Heidelberg,Baden-Württemberg,160355.0,292,276,7,9
 2020-05-23,Heidenheim (Kreis),Baden-Württemberg,132472.0,510,438,39,33
 2020-05-23,Heilbronn,Baden-Württemberg,125960.0,431,83,16,332
 2020-05-23,Heilbronn (Kreis),Baden-Württemberg,343068.0,937,815,38,84
 2020-05-23,Hohenlohekreis,Baden-Württemberg,112010.0,766,688,44,34
 2020-05-23,Karlsruhe,Baden-Württemberg,313092.0,383,360,11,12
-2020-05-23,Karlsruhe (Kreis),Baden-Württemberg,444232.0,952,854,74,24
+2020-05-23,Karlsruhe (Kreis),Baden-Württemberg,444232.0,955,854,74,27
 2020-05-23,Konstanz (Kreis),Baden-Württemberg,285325.0,463,438,14,11
-2020-05-23,Ludwigsburg (Kreis),Baden-Württemberg,543984.0,1736,1596,71,69
+2020-05-23,Ludwigsburg (Kreis),Baden-Württemberg,543984.0,1737,1596,71,70
 2020-05-23,Lörrach (Kreis),Baden-Württemberg,228639.0,664,491,57,116
-2020-05-23,Main-Tauber-Kreis,Baden-Württemberg,132321.0,395,351,10,34
+2020-05-23,Main-Tauber-Kreis,Baden-Württemberg,132321.0,397,351,10,36
 2020-05-23,Mannheim,Baden-Württemberg,309370.0,477,442,10,25
 2020-05-23,Neckar-Odenwald-Kreis,Baden-Württemberg,143535.0,433,323,22,88
-2020-05-23,Ortenaukreis,Baden-Württemberg,429479.0,1193,982,114,97
-2020-05-23,Ostalbkreis,Baden-Württemberg,314002.0,1319,1209,31,79
-2020-05-23,Pforzheim,Baden-Württemberg,125542.0,368,302,8,58
-2020-05-23,Rastatt (Kreis),Baden-Württemberg,231018.0,513,477,16,20
+2020-05-23,Ortenaukreis,Baden-Württemberg,429479.0,1198,982,114,102
+2020-05-23,Ostalbkreis,Baden-Württemberg,314002.0,1324,1209,31,84
+2020-05-23,Pforzheim,Baden-Württemberg,125542.0,369,302,8,59
+2020-05-23,Rastatt (Kreis),Baden-Württemberg,231018.0,516,477,16,23
 2020-05-23,Ravensburg (Kreis),Baden-Württemberg,284285.0,557,474,7,76
 2020-05-23,Rems-Murr-Kreis,Baden-Württemberg,426158.0,1544,1320,80,144
 2020-05-23,Reutlingen (Kreis),Baden-Württemberg,286748.0,1516,1340,70,106
-2020-05-23,Rhein-Neckar-Kreis,Baden-Württemberg,547625.0,945,844,37,64
-2020-05-23,Rottweil (Kreis),Baden-Württemberg,139455.0,672,508,25,139
-2020-05-23,Schwarzwald-Baar-Kreis,Baden-Württemberg,212381.0,547,450,26,71
-2020-05-23,Schwäbisch Hall (Kreis),Baden-Württemberg,195861.0,842,678,56,108
+2020-05-23,Rhein-Neckar-Kreis,Baden-Württemberg,547625.0,947,844,37,66
+2020-05-23,Rottweil (Kreis),Baden-Württemberg,139455.0,674,508,25,141
+2020-05-23,Schwarzwald-Baar-Kreis,Baden-Württemberg,212381.0,548,450,27,71
+2020-05-23,Schwäbisch Hall (Kreis),Baden-Württemberg,195861.0,854,678,57,119
 2020-05-23,Sigmaringen (Kreis),Baden-Württemberg,130873.0,777,712,33,32
-2020-05-23,Stuttgart (Kreis),Baden-Württemberg,634830.0,1445,1307,59,79
+2020-05-23,Stuttgart (Kreis),Baden-Württemberg,634830.0,1450,1307,59,84
 2020-05-23,Tuttlingen (Kreis),Baden-Württemberg,140152.0,498,425,20,53
 2020-05-23,Tübingen (Kreis),Baden-Württemberg,227331.0,1280,1034,55,191
 2020-05-23,Ulm,Baden-Württemberg,126329.0,279,237,5,37
 2020-05-23,Waldshut (Kreis),Baden-Württemberg,170619.0,304,260,35,9
 2020-05-23,Zollernalbkreis,Baden-Württemberg,188935.0,1185,864,73,248
-2020-05-23,other cases in Baden-Württemberg,Baden-Württemberg,,35,1828,0,-1793
-2020-05-23,Aichach-Friedberg (Kreis),Bavaria,133596.0,290,267,20,3
-2020-05-23,Altötting (Kreis),Bavaria,111210.0,596,509,50,37
+2020-05-23,other cases in Baden-Württemberg,Baden-Württemberg,,0,1828,0,-1828
+2020-05-23,Aichach-Friedberg (Kreis),Bavaria,133596.0,290,269,21,0
+2020-05-23,Altötting (Kreis),Bavaria,111210.0,596,514,51,31
 2020-05-23,Amberg,Bavaria,41970.0,79,39,4,36
-2020-05-23,Amberg-Sulzbach (Kreis),Bavaria,103109.0,484,165,44,275
+2020-05-23,Amberg-Sulzbach (Kreis),Bavaria,103109.0,483,165,44,274
 2020-05-23,Ansbach,Bavaria,41847.0,137,107,7,23
 2020-05-23,Ansbach (Kreis),Bavaria,183949.0,595,278,26,291
 2020-05-23,Aschaffenburg,Bavaria,70527.0,114,92,1,21
-2020-05-23,Aschaffenburg (Kreis),Bavaria,174208.0,525,412,36,77
-2020-05-23,Augsburg,Bavaria,295135.0,393,369,14,10
-2020-05-23,Augsburg (Kreis),Bavaria,251534.0,382,352,8,22
-2020-05-23,Bad Kissingen (Kreis),Bavaria,103218.0,253,225,18,10
-2020-05-23,Bad Tölz (Kreis),Bavaria,127227.0,417,397,10,10
+2020-05-23,Aschaffenburg (Kreis),Bavaria,174208.0,525,415,37,73
+2020-05-23,Augsburg,Bavaria,295135.0,394,369,14,11
+2020-05-23,Augsburg (Kreis),Bavaria,251534.0,382,353,8,21
+2020-05-23,Bad Kissingen (Kreis),Bavaria,103218.0,253,227,18,8
+2020-05-23,Bad Tölz (Kreis),Bavaria,127227.0,418,403,10,5
 2020-05-23,Bamberg,Bavaria,77592.0,190,105,17,68
-2020-05-23,Bamberg (Kreis),Bavaria,147086.0,404,55,35,314
-2020-05-23,Bayreuth,Bavaria,74657.0,207,170,12,25
-2020-05-23,Bayreuth (Kreis),Bavaria,103656.0,417,350,27,40
-2020-05-23,Berchtesgadener Land (Kreis),Bavaria,105722.0,300,268,22,10
-2020-05-23,Cham (Kreis),Bavaria,127882.0,422,383,20,19
-2020-05-23,Coburg,Bavaria,41249.0,78,55,1,22
-2020-05-23,Coburg (Kreis),Bavaria,86906.0,284,167,17,100
-2020-05-23,Dachau (Kreis),Bavaria,153884.0,908,847,28,33
-2020-05-23,Deggendorf (Kreis),Bavaria,119326.0,310,238,13,59
-2020-05-23,Dillingen a.d. Donau (Kreis),Bavaria,96021.0,262,197,24,41
-2020-05-23,Dingolfing-Landau (Kreis),Bavaria,96217.0,205,187,7,11
+2020-05-23,Bamberg (Kreis),Bavaria,147086.0,404,62,35,307
+2020-05-23,Bayreuth,Bavaria,74657.0,207,171,12,24
+2020-05-23,Bayreuth (Kreis),Bavaria,103656.0,417,351,27,39
+2020-05-23,Berchtesgadener Land (Kreis),Bavaria,105722.0,302,272,22,8
+2020-05-23,Cham (Kreis),Bavaria,127882.0,425,383,20,22
+2020-05-23,Coburg,Bavaria,41249.0,79,62,1,16
+2020-05-23,Coburg (Kreis),Bavaria,86906.0,285,183,17,85
+2020-05-23,Dachau (Kreis),Bavaria,153884.0,908,859,28,21
+2020-05-23,Deggendorf (Kreis),Bavaria,119326.0,314,238,13,63
+2020-05-23,Dillingen a.d. Donau (Kreis),Bavaria,96021.0,264,197,25,42
+2020-05-23,Dingolfing-Landau (Kreis),Bavaria,96217.0,205,188,7,10
 2020-05-23,Donau-Ries (Kreis),Bavaria,133496.0,346,294,23,29
 2020-05-23,Ebersberg (Kreis),Bavaria,142142.0,498,439,5,54
 2020-05-23,Eichstätt (Kreis),Bavaria,132341.0,287,244,17,26
-2020-05-23,Erding (Kreis),Bavaria,137660.0,609,547,11,51
-2020-05-23,Erlangen,Bavaria,111962.0,257,209,10,38
-2020-05-23,Erlangen-Höchstadt,Bavaria,136271.0,243,182,6,55
-2020-05-23,Forchheim (Kreis),Bavaria,116099.0,204,194,4,6
-2020-05-23,Freising (Kreis),Bavaria,179116.0,983,782,40,161
+2020-05-23,Erding (Kreis),Bavaria,137660.0,609,555,11,43
+2020-05-23,Erlangen,Bavaria,111962.0,259,210,10,39
+2020-05-23,Erlangen-Höchstadt,Bavaria,136271.0,243,182,7,54
+2020-05-23,Forchheim (Kreis),Bavaria,116099.0,205,195,4,6
+2020-05-23,Freising (Kreis),Bavaria,179116.0,983,837,40,106
 2020-05-23,Freyung-Grafenau (Kreis),Bavaria,78355.0,189,174,12,3
-2020-05-23,Fürstenfeldbruck (Kreis),Bavaria,219320.0,888,819,34,35
-2020-05-23,Fürth,Bavaria,127748.0,384,282,34,68
+2020-05-23,Fürstenfeldbruck (Kreis),Bavaria,219320.0,890,819,34,37
+2020-05-23,Fürth,Bavaria,127748.0,385,282,34,69
 2020-05-23,Fürth (Kreis),Bavaria,117387.0,496,368,56,72
 2020-05-23,Garmisch-Partenkirchen (Kreis),Bavaria,88467.0,284,254,18,12
-2020-05-23,Günzburg (Kreis),Bavaria,125747.0,236,230,4,2
-2020-05-23,Haßberge (Kreis),Bavaria,84599.0,155,144,6,5
-2020-05-23,Hof,Bavaria,45930.0,111,55,4,52
-2020-05-23,Hof (Kreis),Bavaria,95311.0,437,194,30,213
-2020-05-23,Ingolstadt,Bavaria,136981.0,443,345,35,63
+2020-05-23,Günzburg (Kreis),Bavaria,125747.0,236,231,4,1
+2020-05-23,Haßberge (Kreis),Bavaria,84599.0,155,146,6,3
+2020-05-23,Hof,Bavaria,45930.0,112,62,4,46
+2020-05-23,Hof (Kreis),Bavaria,95311.0,445,195,30,220
+2020-05-23,Ingolstadt,Bavaria,136981.0,450,349,35,66
 2020-05-23,Kaufbeuren,Bavaria,43893.0,108,96,4,8
-2020-05-23,Kelheim (Kreis),Bavaria,122258.0,441,360,34,47
+2020-05-23,Kelheim (Kreis),Bavaria,122258.0,442,401,34,7
 2020-05-23,Kempten,Bavaria,68907.0,102,91,10,1
-2020-05-23,Kitzingen (Kreis),Bavaria,90909.0,189,180,3,6
-2020-05-23,Kronach (Kreis),Bavaria,67135.0,157,135,3,19
+2020-05-23,Kitzingen (Kreis),Bavaria,90909.0,190,186,3,1
+2020-05-23,Kronach (Kreis),Bavaria,67135.0,157,141,3,13
 2020-05-23,Kulmbach (Kreis),Bavaria,71845.0,241,212,11,18
-2020-05-23,Landsberg am Lech (Kreis),Bavaria,120071.0,362,300,10,52
+2020-05-23,Landsberg am Lech (Kreis),Bavaria,120071.0,362,308,10,44
 2020-05-23,Landshut,Bavaria,72404.0,275,232,10,33
-2020-05-23,Landshut (Kreis),Bavaria,158698.0,659,410,29,220
-2020-05-23,Lichtenfels (Kreis),Bavaria,66838.0,248,193,6,49
+2020-05-23,Landshut (Kreis),Bavaria,158698.0,659,411,29,219
+2020-05-23,Lichtenfels (Kreis),Bavaria,66838.0,253,198,6,49
 2020-05-23,Lindau/Bodensee (Kreis),Bavaria,81669.0,241,209,8,24
 2020-05-23,Main-Spessart (Kreis),Bavaria,126365.0,151,142,6,3
 2020-05-23,Memmingen,Bavaria,43837.0,51,51,0,0
-2020-05-23,Miesbach (Kreis),Bavaria,99726.0,569,510,10,49
-2020-05-23,Miltenberg (Kreis),Bavaria,128756.0,289,268,5,16
-2020-05-23,Mühldorf a.Inn (Kreis),Bavaria,115250.0,496,453,27,16
-2020-05-23,München,Bavaria,1471508.0,6456,5474,203,779
-2020-05-23,München (Kreis),Bavaria,348871.0,1392,1217,68,107
-2020-05-23,Neu-Ulm (Kreis),Bavaria,174200.0,422,384,25,13
-2020-05-23,Neuburg-Schrobenhausen (Kreis),Bavaria,96680.0,326,245,14,67
-2020-05-23,Neumarkt i.d.Opf. (Kreis),Bavaria,133561.0,366,333,15,18
-2020-05-23,Neustadt a.d. Aisch-Bad Windsheim,Bavaria,100364.0,241,211,6,24
-2020-05-23,Neustadt a.d. Waldnaab,Bavaria,94352.0,807,333,67,407
-2020-05-23,Nürnberg,Bavaria,518365.0,1037,900,39,98
-2020-05-23,Nürnberger Land (Kreis),Bavaria,170365.0,626,514,44,68
-2020-05-23,Oberallgäu (Kreis),Bavaria,155362.0,173,162,7,4
+2020-05-23,Miesbach (Kreis),Bavaria,99726.0,572,515,11,46
+2020-05-23,Miltenberg (Kreis),Bavaria,128756.0,289,273,5,11
+2020-05-23,Mühldorf a.Inn (Kreis),Bavaria,115250.0,498,453,27,18
+2020-05-23,München,Bavaria,1471508.0,6466,5547,203,716
+2020-05-23,München (Kreis),Bavaria,348871.0,1394,1252,69,73
+2020-05-23,Neu-Ulm (Kreis),Bavaria,174200.0,423,384,25,14
+2020-05-23,Neuburg-Schrobenhausen (Kreis),Bavaria,96680.0,327,275,14,38
+2020-05-23,Neumarkt i.d.Opf. (Kreis),Bavaria,133561.0,368,337,15,16
+2020-05-23,Neustadt a.d. Aisch-Bad Windsheim,Bavaria,100364.0,241,216,6,19
+2020-05-23,Neustadt a.d. Waldnaab,Bavaria,94352.0,810,337,67,406
+2020-05-23,Nürnberg,Bavaria,518365.0,1040,915,39,86
+2020-05-23,Nürnberger Land (Kreis),Bavaria,170365.0,627,520,44,63
+2020-05-23,Oberallgäu (Kreis),Bavaria,155362.0,174,162,7,5
 2020-05-23,Ostallgäu (Kreis),Bavaria,140316.0,502,436,34,32
-2020-05-23,Passau,Bavaria,52469.0,130,102,18,10
-2020-05-23,Passau (Kreis),Bavaria,192043.0,555,506,23,26
-2020-05-23,Pfaffenhofen a.d.Ilm (Kreis),Bavaria,127151.0,363,314,19,30
-2020-05-23,Regen (Kreis),Bavaria,77656.0,194,135,10,49
-2020-05-23,Regensburg,Bavaria,152610.0,551,39,9,503
-2020-05-23,Regensburg (Kreis),Bavaria,193572.0,456,333,14,109
-2020-05-23,Rhön-Grabfeld (Kreis),Bavaria,79690.0,192,155,6,31
-2020-05-23,Rosenheim,Bavaria,63324.0,505,174,23,308
-2020-05-23,Rosenheim (Kreis),Bavaria,260983.0,2237,1093,179,965
+2020-05-23,Passau,Bavaria,52469.0,131,102,18,11
+2020-05-23,Passau (Kreis),Bavaria,192043.0,564,506,23,35
+2020-05-23,Pfaffenhofen a.d.Ilm (Kreis),Bavaria,127151.0,364,315,19,30
+2020-05-23,Regen (Kreis),Bavaria,77656.0,194,143,10,41
+2020-05-23,Regensburg,Bavaria,152610.0,554,39,9,506
+2020-05-23,Regensburg (Kreis),Bavaria,193572.0,460,337,14,109
+2020-05-23,Rhön-Grabfeld (Kreis),Bavaria,79690.0,191,172,6,13
+2020-05-23,Rosenheim,Bavaria,63324.0,506,174,23,309
+2020-05-23,Rosenheim (Kreis),Bavaria,260983.0,2243,1093,180,970
 2020-05-23,Roth (Kreis),Bavaria,126958.0,291,194,7,90
-2020-05-23,Rottal-Inn (Kreis),Bavaria,120659.0,733,661,44,28
+2020-05-23,Rottal-Inn (Kreis),Bavaria,120659.0,734,661,45,28
 2020-05-23,Schwabach,Bavaria,40792.0,78,6,2,70
-2020-05-23,Schwandorf (Kreis),Bavaria,147189.0,488,404,16,68
+2020-05-23,Schwandorf (Kreis),Bavaria,147189.0,493,404,16,73
 2020-05-23,Schweinfurt,Bavaria,54032.0,171,150,18,3
-2020-05-23,Schweinfurt (Kreis),Bavaria,115106.0,492,445,25,22
+2020-05-23,Schweinfurt (Kreis),Bavaria,115106.0,493,445,25,23
 2020-05-23,Starnberg (Kreis),Bavaria,136092.0,518,491,12,15
 2020-05-23,Straubing,Bavaria,47794.0,418,206,45,167
-2020-05-23,Straubing-Bogen (Kreis),Bavaria,100649.0,536,293,27,216
-2020-05-23,Tirschenreuth (Kreis),Bavaria,72504.0,1131,913,130,88
-2020-05-23,Traunstein (Kreis),Bavaria,177089.0,1280,1024,85,171
+2020-05-23,Straubing-Bogen (Kreis),Bavaria,100649.0,536,293,28,215
+2020-05-23,Tirschenreuth (Kreis),Bavaria,72504.0,1132,913,131,88
+2020-05-23,Traunstein (Kreis),Bavaria,177089.0,1283,1024,85,174
 2020-05-23,Unterallgäu (Kreis),Bavaria,144041.0,271,254,13,4
 2020-05-23,Weiden,Bavaria,42520.0,317,39,20,258
-2020-05-23,Weilheim-Schongau (Kreis),Bavaria,135348.0,342,323,3,16
-2020-05-23,Weißenburg-Gunzenhausen (Kreis),Bavaria,94393.0,317,202,19,96
+2020-05-23,Weilheim-Schongau (Kreis),Bavaria,135348.0,353,323,3,27
+2020-05-23,Weißenburg-Gunzenhausen (Kreis),Bavaria,94393.0,319,202,19,98
 2020-05-23,Wunsiedel i.Fichtelgebirge (Kreis),Bavaria,73178.0,649,596,39,14
 2020-05-23,Würzburg,Bavaria,127880.0,465,150,49,266
 2020-05-23,Würzburg (Kreis),Bavaria,161834.0,409,342,9,58
-2020-05-23,other cases in Bavaria,Bavaria,,0,5755,0,-5755
-2020-05-23,Charlottenburg-Wilmersdorf,Berlin,342332.0,738,685,22,31
-2020-05-23,Friedrichshain-Kreuzberg,Berlin,289762.0,517,477,5,35
-2020-05-23,Lichtenberg,Berlin,291452.0,286,239,10,37
-2020-05-23,Marzahn-Hellersdorf,Berlin,268548.0,352,327,3,22
-2020-05-23,Mitte,Berlin,384172.0,953,901,12,40
-2020-05-23,Neukölln,Berlin,329691.0,731,661,31,39
-2020-05-23,Pankow,Berlin,407765.0,697,600,27,70
-2020-05-23,Reinickendorf,Berlin,265225.0,495,453,22,20
-2020-05-23,Spandau,Berlin,243977.0,298,252,8,38
-2020-05-23,Steglitz-Zehlendorf,Berlin,308697.0,536,495,13,28
-2020-05-23,Tempelhof-Schöneberg,Berlin,351644.0,664,604,23,37
-2020-05-23,Treptow-Köpenick,Berlin,271153.0,344,324,10,10
-2020-05-23,other cases in Berlin,Berlin,,3,0,4,-1
+2020-05-23,other cases in Bavaria,Bavaria,,0,5518,0,-5518
+2020-05-23,Charlottenburg-Wilmersdorf,Berlin,342332.0,738,690,22,26
+2020-05-23,Friedrichshain-Kreuzberg,Berlin,289762.0,519,479,5,35
+2020-05-23,Lichtenberg,Berlin,291452.0,289,244,10,35
+2020-05-23,Marzahn-Hellersdorf,Berlin,268548.0,353,327,3,23
+2020-05-23,Mitte,Berlin,384172.0,954,907,12,35
+2020-05-23,Neukölln,Berlin,329691.0,740,661,31,48
+2020-05-23,Pankow,Berlin,407765.0,699,602,27,70
+2020-05-23,Reinickendorf,Berlin,265225.0,496,454,22,20
+2020-05-23,Spandau,Berlin,243977.0,299,257,8,34
+2020-05-23,Steglitz-Zehlendorf,Berlin,308697.0,539,496,13,30
+2020-05-23,Tempelhof-Schöneberg,Berlin,351644.0,665,608,23,34
+2020-05-23,Treptow-Köpenick,Berlin,271153.0,345,324,10,11
+2020-05-23,other cases in Berlin,Berlin,,0,0,5,-5
 2020-05-23,Barnim (Kreis),Brandenburg,182760.0,407,342,29,36
 2020-05-23,Brandenburg a. d. Havel,Brandenburg,72124.0,61,59,0,2
 2020-05-23,Cottbus,Brandenburg,100219.0,39,39,0,0
@@ -57248,30 +57248,30 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,other,Brazil,0.0,0,135430,0,-135430
 2020-05-23,São Paulo,Brazil,45094866.0,76871,0,5773,71098
 2020-05-23,Tocantins,Brazil,1550194.0,2205,0,49,2156
-2020-05-23,Bremen,Bremen,569352.0,1212,865,37,310
-2020-05-23,Bremerhaven,Bremen,113634.0,84,55,3,26
+2020-05-23,Bremen,Bremen,569352.0,1214,865,37,312
+2020-05-23,Bremerhaven,Bremen,113634.0,85,55,3,27
 2020-05-23,other cases in Bremen,Bremen,,0,80,1,-81
 2020-05-23,Cruise Ship 'Grand Princess',US Citizens,,103,0,3,100
 2020-05-23,Cruise Ship 'Diamond Princess',Canadian Citizens,,1,0,1,0
 2020-05-23,Cruise Ship 'Grand Princess',Canadian Citizens,,13,13,0,0
 2020-05-23,Cruise Ship 'Diamond Princess',US Citizens,,49,0,0,49
-2020-05-23,Antofagasta,Chile,607534.0,1841,0,17,1824
-2020-05-23,Araucanía,Chile,957224.0,1737,0,45,1692
-2020-05-23,Arica y Parinacota,Chile,226068.0,471,0,7,464
-2020-05-23,Atacama,Chile,286168.0,175,0,0,175
+2020-05-23,Antofagasta,Chile,607534.0,1897,0,21,1876
+2020-05-23,Araucanía,Chile,957224.0,1774,0,45,1729
+2020-05-23,Arica y Parinacota,Chile,226068.0,482,0,7,475
+2020-05-23,Atacama,Chile,286168.0,182,0,0,182
 2020-05-23,Aysén,Chile,103158.0,8,0,0,8
-2020-05-23,Biobío,Chile,1556805.0,1311,0,10,1301
-2020-05-23,Coquimbo,Chile,757586.0,281,0,2,279
-2020-05-23,Los Lagos,Chile,828708.0,717,0,13,704
-2020-05-23,Los Rios,Chile,384837.0,262,0,6,256
-2020-05-23,Magallanes,Chile,166533.0,992,0,18,974
-2020-05-23,Maule,Chile,1044950.0,782,0,15,767
-2020-05-23,Metropolitana de Santiago,Chile,7112808.0,48350,0,423,47927
-2020-05-23,O'Higgins,Chile,914555.0,492,0,8,484
-2020-05-23,other,Chile,0.0,0,25342,0,-25342
-2020-05-23,Tarapaca,Chile,0.0,1393,0,5,1388
-2020-05-23,Valparaíso,Chile,1815902.0,2020,0,40,1980
-2020-05-23,Ñuble,Chile,480609.0,1025,0,21,1004
+2020-05-23,Biobío,Chile,1556805.0,1354,0,10,1344
+2020-05-23,Coquimbo,Chile,757586.0,294,0,2,292
+2020-05-23,Los Lagos,Chile,828708.0,727,0,13,714
+2020-05-23,Los Rios,Chile,384837.0,274,0,6,268
+2020-05-23,Magallanes,Chile,166533.0,997,0,18,979
+2020-05-23,Maule,Chile,1044950.0,823,0,15,808
+2020-05-23,Metropolitana de Santiago,Chile,7112808.0,51399,0,455,50944
+2020-05-23,O'Higgins,Chile,914555.0,518,0,11,507
+2020-05-23,other,Chile,0.0,0,26546,0,-26546
+2020-05-23,Tarapaca,Chile,0.0,1471,0,5,1466
+2020-05-23,Valparaíso,Chile,1815902.0,2116,0,44,2072
+2020-05-23,Ñuble,Chile,480609.0,1077,0,21,1056
 2020-05-23,Anhui,China,59500510.0,991,985,6,0
 2020-05-23,Chongqing,China,28846170.0,579,573,6,0
 2020-05-23,Fujian,China,36894216.0,356,355,1,0
@@ -57305,23 +57305,23 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,Xinjiang,China,21813334.0,76,73,3,0
 2020-05-23,Yunnan,China,45966239.0,185,183,2,0
 2020-05-23,Zhejiang,China,54426891.0,1268,1267,1,0
-2020-05-23,Baden-Württemberg,Germany,10880000.0,34345,31100,1692,1553
-2020-05-23,Bavaria,Germany,12844000.0,46318,41340,2372,2606
-2020-05-23,Berlin,Germany,3520000.0,6614,6018,190,406
+2020-05-23,Baden-Württemberg,Germany,10880000.0,34367,31100,1696,1571
+2020-05-23,Bavaria,Germany,12844000.0,46438,41530,2383,2525
+2020-05-23,Berlin,Germany,3520000.0,6636,6049,191,396
 2020-05-23,Brandenburg,Germany,2485000.0,3232,2900,168,164
-2020-05-23,Bremen,Germany,671000.0,1296,1000,41,255
+2020-05-23,Bremen,Germany,671000.0,1299,1000,41,258
 2020-05-23,Hamburg,Germany,1787000.0,5063,4600,240,223
 2020-05-23,Hesse,Germany,6176000.0,9670,8400,458,812
 2020-05-23,Mecklenburg-Western Pomerania,Germany,1612000.0,763,702,20,41
-2020-05-23,Lower Saxony,Germany,7927000.0,11521,10200,572,749
+2020-05-23,Lower Saxony,Germany,7927000.0,11529,10200,574,755
 2020-05-23,North Rhine-Westphalia,Germany,17866000.0,37139,33300,1555,2284
 2020-05-23,Rhineland-Palatinate,Germany,4053000.0,6586,5996,227,363
-2020-05-23,Saarland,Germany,996000.0,2713,2441,162,110
-2020-05-23,Saxony,Germany,4085000.0,5219,4620,204,395
-2020-05-23,Saxony-Anhalt,Germany,2245000.0,1693,1554,54,85
+2020-05-23,Saarland,Germany,996000.0,2713,2445,162,106
+2020-05-23,Saxony,Germany,4085000.0,5219,4700,204,315
+2020-05-23,Saxony-Anhalt,Germany,2245000.0,1695,1554,54,87
 2020-05-23,Sleswick-Holsatia,Germany,2859000.0,3062,2800,136,126
-2020-05-23,Thuringia,Germany,2171000.0,2830,2420,151,259
-2020-05-23,other cases in Germany,Germany,,1666,0,0,1666
+2020-05-23,Thuringia,Germany,2171000.0,2841,2440,152,249
+2020-05-23,other cases in Germany,Germany,,1598,0,0,1598
 2020-05-23,Faroe Islands,Denmark,52124.0,187,187,0,0
 2020-05-23,Greenland,Denmark,56081.0,11,11,0,0
 2020-05-23,French Polynesia,France,275918.0,60,60,0,0
@@ -57330,7 +57330,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,Martinique,France,19129952.0,197,91,14,92
 2020-05-23,Mayotte,France,270372.0,1521,894,19,608
 2020-05-23,New Caledonia,France,282200.0,18,18,0,0
-2020-05-23,Réunion,France,859959.0,449,411,1,37
+2020-05-23,Réunion,France,859959.0,452,411,1,40
 2020-05-23,Saint Barthélemy,France,9793.0,6,6,0,0
 2020-05-23,Saint Martin,France,35746.0,40,33,3,4
 2020-05-23,Saint Pierre and Miquelon,France,6008.0,1,1,0,0
@@ -57338,72 +57338,72 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,Bermuda,United Kingdom,64027.0,128,81,9,38
 2020-05-23,British Virgin Islands,United Kingdom,30030.0,8,6,1,1
 2020-05-23,Cayman Islands,United Kingdom,65813.0,129,61,1,67
-2020-05-23,Gibraltar,United Kingdom,33701.0,151,147,0,4
+2020-05-23,Gibraltar,United Kingdom,33701.0,152,147,0,5
 2020-05-23,Isle of Man,United Kingdom,83314.0,336,303,24,9
 2020-05-23,Channel Islands,United Kingdom,165000.0,558,508,45,5
 2020-05-23,Montserrat,United Kingdom,4989.0,11,10,1,0
 2020-05-23,Turks and Caicos Islands,United Kingdom,41369.0,12,10,1,1
-2020-05-23,Bergstraße (Kreis),Hesse,269694.0,339,284,3,52
-2020-05-23,Darmstadt,Hesse,159207.0,222,161,17,44
-2020-05-23,Darmstadt-Dieburg (Kreis),Hesse,297399.0,399,322,17,60
-2020-05-23,Frankfurt am Main,Hesse,753056.0,1513,715,58,740
+2020-05-23,Bergstraße (Kreis),Hesse,269694.0,340,284,3,53
+2020-05-23,Darmstadt,Hesse,159207.0,222,161,18,43
+2020-05-23,Darmstadt-Dieburg (Kreis),Hesse,297399.0,405,322,17,66
+2020-05-23,Frankfurt am Main,Hesse,753056.0,1525,715,59,751
 2020-05-23,Fulda (Kreis),Hesse,222584.0,315,259,12,44
-2020-05-23,Gießen (Kreis),Hesse,268876.0,238,206,3,29
-2020-05-23,Groß-Gerau (Kreis),Hesse,274526.0,504,365,11,128
-2020-05-23,Hersfeld-Rotenburg (Kreis),Hesse,120829.0,202,174,22,6
-2020-05-23,Hochtaunuskreis,Hesse,236564.0,259,218,5,36
-2020-05-23,Kassel,Hesse,201585.0,308,216,8,84
-2020-05-23,Kassel (Kreis),Hesse,236633.0,370,252,27,91
-2020-05-23,Lahn-Dill-Kreis,Hesse,253777.0,342,314,17,11
+2020-05-23,Gießen (Kreis),Hesse,268876.0,240,206,3,31
+2020-05-23,Groß-Gerau (Kreis),Hesse,274526.0,505,365,12,128
+2020-05-23,Hersfeld-Rotenburg (Kreis),Hesse,120829.0,203,174,22,7
+2020-05-23,Hochtaunuskreis,Hesse,236564.0,260,218,5,37
+2020-05-23,Kassel,Hesse,201585.0,314,216,8,90
+2020-05-23,Kassel (Kreis),Hesse,236633.0,373,252,28,93
+2020-05-23,Lahn-Dill-Kreis,Hesse,253777.0,343,314,17,12
 2020-05-23,Limburg-Weilburg (Kreis),Hesse,172083.0,287,259,6,22
-2020-05-23,Main-Kinzig-Kreis,Hesse,418950.0,711,461,42,208
-2020-05-23,Main-Taunus-Kreis,Hesse,237735.0,304,240,13,51
+2020-05-23,Main-Kinzig-Kreis,Hesse,418950.0,716,461,42,213
+2020-05-23,Main-Taunus-Kreis,Hesse,237735.0,316,240,13,63
 2020-05-23,Marburg-Biedenkopf (Kreis),Hesse,246648.0,194,184,3,7
-2020-05-23,Odenwaldkreis,Hesse,96798.0,402,284,60,58
-2020-05-23,Offenbach,Hesse,128744.0,148,87,9,52
-2020-05-23,Offenbach (Kreis),Hesse,354092.0,588,392,34,162
-2020-05-23,Rheingau-Taunus-Kreis,Hesse,187157.0,232,197,5,30
-2020-05-23,Schwalm-Eder-Kreis,Hesse,180222.0,506,438,31,37
+2020-05-23,Odenwaldkreis,Hesse,96798.0,403,284,60,59
+2020-05-23,Offenbach,Hesse,128744.0,155,87,9,59
+2020-05-23,Offenbach (Kreis),Hesse,354092.0,601,392,37,172
+2020-05-23,Rheingau-Taunus-Kreis,Hesse,187157.0,235,197,5,33
+2020-05-23,Schwalm-Eder-Kreis,Hesse,180222.0,514,438,31,45
 2020-05-23,Vogelsbergkreis,Hesse,105878.0,121,112,5,4
-2020-05-23,Waldeck-Frankenberg (Kreis),Hesse,156953.0,160,144,3,13
+2020-05-23,Waldeck-Frankenberg (Kreis),Hesse,156953.0,161,144,3,14
 2020-05-23,Werra-Meißner-Kreis,Hesse,101017.0,206,140,16,50
-2020-05-23,Wetteraukreis,Hesse,306460.0,303,236,12,55
-2020-05-23,Wiesbaden,Hesse,278342.0,401,306,12,83
-2020-05-23,other cases in Hesse,Hesse,,96,1650,7,-1561
+2020-05-23,Wetteraukreis,Hesse,306460.0,311,236,12,63
+2020-05-23,Wiesbaden,Hesse,278342.0,405,306,12,87
+2020-05-23,other cases in Hesse,Hesse,,0,1650,0,-1650
 2020-05-23,Cruise Ship 'Diamond Princess',International,,762,651,14,97
 2020-05-23,Cruise Ship 'Diamond Princess',International,,712,651,13,48
 2020-05-23,Cruise Ship 'Grand Princess',International,,116,13,3,100
 2020-05-23,Cruise Ship 'MS Zaandam',International,,9,0,2,7
 2020-05-23,Cruise Ships,International,,887,664,19,204
-2020-05-23,Abruzzo,Italy,1311580.0,3220,1647,394,1179
-2020-05-23,Valle d'Aosta,Italy,125666.0,1177,991,143,43
-2020-05-23,Puglia,Italy,4029053.0,4440,2120,482,1838
-2020-05-23,Basilicata,Italy,562869.0,394,318,27,49
-2020-05-23,Emilia-Romagna,Italy,4459477.0,27470,18703,4037,4730
-2020-05-23,Friuli Venezia Giulia,Italy,1215220.0,3227,2417,325,485
-2020-05-23,Calabria,Italy,1947131.0,1157,759,96,302
-2020-05-23,Campania,Italy,5801692.0,4733,3037,404,1292
-2020-05-23,Lazio,Italy,5879082.0,7589,3285,669,3635
-2020-05-23,Liguria,Italy,1550640.0,9389,6074,1407,1908
-2020-05-23,Lombardia,Italy,10060574.0,86384,44667,15784,25933
-2020-05-23,Marche,Italy,1525271.0,6697,3939,990,1768
-2020-05-23,Molise,Italy,305617.0,426,220,22,184
-2020-05-23,Piemonte,Italy,4356406.0,30077,17868,3757,8452
-2020-05-23,Sardegna,Italy,1639591.0,1356,922,128,306
-2020-05-23,Sicilia,Italy,4999891.0,3421,1634,268,1519
-2020-05-23,P.A. Bolzano,Italy,530009.0,2590,2075,291,224
-2020-05-23,Toscana,Italy,3729641.0,10035,7240,1009,1786
-2020-05-23,P.A. Trento,Italy,539898.0,4388,3326,455,607
-2020-05-23,Umbria,Italy,882015.0,1429,1296,74,59
-2020-05-23,Veneto,Italy,4905854.0,19059,14182,1854,3023
+2020-05-23,Abruzzo,Italy,1311580.0,3221,1659,394,1168
+2020-05-23,Valle d'Aosta,Italy,125666.0,1177,999,143,35
+2020-05-23,Puglia,Italy,4029053.0,4448,2157,486,1805
+2020-05-23,Basilicata,Italy,562869.0,398,330,27,41
+2020-05-23,Emilia-Romagna,Italy,4459477.0,27513,18896,4047,4570
+2020-05-23,Friuli Venezia Giulia,Italy,1215220.0,3233,2447,327,459
+2020-05-23,Calabria,Italy,1947131.0,1157,773,96,288
+2020-05-23,Campania,Italy,5801692.0,4744,3067,404,1273
+2020-05-23,Lazio,Italy,5879082.0,7607,3350,676,3581
+2020-05-23,Liguria,Italy,1550640.0,9427,6279,1414,1734
+2020-05-23,Lombardia,Italy,10060574.0,86825,45355,15840,25630
+2020-05-23,Marche,Italy,1525271.0,6701,3995,993,1713
+2020-05-23,Molise,Italy,305617.0,431,220,22,189
+2020-05-23,Piemonte,Italy,4356406.0,30137,18341,3771,8025
+2020-05-23,Sardegna,Italy,1639591.0,1356,940,129,287
+2020-05-23,Sicilia,Italy,4999891.0,3421,1640,269,1512
+2020-05-23,P.A. Bolzano,Italy,530009.0,2590,2085,291,214
+2020-05-23,Toscana,Italy,3729641.0,10047,7270,1011,1766
+2020-05-23,P.A. Trento,Italy,539898.0,4395,3374,456,565
+2020-05-23,Umbria,Italy,882015.0,1430,1300,74,56
+2020-05-23,Veneto,Italy,4905854.0,19069,14363,1865,2841
 2020-05-23,Alberta,Canada,4286134.0,6800,5801,134,865
 2020-05-23,British Columbia,Canada,4817160.0,2507,2043,155,309
 2020-05-23,Manitoba,Canada,1338109.0,292,267,7,18
-2020-05-23,Newfoundland and Labrador,Canada,528817.0,260,253,3,4
+2020-05-23,Newfoundland and Labrador,Canada,528817.0,260,254,3,3
 2020-05-23,Nova Scotia,Canada,953869.0,1048,961,58,29
 2020-05-23,New Brunswick,Canada,759655.0,121,120,0,1
 2020-05-23,Northwest Territories,Canada,44520.0,5,5,0,0
-2020-05-23,Ontario,Canada,14193384.0,26085,18767,2129,5189
+2020-05-23,Ontario,Canada,14193384.0,26269,19146,2134,4989
 2020-05-23,Prince Edward Island,Canada,152021.0,27,27,0,0
 2020-05-23,Québec,Canada,8394034.0,46150,13819,3866,28465
 2020-05-23,Saskatchewan,Canada,1163925.0,627,521,7,99
@@ -57451,54 +57451,54 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,Zacatecas,Mexico,1579209.0,223,146,27,50
 2020-05-23,Aruba,Netherlands,112309.0,101,95,3,3
 2020-05-23,"Bonaire, Sint Eustatius and Saba",Netherlands,24547.0,6,6,0,0
-2020-05-23,Curaçao,Netherlands,158665.0,16,14,1,1
+2020-05-23,Curaçao,Netherlands,158665.0,17,14,1,2
 2020-05-23,Sint Maarten,Netherlands,40614.0,77,59,15,3
-2020-05-23,Ammerland (Kreis),Lower Saxony,124071.0,169,162,5,2
+2020-05-23,Ammerland (Kreis),Lower Saxony,124071.0,171,165,5,1
 2020-05-23,Aurich (Kreis),Lower Saxony,189848.0,97,79,8,10
-2020-05-23,Braunschweig,Lower Saxony,248292.0,325,280,15,30
-2020-05-23,Celle (Kreis),Lower Saxony,178936.0,191,178,13,0
-2020-05-23,Cloppenburg (Kreis),Lower Saxony,169348.0,112,99,0,13
-2020-05-23,Cuxhaven (Kreis),Lower Saxony,198213.0,200,102,16,82
-2020-05-23,Delmenhorst,Lower Saxony,77607.0,61,42,2,17
-2020-05-23,Diepholz (Kreis),Lower Saxony,216886.0,355,329,25,1
-2020-05-23,Emden,Lower Saxony,50195.0,19,17,0,2
-2020-05-23,Emsland (Kreis),Lower Saxony,325657.0,437,378,24,35
-2020-05-23,Friesland (Kreis),Lower Saxony,98460.0,34,31,1,2
+2020-05-23,Braunschweig,Lower Saxony,248292.0,326,284,15,27
+2020-05-23,Celle (Kreis),Lower Saxony,178936.0,192,179,13,0
+2020-05-23,Cloppenburg (Kreis),Lower Saxony,169348.0,112,104,0,8
+2020-05-23,Cuxhaven (Kreis),Lower Saxony,198213.0,200,108,16,76
+2020-05-23,Delmenhorst,Lower Saxony,77607.0,61,45,2,14
+2020-05-23,Diepholz (Kreis),Lower Saxony,216886.0,355,330,25,0
+2020-05-23,Emden,Lower Saxony,50195.0,19,18,0,1
+2020-05-23,Emsland (Kreis),Lower Saxony,325657.0,437,390,24,23
+2020-05-23,Friesland (Kreis),Lower Saxony,98460.0,34,32,1,1
 2020-05-23,Gifhorn (Kreis),Lower Saxony,175920.0,125,120,4,1
-2020-05-23,Goslar (Kreis),Lower Saxony,137014.0,247,172,22,53
-2020-05-23,Grafschaft Bentheim (Kreis),Lower Saxony,136511.0,235,202,17,16
-2020-05-23,Göttingen (Kreis),Lower Saxony,328074.0,794,664,70,60
+2020-05-23,Goslar (Kreis),Lower Saxony,137014.0,248,176,23,49
+2020-05-23,Grafschaft Bentheim (Kreis),Lower Saxony,136511.0,235,204,18,13
+2020-05-23,Göttingen (Kreis),Lower Saxony,328074.0,805,675,70,60
 2020-05-23,Hameln-Pyrmont (Kreis),Lower Saxony,148559.0,122,113,7,2
-2020-05-23,Hannover (Region),Lower Saxony,1157624.0,2241,1893,100,248
-2020-05-23,Harburg (Kreis),Lower Saxony,252776.0,526,459,13,54
-2020-05-23,Heidekreis (Kreis),Lower Saxony,139755.0,72,65,2,5
+2020-05-23,Hannover (Region),Lower Saxony,1157624.0,2244,1893,100,251
+2020-05-23,Harburg (Kreis),Lower Saxony,252776.0,526,474,13,39
+2020-05-23,Heidekreis (Kreis),Lower Saxony,139755.0,72,66,2,4
 2020-05-23,Helmstedt (Kreis),Lower Saxony,91307.0,138,135,1,2
-2020-05-23,Hildesheim (Kreis),Lower Saxony,276594.0,386,315,5,66
+2020-05-23,Hildesheim (Kreis),Lower Saxony,276594.0,389,331,5,53
 2020-05-23,Holzminden (Kreis),Lower Saxony,70975.0,106,97,7,2
-2020-05-23,Leer (Kreis),Lower Saxony,169809.0,103,95,3,5
+2020-05-23,Leer (Kreis),Lower Saxony,169809.0,108,95,3,10
 2020-05-23,Lüchow-Dannenberg (Kreis),Lower Saxony,48424.0,19,15,3,1
-2020-05-23,Lüneburg (Kreis),Lower Saxony,183372.0,168,164,0,4
-2020-05-23,Nienburg/Weser (Kreis),Lower Saxony,121386.0,72,63,4,5
-2020-05-23,Northeim (Kreis),Lower Saxony,132765.0,122,111,3,8
+2020-05-23,Lüneburg (Kreis),Lower Saxony,183372.0,168,166,0,2
+2020-05-23,Nienburg/Weser (Kreis),Lower Saxony,121386.0,72,66,4,2
+2020-05-23,Northeim (Kreis),Lower Saxony,132765.0,122,112,3,7
 2020-05-23,Oldenburg,Lower Saxony,168210.0,169,155,1,13
 2020-05-23,Oldenburg (Kreis),Lower Saxony,130144.0,221,191,13,17
-2020-05-23,Osnabrück,Lower Saxony,164748.0,476,443,14,19
-2020-05-23,Osnabrück (Kreis),Lower Saxony,357343.0,1140,901,59,180
-2020-05-23,Osterholz (Kreis),Lower Saxony,113517.0,102,81,0,21
-2020-05-23,Peine (Kreis),Lower Saxony,133965.0,143,128,11,4
-2020-05-23,Rotenburg/Wümme (Kreis),Lower Saxony,163455.0,109,101,1,7
+2020-05-23,Osnabrück,Lower Saxony,164748.0,476,454,14,8
+2020-05-23,Osnabrück (Kreis),Lower Saxony,357343.0,1169,924,59,186
+2020-05-23,Osterholz (Kreis),Lower Saxony,113517.0,109,83,0,26
+2020-05-23,Peine (Kreis),Lower Saxony,133965.0,143,129,11,3
+2020-05-23,Rotenburg/Wümme (Kreis),Lower Saxony,163455.0,109,104,1,4
 2020-05-23,Salzgitter,Lower Saxony,104948.0,140,119,8,13
 2020-05-23,Schaumburg (Kreis),Lower Saxony,157781.0,160,144,8,8
-2020-05-23,Stade (Kreis),Lower Saxony,203102.0,210,179,8,23
+2020-05-23,Stade (Kreis),Lower Saxony,203102.0,211,182,8,21
 2020-05-23,Uelzen (Kreis),Lower Saxony,92572.0,43,43,0,0
-2020-05-23,Vechta (Kreis),Lower Saxony,141598.0,324,306,10,8
-2020-05-23,Verden (Kreis),Lower Saxony,136792.0,148,123,2,23
-2020-05-23,Wesermarsch (Kreis),Lower Saxony,88624.0,54,50,1,3
-2020-05-23,Wilhelmshaven,Lower Saxony,76278.0,26,21,1,4
-2020-05-23,Wittmund (Kreis),Lower Saxony,56882.0,37,26,0,11
+2020-05-23,Vechta (Kreis),Lower Saxony,141598.0,324,307,10,7
+2020-05-23,Verden (Kreis),Lower Saxony,136792.0,150,129,2,19
+2020-05-23,Wesermarsch (Kreis),Lower Saxony,88624.0,59,51,1,7
+2020-05-23,Wilhelmshaven,Lower Saxony,76278.0,26,23,1,2
+2020-05-23,Wittmund (Kreis),Lower Saxony,56882.0,37,27,0,10
 2020-05-23,Wolfenbüttel (Kreis),Lower Saxony,119960.0,186,165,13,8
-2020-05-23,Wolfsburg,Lower Saxony,124151.0,292,232,52,8
-2020-05-23,other cases in Lower Saxony,Lower Saxony,,65,412,0,-347
+2020-05-23,Wolfsburg,Lower Saxony,124151.0,294,234,52,8
+2020-05-23,other cases in Lower Saxony,Lower Saxony,,0,264,0,-264
 2020-05-23,Aachen & Städteregion Aachen,North Rhine-Westphalia,555465.0,1960,1814,91,55
 2020-05-23,Bielefeld,North Rhine-Westphalia,333786.0,410,385,4,21
 2020-05-23,Bochum,North Rhine-Westphalia,364628.0,497,427,18,52
@@ -57590,17 +57590,17 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,Worms,Rhineland-Palatinate,83330.0,209,186,7,16
 2020-05-23,Zweibrücken,Rhineland-Palatinate,34209.0,36,34,1,1
 2020-05-23,other cases in Rhineland-Palatinate,Rhineland-Palatinate,,0,0,0,0
-2020-05-23,Merzig-Wadern,Saarland,103366.0,203,195,2,6
+2020-05-23,Merzig-Wadern,Saarland,103366.0,204,195,2,7
 2020-05-23,Neunkirchen,Saarland,132206.0,257,235,8,14
-2020-05-23,Saarbrücken,Saarland,329708.0,1219,1053,103,63
-2020-05-23,Saarlouis,Saarland,195201.0,534,495,22,17
+2020-05-23,Saarbrücken,Saarland,329708.0,1217,1053,103,61
+2020-05-23,Saarlouis,Saarland,195201.0,535,495,22,18
 2020-05-23,Saarpfalz,Saarland,142631.0,335,301,15,19
 2020-05-23,St. Wendel,Saarland,87397.0,165,140,6,19
-2020-05-23,other cases in Saarland,Saarland,,0,22,6,-28
-2020-05-23,Bautzen (Kreis),Saxony,300880.0,480,347,17,116
+2020-05-23,other cases in Saarland,Saarland,,0,26,6,-32
+2020-05-23,Bautzen (Kreis),Saxony,300880.0,481,347,17,117
 2020-05-23,Chemnitz,Saxony,247237.0,202,140,6,56
 2020-05-23,Dresden,Saxony,554649.0,618,567,9,42
-2020-05-23,Erzgebirgskreis,Saxony,337696.0,549,140,43,366
+2020-05-23,Erzgebirgskreis,Saxony,337696.0,550,140,43,367
 2020-05-23,Görlitz (Kreis),Saxony,254894.0,268,239,22,7
 2020-05-23,Leipzig,Saxony,257763.0,597,555,11,31
 2020-05-23,Leipzig (Kreis),Saxony,257763.0,191,182,4,5
@@ -57608,24 +57608,24 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,Mittelsachsen (Kreis),Saxony,306185.0,256,240,7,9
 2020-05-23,Nordsachsen (Kreis),Saxony,197673.0,141,137,0,4
 2020-05-23,Sächsische Schweiz-Osterzgebirge (Kreis),Saxony,245611.0,382,338,3,41
-2020-05-23,Vogtlandkreis,Saxony,227796.0,441,276,14,151
+2020-05-23,Vogtlandkreis,Saxony,227796.0,445,276,15,154
 2020-05-23,Zwickau (Kreis),Saxony,317531.0,854,276,47,531
-2020-05-23,other cases in Saxony,Saxony,,7,978,2,-973
+2020-05-23,other cases in Saxony,Saxony,,1,1058,1,-1058
 2020-05-23,Altmarkkreis Salzwedel,Saxony-Anhalt,83765.0,33,32,0,1
-2020-05-23,Anhalt-Bitterfeld (Kreis),Saxony-Anhalt,159854.0,71,66,2,3
-2020-05-23,Burgenlandkreis,Saxony-Anhalt,180190.0,111,88,2,21
-2020-05-23,Börde (Kreis),Saxony-Anhalt,171734.0,158,114,12,32
-2020-05-23,Dessau,Saxony-Anhalt,81237.0,66,59,2,5
-2020-05-23,Halle,Saxony-Anhalt,239257.0,351,315,11,25
-2020-05-23,Harz (Kreis),Saxony-Anhalt,214446.0,258,124,4,130
+2020-05-23,Anhalt-Bitterfeld (Kreis),Saxony-Anhalt,159854.0,71,67,2,2
+2020-05-23,Burgenlandkreis,Saxony-Anhalt,180190.0,113,92,2,19
+2020-05-23,Börde (Kreis),Saxony-Anhalt,171734.0,158,135,12,11
+2020-05-23,Dessau,Saxony-Anhalt,81237.0,66,61,2,3
+2020-05-23,Halle,Saxony-Anhalt,239257.0,351,325,11,15
+2020-05-23,Harz (Kreis),Saxony-Anhalt,214446.0,258,135,4,119
 2020-05-23,Jerichower Land (Kreis),Saxony-Anhalt,89928.0,33,29,2,2
 2020-05-23,Magdeburg,Saxony-Anhalt,238697.0,106,74,1,31
 2020-05-23,Mansfeld-Südharz (Kreis),Saxony-Anhalt,136249.0,50,36,2,12
-2020-05-23,Saalekreis,Saxony-Anhalt,184582.0,127,97,7,23
+2020-05-23,Saalekreis,Saxony-Anhalt,184582.0,127,104,7,16
 2020-05-23,Salzlandkreis,Saxony-Anhalt,190560.0,68,66,0,2
 2020-05-23,Stendal (Kreis),Saxony-Anhalt,111982.0,107,66,6,35
 2020-05-23,Wittenberg (Kreis),Saxony-Anhalt,125840.0,154,150,3,1
-2020-05-23,other cases in Saxony-Anhalt,Saxony-Anhalt,,0,238,0,-238
+2020-05-23,other cases in Saxony-Anhalt,Saxony-Anhalt,,0,182,0,-182
 2020-05-23,Dithmarschen (Kreis),Sleswick-Holsatia,133210.0,59,53,3,3
 2020-05-23,Flensburg,Sleswick-Holsatia,89504.0,39,30,2,7
 2020-05-23,Herzogtum Lauenburg (Kreis),Sleswick-Holsatia,197264.0,266,240,15,11
@@ -57662,82 +57662,82 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-23,Navarra,Spain,647554.0,5200,0,508,4692
 2020-05-23,other,Spanien,0.0,0,150376,0,-150376
 2020-05-23,Comunidad Valenciana,Spain,4963703.0,11021,0,1389,9632
-2020-05-23,Altenburger Land (Kreis),Thuringia,90118.0,63,46,3,14
-2020-05-23,Eichsfeld (Kreis),Thuringia,100380.0,151,108,8,35
+2020-05-23,Altenburger Land (Kreis),Thuringia,90118.0,63,49,3,11
+2020-05-23,Eichsfeld (Kreis),Thuringia,100380.0,151,117,8,26
 2020-05-23,Eisenach,Thuringia,42370.0,28,15,2,11
 2020-05-23,Erfurt,Thuringia,213699.0,136,133,2,1
-2020-05-23,Gera,Thuringia,94152.0,207,144,10,53
-2020-05-23,Gotha (Kreis),Thuringia,135452.0,278,185,27,66
-2020-05-23,Greiz (Kreis),Thuringia,98159.0,597,267,45,285
-2020-05-23,Hildburghausen (Kreis),Thuringia,63553.0,35,23,1,11
+2020-05-23,Gera,Thuringia,94152.0,214,149,11,54
+2020-05-23,Gotha (Kreis),Thuringia,135452.0,280,196,27,57
+2020-05-23,Greiz (Kreis),Thuringia,98159.0,601,293,45,263
+2020-05-23,Hildburghausen (Kreis),Thuringia,63553.0,38,26,1,11
 2020-05-23,Ilm-Kreis,Thuringia,106622.0,130,122,4,4
 2020-05-23,Jena,Thuringia,111407.0,159,154,3,2
 2020-05-23,Kyffhäuserkreis,Thuringia,75009.0,45,40,0,5
-2020-05-23,Nordhausen (Kreis),Thuringia,83822.0,61,44,2,15
-2020-05-23,Saale-Holzland-Kreis,Thuringia,83051.0,69,59,3,7
-2020-05-23,Saale-Orla-Kreis,Thuringia,80868.0,144,59,12,73
+2020-05-23,Nordhausen (Kreis),Thuringia,83822.0,61,45,2,14
+2020-05-23,Saale-Holzland-Kreis,Thuringia,83051.0,69,62,3,4
+2020-05-23,Saale-Orla-Kreis,Thuringia,80868.0,144,62,12,70
 2020-05-23,Saalfeld-Rudolstadt (Kreis),Thuringia,104142.0,69,62,0,7
-2020-05-23,Schmalkalden-Meiningen (Kreis),Thuringia,125646.0,120,94,3,23
-2020-05-23,Sonneberg (Kreis),Thuringia,58410.0,192,80,14,98
+2020-05-23,Schmalkalden-Meiningen (Kreis),Thuringia,125646.0,121,95,3,23
+2020-05-23,Sonneberg (Kreis),Thuringia,58410.0,197,99,14,84
 2020-05-23,Suhl,Thuringia,36955.0,16,11,2,3
 2020-05-23,Sömmerda(Kreis),Thuringia,69655.0,37,36,1,0
-2020-05-23,Unstrut-Hainich-Kreis,Thuringia,102912.0,77,68,3,6
-2020-05-23,Wartburgkreis,Thuringia,119726.0,64,44,2,18
-2020-05-23,Weimar,Thuringia,65090.0,68,64,0,4
+2020-05-23,Unstrut-Hainich-Kreis,Thuringia,102912.0,77,71,3,3
+2020-05-23,Wartburgkreis,Thuringia,119726.0,64,45,2,17
+2020-05-23,Weimar,Thuringia,65090.0,68,65,0,3
 2020-05-23,Weimarer Land (Kreis),Thuringia,81947.0,73,58,4,11
-2020-05-23,other cases in Thuringia,Thuringia,,11,504,0,-493
-2020-05-23,Alabama,USA,4779736.0,13670,0,541,13129
+2020-05-23,other cases in Thuringia,Thuringia,,0,435,0,-435
+2020-05-23,Alabama,USA,4779736.0,13839,0,541,13298
 2020-05-23,Alaska,USA,710231.0,403,0,10,393
 2020-05-23,American Virgin Islands,USA,104578.0,69,0,6,63
-2020-05-23,Arizona,USA,6392017.0,15720,0,778,14942
+2020-05-23,Arizona,USA,6392017.0,16053,0,801,15252
 2020-05-23,Arkansas,USA,2915918.0,5612,0,113,5499
-2020-05-23,California,USA,37253956.0,90628,0,3672,86956
+2020-05-23,California,USA,37253956.0,90778,0,3672,87106
 2020-05-23,Colorado,USA,5029196.0,23487,0,1324,22163
 2020-05-23,Connecticut,USA,3574097.0,39640,0,3637,36003
 2020-05-23,Delaware,USA,897934.0,8529,0,322,8207
-2020-05-23,District of Columbia,USA,601723.0,7893,0,418,7475
-2020-05-23,Florida,USA,18801310.0,49451,0,2190,47261
+2020-05-23,District of Columbia,USA,601723.0,7966,0,427,7539
+2020-05-23,Florida,USA,18801310.0,50127,0,2233,47894
 2020-05-23,Recovered,USA,,0,350135,0,-350135
-2020-05-23,Georgia,USA,9687653.0,41482,0,1808,39674
+2020-05-23,Georgia,USA,9687653.0,42139,0,1817,40322
 2020-05-23,Guam,USA,172400.0,165,0,5,160
 2020-05-23,Hawaii,USA,1360301.0,642,0,17,625
 2020-05-23,Idaho,USA,1567582.0,2595,0,79,2516
 2020-05-23,Illinois,USA,12830632.0,105444,0,4715,100729
-2020-05-23,Indiana,USA,6483802.0,30409,0,1941,28468
-2020-05-23,Iowa,USA,3046355.0,16508,0,441,16067
-2020-05-23,Kansas,USA,2853118.0,8909,0,205,8704
+2020-05-23,Indiana,USA,6483802.0,30901,0,1964,28937
+2020-05-23,Iowa,USA,3046355.0,16795,0,444,16351
+2020-05-23,Kansas,USA,2853118.0,8913,0,205,8708
 2020-05-23,Kentucky,USA,4339367.0,8426,0,391,8035
 2020-05-23,Louisiana,USA,4533372.0,36925,0,2668,34257
-2020-05-23,Maine,USA,1328361.0,1948,0,75,1873
-2020-05-23,Maryland,USA,5773552.0,44424,0,2207,42217
+2020-05-23,Maine,USA,1328361.0,2013,0,77,1936
+2020-05-23,Maryland,USA,5773552.0,45495,0,2243,43252
 2020-05-23,Massachusetts,USA,6547629.0,90889,0,6228,84661
 2020-05-23,Michigan,USA,9883640.0,53913,0,5158,48755
-2020-05-23,Minnesota,USA,5303925.0,19005,0,851,18154
-2020-05-23,Mississippi,USA,2967297.0,12625,0,596,12029
-2020-05-23,Missouri,USA,5988927.0,11844,0,677,11167
+2020-05-23,Minnesota,USA,5303925.0,19845,0,862,18983
+2020-05-23,Mississippi,USA,2967297.0,13005,0,616,12389
+2020-05-23,Missouri,USA,5988927.0,11844,0,681,11163
 2020-05-23,Montana,USA,989415.0,479,0,16,463
 2020-05-23,Nebraska,USA,1826341.0,11662,0,147,11515
 2020-05-23,Nevada,USA,2700551.0,7526,0,387,7139
 2020-05-23,New Hampshire,USA,1316470.0,4014,0,204,3810
-2020-05-23,New Jersey,USA,8791894.0,152579,0,10985,141594
+2020-05-23,New Jersey,USA,8791894.0,153140,0,11082,142058
 2020-05-23,New Mexico,USA,2059179.0,6625,0,302,6323
-2020-05-23,New York,USA,19378102.0,358154,0,28853,329301
-2020-05-23,North Carolina,USA,9535483.0,22110,0,775,21335
-2020-05-23,North Dakota,USA,672591.0,2317,0,52,2265
+2020-05-23,New York,USA,19378102.0,359926,0,28905,331021
+2020-05-23,North Carolina,USA,9535483.0,22864,0,778,22086
+2020-05-23,North Dakota,USA,672591.0,2365,0,52,2313
 2020-05-23,Northern Mariana Islands,USA,56200.0,22,0,2,20
 2020-05-23,Ohio,USA,11536504.0,30794,0,1872,28922
-2020-05-23,Oklahoma,USA,3751351.0,5849,0,307,5542
+2020-05-23,Oklahoma,USA,3751351.0,5960,0,311,5649
 2020-05-23,Oregon,USA,3831074.0,3864,0,147,3717
-2020-05-23,Pennsylvania,USA,12702379.0,70211,0,5010,65201
-2020-05-23,Puerto Rico,USA,3193694.0,3030,0,126,2904
-2020-05-23,Rhode Island,USA,1052567.0,13736,0,579,13157
+2020-05-23,Pennsylvania,USA,12702379.0,70784,0,5100,65684
+2020-05-23,Puerto Rico,USA,3193694.0,3100,0,127,2973
+2020-05-23,Rhode Island,USA,1052567.0,13952,0,597,13355
 2020-05-23,South Carolina,USA,4625364.0,9638,0,419,9219
-2020-05-23,South Dakota,USA,814180.0,4356,0,50,4306
+2020-05-23,South Dakota,USA,814180.0,4464,0,50,4414
 2020-05-23,Tennessee,USA,6346105.0,19394,0,315,19079
-2020-05-23,Texas,USA,25145561.0,53539,0,1470,52069
+2020-05-23,Texas,USA,25145561.0,53584,0,1470,52114
 2020-05-23,Utah,USA,2763885.0,8057,0,93,7964
-2020-05-23,Vermont,USA,625741.0,952,0,54,898
-2020-05-23,Virginia,USA,8001024.0,34950,0,1136,33814
+2020-05-23,Vermont,USA,625741.0,954,0,54,900
+2020-05-23,Virginia,USA,8001024.0,35750,0,1160,34590
 2020-05-23,Washington,USA,6724540.0,19265,0,1050,18215
 2020-05-23,West Virginia,USA,1852994.0,1705,0,72,1633
 2020-05-23,Wisconsin,USA,5686986.0,14396,0,496,13900
