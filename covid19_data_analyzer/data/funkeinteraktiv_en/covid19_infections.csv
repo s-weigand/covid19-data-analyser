@@ -57773,7 +57773,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,China,#Global,1386800000.0,82971,78258,4634,79
 2020-05-24,Costa Rica,#Global,5058007.0,918,607,10,301
 2020-05-24,Democratic Republic of the Congo,#Global,89561404.0,2025,312,63,1650
-2020-05-24,Germany,#Global,83149300.0,179986,159716,8261,12009
+2020-05-24,Germany,#Global,83149300.0,180013,160043,8275,11695
 2020-05-24,Dominica,#Global,71808.0,16,16,0,0
 2020-05-24,Dominican Republic,#Global,10358320.0,14422,7854,458,6110
 2020-05-24,Djibouti,#Global,1078373.0,2270,1064,10,1196
@@ -57787,6 +57787,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Falkland Islands (Malvinas),#Global,3198.0,13,13,0,0
 2020-05-24,Fiji,#Global,884887.0,18,15,0,3
 2020-05-24,Finland,#Global,5527573.0,6568,4800,306,1462
+2020-05-24,France,#Global,67076000.0,144306,64547,28332,51427
 2020-05-24,Gabon,#Global,2172579.0,1728,402,12,1314
 2020-05-24,Gambia,#Global,2347706.0,25,13,1,11
 2020-05-24,Georgia,#Global,3723464.0,728,509,12,207
@@ -57980,7 +57981,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Ulm,Baden-Württemberg,126329.0,279,237,5,37
 2020-05-24,Waldshut (Kreis),Baden-Württemberg,170619.0,304,260,35,9
 2020-05-24,Zollernalbkreis,Baden-Württemberg,188935.0,1185,864,73,248
-2020-05-24,other cases in Baden-Württemberg,Baden-Württemberg,,0,1828,0,-1828
+2020-05-24,other cases in Baden-Württemberg,Baden-Württemberg,,32,1928,1,-1897
 2020-05-24,Aichach-Friedberg (Kreis),Bavaria,133596.0,290,269,21,0
 2020-05-24,Altötting (Kreis),Bavaria,111210.0,596,514,51,31
 2020-05-24,Amberg,Bavaria,41970.0,79,39,4,36
@@ -58090,21 +58091,21 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Steglitz-Zehlendorf,Berlin,308697.0,539,496,13,30
 2020-05-24,Tempelhof-Schöneberg,Berlin,351644.0,665,608,23,34
 2020-05-24,Treptow-Köpenick,Berlin,271153.0,345,324,10,11
-2020-05-24,other cases in Berlin,Berlin,,0,0,5,-5
+2020-05-24,other cases in Berlin,Berlin,,1,0,5,-4
 2020-05-24,Barnim (Kreis),Brandenburg,182760.0,407,342,29,36
 2020-05-24,Brandenburg a. d. Havel,Brandenburg,72124.0,61,59,0,2
 2020-05-24,Cottbus,Brandenburg,100219.0,39,39,0,0
 2020-05-24,Dahme-Spreewald (Kreis),Brandenburg,169067.0,243,227,8,8
 2020-05-24,Elbe-Elster (Kreis),Brandenburg,102638.0,76,68,3,5
 2020-05-24,Frankfurt (Oder),Brandenburg,57873.0,29,28,0,1
-2020-05-24,Havelland (Kreis),Brandenburg,161909.0,171,145,6,20
+2020-05-24,Havelland (Kreis),Brandenburg,161909.0,170,145,6,19
 2020-05-24,Märkisch-Oderland (Kreis),Brandenburg,194328.0,203,196,4,3
 2020-05-24,Oberhavel (Kreis),Brandenburg,211249.0,313,257,7,49
 2020-05-24,Oberspreewald-Lausitz (Kreis),Brandenburg,110476.0,49,41,2,6
 2020-05-24,Oder-Spree (Kreis),Brandenburg,178658.0,131,120,2,9
 2020-05-24,Ostprignitz-Ruppin,Brandenburg,99078.0,86,60,1,25
 2020-05-24,Potsdam,Brandenburg,178089.0,631,458,52,121
-2020-05-24,Potsdam-Mittelmark (Kreis),Brandenburg,214664.0,521,199,41,281
+2020-05-24,Potsdam-Mittelmark (Kreis),Brandenburg,214664.0,527,199,41,287
 2020-05-24,Prignitz (Kreis),Brandenburg,76508.0,25,22,0,3
 2020-05-24,Spree-Neiße (Kreis),Brandenburg,114429.0,63,63,0,0
 2020-05-24,Teltow-Fläming (Kreis),Brandenburg,168296.0,148,120,11,17
@@ -58140,7 +58141,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Tocantins,Brazil,1550194.0,2205,0,49,2156
 2020-05-24,Bremen,Bremen,569352.0,1214,865,37,312
 2020-05-24,Bremerhaven,Bremen,113634.0,85,55,3,27
-2020-05-24,other cases in Bremen,Bremen,,0,80,1,-81
+2020-05-24,other cases in Bremen,Bremen,,0,180,1,-181
 2020-05-24,Cruise Ship 'Grand Princess',US Citizens,,103,0,3,100
 2020-05-24,Cruise Ship 'Diamond Princess',Canadian Citizens,,1,0,1,0
 2020-05-24,Cruise Ship 'Grand Princess',Canadian Citizens,,13,13,0,0
@@ -58195,23 +58196,23 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Xinjiang,China,21813334.0,76,73,3,0
 2020-05-24,Yunnan,China,45966239.0,185,183,2,0
 2020-05-24,Zhejiang,China,54426891.0,1268,1267,1,0
-2020-05-24,Baden-Württemberg,Germany,10880000.0,34367,31100,1696,1571
+2020-05-24,Baden-Württemberg,Germany,10880000.0,34399,31200,1697,1502
 2020-05-24,Bavaria,Germany,12844000.0,46438,41530,2383,2525
-2020-05-24,Berlin,Germany,3520000.0,6636,6049,191,396
-2020-05-24,Brandenburg,Germany,2485000.0,3232,2900,168,164
-2020-05-24,Bremen,Germany,671000.0,1299,1000,41,258
-2020-05-24,Hamburg,Germany,1787000.0,5063,4600,240,223
-2020-05-24,Hesse,Germany,6176000.0,9670,8400,458,812
+2020-05-24,Berlin,Germany,3520000.0,6637,6049,191,397
+2020-05-24,Brandenburg,Germany,2485000.0,3237,2900,168,169
+2020-05-24,Bremen,Germany,671000.0,1299,1100,41,158
+2020-05-24,Hamburg,Germany,1787000.0,5066,4600,241,225
+2020-05-24,Hesse,Germany,6176000.0,9762,8400,460,902
 2020-05-24,Mecklenburg-Western Pomerania,Germany,1612000.0,763,702,20,41
-2020-05-24,Lower Saxony,Germany,7927000.0,11529,10200,574,755
-2020-05-24,North Rhine-Westphalia,Germany,17866000.0,37139,33300,1555,2284
-2020-05-24,Rhineland-Palatinate,Germany,4053000.0,6586,5996,227,363
+2020-05-24,Lower Saxony,Germany,7927000.0,11578,10200,574,804
+2020-05-24,North Rhine-Westphalia,Germany,17866000.0,37223,33400,1563,2260
+2020-05-24,Rhineland-Palatinate,Germany,4053000.0,6592,6023,228,341
 2020-05-24,Saarland,Germany,996000.0,2713,2445,162,106
-2020-05-24,Saxony,Germany,4085000.0,5219,4700,204,315
+2020-05-24,Saxony,Germany,4085000.0,5221,4700,204,317
 2020-05-24,Saxony-Anhalt,Germany,2245000.0,1695,1554,54,87
-2020-05-24,Sleswick-Holsatia,Germany,2859000.0,3062,2800,136,126
-2020-05-24,Thuringia,Germany,2171000.0,2841,2440,152,249
-2020-05-24,other cases in Germany,Germany,,1734,0,0,1734
+2020-05-24,Sleswick-Holsatia,Germany,2859000.0,3062,2800,137,125
+2020-05-24,Thuringia,Germany,2171000.0,2857,2440,152,265
+2020-05-24,other cases in Germany,Germany,,1471,0,0,1471
 2020-05-24,Faroe Islands,Denmark,52124.0,187,187,0,0
 2020-05-24,Greenland,Denmark,56081.0,11,11,0,0
 2020-05-24,French Polynesia,France,275918.0,60,60,0,0
@@ -58259,7 +58260,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Werra-Meißner-Kreis,Hesse,101017.0,206,140,16,50
 2020-05-24,Wetteraukreis,Hesse,306460.0,311,236,12,63
 2020-05-24,Wiesbaden,Hesse,278342.0,405,306,12,87
-2020-05-24,other cases in Hesse,Hesse,,0,1650,0,-1650
+2020-05-24,other cases in Hesse,Hesse,,92,1650,2,-1560
 2020-05-24,Cruise Ship 'Diamond Princess',International,,762,651,14,97
 2020-05-24,Cruise Ship 'Diamond Princess',International,,712,651,13,48
 2020-05-24,Cruise Ship 'Grand Princess',International,,116,13,3,100
@@ -58352,20 +58353,20 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Delmenhorst,Lower Saxony,77607.0,61,45,2,14
 2020-05-24,Diepholz (Kreis),Lower Saxony,216886.0,355,330,25,0
 2020-05-24,Emden,Lower Saxony,50195.0,19,18,0,1
-2020-05-24,Emsland (Kreis),Lower Saxony,325657.0,437,390,24,23
+2020-05-24,Emsland (Kreis),Lower Saxony,325657.0,439,390,24,25
 2020-05-24,Friesland (Kreis),Lower Saxony,98460.0,34,32,1,1
 2020-05-24,Gifhorn (Kreis),Lower Saxony,175920.0,125,120,4,1
 2020-05-24,Goslar (Kreis),Lower Saxony,137014.0,248,176,23,49
 2020-05-24,Grafschaft Bentheim (Kreis),Lower Saxony,136511.0,235,204,18,13
-2020-05-24,Göttingen (Kreis),Lower Saxony,328074.0,805,675,70,60
+2020-05-24,Göttingen (Kreis),Lower Saxony,328074.0,806,675,70,61
 2020-05-24,Hameln-Pyrmont (Kreis),Lower Saxony,148559.0,122,113,7,2
-2020-05-24,Hannover (Region),Lower Saxony,1157624.0,2244,1893,100,251
+2020-05-24,Hannover (Region),Lower Saxony,1157624.0,2256,1893,100,263
 2020-05-24,Harburg (Kreis),Lower Saxony,252776.0,526,474,13,39
 2020-05-24,Heidekreis (Kreis),Lower Saxony,139755.0,72,66,2,4
 2020-05-24,Helmstedt (Kreis),Lower Saxony,91307.0,138,135,1,2
-2020-05-24,Hildesheim (Kreis),Lower Saxony,276594.0,389,331,5,53
+2020-05-24,Hildesheim (Kreis),Lower Saxony,276594.0,392,331,5,56
 2020-05-24,Holzminden (Kreis),Lower Saxony,70975.0,106,97,7,2
-2020-05-24,Leer (Kreis),Lower Saxony,169809.0,108,95,3,10
+2020-05-24,Leer (Kreis),Lower Saxony,169809.0,112,95,3,14
 2020-05-24,Lüchow-Dannenberg (Kreis),Lower Saxony,48424.0,19,15,3,1
 2020-05-24,Lüneburg (Kreis),Lower Saxony,183372.0,168,166,0,2
 2020-05-24,Nienburg/Weser (Kreis),Lower Saxony,121386.0,72,66,4,2
@@ -58379,90 +58380,90 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Rotenburg/Wümme (Kreis),Lower Saxony,163455.0,109,104,1,4
 2020-05-24,Salzgitter,Lower Saxony,104948.0,140,119,8,13
 2020-05-24,Schaumburg (Kreis),Lower Saxony,157781.0,160,144,8,8
-2020-05-24,Stade (Kreis),Lower Saxony,203102.0,211,182,8,21
+2020-05-24,Stade (Kreis),Lower Saxony,203102.0,217,182,8,27
 2020-05-24,Uelzen (Kreis),Lower Saxony,92572.0,43,43,0,0
 2020-05-24,Vechta (Kreis),Lower Saxony,141598.0,324,307,10,7
-2020-05-24,Verden (Kreis),Lower Saxony,136792.0,150,129,2,19
-2020-05-24,Wesermarsch (Kreis),Lower Saxony,88624.0,59,51,1,7
+2020-05-24,Verden (Kreis),Lower Saxony,136792.0,154,129,2,23
+2020-05-24,Wesermarsch (Kreis),Lower Saxony,88624.0,61,51,1,9
 2020-05-24,Wilhelmshaven,Lower Saxony,76278.0,26,23,1,2
 2020-05-24,Wittmund (Kreis),Lower Saxony,56882.0,37,27,0,10
 2020-05-24,Wolfenbüttel (Kreis),Lower Saxony,119960.0,186,165,13,8
 2020-05-24,Wolfsburg,Lower Saxony,124151.0,294,234,52,8
-2020-05-24,other cases in Lower Saxony,Lower Saxony,,0,264,0,-264
+2020-05-24,other cases in Lower Saxony,Lower Saxony,,15,264,0,-249
 2020-05-24,Aachen & Städteregion Aachen,North Rhine-Westphalia,555465.0,1960,1814,91,55
 2020-05-24,Bielefeld,North Rhine-Westphalia,333786.0,410,385,4,21
-2020-05-24,Bochum,North Rhine-Westphalia,364628.0,497,427,18,52
-2020-05-24,Bonn,North Rhine-Westphalia,327258.0,703,676,7,20
-2020-05-24,Borken (Kreis),North Rhine-Westphalia,370676.0,1040,853,38,149
-2020-05-24,Bottrop,North Rhine-Westphalia,117383.0,190,172,6,12
-2020-05-24,Coesfeld (Kreis),North Rhine-Westphalia,219929.0,855,523,24,308
+2020-05-24,Bochum,North Rhine-Westphalia,364628.0,497,428,18,51
+2020-05-24,Bonn,North Rhine-Westphalia,327258.0,703,680,8,15
+2020-05-24,Borken (Kreis),North Rhine-Westphalia,370676.0,1042,858,38,146
+2020-05-24,Bottrop,North Rhine-Westphalia,117383.0,193,174,6,13
+2020-05-24,Coesfeld (Kreis),North Rhine-Westphalia,219929.0,857,523,24,310
 2020-05-24,Dortmund,North Rhine-Westphalia,587010.0,728,703,6,19
-2020-05-24,Duisburg,North Rhine-Westphalia,498590.0,1114,878,51,185
-2020-05-24,Düren (Kreis),North Rhine-Westphalia,263722.0,589,525,38,26
-2020-05-24,Düsseldorf,North Rhine-Westphalia,619294.0,1339,1115,30,194
-2020-05-24,Ennepe-Ruhr-Kreis,North Rhine-Westphalia,324296.0,419,377,14,28
+2020-05-24,Duisburg,North Rhine-Westphalia,498590.0,1118,881,51,186
+2020-05-24,Düren (Kreis),North Rhine-Westphalia,263722.0,590,526,38,26
+2020-05-24,Düsseldorf,North Rhine-Westphalia,619294.0,1341,1124,30,187
+2020-05-24,Ennepe-Ruhr-Kreis,North Rhine-Westphalia,324296.0,425,377,14,34
 2020-05-24,Essen,North Rhine-Westphalia,583109.0,813,697,36,80
-2020-05-24,Euskirchen (Kreis),North Rhine-Westphalia,192840.0,440,358,21,61
-2020-05-24,Gelsenkirchen,North Rhine-Westphalia,260654.0,394,330,14,50
-2020-05-24,Gütersloh (Kreis),North Rhine-Westphalia,364083.0,632,570,19,43
-2020-05-24,Hagen,North Rhine-Westphalia,188814.0,326,284,12,30
-2020-05-24,Hamm,North Rhine-Westphalia,179111.0,472,397,36,39
+2020-05-24,Euskirchen (Kreis),North Rhine-Westphalia,192840.0,440,360,21,59
+2020-05-24,Gelsenkirchen,North Rhine-Westphalia,260654.0,394,331,14,49
+2020-05-24,Gütersloh (Kreis),North Rhine-Westphalia,364083.0,634,570,19,45
+2020-05-24,Hagen,North Rhine-Westphalia,188814.0,327,289,12,26
+2020-05-24,Hamm,North Rhine-Westphalia,179111.0,472,399,36,37
 2020-05-24,Heinsberg (Kreis),North Rhine-Westphalia,254322.0,1864,1667,69,128
 2020-05-24,Herford (Kreis),North Rhine-Westphalia,250783.0,330,312,7,11
 2020-05-24,Herne,North Rhine-Westphalia,156374.0,185,169,1,15
 2020-05-24,Hochsauerlandkreis,North Rhine-Westphalia,260475.0,606,570,17,19
-2020-05-24,Höxter (Kreis),North Rhine-Westphalia,140667.0,344,284,17,43
-2020-05-24,Kleve (Kreis),North Rhine-Westphalia,310974.0,650,555,35,60
-2020-05-24,Krefeld,North Rhine-Westphalia,227020.0,615,523,22,70
-2020-05-24,Köln,North Rhine-Westphalia,1085664.0,2453,2239,96,118
+2020-05-24,Höxter (Kreis),North Rhine-Westphalia,140667.0,346,284,17,45
+2020-05-24,Kleve (Kreis),North Rhine-Westphalia,310974.0,654,555,35,64
+2020-05-24,Krefeld,North Rhine-Westphalia,227020.0,615,525,22,68
+2020-05-24,Köln,North Rhine-Westphalia,1085664.0,2457,2245,96,116
 2020-05-24,Leverkusen,North Rhine-Westphalia,163838.0,233,207,5,21
 2020-05-24,Lippe (Kreis),North Rhine-Westphalia,348391.0,740,678,29,33
-2020-05-24,Mettmann (Kreis),North Rhine-Westphalia,485684.0,930,803,74,53
-2020-05-24,Minden-Lübbecke (Kreis),North Rhine-Westphalia,310710.0,475,417,9,49
-2020-05-24,Märkischer Kreis,North Rhine-Westphalia,412120.0,594,518,27,49
-2020-05-24,Mönchengladbach,North Rhine-Westphalia,261454.0,602,452,39,111
+2020-05-24,Mettmann (Kreis),North Rhine-Westphalia,485684.0,930,810,78,42
+2020-05-24,Minden-Lübbecke (Kreis),North Rhine-Westphalia,310710.0,476,417,9,50
+2020-05-24,Märkischer Kreis,North Rhine-Westphalia,412120.0,596,524,28,44
+2020-05-24,Mönchengladbach,North Rhine-Westphalia,261454.0,602,459,39,104
 2020-05-24,Mülheim an der Ruhr,North Rhine-Westphalia,170880.0,198,170,9,19
-2020-05-24,Münster,North Rhine-Westphalia,314319.0,698,624,13,61
-2020-05-24,Oberbergischer Kreis,North Rhine-Westphalia,272471.0,480,441,17,22
-2020-05-24,Oberhausen,North Rhine-Westphalia,210829.0,257,228,8,21
+2020-05-24,Münster,North Rhine-Westphalia,314319.0,704,631,13,60
+2020-05-24,Oberbergischer Kreis,North Rhine-Westphalia,272471.0,480,442,17,21
+2020-05-24,Oberhausen,North Rhine-Westphalia,210829.0,258,229,9,20
 2020-05-24,Olpe (Kreis),North Rhine-Westphalia,134775.0,621,549,52,20
-2020-05-24,Paderborn (Kreis),North Rhine-Westphalia,306890.0,626,543,33,50
-2020-05-24,Recklinghausen (Kreis),North Rhine-Westphalia,615261.0,1260,1078,37,145
-2020-05-24,Remscheid,North Rhine-Westphalia,110994.0,236,223,17,-4
-2020-05-24,Rhein-Erft-Kreis,North Rhine-Westphalia,470089.0,1082,929,72,81
-2020-05-24,Rhein-Kreis Neuss,North Rhine-Westphalia,451007.0,676,627,19,30
-2020-05-24,Rhein-Sieg-Kreis,North Rhine-Westphalia,599780.0,1384,1122,48,214
-2020-05-24,Rheinisch-Bergischer Kreis,North Rhine-Westphalia,283455.0,461,412,19,30
-2020-05-24,Siegen-Wittgenstein (Kreis),North Rhine-Westphalia,278210.0,308,280,8,20
-2020-05-24,Soest (Kreis),North Rhine-Westphalia,301902.0,359,345,8,6
-2020-05-24,Solingen,North Rhine-Westphalia,159360.0,245,220,8,17
-2020-05-24,Steinfurt (Kreis),North Rhine-Westphalia,447614.0,1326,1188,80,58
+2020-05-24,Paderborn (Kreis),North Rhine-Westphalia,306890.0,630,543,33,54
+2020-05-24,Recklinghausen (Kreis),North Rhine-Westphalia,615261.0,1261,1097,37,127
+2020-05-24,Remscheid,North Rhine-Westphalia,110994.0,236,208,17,11
+2020-05-24,Rhein-Erft-Kreis,North Rhine-Westphalia,470089.0,1082,942,72,68
+2020-05-24,Rhein-Kreis Neuss,North Rhine-Westphalia,451007.0,678,632,20,26
+2020-05-24,Rhein-Sieg-Kreis,North Rhine-Westphalia,599780.0,1402,1121,48,233
+2020-05-24,Rheinisch-Bergischer Kreis,North Rhine-Westphalia,283455.0,462,412,19,31
+2020-05-24,Siegen-Wittgenstein (Kreis),North Rhine-Westphalia,278210.0,311,280,8,23
+2020-05-24,Soest (Kreis),North Rhine-Westphalia,301902.0,359,346,8,5
+2020-05-24,Solingen,North Rhine-Westphalia,159360.0,245,228,8,9
+2020-05-24,Steinfurt (Kreis),North Rhine-Westphalia,447614.0,1326,1192,80,54
 2020-05-24,Unna (Kreis),North Rhine-Westphalia,394782.0,671,526,34,111
-2020-05-24,Viersen (Kreis),North Rhine-Westphalia,298935.0,696,533,35,128
-2020-05-24,Warendorf (Kreis),North Rhine-Westphalia,277783.0,486,448,18,20
-2020-05-24,Wesel (Kreis),North Rhine-Westphalia,459809.0,598,492,26,80
-2020-05-24,Wuppertal,North Rhine-Westphalia,354382.0,910,724,81,105
-2020-05-24,other cases in North Rhine-Westphalia,North Rhine-Westphalia,,19,1120,1,-1102
-2020-05-24,Ahrweiler (Kreis),Rhineland-Palatinate,129727.0,182,137,1,44
+2020-05-24,Viersen (Kreis),North Rhine-Westphalia,298935.0,702,559,35,108
+2020-05-24,Warendorf (Kreis),North Rhine-Westphalia,277783.0,486,450,18,18
+2020-05-24,Wesel (Kreis),North Rhine-Westphalia,459809.0,604,498,26,80
+2020-05-24,Wuppertal,North Rhine-Westphalia,354382.0,910,734,81,95
+2020-05-24,other cases in North Rhine-Westphalia,North Rhine-Westphalia,,19,1070,1,-1052
+2020-05-24,Ahrweiler (Kreis),Rhineland-Palatinate,129727.0,182,139,1,42
 2020-05-24,Altenkirchen (Kreis),Rhineland-Palatinate,128705.0,162,143,11,8
-2020-05-24,Alzey-Worms (Kreis),Rhineland-Palatinate,129244.0,265,230,11,24
+2020-05-24,Alzey-Worms (Kreis),Rhineland-Palatinate,129244.0,265,233,11,21
 2020-05-24,Bad Dürkheim (Kreis),Rhineland-Palatinate,132660.0,324,304,12,8
 2020-05-24,Bad Kreuznach (Kreis),Rhineland-Palatinate,158080.0,196,185,7,4
-2020-05-24,Bernkastel-Wittlich (Kreis),Rhineland-Palatinate,112262.0,154,135,2,17
-2020-05-24,Birkenfeld (Kreis),Rhineland-Palatinate,80720.0,88,82,1,5
+2020-05-24,Bernkastel-Wittlich (Kreis),Rhineland-Palatinate,112262.0,154,137,2,15
+2020-05-24,Birkenfeld (Kreis),Rhineland-Palatinate,80720.0,88,83,1,4
 2020-05-24,Bitburg-Prüm (Kreis),Rhineland-Palatinate,98561.0,184,174,4,6
 2020-05-24,Cochem-Zell (Kreis),Rhineland-Palatinate,61587.0,128,126,1,1
 2020-05-24,Donnersbergkreis,Rhineland-Palatinate,75101.0,134,119,6,9
 2020-05-24,Frankenthal,Rhineland-Palatinate,48561.0,43,40,2,1
 2020-05-24,Germersheim (Kreis),Rhineland-Palatinate,129075.0,146,135,5,6
-2020-05-24,Kaiserslautern,Rhineland-Palatinate,99845.0,163,121,4,38
+2020-05-24,Kaiserslautern,Rhineland-Palatinate,99845.0,165,121,4,40
 2020-05-24,Kaiserslautern (Kreis),Rhineland-Palatinate,106057.0,102,97,0,5
 2020-05-24,Koblenz,Rhineland-Palatinate,114024.0,263,244,18,1
-2020-05-24,Kusel (Kreis),Rhineland-Palatinate,70526.0,91,88,1,2
+2020-05-24,Kusel (Kreis),Rhineland-Palatinate,70526.0,91,89,1,1
 2020-05-24,Landau i.d.Pfalz,Rhineland-Palatinate,46677.0,56,54,2,0
-2020-05-24,Ludwigshafen,Rhineland-Palatinate,171061.0,307,277,2,28
-2020-05-24,Mainz,Rhineland-Palatinate,217118.0,585,513,26,46
-2020-05-24,Mainz-Bingen (Kreis),Rhineland-Palatinate,210889.0,423,373,25,25
+2020-05-24,Ludwigshafen,Rhineland-Palatinate,171061.0,307,279,2,26
+2020-05-24,Mainz,Rhineland-Palatinate,217118.0,585,519,26,40
+2020-05-24,Mainz-Bingen (Kreis),Rhineland-Palatinate,210889.0,425,376,25,24
 2020-05-24,Mayen-Koblenz (Kreis),Rhineland-Palatinate,214259.0,340,325,14,1
 2020-05-24,Neustadt Weinst.,Rhineland-Palatinate,53148.0,103,100,2,1
 2020-05-24,Neuwied (Kreis),Rhineland-Palatinate,181941.0,211,206,4,1
@@ -58470,14 +58471,14 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Rhein-Hunsrück (Kreis),Rhineland-Palatinate,102937.0,161,155,6,0
 2020-05-24,Rhein-Lahn-Kreis,Rhineland-Palatinate,122308.0,158,151,6,1
 2020-05-24,Rhein-Pfalz-Kreis,Rhineland-Palatinate,154201.0,230,206,5,19
-2020-05-24,Speyer,Rhineland-Palatinate,50378.0,84,79,0,5
+2020-05-24,Speyer,Rhineland-Palatinate,50378.0,84,81,1,2
 2020-05-24,Südliche Weinstr. (Kreis),Rhineland-Palatinate,110356.0,150,145,3,2
 2020-05-24,Südwestpfalz (Kreis),Rhineland-Palatinate,95113.0,106,103,3,0
 2020-05-24,Trier,Rhineland-Palatinate,110636.0,102,99,1,2
-2020-05-24,Trier-Saarburg (Kreis),Rhineland-Palatinate,148945.0,195,179,8,8
+2020-05-24,Trier-Saarburg (Kreis),Rhineland-Palatinate,148945.0,195,180,8,7
 2020-05-24,Vulkaneifel (Kreis),Rhineland-Palatinate,60603.0,118,108,5,5
-2020-05-24,Westerwaldkreis,Rhineland-Palatinate,201597.0,356,313,21,22
-2020-05-24,Worms,Rhineland-Palatinate,83330.0,209,186,7,16
+2020-05-24,Westerwaldkreis,Rhineland-Palatinate,201597.0,356,314,21,21
+2020-05-24,Worms,Rhineland-Palatinate,83330.0,211,189,7,15
 2020-05-24,Zweibrücken,Rhineland-Palatinate,34209.0,36,34,1,1
 2020-05-24,other cases in Rhineland-Palatinate,Rhineland-Palatinate,,0,0,0,0
 2020-05-24,Merzig-Wadern,Saarland,103366.0,204,195,2,7
@@ -58500,7 +58501,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Sächsische Schweiz-Osterzgebirge (Kreis),Saxony,245611.0,382,338,3,41
 2020-05-24,Vogtlandkreis,Saxony,227796.0,445,276,15,154
 2020-05-24,Zwickau (Kreis),Saxony,317531.0,854,276,47,531
-2020-05-24,other cases in Saxony,Saxony,,1,1058,1,-1058
+2020-05-24,other cases in Saxony,Saxony,,3,1058,1,-1056
 2020-05-24,Altmarkkreis Salzwedel,Saxony-Anhalt,83765.0,33,32,0,1
 2020-05-24,Anhalt-Bitterfeld (Kreis),Saxony-Anhalt,159854.0,71,67,2,2
 2020-05-24,Burgenlandkreis,Saxony-Anhalt,180190.0,113,92,2,19
@@ -58531,7 +58532,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Segeberg (Kreis),Sleswick-Holsatia,276032.0,312,261,4,47
 2020-05-24,Steinburg (Kreis),Sleswick-Holsatia,131347.0,171,78,3,90
 2020-05-24,Stormarn (Kreis),Sleswick-Holsatia,243196.0,413,336,29,48
-2020-05-24,other cases in Sleswick-Holsatia,Sleswick-Holsatia,,0,289,1,-290
+2020-05-24,other cases in Sleswick-Holsatia,Sleswick-Holsatia,,0,289,2,-291
 2020-05-24,Andalusia,Spain,8384408.0,12597,0,1389,11208
 2020-05-24,Aragon,Spain,1308728.0,5627,0,858,4769
 2020-05-24,Asturias,Spain,1028244.0,2377,0,307,2070
@@ -58575,7 +58576,7 @@ date,region,parent_region,population,confirmed,recovered,deaths,still_infectious
 2020-05-24,Wartburgkreis,Thuringia,119726.0,64,45,2,17
 2020-05-24,Weimar,Thuringia,65090.0,68,65,0,3
 2020-05-24,Weimarer Land (Kreis),Thuringia,81947.0,73,58,4,11
-2020-05-24,other cases in Thuringia,Thuringia,,0,435,0,-435
+2020-05-24,other cases in Thuringia,Thuringia,,16,435,0,-419
 2020-05-24,Alabama,USA,4779736.0,13839,0,541,13298
 2020-05-24,Alaska,USA,710231.0,407,0,10,397
 2020-05-24,American Virgin Islands,USA,104578.0,69,0,6,63
