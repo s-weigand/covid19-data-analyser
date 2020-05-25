@@ -28,6 +28,6 @@ jobs:
       - uses: matheusalbino/git-commit@v1.0.1
         with:
           user-name: Github update bot
-          user-email: s.weigand.phy@gmail.com
+          user-email: update-action@github-bot.com
           message: Updated data
           github-token: ${{ secrets.GITHUB_TOKEN }}
