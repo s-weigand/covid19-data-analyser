@@ -8903,7 +8903,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-25,North Macedonia,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Norway,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Oman,#Global,2.0,0.0,0.0,2.0
-2020-02-25,Pakistan,#Global,0.0,0.0,0.0,0.0
+2020-02-25,Pakistan,#Global,2.0,0.0,0.0,2.0
 2020-02-25,Panama,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Paraguay,#Global,0.0,0.0,0.0,0.0
@@ -9677,7 +9677,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-28,North Macedonia,#Global,1.0,0.0,0.0,1.0
 2020-02-28,Norway,#Global,6.0,0.0,0.0,6.0
 2020-02-28,Oman,#Global,4.0,0.0,0.0,4.0
-2020-02-28,Pakistan,#Global,2.0,0.0,0.0,2.0
+2020-02-28,Pakistan,#Global,4.0,0.0,0.0,4.0
 2020-02-28,Panama,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Paraguay,#Global,0.0,0.0,0.0,0.0
@@ -10451,7 +10451,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-02,North Macedonia,#Global,1.0,0.0,0.0,1.0
 2020-03-02,Norway,#Global,25.0,0.0,0.0,25.0
 2020-03-02,Oman,#Global,6.0,0.0,1.0,5.0
-2020-03-02,Pakistan,#Global,4.0,0.0,0.0,4.0
+2020-03-02,Pakistan,#Global,5.0,0.0,0.0,5.0
 2020-03-02,Panama,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Paraguay,#Global,0.0,0.0,0.0,0.0
@@ -11225,7 +11225,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-05,North Macedonia,#Global,1.0,0.0,0.0,1.0
 2020-03-05,Norway,#Global,87.0,0.0,0.0,87.0
 2020-03-05,Oman,#Global,16.0,0.0,2.0,14.0
-2020-03-05,Pakistan,#Global,5.0,0.0,0.0,5.0
+2020-03-05,Pakistan,#Global,6.0,0.0,0.0,6.0
 2020-03-05,Panama,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Paraguay,#Global,0.0,0.0,0.0,0.0
@@ -11741,7 +11741,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-07,North Macedonia,#Global,3.0,0.0,0.0,3.0
 2020-03-07,Norway,#Global,147.0,0.0,0.0,147.0
 2020-03-07,Oman,#Global,16.0,0.0,2.0,14.0
-2020-03-07,Pakistan,#Global,6.0,0.0,0.0,6.0
+2020-03-07,Pakistan,#Global,6.0,0.0,1.0,5.0
 2020-03-07,Panama,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Paraguay,#Global,0.0,0.0,0.0,0.0
@@ -12257,7 +12257,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-09,North Macedonia,#Global,3.0,0.0,0.0,3.0
 2020-03-09,Norway,#Global,205.0,0.0,1.0,204.0
 2020-03-09,Oman,#Global,16.0,0.0,2.0,14.0
-2020-03-09,Pakistan,#Global,6.0,0.0,1.0,5.0
+2020-03-09,Pakistan,#Global,16.0,0.0,1.0,15.0
 2020-03-09,Panama,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Paraguay,#Global,1.0,0.0,0.0,1.0
@@ -12515,7 +12515,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-10,North Macedonia,#Global,7.0,0.0,0.0,7.0
 2020-03-10,Norway,#Global,400.0,0.0,1.0,399.0
 2020-03-10,Oman,#Global,18.0,0.0,9.0,9.0
-2020-03-10,Pakistan,#Global,16.0,0.0,1.0,15.0
+2020-03-10,Pakistan,#Global,19.0,0.0,2.0,17.0
 2020-03-10,Panama,#Global,1.0,0.0,0.0,1.0
 2020-03-10,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Paraguay,#Global,1.0,0.0,0.0,1.0
@@ -12773,7 +12773,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-11,North Macedonia,#Global,7.0,0.0,0.0,7.0
 2020-03-11,Norway,#Global,598.0,0.0,1.0,597.0
 2020-03-11,Oman,#Global,18.0,0.0,9.0,9.0
-2020-03-11,Pakistan,#Global,19.0,0.0,2.0,17.0
+2020-03-11,Pakistan,#Global,20.0,0.0,2.0,18.0
 2020-03-11,Panama,#Global,8.0,1.0,0.0,7.0
 2020-03-11,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Paraguay,#Global,5.0,0.0,0.0,5.0
@@ -13031,7 +13031,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-12,North Macedonia,#Global,7.0,0.0,0.0,7.0
 2020-03-12,Norway,#Global,702.0,0.0,1.0,701.0
 2020-03-12,Oman,#Global,18.0,0.0,9.0,9.0
-2020-03-12,Pakistan,#Global,20.0,0.0,2.0,18.0
+2020-03-12,Pakistan,#Global,28.0,0.0,2.0,26.0
 2020-03-12,Panama,#Global,11.0,1.0,0.0,10.0
 2020-03-12,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Paraguay,#Global,5.0,0.0,0.0,5.0
@@ -13289,7 +13289,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-13,North Macedonia,#Global,14.0,0.0,1.0,13.0
 2020-03-13,Norway,#Global,996.0,0.0,1.0,995.0
 2020-03-13,Oman,#Global,19.0,0.0,9.0,10.0
-2020-03-13,Pakistan,#Global,28.0,0.0,2.0,26.0
+2020-03-13,Pakistan,#Global,31.0,0.0,2.0,29.0
 2020-03-13,Panama,#Global,27.0,1.0,0.0,26.0
 2020-03-13,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Paraguay,#Global,6.0,0.0,0.0,6.0
@@ -13547,7 +13547,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-14,North Macedonia,#Global,14.0,0.0,1.0,13.0
 2020-03-14,Norway,#Global,1090.0,3.0,1.0,1086.0
 2020-03-14,Oman,#Global,19.0,0.0,9.0,10.0
-2020-03-14,Pakistan,#Global,31.0,0.0,2.0,29.0
+2020-03-14,Pakistan,#Global,53.0,0.0,2.0,51.0
 2020-03-14,Panama,#Global,36.0,1.0,0.0,35.0
 2020-03-14,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Paraguay,#Global,6.0,0.0,0.0,6.0
@@ -13805,7 +13805,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-15,North Macedonia,#Global,14.0,0.0,1.0,13.0
 2020-03-15,Norway,#Global,1221.0,3.0,1.0,1217.0
 2020-03-15,Oman,#Global,22.0,0.0,9.0,13.0
-2020-03-15,Pakistan,#Global,53.0,0.0,2.0,51.0
+2020-03-15,Pakistan,#Global,136.0,0.0,2.0,134.0
 2020-03-15,Panama,#Global,43.0,1.0,0.0,42.0
 2020-03-15,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Paraguay,#Global,6.0,0.0,0.0,6.0
@@ -14063,7 +14063,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-16,North Macedonia,#Global,18.0,0.0,1.0,17.0
 2020-03-16,Norway,#Global,1333.0,3.0,1.0,1329.0
 2020-03-16,Oman,#Global,22.0,0.0,9.0,13.0
-2020-03-16,Pakistan,#Global,136.0,0.0,2.0,134.0
+2020-03-16,Pakistan,#Global,236.0,0.0,2.0,234.0
 2020-03-16,Panama,#Global,55.0,1.0,0.0,54.0
 2020-03-16,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Paraguay,#Global,8.0,0.0,0.0,8.0
@@ -14321,7 +14321,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-17,North Macedonia,#Global,26.0,0.0,1.0,25.0
 2020-03-17,Norway,#Global,1463.0,3.0,1.0,1459.0
 2020-03-17,Oman,#Global,24.0,0.0,9.0,15.0
-2020-03-17,Pakistan,#Global,236.0,0.0,2.0,234.0
+2020-03-17,Pakistan,#Global,299.0,0.0,2.0,297.0
 2020-03-17,Panama,#Global,69.0,1.0,0.0,68.0
 2020-03-17,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Paraguay,#Global,9.0,0.0,0.0,9.0
@@ -14579,7 +14579,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-18,North Macedonia,#Global,35.0,0.0,1.0,34.0
 2020-03-18,Norway,#Global,1550.0,6.0,1.0,1543.0
 2020-03-18,Oman,#Global,39.0,0.0,12.0,27.0
-2020-03-18,Pakistan,#Global,299.0,0.0,2.0,297.0
+2020-03-18,Pakistan,#Global,454.0,2.0,13.0,439.0
 2020-03-18,Panama,#Global,86.0,1.0,0.0,85.0
 2020-03-18,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Paraguay,#Global,11.0,0.0,0.0,11.0
@@ -14837,7 +14837,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-19,North Macedonia,#Global,48.0,0.0,1.0,47.0
 2020-03-19,Norway,#Global,1746.0,7.0,1.0,1738.0
 2020-03-19,Oman,#Global,48.0,0.0,12.0,36.0
-2020-03-19,Pakistan,#Global,454.0,2.0,13.0,439.0
+2020-03-19,Pakistan,#Global,501.0,3.0,13.0,485.0
 2020-03-19,Panama,#Global,109.0,1.0,0.0,108.0
 2020-03-19,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Paraguay,#Global,11.0,0.0,0.0,11.0
@@ -15095,7 +15095,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-20,North Macedonia,#Global,67.0,0.0,1.0,66.0
 2020-03-20,Norway,#Global,1914.0,7.0,1.0,1906.0
 2020-03-20,Oman,#Global,48.0,0.0,12.0,36.0
-2020-03-20,Pakistan,#Global,501.0,3.0,13.0,485.0
+2020-03-20,Pakistan,#Global,730.0,3.0,13.0,714.0
 2020-03-20,Panama,#Global,137.0,1.0,0.0,136.0
 2020-03-20,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-20,Paraguay,#Global,13.0,0.0,0.0,13.0
@@ -15353,7 +15353,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-21,North Macedonia,#Global,85.0,0.0,1.0,84.0
 2020-03-21,Norway,#Global,2118.0,7.0,1.0,2110.0
 2020-03-21,Oman,#Global,52.0,0.0,12.0,40.0
-2020-03-21,Pakistan,#Global,730.0,3.0,13.0,714.0
+2020-03-21,Pakistan,#Global,776.0,5.0,5.0,766.0
 2020-03-21,Panama,#Global,200.0,1.0,0.0,199.0
 2020-03-21,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-21,Paraguay,#Global,18.0,1.0,0.0,17.0
@@ -15611,7 +15611,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-22,North Macedonia,#Global,115.0,1.0,1.0,113.0
 2020-03-22,Norway,#Global,2385.0,7.0,1.0,2377.0
 2020-03-22,Oman,#Global,55.0,0.0,17.0,38.0
-2020-03-22,Pakistan,#Global,776.0,5.0,5.0,766.0
+2020-03-22,Pakistan,#Global,875.0,6.0,5.0,864.0
 2020-03-22,Panama,#Global,313.0,3.0,0.0,310.0
 2020-03-22,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-22,Paraguay,#Global,22.0,1.0,0.0,21.0
@@ -15869,7 +15869,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-23,North Macedonia,#Global,136.0,2.0,1.0,133.0
 2020-03-23,Norway,#Global,2621.0,10.0,1.0,2610.0
 2020-03-23,Oman,#Global,66.0,0.0,17.0,49.0
-2020-03-23,Pakistan,#Global,875.0,6.0,5.0,864.0
+2020-03-23,Pakistan,#Global,972.0,7.0,18.0,947.0
 2020-03-23,Panama,#Global,345.0,6.0,0.0,339.0
 2020-03-23,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-23,Paraguay,#Global,22.0,1.0,0.0,21.0
@@ -16127,7 +16127,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-24,North Macedonia,#Global,148.0,2.0,1.0,145.0
 2020-03-24,Norway,#Global,2863.0,12.0,6.0,2845.0
 2020-03-24,Oman,#Global,84.0,0.0,17.0,67.0
-2020-03-24,Pakistan,#Global,972.0,7.0,18.0,947.0
+2020-03-24,Pakistan,#Global,1063.0,8.0,21.0,1034.0
 2020-03-24,Panama,#Global,345.0,6.0,1.0,338.0
 2020-03-24,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-24,Paraguay,#Global,27.0,2.0,0.0,25.0
@@ -16385,7 +16385,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-25,North Macedonia,#Global,177.0,3.0,1.0,173.0
 2020-03-25,Norway,#Global,3084.0,14.0,6.0,3064.0
 2020-03-25,Oman,#Global,99.0,0.0,17.0,82.0
-2020-03-25,Pakistan,#Global,1063.0,8.0,21.0,1034.0
+2020-03-25,Pakistan,#Global,1201.0,9.0,21.0,1171.0
 2020-03-25,Panama,#Global,443.0,8.0,1.0,434.0
 2020-03-25,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-25,Paraguay,#Global,37.0,3.0,0.0,34.0
@@ -16643,7 +16643,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-26,North Macedonia,#Global,201.0,3.0,3.0,195.0
 2020-03-26,Norway,#Global,3369.0,14.0,6.0,3349.0
 2020-03-26,Oman,#Global,109.0,0.0,23.0,86.0
-2020-03-26,Pakistan,#Global,1201.0,9.0,21.0,1171.0
+2020-03-26,Pakistan,#Global,1373.0,11.0,23.0,1339.0
 2020-03-26,Panama,#Global,558.0,8.0,2.0,548.0
 2020-03-26,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-26,Paraguay,#Global,41.0,3.0,0.0,38.0
@@ -16901,7 +16901,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-27,North Macedonia,#Global,219.0,3.0,3.0,213.0
 2020-03-27,Norway,#Global,3755.0,19.0,6.0,3730.0
 2020-03-27,Oman,#Global,131.0,0.0,23.0,108.0
-2020-03-27,Pakistan,#Global,1373.0,11.0,23.0,1339.0
+2020-03-27,Pakistan,#Global,1495.0,12.0,29.0,1454.0
 2020-03-27,Panama,#Global,674.0,9.0,2.0,663.0
 2020-03-27,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-27,Paraguay,#Global,52.0,3.0,1.0,48.0
@@ -17159,7 +17159,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-28,North Macedonia,#Global,241.0,4.0,3.0,234.0
 2020-03-28,Norway,#Global,4015.0,23.0,7.0,3985.0
 2020-03-28,Oman,#Global,152.0,0.0,23.0,129.0
-2020-03-28,Pakistan,#Global,1495.0,12.0,29.0,1454.0
+2020-03-28,Pakistan,#Global,1597.0,14.0,29.0,1554.0
 2020-03-28,Panama,#Global,786.0,14.0,2.0,770.0
 2020-03-28,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-28,Paraguay,#Global,56.0,3.0,1.0,52.0
@@ -17417,7 +17417,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-29,North Macedonia,#Global,259.0,6.0,3.0,250.0
 2020-03-29,Norway,#Global,4284.0,25.0,7.0,4252.0
 2020-03-29,Oman,#Global,167.0,0.0,23.0,144.0
-2020-03-29,Pakistan,#Global,1597.0,14.0,29.0,1554.0
+2020-03-29,Pakistan,#Global,1717.0,21.0,76.0,1620.0
 2020-03-29,Panama,#Global,901.0,17.0,4.0,880.0
 2020-03-29,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-29,Paraguay,#Global,59.0,3.0,1.0,55.0
@@ -17675,7 +17675,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-30,North Macedonia,#Global,285.0,7.0,12.0,266.0
 2020-03-30,Norway,#Global,4445.0,32.0,12.0,4401.0
 2020-03-30,Oman,#Global,179.0,0.0,29.0,150.0
-2020-03-30,Pakistan,#Global,1717.0,21.0,76.0,1620.0
+2020-03-30,Pakistan,#Global,1938.0,26.0,76.0,1836.0
 2020-03-30,Panama,#Global,989.0,24.0,4.0,961.0
 2020-03-30,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-30,Paraguay,#Global,64.0,3.0,1.0,60.0
@@ -17933,7 +17933,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-31,North Macedonia,#Global,329.0,9.0,12.0,308.0
 2020-03-31,Norway,#Global,4641.0,39.0,13.0,4589.0
 2020-03-31,Oman,#Global,192.0,1.0,34.0,157.0
-2020-03-31,Pakistan,#Global,1938.0,26.0,76.0,1836.0
+2020-03-31,Pakistan,#Global,2118.0,27.0,94.0,1997.0
 2020-03-31,Panama,#Global,1181.0,30.0,9.0,1142.0
 2020-03-31,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-03-31,Paraguay,#Global,65.0,3.0,1.0,61.0
@@ -18191,7 +18191,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-01,North Macedonia,#Global,354.0,11.0,17.0,326.0
 2020-04-01,Norway,#Global,4863.0,44.0,13.0,4806.0
 2020-04-01,Oman,#Global,210.0,1.0,34.0,175.0
-2020-04-01,Pakistan,#Global,2118.0,27.0,94.0,1997.0
+2020-04-01,Pakistan,#Global,2421.0,34.0,125.0,2262.0
 2020-04-01,Panama,#Global,1181.0,30.0,9.0,1142.0
 2020-04-01,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-04-01,Paraguay,#Global,69.0,3.0,1.0,65.0
@@ -18449,7 +18449,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-02,North Macedonia,#Global,384.0,11.0,17.0,356.0
 2020-04-02,Norway,#Global,5147.0,50.0,32.0,5065.0
 2020-04-02,Oman,#Global,231.0,1.0,57.0,173.0
-2020-04-02,Pakistan,#Global,2421.0,34.0,125.0,2262.0
+2020-04-02,Pakistan,#Global,2686.0,40.0,126.0,2520.0
 2020-04-02,Panama,#Global,1317.0,32.0,9.0,1276.0
 2020-04-02,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-04-02,Paraguay,#Global,77.0,3.0,2.0,72.0
@@ -18707,7 +18707,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-03,North Macedonia,#Global,430.0,12.0,20.0,398.0
 2020-04-03,Norway,#Global,5370.0,59.0,32.0,5279.0
 2020-04-03,Oman,#Global,252.0,1.0,57.0,194.0
-2020-04-03,Pakistan,#Global,2686.0,40.0,126.0,2520.0
+2020-04-03,Pakistan,#Global,2818.0,41.0,131.0,2646.0
 2020-04-03,Panama,#Global,1475.0,37.0,10.0,1428.0
 2020-04-03,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-04-03,Paraguay,#Global,92.0,3.0,6.0,83.0
@@ -18965,7 +18965,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-04,North Macedonia,#Global,483.0,17.0,20.0,446.0
 2020-04-04,Norway,#Global,5550.0,62.0,32.0,5456.0
 2020-04-04,Oman,#Global,277.0,2.0,61.0,214.0
-2020-04-04,Pakistan,#Global,2818.0,41.0,131.0,2646.0
+2020-04-04,Pakistan,#Global,3157.0,47.0,211.0,2899.0
 2020-04-04,Panama,#Global,1673.0,41.0,13.0,1619.0
 2020-04-04,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-04-04,Paraguay,#Global,96.0,3.0,12.0,81.0
@@ -19223,7 +19223,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-05,North Macedonia,#Global,555.0,18.0,23.0,514.0
 2020-04-05,Norway,#Global,5687.0,71.0,32.0,5584.0
 2020-04-05,Oman,#Global,298.0,2.0,61.0,235.0
-2020-04-05,Pakistan,#Global,3157.0,47.0,211.0,2899.0
+2020-04-05,Pakistan,#Global,3766.0,53.0,259.0,3454.0
 2020-04-05,Panama,#Global,1801.0,46.0,13.0,1742.0
 2020-04-05,Papua New Guinea,#Global,1.0,0.0,0.0,1.0
 2020-04-05,Paraguay,#Global,104.0,3.0,12.0,89.0
@@ -19481,7 +19481,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-06,North Macedonia,#Global,570.0,23.0,30.0,517.0
 2020-04-06,Norway,#Global,5865.0,76.0,32.0,5757.0
 2020-04-06,Oman,#Global,331.0,2.0,61.0,268.0
-2020-04-06,Pakistan,#Global,3766.0,53.0,259.0,3454.0
+2020-04-06,Pakistan,#Global,4035.0,57.0,429.0,3549.0
 2020-04-06,Panama,#Global,1988.0,54.0,13.0,1921.0
 2020-04-06,Papua New Guinea,#Global,2.0,0.0,0.0,2.0
 2020-04-06,Paraguay,#Global,113.0,5.0,12.0,96.0
@@ -19739,7 +19739,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-07,North Macedonia,#Global,599.0,26.0,30.0,543.0
 2020-04-07,Norway,#Global,6086.0,89.0,32.0,5965.0
 2020-04-07,Oman,#Global,371.0,2.0,67.0,302.0
-2020-04-07,Pakistan,#Global,4035.0,57.0,429.0,3549.0
+2020-04-07,Pakistan,#Global,4263.0,61.0,467.0,3735.0
 2020-04-07,Panama,#Global,2100.0,55.0,14.0,2031.0
 2020-04-07,Papua New Guinea,#Global,2.0,0.0,0.0,2.0
 2020-04-07,Paraguay,#Global,115.0,5.0,15.0,95.0
@@ -19997,7 +19997,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-08,North Macedonia,#Global,617.0,29.0,35.0,553.0
 2020-04-08,Norway,#Global,6086.0,101.0,32.0,5953.0
 2020-04-08,Oman,#Global,419.0,2.0,72.0,345.0
-2020-04-08,Pakistan,#Global,4263.0,61.0,467.0,3735.0
+2020-04-08,Pakistan,#Global,4489.0,65.0,572.0,3852.0
 2020-04-08,Panama,#Global,2249.0,59.0,16.0,2174.0
 2020-04-08,Papua New Guinea,#Global,2.0,0.0,0.0,2.0
 2020-04-08,Paraguay,#Global,119.0,5.0,15.0,99.0
@@ -20255,7 +20255,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-09,North Macedonia,#Global,663.0,30.0,37.0,596.0
 2020-04-09,Norway,#Global,6211.0,108.0,32.0,6071.0
 2020-04-09,Oman,#Global,457.0,3.0,109.0,345.0
-2020-04-09,Pakistan,#Global,4489.0,65.0,572.0,3852.0
+2020-04-09,Pakistan,#Global,4695.0,66.0,727.0,3902.0
 2020-04-09,Panama,#Global,2528.0,63.0,16.0,2449.0
 2020-04-09,Papua New Guinea,#Global,2.0,0.0,0.0,2.0
 2020-04-09,Paraguay,#Global,124.0,5.0,18.0,101.0
@@ -20513,7 +20513,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-10,North Macedonia,#Global,711.0,32.0,41.0,638.0
 2020-04-10,Norway,#Global,6314.0,113.0,32.0,6169.0
 2020-04-10,Oman,#Global,484.0,3.0,109.0,372.0
-2020-04-10,Pakistan,#Global,4695.0,66.0,727.0,3902.0
+2020-04-10,Pakistan,#Global,5011.0,86.0,762.0,4163.0
 2020-04-10,Panama,#Global,2752.0,66.0,16.0,2670.0
 2020-04-10,Papua New Guinea,#Global,2.0,0.0,0.0,2.0
 2020-04-10,Paraguay,#Global,129.0,6.0,18.0,105.0
@@ -20771,7 +20771,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-11,North Macedonia,#Global,760.0,34.0,41.0,685.0
 2020-04-11,Norway,#Global,6409.0,119.0,32.0,6258.0
 2020-04-11,Oman,#Global,546.0,3.0,109.0,434.0
-2020-04-11,Pakistan,#Global,5011.0,86.0,762.0,4163.0
+2020-04-11,Pakistan,#Global,5230.0,91.0,1028.0,4111.0
 2020-04-11,Panama,#Global,2974.0,74.0,17.0,2883.0
 2020-04-11,Papua New Guinea,#Global,2.0,0.0,0.0,2.0
 2020-04-11,Paraguay,#Global,133.0,6.0,18.0,109.0
@@ -21029,7 +21029,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-12,North Macedonia,#Global,828.0,34.0,41.0,753.0
 2020-04-12,Norway,#Global,6525.0,128.0,32.0,6365.0
 2020-04-12,Oman,#Global,599.0,4.0,109.0,486.0
-2020-04-12,Pakistan,#Global,5230.0,91.0,1028.0,4111.0
+2020-04-12,Pakistan,#Global,5496.0,93.0,1095.0,4308.0
 2020-04-12,Panama,#Global,3234.0,79.0,23.0,3132.0
 2020-04-12,Papua New Guinea,#Global,2.0,0.0,0.0,2.0
 2020-04-12,Paraguay,#Global,134.0,6.0,22.0,106.0
@@ -21287,7 +21287,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-13,North Macedonia,#Global,854.0,38.0,44.0,772.0
 2020-04-13,Norway,#Global,6603.0,134.0,32.0,6437.0
 2020-04-13,Oman,#Global,727.0,4.0,124.0,599.0
-2020-04-13,Pakistan,#Global,5496.0,93.0,1095.0,4308.0
+2020-04-13,Pakistan,#Global,5837.0,96.0,1378.0,4363.0
 2020-04-13,Panama,#Global,3400.0,87.0,29.0,3284.0
 2020-04-13,Papua New Guinea,#Global,2.0,0.0,0.0,2.0
 2020-04-13,Paraguay,#Global,147.0,6.0,22.0,119.0
@@ -21545,7 +21545,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-14,North Macedonia,#Global,908.0,44.0,86.0,778.0
 2020-04-14,Norway,#Global,6623.0,139.0,32.0,6452.0
 2020-04-14,Oman,#Global,813.0,4.0,130.0,679.0
-2020-04-14,Pakistan,#Global,5837.0,96.0,1378.0,4363.0
+2020-04-14,Pakistan,#Global,6383.0,111.0,1446.0,4826.0
 2020-04-14,Panama,#Global,3472.0,94.0,61.0,3317.0
 2020-04-14,Papua New Guinea,#Global,2.0,0.0,0.0,2.0
 2020-04-14,Paraguay,#Global,159.0,7.0,22.0,130.0
@@ -21803,7 +21803,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,North Macedonia,#Global,974.0,45.0,98.0,831.0
 2020-04-15,Norway,#Global,6740.0,150.0,32.0,6558.0
 2020-04-15,Oman,#Global,910.0,4.0,131.0,775.0
-2020-04-15,Pakistan,#Global,6383.0,111.0,1446.0,4826.0
+2020-04-15,Pakistan,#Global,6919.0,128.0,1645.0,5146.0
 2020-04-15,Panama,#Global,3574.0,95.0,72.0,3407.0
 2020-04-15,Papua New Guinea,#Global,2.0,0.0,0.0,2.0
 2020-04-15,Paraguay,#Global,161.0,8.0,23.0,130.0
@@ -22061,7 +22061,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,North Macedonia,#Global,1081.0,46.0,121.0,914.0
 2020-04-16,Norway,#Global,6896.0,152.0,32.0,6712.0
 2020-04-16,Oman,#Global,1019.0,4.0,176.0,839.0
-2020-04-16,Pakistan,#Global,6919.0,128.0,1645.0,5146.0
+2020-04-16,Pakistan,#Global,7025.0,135.0,1765.0,5125.0
 2020-04-16,Panama,#Global,3751.0,103.0,75.0,3573.0
 2020-04-16,Papua New Guinea,#Global,7.0,0.0,0.0,7.0
 2020-04-16,Paraguay,#Global,174.0,8.0,30.0,136.0
@@ -22319,7 +22319,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,North Macedonia,#Global,1117.0,49.0,139.0,929.0
 2020-04-17,Norway,#Global,6937.0,161.0,32.0,6744.0
 2020-04-17,Oman,#Global,1069.0,6.0,176.0,887.0
-2020-04-17,Pakistan,#Global,7025.0,135.0,1765.0,5125.0
+2020-04-17,Pakistan,#Global,7638.0,143.0,1832.0,5663.0
 2020-04-17,Panama,#Global,4016.0,109.0,98.0,3809.0
 2020-04-17,Papua New Guinea,#Global,7.0,0.0,0.0,7.0
 2020-04-17,Paraguay,#Global,199.0,8.0,30.0,161.0
@@ -22577,7 +22577,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,North Macedonia,#Global,1170.0,49.0,164.0,957.0
 2020-04-18,Norway,#Global,7036.0,164.0,32.0,6840.0
 2020-04-18,Oman,#Global,1180.0,6.0,176.0,998.0
-2020-04-18,Pakistan,#Global,7638.0,143.0,1832.0,5663.0
+2020-04-18,Pakistan,#Global,8348.0,168.0,1868.0,6312.0
 2020-04-18,Panama,#Global,4210.0,116.0,122.0,3972.0
 2020-04-18,Papua New Guinea,#Global,7.0,0.0,0.0,7.0
 2020-04-18,Paraguay,#Global,202.0,8.0,35.0,159.0
@@ -22835,7 +22835,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,North Macedonia,#Global,1207.0,51.0,179.0,977.0
 2020-04-19,Norway,#Global,7078.0,165.0,32.0,6881.0
 2020-04-19,Oman,#Global,1266.0,7.0,233.0,1026.0
-2020-04-19,Pakistan,#Global,8348.0,168.0,1868.0,6312.0
+2020-04-19,Pakistan,#Global,8418.0,176.0,1970.0,6272.0
 2020-04-19,Panama,#Global,4273.0,120.0,140.0,4013.0
 2020-04-19,Papua New Guinea,#Global,7.0,0.0,0.0,7.0
 2020-04-19,Paraguay,#Global,206.0,8.0,41.0,157.0
@@ -23093,7 +23093,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,North Macedonia,#Global,1225.0,54.0,200.0,971.0
 2020-04-20,Norway,#Global,7156.0,181.0,32.0,6943.0
 2020-04-20,Oman,#Global,1410.0,7.0,238.0,1165.0
-2020-04-20,Pakistan,#Global,8418.0,176.0,1970.0,6272.0
+2020-04-20,Pakistan,#Global,9565.0,201.0,2073.0,7291.0
 2020-04-20,Panama,#Global,4467.0,126.0,165.0,4176.0
 2020-04-20,Papua New Guinea,#Global,7.0,0.0,0.0,7.0
 2020-04-20,Paraguay,#Global,208.0,8.0,46.0,154.0
@@ -23351,7 +23351,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,North Macedonia,#Global,1231.0,55.0,224.0,952.0
 2020-04-21,Norway,#Global,7191.0,182.0,32.0,6977.0
 2020-04-21,Oman,#Global,1508.0,8.0,238.0,1262.0
-2020-04-21,Pakistan,#Global,9565.0,201.0,2073.0,7291.0
+2020-04-21,Pakistan,#Global,10076.0,212.0,2156.0,7708.0
 2020-04-21,Panama,#Global,4658.0,136.0,204.0,4318.0
 2020-04-21,Papua New Guinea,#Global,7.0,0.0,0.0,7.0
 2020-04-21,Paraguay,#Global,208.0,8.0,53.0,147.0
@@ -23609,7 +23609,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,North Macedonia,#Global,1259.0,56.0,272.0,931.0
 2020-04-22,Norway,#Global,7338.0,187.0,32.0,7119.0
 2020-04-22,Oman,#Global,1614.0,8.0,238.0,1368.0
-2020-04-22,Pakistan,#Global,10076.0,212.0,2156.0,7708.0
+2020-04-22,Pakistan,#Global,11155.0,237.0,2527.0,8391.0
 2020-04-22,Panama,#Global,4821.0,141.0,231.0,4449.0
 2020-04-22,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-04-22,Paraguay,#Global,213.0,9.0,62.0,142.0
@@ -23867,7 +23867,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,North Macedonia,#Global,1300.0,56.0,301.0,943.0
 2020-04-23,Norway,#Global,7401.0,194.0,32.0,7175.0
 2020-04-23,Oman,#Global,1716.0,9.0,307.0,1400.0
-2020-04-23,Pakistan,#Global,11155.0,237.0,2527.0,8391.0
+2020-04-23,Pakistan,#Global,11940.0,253.0,2755.0,8932.0
 2020-04-23,Panama,#Global,5166.0,146.0,271.0,4749.0
 2020-04-23,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-04-23,Paraguay,#Global,213.0,9.0,67.0,137.0
@@ -24125,7 +24125,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,North Macedonia,#Global,1326.0,57.0,337.0,932.0
 2020-04-24,Norway,#Global,7463.0,199.0,32.0,7232.0
 2020-04-24,Oman,#Global,1790.0,10.0,325.0,1455.0
-2020-04-24,Pakistan,#Global,11940.0,253.0,2755.0,8932.0
+2020-04-24,Pakistan,#Global,12723.0,269.0,2866.0,9588.0
 2020-04-24,Panama,#Global,5338.0,154.0,319.0,4865.0
 2020-04-24,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-04-24,Paraguay,#Global,223.0,9.0,78.0,136.0
@@ -24383,7 +24383,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-25,North Macedonia,#Global,1367.0,59.0,374.0,934.0
 2020-04-25,Norway,#Global,7499.0,201.0,32.0,7266.0
 2020-04-25,Oman,#Global,1905.0,10.0,329.0,1566.0
-2020-04-25,Pakistan,#Global,12723.0,269.0,2866.0,9588.0
+2020-04-25,Pakistan,#Global,13328.0,281.0,2936.0,10111.0
 2020-04-25,Panama,#Global,5538.0,159.0,338.0,5041.0
 2020-04-25,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-04-25,Paraguay,#Global,228.0,9.0,85.0,134.0
@@ -24641,7 +24641,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-26,North Macedonia,#Global,1386.0,61.0,500.0,825.0
 2020-04-26,Norway,#Global,7527.0,201.0,32.0,7294.0
 2020-04-26,Oman,#Global,1998.0,10.0,333.0,1655.0
-2020-04-26,Pakistan,#Global,13328.0,281.0,2936.0,10111.0
+2020-04-26,Pakistan,#Global,13915.0,292.0,3029.0,10594.0
 2020-04-26,Panama,#Global,5779.0,165.0,338.0,5276.0
 2020-04-26,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-04-26,Paraguay,#Global,228.0,9.0,85.0,134.0
@@ -24899,7 +24899,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-27,North Macedonia,#Global,1399.0,65.0,553.0,781.0
 2020-04-27,Norway,#Global,7599.0,205.0,32.0,7362.0
 2020-04-27,Oman,#Global,2049.0,10.0,364.0,1675.0
-2020-04-27,Pakistan,#Global,13915.0,292.0,3029.0,10594.0
+2020-04-27,Pakistan,#Global,14612.0,312.0,3233.0,11067.0
 2020-04-27,Panama,#Global,6021.0,167.0,455.0,5399.0
 2020-04-27,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-04-27,Paraguay,#Global,228.0,9.0,93.0,126.0
@@ -25157,7 +25157,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-28,North Macedonia,#Global,1421.0,71.0,589.0,761.0
 2020-04-28,Norway,#Global,7660.0,206.0,32.0,7422.0
 2020-04-28,Oman,#Global,2131.0,10.0,364.0,1757.0
-2020-04-28,Pakistan,#Global,14612.0,312.0,3233.0,11067.0
+2020-04-28,Pakistan,#Global,15525.0,343.0,3425.0,11757.0
 2020-04-28,Panama,#Global,6021.0,167.0,455.0,5399.0
 2020-04-28,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-04-28,Paraguay,#Global,239.0,9.0,102.0,128.0
@@ -25415,7 +25415,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-29,North Macedonia,#Global,1442.0,73.0,627.0,742.0
 2020-04-29,Norway,#Global,7710.0,207.0,32.0,7471.0
 2020-04-29,Oman,#Global,2274.0,10.0,364.0,1900.0
-2020-04-29,Pakistan,#Global,15525.0,343.0,3425.0,11757.0
+2020-04-29,Pakistan,#Global,16817.0,385.0,4315.0,12117.0
 2020-04-29,Panama,#Global,6378.0,178.0,527.0,5673.0
 2020-04-29,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-04-29,Paraguay,#Global,239.0,9.0,102.0,128.0
@@ -25673,7 +25673,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-30,North Macedonia,#Global,1465.0,77.0,738.0,650.0
 2020-04-30,Norway,#Global,7738.0,210.0,32.0,7496.0
 2020-04-30,Oman,#Global,2348.0,11.0,495.0,1842.0
-2020-04-30,Pakistan,#Global,16817.0,385.0,4315.0,12117.0
+2020-04-30,Pakistan,#Global,18114.0,417.0,4715.0,12982.0
 2020-04-30,Panama,#Global,6532.0,188.0,576.0,5768.0
 2020-04-30,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-04-30,Paraguay,#Global,266.0,10.0,113.0,143.0
@@ -25931,7 +25931,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-01,North Macedonia,#Global,1494.0,81.0,807.0,606.0
 2020-05-01,Norway,#Global,7783.0,210.0,32.0,7541.0
 2020-05-01,Oman,#Global,2447.0,11.0,495.0,1941.0
-2020-05-01,Pakistan,#Global,18114.0,417.0,4715.0,12982.0
+2020-05-01,Pakistan,#Global,19103.0,440.0,4817.0,13846.0
 2020-05-01,Panama,#Global,6720.0,192.0,622.0,5906.0
 2020-05-01,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-05-01,Paraguay,#Global,333.0,10.0,115.0,208.0
@@ -26189,7 +26189,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-02,North Macedonia,#Global,1506.0,82.0,852.0,572.0
 2020-05-02,Norway,#Global,7809.0,211.0,32.0,7566.0
 2020-05-02,Oman,#Global,2483.0,12.0,750.0,1721.0
-2020-05-02,Pakistan,#Global,19103.0,440.0,4817.0,13846.0
+2020-05-02,Pakistan,#Global,20084.0,457.0,5114.0,14513.0
 2020-05-02,Panama,#Global,7090.0,197.0,641.0,6252.0
 2020-05-02,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-05-02,Paraguay,#Global,370.0,10.0,119.0,241.0
@@ -26447,7 +26447,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-03,North Macedonia,#Global,1511.0,84.0,945.0,482.0
 2020-05-03,Norway,#Global,7847.0,211.0,32.0,7604.0
 2020-05-03,Oman,#Global,2568.0,12.0,750.0,1806.0
-2020-05-03,Pakistan,#Global,20084.0,457.0,5114.0,14513.0
+2020-05-03,Pakistan,#Global,20941.0,476.0,5635.0,14830.0
 2020-05-03,Panama,#Global,7090.0,197.0,641.0,6252.0
 2020-05-03,Papua New Guinea,#Global,8.0,0.0,0.0,8.0
 2020-05-03,Paraguay,#Global,396.0,10.0,126.0,260.0
@@ -26705,7 +26705,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-04,North Macedonia,#Global,1518.0,85.0,992.0,441.0
 2020-05-04,Norway,#Global,7904.0,214.0,32.0,7658.0
 2020-05-04,Oman,#Global,2637.0,12.0,816.0,1809.0
-2020-05-04,Pakistan,#Global,20941.0,476.0,5635.0,14830.0
+2020-05-04,Pakistan,#Global,22049.0,514.0,5801.0,15734.0
 2020-05-04,Panama,#Global,7197.0,200.0,641.0,6356.0
 2020-05-04,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-04,Paraguay,#Global,415.0,10.0,130.0,275.0
@@ -26963,7 +26963,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-05,North Macedonia,#Global,1526.0,86.0,1013.0,427.0
 2020-05-05,Norway,#Global,7955.0,215.0,32.0,7708.0
 2020-05-05,Oman,#Global,2735.0,13.0,858.0,1864.0
-2020-05-05,Pakistan,#Global,22049.0,514.0,5801.0,15734.0
+2020-05-05,Pakistan,#Global,24073.0,564.0,6464.0,17045.0
 2020-05-05,Panama,#Global,7523.0,210.0,823.0,6490.0
 2020-05-05,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-05,Paraguay,#Global,431.0,10.0,135.0,286.0
@@ -27221,7 +27221,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-06,North Macedonia,#Global,1539.0,88.0,1057.0,394.0
 2020-05-06,Norway,#Global,7996.0,216.0,32.0,7748.0
 2020-05-06,Oman,#Global,2903.0,13.0,888.0,2002.0
-2020-05-06,Pakistan,#Global,24073.0,564.0,6464.0,17045.0
+2020-05-06,Pakistan,#Global,24644.0,585.0,6464.0,17595.0
 2020-05-06,Panama,#Global,7731.0,218.0,859.0,6654.0
 2020-05-06,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-06,Paraguay,#Global,440.0,10.0,142.0,288.0
@@ -27479,7 +27479,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-07,North Macedonia,#Global,1572.0,89.0,1079.0,404.0
 2020-05-07,Norway,#Global,8034.0,217.0,32.0,7785.0
 2020-05-07,Oman,#Global,2958.0,15.0,980.0,1963.0
-2020-05-07,Pakistan,#Global,24644.0,585.0,6464.0,17595.0
+2020-05-07,Pakistan,#Global,26435.0,599.0,7530.0,18306.0
 2020-05-07,Panama,#Global,7868.0,225.0,886.0,6757.0
 2020-05-07,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-07,Paraguay,#Global,462.0,10.0,148.0,304.0
@@ -27737,7 +27737,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-08,North Macedonia,#Global,1586.0,90.0,1099.0,397.0
 2020-05-08,Norway,#Global,8070.0,218.0,32.0,7820.0
 2020-05-08,Oman,#Global,3112.0,16.0,1025.0,2071.0
-2020-05-08,Pakistan,#Global,26435.0,599.0,7530.0,18306.0
+2020-05-08,Pakistan,#Global,28736.0,636.0,7809.0,20291.0
 2020-05-08,Panama,#Global,8070.0,231.0,886.0,6953.0
 2020-05-08,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-08,Paraguay,#Global,563.0,10.0,152.0,401.0
@@ -27995,7 +27995,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-09,North Macedonia,#Global,1622.0,91.0,1112.0,419.0
 2020-05-09,Norway,#Global,8099.0,219.0,32.0,7848.0
 2020-05-09,Oman,#Global,3224.0,17.0,1068.0,2139.0
-2020-05-09,Pakistan,#Global,28736.0,636.0,7809.0,20291.0
+2020-05-09,Pakistan,#Global,30334.0,659.0,8063.0,21612.0
 2020-05-09,Panama,#Global,8282.0,237.0,4501.0,3544.0
 2020-05-09,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-09,Paraguay,#Global,689.0,10.0,155.0,524.0
@@ -28253,7 +28253,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-10,North Macedonia,#Global,1642.0,91.0,1136.0,415.0
 2020-05-10,Norway,#Global,8105.0,219.0,32.0,7854.0
 2020-05-10,Oman,#Global,3399.0,17.0,1117.0,2265.0
-2020-05-10,Pakistan,#Global,30334.0,659.0,8063.0,21612.0
+2020-05-10,Pakistan,#Global,32081.0,706.0,8555.0,22820.0
 2020-05-10,Panama,#Global,8448.0,244.0,4687.0,3517.0
 2020-05-10,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-10,Paraguay,#Global,713.0,10.0,165.0,538.0
@@ -28511,7 +28511,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-11,North Macedonia,#Global,1664.0,91.0,1200.0,373.0
 2020-05-11,Norway,#Global,8132.0,224.0,32.0,7876.0
 2020-05-11,Oman,#Global,3573.0,17.0,1250.0,2306.0
-2020-05-11,Pakistan,#Global,32081.0,706.0,8555.0,22820.0
+2020-05-11,Pakistan,#Global,34336.0,737.0,8812.0,24787.0
 2020-05-11,Panama,#Global,8616.0,249.0,4687.0,3680.0
 2020-05-11,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-11,Paraguay,#Global,724.0,10.0,170.0,544.0
@@ -28769,7 +28769,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-12,North Macedonia,#Global,1674.0,92.0,1205.0,377.0
 2020-05-12,Norway,#Global,8157.0,228.0,32.0,7897.0
 2020-05-12,Oman,#Global,3721.0,17.0,1250.0,2454.0
-2020-05-12,Pakistan,#Global,34336.0,737.0,8812.0,24787.0
+2020-05-12,Pakistan,#Global,35298.0,761.0,8899.0,25638.0
 2020-05-12,Panama,#Global,8783.0,252.0,6021.0,2510.0
 2020-05-12,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-12,Paraguay,#Global,737.0,10.0,173.0,554.0
@@ -29027,7 +29027,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-13,North Macedonia,#Global,1694.0,95.0,1229.0,370.0
 2020-05-13,Norway,#Global,8175.0,229.0,32.0,7914.0
 2020-05-13,Oman,#Global,4019.0,17.0,1289.0,2713.0
-2020-05-13,Pakistan,#Global,35298.0,761.0,8899.0,25638.0
+2020-05-13,Pakistan,#Global,35788.0,770.0,9695.0,25323.0
 2020-05-13,Panama,#Global,8944.0,256.0,6067.0,2621.0
 2020-05-13,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-13,Paraguay,#Global,740.0,11.0,182.0,547.0
@@ -29285,7 +29285,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-14,North Macedonia,#Global,1723.0,95.0,1235.0,393.0
 2020-05-14,Norway,#Global,8196.0,232.0,32.0,7932.0
 2020-05-14,Oman,#Global,4341.0,18.0,1303.0,3020.0
-2020-05-14,Pakistan,#Global,35788.0,770.0,9695.0,25323.0
+2020-05-14,Pakistan,#Global,38799.0,834.0,10880.0,27085.0
 2020-05-14,Panama,#Global,9118.0,260.0,6080.0,2778.0
 2020-05-14,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-14,Paraguay,#Global,754.0,11.0,184.0,559.0
@@ -29801,7 +29801,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-16,North Macedonia,#Global,1762.0,98.0,1267.0,397.0
 2020-05-16,Norway,#Global,8237.0,232.0,32.0,7973.0
 2020-05-16,Oman,#Global,5029.0,21.0,1436.0,3572.0
-2020-05-16,Pakistan,#Global,38799.0,834.0,10880.0,27085.0
+2020-05-16,Pakistan,#Global,40151.0,873.0,11341.0,27937.0
 2020-05-16,Panama,#Global,9449.0,269.0,6080.0,3100.0
 2020-05-16,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-16,Paraguay,#Global,778.0,11.0,198.0,569.0
@@ -30059,7 +30059,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-17,North Macedonia,#Global,1792.0,101.0,1293.0,398.0
 2020-05-17,Norway,#Global,8249.0,232.0,32.0,7985.0
 2020-05-17,Oman,#Global,5186.0,22.0,1465.0,3699.0
-2020-05-17,Pakistan,#Global,40151.0,873.0,11341.0,27937.0
+2020-05-17,Pakistan,#Global,42125.0,903.0,11922.0,29300.0
 2020-05-17,Panama,#Global,9606.0,275.0,6081.0,3250.0
 2020-05-17,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-17,Paraguay,#Global,786.0,11.0,202.0,573.0
@@ -30317,7 +30317,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-18,North Macedonia,#Global,1817.0,104.0,1301.0,412.0
 2020-05-18,Norway,#Global,8257.0,233.0,32.0,7992.0
 2020-05-18,Oman,#Global,5379.0,25.0,1496.0,3858.0
-2020-05-18,Pakistan,#Global,42125.0,903.0,11922.0,29300.0
+2020-05-18,Pakistan,#Global,43966.0,939.0,12489.0,30538.0
 2020-05-18,Panama,#Global,9726.0,279.0,6081.0,3366.0
 2020-05-18,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-18,Paraguay,#Global,788.0,11.0,219.0,558.0
@@ -30575,7 +30575,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-19,North Macedonia,#Global,1839.0,106.0,1351.0,382.0
 2020-05-19,Norway,#Global,8267.0,233.0,32.0,8002.0
 2020-05-19,Oman,#Global,5671.0,27.0,1574.0,4070.0
-2020-05-19,Pakistan,#Global,43966.0,939.0,12489.0,30538.0
+2020-05-19,Pakistan,#Global,45898.0,985.0,13101.0,31812.0
 2020-05-19,Panama,#Global,9867.0,281.0,6194.0,3392.0
 2020-05-19,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-19,Paraguay,#Global,829.0,11.0,230.0,588.0
@@ -30833,7 +30833,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-20,North Macedonia,#Global,1858.0,110.0,1367.0,381.0
 2020-05-20,Norway,#Global,8281.0,234.0,32.0,8015.0
 2020-05-20,Oman,#Global,6043.0,30.0,1661.0,4352.0
-2020-05-20,Pakistan,#Global,45898.0,985.0,13101.0,31812.0
+2020-05-20,Pakistan,#Global,48091.0,1017.0,14155.0,32919.0
 2020-05-20,Panama,#Global,9977.0,287.0,6194.0,3496.0
 2020-05-20,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-20,Paraguay,#Global,833.0,11.0,242.0,580.0
@@ -31091,7 +31091,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-21,North Macedonia,#Global,1898.0,111.0,1378.0,409.0
 2020-05-21,Norway,#Global,8309.0,235.0,32.0,8042.0
 2020-05-21,Oman,#Global,6370.0,31.0,1821.0,4518.0
-2020-05-21,Pakistan,#Global,48091.0,1017.0,14155.0,32919.0
+2020-05-21,Pakistan,#Global,50694.0,1067.0,15201.0,34426.0
 2020-05-21,Panama,#Global,10116.0,291.0,6245.0,3580.0
 2020-05-21,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-21,Paraguay,#Global,836.0,11.0,256.0,569.0
@@ -31349,7 +31349,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-22,North Macedonia,#Global,1921.0,112.0,1387.0,422.0
 2020-05-22,Norway,#Global,8332.0,235.0,7727.0,370.0
 2020-05-22,Oman,#Global,6794.0,34.0,1821.0,4939.0
-2020-05-22,Pakistan,#Global,50694.0,1067.0,15201.0,34426.0
+2020-05-22,Pakistan,#Global,52437.0,1101.0,16653.0,34683.0
 2020-05-22,Panama,#Global,10267.0,295.0,6275.0,3697.0
 2020-05-22,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-22,Paraguay,#Global,838.0,11.0,264.0,563.0
@@ -31607,7 +31607,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-23,North Macedonia,#Global,1941.0,113.0,1411.0,417.0
 2020-05-23,Norway,#Global,8346.0,235.0,7727.0,384.0
 2020-05-23,Oman,#Global,7257.0,36.0,1848.0,5373.0
-2020-05-23,Pakistan,#Global,52437.0,1101.0,16653.0,34683.0
+2020-05-23,Pakistan,#Global,54601.0,1133.0,17198.0,36270.0
 2020-05-23,Panama,#Global,10577.0,299.0,6279.0,3999.0
 2020-05-23,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-23,Paraguay,#Global,850.0,11.0,298.0,541.0
@@ -31865,7 +31865,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-24,North Macedonia,#Global,1978.0,113.0,1422.0,443.0
 2020-05-24,Norway,#Global,8352.0,235.0,7727.0,390.0
 2020-05-24,Oman,#Global,7770.0,37.0,1933.0,5800.0
-2020-05-24,Pakistan,#Global,54601.0,1133.0,17198.0,36270.0
+2020-05-24,Pakistan,#Global,56349.0,1167.0,17482.0,37700.0
 2020-05-24,Panama,#Global,10926.0,306.0,6279.0,4341.0
 2020-05-24,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-24,Paraguay,#Global,862.0,11.0,307.0,544.0
@@ -32123,7 +32123,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-25,North Macedonia,#Global,1999.0,113.0,1439.0,447.0
 2020-05-25,Norway,#Global,8364.0,235.0,7727.0,402.0
 2020-05-25,Oman,#Global,7770.0,37.0,1933.0,5800.0
-2020-05-25,Pakistan,#Global,56349.0,1167.0,17482.0,37700.0
+2020-05-25,Pakistan,#Global,57705.0,1197.0,18314.0,38194.0
 2020-05-25,Panama,#Global,11183.0,310.0,6279.0,4594.0
 2020-05-25,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-25,Paraguay,#Global,865.0,11.0,344.0,510.0
@@ -32381,7 +32381,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-26,North Macedonia,#Global,2014.0,116.0,1453.0,445.0
 2020-05-26,Norway,#Global,8383.0,235.0,7727.0,421.0
 2020-05-26,Oman,#Global,8118.0,37.0,2067.0,6014.0
-2020-05-26,Pakistan,#Global,57705.0,1197.0,18314.0,38194.0
+2020-05-26,Pakistan,#Global,59151.0,1225.0,19142.0,38784.0
 2020-05-26,Panama,#Global,11447.0,313.0,6379.0,4755.0
 2020-05-26,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-26,Paraguay,#Global,877.0,11.0,382.0,484.0
@@ -32639,7 +32639,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-27,North Macedonia,#Global,2039.0,119.0,1470.0,450.0
 2020-05-27,Norway,#Global,8401.0,235.0,7727.0,439.0
 2020-05-27,Oman,#Global,8373.0,39.0,2177.0,6157.0
-2020-05-27,Pakistan,#Global,59151.0,1225.0,19142.0,38784.0
+2020-05-27,Pakistan,#Global,61227.0,1260.0,20231.0,39736.0
 2020-05-27,Panama,#Global,11728.0,315.0,7379.0,4034.0
 2020-05-27,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-27,Paraguay,#Global,884.0,11.0,392.0,481.0
@@ -32897,7 +32897,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-28,North Macedonia,#Global,2077.0,121.0,1486.0,470.0
 2020-05-28,Norway,#Global,8411.0,236.0,7727.0,448.0
 2020-05-28,Oman,#Global,9009.0,40.0,2177.0,6792.0
-2020-05-28,Pakistan,#Global,61227.0,1260.0,20231.0,39736.0
+2020-05-28,Pakistan,#Global,64028.0,1317.0,22305.0,40406.0
 2020-05-28,Panama,#Global,12131.0,320.0,7379.0,4432.0
 2020-05-28,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-28,Paraguay,#Global,900.0,11.0,402.0,487.0
@@ -33155,7 +33155,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-29,North Macedonia,#Global,2129.0,126.0,1516.0,487.0
 2020-05-29,Norway,#Global,8422.0,236.0,7727.0,459.0
 2020-05-29,Oman,#Global,9820.0,40.0,2396.0,7384.0
-2020-05-29,Pakistan,#Global,64028.0,1317.0,22305.0,40406.0
+2020-05-29,Pakistan,#Global,66457.0,1395.0,24131.0,40931.0
 2020-05-29,Panama,#Global,12531.0,326.0,7540.0,4665.0
 2020-05-29,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-29,Paraguay,#Global,917.0,11.0,413.0,493.0
@@ -33413,7 +33413,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-30,North Macedonia,#Global,2164.0,131.0,1535.0,498.0
 2020-05-30,Norway,#Global,8437.0,236.0,7727.0,474.0
 2020-05-30,Oman,#Global,10423.0,42.0,2396.0,7985.0
-2020-05-30,Pakistan,#Global,66457.0,1395.0,24131.0,40931.0
+2020-05-30,Pakistan,#Global,69496.0,1483.0,25271.0,42742.0
 2020-05-30,Panama,#Global,13018.0,330.0,9414.0,3274.0
 2020-05-30,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-30,Paraguay,#Global,964.0,11.0,466.0,487.0
@@ -33671,7 +33671,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-31,North Macedonia,#Global,2226.0,133.0,1552.0,541.0
 2020-05-31,Norway,#Global,8440.0,236.0,7727.0,477.0
 2020-05-31,Oman,#Global,11437.0,49.0,2682.0,8706.0
-2020-05-31,Pakistan,#Global,69496.0,1483.0,25271.0,42742.0
+2020-05-31,Pakistan,#Global,72460.0,1543.0,26083.0,44834.0
 2020-05-31,Panama,#Global,13463.0,336.0,9514.0,3613.0
 2020-05-31,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-05-31,Paraguay,#Global,986.0,11.0,477.0,498.0
@@ -33929,7 +33929,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-01,North Macedonia,#Global,2315.0,140.0,1569.0,606.0
 2020-06-01,Norway,#Global,8446.0,236.0,7727.0,483.0
 2020-06-01,Oman,#Global,12223.0,50.0,2682.0,9491.0
-2020-06-01,Pakistan,#Global,72460.0,1543.0,26083.0,44834.0
+2020-06-01,Pakistan,#Global,76398.0,1621.0,27110.0,47667.0
 2020-06-01,Panama,#Global,13837.0,344.0,9514.0,3979.0
 2020-06-01,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-06-01,Paraguay,#Global,995.0,11.0,488.0,496.0
@@ -34187,7 +34187,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-02,North Macedonia,#Global,2391.0,141.0,1595.0,655.0
 2020-06-02,Norway,#Global,8455.0,237.0,7727.0,491.0
 2020-06-02,Oman,#Global,12799.0,59.0,2812.0,9928.0
-2020-06-02,Pakistan,#Global,76398.0,1621.0,27110.0,47667.0
+2020-06-02,Pakistan,#Global,80463.0,1688.0,28923.0,49852.0
 2020-06-02,Panama,#Global,14095.0,352.0,9514.0,4229.0
 2020-06-02,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-06-02,Paraguay,#Global,1013.0,11.0,498.0,504.0
@@ -34445,7 +34445,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-03,North Macedonia,#Global,2492.0,145.0,1605.0,742.0
 2020-06-03,Norway,#Global,8477.0,237.0,7727.0,513.0
 2020-06-03,Oman,#Global,13537.0,67.0,2845.0,10625.0
-2020-06-03,Pakistan,#Global,80463.0,1688.0,28923.0,49852.0
+2020-06-03,Pakistan,#Global,85264.0,1770.0,30128.0,53366.0
 2020-06-03,Panama,#Global,14609.0,357.0,9519.0,4733.0
 2020-06-03,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-06-03,Paraguay,#Global,1070.0,11.0,511.0,548.0
@@ -34703,7 +34703,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-04,North Macedonia,#Global,2611.0,147.0,1621.0,843.0
 2020-06-04,Norway,#Global,8504.0,238.0,8138.0,128.0
 2020-06-04,Oman,#Global,14316.0,67.0,3451.0,10798.0
-2020-06-04,Pakistan,#Global,85264.0,1770.0,30128.0,53366.0
+2020-06-04,Pakistan,#Global,89249.0,1838.0,31198.0,56213.0
 2020-06-04,Panama,#Global,15044.0,363.0,9619.0,5062.0
 2020-06-04,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-06-04,Paraguay,#Global,1086.0,11.0,511.0,564.0
@@ -34961,7 +34961,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-05,North Macedonia,#Global,2790.0,149.0,1632.0,1009.0
 2020-06-05,Norway,#Global,8522.0,238.0,8138.0,146.0
 2020-06-05,Oman,#Global,15086.0,72.0,3451.0,11563.0
-2020-06-05,Pakistan,#Global,89249.0,1838.0,31198.0,56213.0
+2020-06-05,Pakistan,#Global,93983.0,1935.0,32581.0,59467.0
 2020-06-05,Panama,#Global,15463.0,370.0,9719.0,5374.0
 2020-06-05,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-06-05,Paraguay,#Global,1087.0,11.0,516.0,560.0
@@ -35219,7 +35219,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-06,North Macedonia,#Global,2915.0,151.0,1640.0,1124.0
 2020-06-06,Norway,#Global,8531.0,238.0,8138.0,155.0
 2020-06-06,Oman,#Global,16016.0,72.0,3451.0,12493.0
-2020-06-06,Pakistan,#Global,93983.0,1935.0,32581.0,59467.0
+2020-06-06,Pakistan,#Global,98943.0,2002.0,33465.0,63476.0
 2020-06-06,Panama,#Global,16004.0,386.0,10118.0,5500.0
 2020-06-06,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-06-06,Paraguay,#Global,1090.0,11.0,532.0,547.0
@@ -35477,7 +35477,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-07,North Macedonia,#Global,3025.0,153.0,1646.0,1226.0
 2020-06-07,Norway,#Global,8547.0,238.0,8138.0,171.0
 2020-06-07,Oman,#Global,16882.0,75.0,3451.0,13356.0
-2020-06-07,Pakistan,#Global,98943.0,2002.0,33465.0,63476.0
+2020-06-07,Pakistan,#Global,103671.0,2067.0,34355.0,67249.0
 2020-06-07,Panama,#Global,16425.0,393.0,10218.0,5814.0
 2020-06-07,Papua New Guinea,#Global,8.0,0.0,8.0,0.0
 2020-06-07,Paraguay,#Global,1135.0,11.0,575.0,549.0
