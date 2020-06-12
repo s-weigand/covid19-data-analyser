@@ -7723,7 +7723,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-03-18,Pennsylvania,USA,0.0,0.0,0.0,0.0
 2020-03-18,Puerto Rico,USA,0.0,0.0,0.0,0.0
 2020-03-18,Rhode Island,USA,0.0,0.0,0.0,0.0
-2020-03-18,other,USA,1.0000000000021811,106.00000000023121,0.0,-105.00000000022902
+2020-03-18,Unknown,USA,1.0000000000021811,106.00000000023121,0.0,-105.00000000022902
 2020-03-18,South Carolina,USA,0.0,0.0,0.0,0.0
 2020-03-18,South Dakota,USA,0.0,0.0,0.0,0.0
 2020-03-18,Tennessee,USA,0.0,0.0,0.0,0.0
@@ -8161,7 +8161,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-03-19,Pennsylvania,USA,0.0,0.0,0.0,0.0
 2020-03-19,Puerto Rico,USA,0.0,0.0,0.0,0.0
 2020-03-19,Rhode Island,USA,0.0,0.0,0.0,0.0
-2020-03-19,other,USA,0.0,0.0,0.0,0.0
+2020-03-19,Unknown,USA,0.0,0.0,0.0,0.0
 2020-03-19,South Carolina,USA,0.0,0.0,0.0,0.0
 2020-03-19,South Dakota,USA,0.0,0.0,0.0,0.0
 2020-03-19,Tennessee,USA,0.0,0.0,0.0,0.0
@@ -8608,7 +8608,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-03-20,Pennsylvania,USA,0.0,0.0,0.0,0.0
 2020-03-20,Puerto Rico,USA,0.0,0.0,0.0,0.0
 2020-03-20,Rhode Island,USA,0.0,0.0,0.0,0.0
-2020-03-20,other,USA,0.0,0.0,0.0,0.0
+2020-03-20,Unknown,USA,0.0,0.0,0.0,0.0
 2020-03-20,South Carolina,USA,0.0,0.0,0.0,0.0
 2020-03-20,South Dakota,USA,0.0,0.0,0.0,0.0
 2020-03-20,Tennessee,USA,0.0,0.0,0.0,0.0
@@ -9059,7 +9059,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-03-21,Pennsylvania,USA,0.0,0.0,0.0,0.0
 2020-03-21,Puerto Rico,USA,0.0,0.0,0.0,0.0
 2020-03-21,Rhode Island,USA,0.0,0.0,0.0,0.0
-2020-03-21,other,USA,0.0,0.0,0.0,0.0
+2020-03-21,Unknown,USA,0.0,0.0,0.0,0.0
 2020-03-21,South Carolina,USA,0.0,0.0,0.0,0.0
 2020-03-21,South Dakota,USA,0.0,0.0,0.0,0.0
 2020-03-21,Tennessee,USA,0.0,0.0,0.0,0.0
@@ -9514,7 +9514,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-03-22,Pennsylvania,USA,0.0,0.0,0.0,0.0
 2020-03-22,Puerto Rico,USA,0.0,0.0,0.0,0.0
 2020-03-22,Rhode Island,USA,0.0,0.0,0.0,0.0
-2020-03-22,other,USA,0.0,0.0,0.0,0.0
+2020-03-22,Unknown,USA,0.0,0.0,0.0,0.0
 2020-03-22,South Carolina,USA,0.0,0.0,0.0,0.0
 2020-03-22,South Dakota,USA,0.0,0.0,0.0,0.0
 2020-03-22,Tennessee,USA,0.0,0.0,0.0,0.0
@@ -74957,11 +74957,15 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-06-11,Bermuda,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-11,British Virgin Islands,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-11,Cayman Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-11,England,United Kingdom,156017.99973892132,0.0,36882.99994131175,119134.99979760958
 2020-06-11,Gibraltar,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-11,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-11,Channel Islands,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-11,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-11,Northern Ireland,United Kingdom,4821.9999989881535,0.0,537.0000000010341,4284.999998987119
+2020-06-11,Scotland,United Kingdom,15681.999981116936,0.0,2434.000003245321,13247.999977871616
 2020-06-11,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-11,Wales,United Kingdom,14581.000023030625,0.0,1425.0000000031628,13156.000023027462
 2020-06-11,Bergstraße (Kreis),Hesse,0.0,0.0,0.0,0.0
 2020-06-11,Darmstadt,Hesse,0.0,0.0,0.0,0.0
 2020-06-11,Darmstadt-Dieburg (Kreis),Hesse,0.0,0.0,0.0,0.0
@@ -74989,6 +74993,41 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-06-11,Wetteraukreis,Hesse,0.0,0.0,0.0,0.0
 2020-06-11,Wiesbaden,Hesse,0.0,0.0,0.0,0.0
 2020-06-11,other cases in Hesse,Hesse,0.0,0.0,0.0,0.0
+2020-06-11,Andaman and Nicobar Islands,India,34.00000000007416,33.00000000007198,0.0,1.0000000000021814
+2020-06-11,Andhra Pradesh,India,5269.000009876786,2899.0000056438344,78.00000000017013,2292.000004232782
+2020-06-11,Arunachal Pradesh,India,57.000000000124324,2.0000000000043623,0.0,55.00000000011996
+2020-06-11,Assam,India,3092.0000006281675,1249.0000000023954,4.000000000008725,1839.000000625764
+2020-06-11,Bihar,India,5710.000002304441,3070.9999998710755,33.00000000007198,2606.000002433294
+2020-06-11,Chandigarh,India,327.0000000001178,286.0000000008114,5.000000000010907,35.99999999929549
+2020-06-11,Chhattisgarh,India,1262.0000000024515,402.00000000044497,6.000000000013088,854.0000000019936
+2020-06-11,Dadar Nagar Haveli,India,26.000000000056712,2.0000000000043623,0.0,24.000000000052342
+2020-06-11,Delhi,India,32809.99996061891,12244.999998395791,984.0000000012387,19580.999962221875
+2020-06-11,Goa,India,387.0000000003795,67.00000000014613,0.0,320.0000000002334
+2020-06-11,Gujarat,India,21520.999993049983,14734.999988150157,1347.0000000028226,5439.000004897003
+2020-06-11,Haryana,India,5579.000009900072,2188.0000009908026,52.000000000113424,3339.000008909156
+2020-06-11,Himachal Pradesh,India,451.0000000006587,254.00000000067183,6.000000000013088,190.99999999997382
+2020-06-11,Jammu and Kashmir,India,4507.000009561773,1671.0000000007458,51.00000000011124,2785.000009560916
+2020-06-11,Jharkhand,India,1489.000000003442,592.0000000012737,8.00000000001745,889.0000000021507
+2020-06-11,Karnataka,India,6041.000000337782,2861.999992977961,69.0000000001505,3110.00000735967
+2020-06-11,Kerala,India,2160.999999662989,905.0000000008944,18.00000000003926,1237.999999662055
+2020-06-11,Ladakh,India,115.00000000006544,52.000000000113424,1.0000000000021811,61.99999999994983
+2020-06-11,Madhya Pradesh,India,10048.99999621623,6891.999997224899,427.000000000554,2729.9999989907765
+2020-06-11,Maharashtra,India,94041.00010720662,44517.000044250526,3438.000001969381,46086.000060986706
+2020-06-11,Manipur,India,311.00000000092035,63.000000000137405,0.0,248.00000000078302
+2020-06-11,Meghalaya,India,44.000000000095966,13.000000000028356,1.0000000000021811,30.00000000006544
+2020-06-11,Mizoram,India,93.00000000020285,1.0000000000021811,0.0,92.00000000020069
+2020-06-11,Nagaland,India,128.00000000012216,22.00000000004799,0.0,106.00000000007415
+2020-06-11,Odisha,India,3249.999999056027,2282.000001983054,9.00000000001963,958.9999970729526
+2020-06-11,Puducherry,India,127.00000000011778,53.000000000115605,0.0,74.00000000000219
+2020-06-11,Punjab,India,2805.000004047786,2232.0000005568,55.00000000011996,518.0000034908663
+2020-06-11,Rajasthan,India,11599.999970033714,8569.000006876142,259.0000000006936,2771.9999631568785
+2020-06-11,Sikkim,India,13.000000000028356,0.0,0.0,13.000000000028356
+2020-06-11,Tamil Nadu,India,36841.00002535781,19333.000001601682,326.00000000011335,17182.000023756013
+2020-06-11,Telangana,India,4110.9999928403195,1817.0000000013831,156.00000000024428,2137.999992838693
+2020-06-11,Tripura,India,895.0000000008507,239.00000000060638,1.0000000000021811,655.000000000242
+2020-06-11,Uttar Pradesh,India,11610.000020616133,6870.99999790014,321.00000000009163,4418.000022715899
+2020-06-11,Uttarakhand,India,1562.0000000037603,831.0000000005714,15.000000000032715,716.0000000031564
+2020-06-11,West Bengal,India,9328.000020127276,3778.9999987434094,432.0000000005757,5117.00002138329
 2020-06-11,Cruise Ship 'Diamond Princess',International,0.0,0.0,0.0,0.0
 2020-06-11,Cruise Ship 'Diamond Princess',International,0.0,0.0,0.0,0.0
 2020-06-11,Cruise Ship 'Diamond Princess',International,0.0,0.0,0.0,0.0
@@ -75257,6 +75296,12 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-06-11,Wesel (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
 2020-06-11,Wuppertal,North Rhine-Westphalia,0.0,0.0,0.0,0.0
 2020-06-11,other cases in North Rhine-Westphalia,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-11,Azad Jammu and Kashmir,Pakistan,488.00000000082014,219.00000000047768,9.00000000001963,260.0000000003228
+2020-06-11,Balochistan,Pakistan,7334.999992137596,2591.9999994014,73.00000000015922,4669.999992736036
+2020-06-11,Gilgit-Baltistan,Pakistan,1018.0000000013872,633.0000000014525,14.000000000030534,370.99999999990433
+2020-06-11,Islamabad,Pakistan,6236.000001241068,1164.0000000020239,62.00000000013523,5010.000001238909
+2020-06-11,Khyber Pakhtunkhwa,Pakistan,15205.999992495714,3771.0000040685145,619.0000000013915,10815.999988425809
+2020-06-11,Sindh,Pakistan,43789.99997317565,21006.99998640864,738.0000000019107,22044.999986765102
 2020-06-11,Ancash,Peru,0.0,0.0,0.0,0.0
 2020-06-11,Apurimac,Peru,0.0,0.0,0.0,0.0
 2020-06-11,Arequipa,Peru,0.0,0.0,0.0,0.0
@@ -75600,3 +75645,1172 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-06-11,Zhytomyr Oblast,Ukraine,0.0,0.0,0.0,0.0
 2020-06-11,Crimea Republic,Ukraine (claimed by Russia),0.0,0.0,0.0,0.0
 2020-06-11,Sevastopol,Ukraine (claimed by Russia),0.0,0.0,0.0,0.0
+2020-06-12,Afghanistan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Albania,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Algeria,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Andorra,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Angola,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Antigua and Barbuda,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Argentina,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Armenia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Azerbaijan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Australia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Bahamas,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Bahrain,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Bangladesh,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Barbados,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Belarus,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Belgium,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Belize,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Benin,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Bhutan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Bolivia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Bosnia and Herzegovina,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Botswana,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Brazil,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Brunei,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Bulgaria,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Burkina Faso,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Burundi,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Chile,#Global,0.0,0.0,0.0,0.0
+2020-06-12,China,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Costa Rica,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Democratic Republic of the Congo,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Germany,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Dominica,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Dominican Republic,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Djibouti,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Denmark,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Ecuador,#Global,0.0,0.0,0.0,0.0
+2020-06-12,El Salvador,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Ivory Coast,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Eritrea,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Estonia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Eswatini,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Falkland Islands (Malvinas),#Global,0.0,0.0,0.0,0.0
+2020-06-12,Fiji,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Finland,#Global,0.0,0.0,0.0,0.0
+2020-06-12,France,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Gabon,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Gambia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Georgia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Ghana,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Grenada,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Greece,#Global,0.0,0.0,0.0,0.0
+2020-06-12,United Kingdom,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Guatemala,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Guinea,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Guinea-Bissau,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Guyana,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Haiti,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Honduras,#Global,0.0,0.0,0.0,0.0
+2020-06-12,India,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Indonesia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Iraq,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Iran,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Ireland,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Iceland,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Israel,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Italy,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Jamaica,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Japan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Yemen,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Jordan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Cambodia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Cameroon,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Canada,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Cape Verde,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Kazakhstan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Qatar,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Kenya,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Kyrgyzstan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Comoros,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Kosovo,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Croatia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Cuba,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Kuwait,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Laos,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Lesotho,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Latvia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Lebanon,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Liberia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Libya,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Liechtenstein,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Lithuania,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Luxembourg,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Madagascar,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Malawi,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Malaysia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Maledives,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Libya,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Malta,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Morocco,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Mauritania,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Mauritius,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Mexico,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Moldova,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Monaco,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Mongolia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Montenegro,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Mozambique,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Myanmar,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Namibia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Nepal,#Global,0.0,0.0,0.0,0.0
+2020-06-12,New Zealand,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Nicaragua,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Netherlands,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Niger,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Nigeria,#Global,0.0,0.0,0.0,0.0
+2020-06-12,North Macedonia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Norway,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Oman,#Global,0.0,0.0,0.0,0.0
+2020-06-12,East Timor,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Pakistan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Palestinian territories,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Panama,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Paraguay,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Peru,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Philippines,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Poland,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Portugal,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Republic of the Congo,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Rwanda,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Romania,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Russia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Zambia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,San Marino,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Saudi Arabia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Sweden,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Switzerland,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Senegal,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Serbia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Seychelles,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Sierra Leone,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Singapore,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Slovakia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Somalia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Spain,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Sri Lanka,#Global,0.0,0.0,0.0,0.0
+2020-06-12,St. Kitts and Nevis,#Global,0.0,0.0,0.0,0.0
+2020-06-12,St. Lucia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Saint Vincent and the Grenadines,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Sudan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Suriname,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Syria,#Global,0.0,0.0,0.0,0.0
+2020-06-12,São Tomé and Príncipe,#Global,0.0,0.0,0.0,0.0
+2020-06-12,South Africa,#Global,0.0,0.0,0.0,0.0
+2020-06-12,South Korea,#Global,0.0,0.0,0.0,0.0
+2020-06-12,South Sudan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Tajikistan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Taiwan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Tanzania,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Thailand,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Togo,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Trinidad and Tobago,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Chad,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Czechia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Tunisia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Turkey,#Global,0.0,0.0,0.0,0.0
+2020-06-12,USA,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Uganda,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Ukraine,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Hungary,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Uruguay,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Uzbekistan,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Vatican City,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Venezuela,#Global,0.0,0.0,0.0,0.0
+2020-06-12,United Arab Emirates,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Vietnam,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Western Sahara,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Central African Republic,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Cyprus,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Egypt,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Equatorial Guinea,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Ethiopia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Austia,#Global,0.0,0.0,0.0,0.0
+2020-06-12,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
+2020-06-12,New South Wales,Australia,0.0,0.0,0.0,0.0
+2020-06-12,Northern Territory,Australia,0.0,0.0,0.0,0.0
+2020-06-12,Queensland,Australia,0.0,0.0,0.0,0.0
+2020-06-12,South Australia,Australia,0.0,0.0,0.0,0.0
+2020-06-12,Tasmania,Australia,0.0,0.0,0.0,0.0
+2020-06-12,Victoria,Australia,0.0,0.0,0.0,0.0
+2020-06-12,Western Australia,Australia,0.0,0.0,0.0,0.0
+2020-06-12,Alb-Donau-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Baden-Baden,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Biberach (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Bodenseekreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Breisgau-Hochschwarzwald (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Böblingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Calw (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Emmendingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Enzkreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Esslingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Freiburg im Breisgau,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Freudenstadt (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Göppingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Heidelberg,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Heidenheim (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Heilbronn,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Heilbronn (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Hohenlohekreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Karlsruhe,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Karlsruhe (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Konstanz (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Ludwigsburg (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Lörrach (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Main-Tauber-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Mannheim,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Neckar-Odenwald-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Ortenaukreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Ostalbkreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Pforzheim,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Rastatt (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Ravensburg (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Rems-Murr-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Reutlingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Rhein-Neckar-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Rottweil (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Schwarzwald-Baar-Kreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Schwäbisch Hall (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Sigmaringen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Stuttgart (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Tuttlingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Tübingen (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Ulm,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Waldshut (Kreis),Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Zollernalbkreis,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Baden-Württemberg,Baden-Württemberg,0.0,0.0,0.0,0.0
+2020-06-12,Aichach-Friedberg (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Altötting (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Amberg,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Amberg-Sulzbach (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Ansbach,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Ansbach (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Aschaffenburg,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Aschaffenburg (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Augsburg,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Augsburg (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Bad Kissingen (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Bad Tölz (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Bamberg,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Bamberg (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Bayreuth,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Bayreuth (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Berchtesgadener Land (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Cham (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Coburg,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Coburg (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Dachau (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Deggendorf (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Dillingen a.d. Donau (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Dingolfing-Landau (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Donau-Ries (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Ebersberg (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Eichstätt (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Erding (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Erlangen,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Erlangen-Höchstadt,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Forchheim (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Freising (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Freyung-Grafenau (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Fürstenfeldbruck (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Fürth,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Fürth (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Garmisch-Partenkirchen (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Günzburg (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Haßberge (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Hof,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Hof (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Ingolstadt,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Kaufbeuren,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Kelheim (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Kempten,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Kitzingen (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Kronach (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Kulmbach (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Landsberg am Lech (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Landshut,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Landshut (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Lichtenfels (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Lindau/Bodensee (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Main-Spessart (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Memmingen,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Miesbach (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Miltenberg (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Mühldorf a.Inn (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,München,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,München (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Neu-Ulm (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Neuburg-Schrobenhausen (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Neumarkt i.d.Opf. (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Neustadt a.d. Aisch-Bad Windsheim,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Neustadt a.d. Waldnaab,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Nürnberg,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Nürnberger Land (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Oberallgäu (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Ostallgäu (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Passau,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Passau (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Pfaffenhofen a.d.Ilm (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Regen (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Regensburg,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Regensburg (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Rhön-Grabfeld (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Rosenheim,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Rosenheim (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Roth (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Rottal-Inn (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Schwabach,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Schwandorf (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Schweinfurt,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Schweinfurt (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Starnberg (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Straubing,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Straubing-Bogen (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Tirschenreuth (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Traunstein (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Unterallgäu (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Weiden,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Weilheim-Schongau (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Weißenburg-Gunzenhausen (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Wunsiedel i.Fichtelgebirge (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Würzburg,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Würzburg (Kreis),Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Bavaria,Bavaria,0.0,0.0,0.0,0.0
+2020-06-12,Charlottenburg-Wilmersdorf,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Friedrichshain-Kreuzberg,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Lichtenberg,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Marzahn-Hellersdorf,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Mitte,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Neukölln,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Pankow,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Reinickendorf,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Spandau,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Steglitz-Zehlendorf,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Tempelhof-Schöneberg,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Treptow-Köpenick,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Berlin,Berlin,0.0,0.0,0.0,0.0
+2020-06-12,Barnim (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Brandenburg a. d. Havel,Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Cottbus,Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Dahme-Spreewald (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Elbe-Elster (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Frankfurt (Oder),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Havelland (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Märkisch-Oderland (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Oberhavel (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Oberspreewald-Lausitz (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Oder-Spree (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Ostprignitz-Ruppin,Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Potsdam,Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Potsdam-Mittelmark (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Prignitz (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Spree-Neiße (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Teltow-Fläming (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Uckermark (Kreis),Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Brandenburg,Brandenburg,0.0,0.0,0.0,0.0
+2020-06-12,Acre,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Alagoas,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Amapá,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Amazonas,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Bahia,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Ceará,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Distrito Federal,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Espirito Santo,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Goiás,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Maranhão,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Mato Grosso,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Mato Grosso do Sul,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Minas Gerais,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Paraná,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Paraíba,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Pará,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Pernambuco,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Piauí,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Rio Grande do Norte,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Rio Grande do Sul,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Rio de Janeiro,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Rondônia,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Roraima,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Santa Catarina,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Sergipe,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,São Paulo,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Tocantins,Brazil,0.0,0.0,0.0,0.0
+2020-06-12,Bremerhaven,Bremen,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Bremen,Bremen,0.0,0.0,0.0,0.0
+2020-06-12,Cruise Ship 'Grand Princess',US Citizens,0.0,0.0,0.0,0.0
+2020-06-12,Antofagasta,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Araucanía,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Arica y Parinacota,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Atacama,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Aysén,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Biobío,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Coquimbo,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Los Lagos,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Los Rios,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Magallanes,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Maule,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Metropolitana de Santiago,Chile,0.0,0.0,0.0,0.0
+2020-06-12,O'Higgins,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Tarapaca,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Valparaíso,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Ñuble,Chile,0.0,0.0,0.0,0.0
+2020-06-12,Anhui,China,0.0,0.0,0.0,0.0
+2020-06-12,Chongqing,China,0.0,0.0,0.0,0.0
+2020-06-12,Fujian,China,0.0,0.0,0.0,0.0
+2020-06-12,Gansu,China,0.0,0.0,0.0,0.0
+2020-06-12,Guangdong,China,0.0,0.0,0.0,0.0
+2020-06-12,Guangxi,China,0.0,0.0,0.0,0.0
+2020-06-12,Guizhou,China,0.0,0.0,0.0,0.0
+2020-06-12,Hainan,China,0.0,0.0,0.0,0.0
+2020-06-12,Hebei,China,0.0,0.0,0.0,0.0
+2020-06-12,Heilongjiang,China,0.0,0.0,0.0,0.0
+2020-06-12,Henan,China,0.0,0.0,0.0,0.0
+2020-06-12,Hong Kong,China,0.0,0.0,0.0,0.0
+2020-06-12,Hubei (Wuhan),China,0.0,0.0,0.0,0.0
+2020-06-12,Hunan,China,0.0,0.0,0.0,0.0
+2020-06-12,Inner Mongolia,China,0.0,0.0,0.0,0.0
+2020-06-12,Jiangsu,China,0.0,0.0,0.0,0.0
+2020-06-12,Jiangxi,China,0.0,0.0,0.0,0.0
+2020-06-12,Jilin,China,0.0,0.0,0.0,0.0
+2020-06-12,Liaoning,China,0.0,0.0,0.0,0.0
+2020-06-12,Macao,China,0.0,0.0,0.0,0.0
+2020-06-12,Ningxia,China,0.0,0.0,0.0,0.0
+2020-06-12,Beijing,China,0.0,0.0,0.0,0.0
+2020-06-12,Qinghai,China,0.0,0.0,0.0,0.0
+2020-06-12,Shaanxi,China,0.0,0.0,0.0,0.0
+2020-06-12,Shandong,China,0.0,0.0,0.0,0.0
+2020-06-12,Shanghai,China,0.0,0.0,0.0,0.0
+2020-06-12,Shanxi,China,0.0,0.0,0.0,0.0
+2020-06-12,Sichuan,China,0.0,0.0,0.0,0.0
+2020-06-12,Tianjin,China,0.0,0.0,0.0,0.0
+2020-06-12,Tibet,China,0.0,0.0,0.0,0.0
+2020-06-12,Xinjiang,China,0.0,0.0,0.0,0.0
+2020-06-12,Yunnan,China,0.0,0.0,0.0,0.0
+2020-06-12,Zhejiang,China,0.0,0.0,0.0,0.0
+2020-06-12,Baden-Württemberg,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Bavaria,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Berlin,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Brandenburg,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Bremen,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Hamburg,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Hesse,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Mecklenburg-Western Pomerania,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Lower Saxony,Germany,0.0,0.0,0.0,0.0
+2020-06-12,North Rhine-Westphalia,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Rhineland-Palatinate,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Saarland,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Saxony,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Saxony-Anhalt,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Sleswick-Holsatia,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Thuringia,Germany,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Germany,Germany,0.0,0.0,0.0,0.0
+2020-06-12,Faroe Islands,Denmark,0.0,0.0,0.0,0.0
+2020-06-12,Greenland,Denmark,0.0,0.0,0.0,0.0
+2020-06-12,French Polynesia,France,0.0,0.0,0.0,0.0
+2020-06-12,French Guiana,France,0.0,0.0,0.0,0.0
+2020-06-12,Guadeloupe,France,0.0,0.0,0.0,0.0
+2020-06-12,Martinique,France,0.0,0.0,0.0,0.0
+2020-06-12,Mayotte,France,0.0,0.0,0.0,0.0
+2020-06-12,New Caledonia,France,0.0,0.0,0.0,0.0
+2020-06-12,Réunion,France,0.0,0.0,0.0,0.0
+2020-06-12,Saint Barthélemy,France,0.0,0.0,0.0,0.0
+2020-06-12,Saint Martin,France,0.0,0.0,0.0,0.0
+2020-06-12,Saint Pierre and Miquelon,France,0.0,0.0,0.0,0.0
+2020-06-12,Anguilla,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,Bermuda,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,British Virgin Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,Cayman Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,England,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,Gibraltar,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,Channel Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,Northern Ireland,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,Scotland,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,Wales,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,Bergstraße (Kreis),Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Darmstadt,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Darmstadt-Dieburg (Kreis),Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Frankfurt am Main,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Fulda (Kreis),Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Gießen (Kreis),Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Groß-Gerau (Kreis),Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Hersfeld-Rotenburg (Kreis),Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Hochtaunuskreis,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Kassel,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Kassel (Kreis),Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Lahn-Dill-Kreis,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Limburg-Weilburg (Kreis),Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Main-Kinzig-Kreis,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Main-Taunus-Kreis,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Marburg-Biedenkopf (Kreis),Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Odenwaldkreis,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Offenbach,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Offenbach (Kreis),Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Rheingau-Taunus-Kreis,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Schwalm-Eder-Kreis,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Vogelsbergkreis,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Waldeck-Frankenberg (Kreis),Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Werra-Meißner-Kreis,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Wetteraukreis,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Wiesbaden,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Hesse,Hesse,0.0,0.0,0.0,0.0
+2020-06-12,Andaman and Nicobar Islands,India,0.0,0.0,0.0,0.0
+2020-06-12,Andhra Pradesh,India,0.0,0.0,0.0,0.0
+2020-06-12,Arunachal Pradesh,India,0.0,0.0,0.0,0.0
+2020-06-12,Assam,India,0.0,0.0,0.0,0.0
+2020-06-12,Bihar,India,0.0,0.0,0.0,0.0
+2020-06-12,Chandigarh,India,0.0,0.0,0.0,0.0
+2020-06-12,Chhattisgarh,India,0.0,0.0,0.0,0.0
+2020-06-12,Dadar Nagar Haveli,India,0.0,0.0,0.0,0.0
+2020-06-12,Delhi,India,0.0,0.0,0.0,0.0
+2020-06-12,Goa,India,0.0,0.0,0.0,0.0
+2020-06-12,Gujarat,India,0.0,0.0,0.0,0.0
+2020-06-12,Haryana,India,0.0,0.0,0.0,0.0
+2020-06-12,Himachal Pradesh,India,0.0,0.0,0.0,0.0
+2020-06-12,Jammu and Kashmir,India,0.0,0.0,0.0,0.0
+2020-06-12,Jharkhand,India,0.0,0.0,0.0,0.0
+2020-06-12,Karnataka,India,0.0,0.0,0.0,0.0
+2020-06-12,Kerala,India,0.0,0.0,0.0,0.0
+2020-06-12,Ladakh,India,0.0,0.0,0.0,0.0
+2020-06-12,Madhya Pradesh,India,0.0,0.0,0.0,0.0
+2020-06-12,Maharashtra,India,0.0,0.0,0.0,0.0
+2020-06-12,Manipur,India,0.0,0.0,0.0,0.0
+2020-06-12,Meghalaya,India,0.0,0.0,0.0,0.0
+2020-06-12,Mizoram,India,0.0,0.0,0.0,0.0
+2020-06-12,Nagaland,India,0.0,0.0,0.0,0.0
+2020-06-12,Odisha,India,0.0,0.0,0.0,0.0
+2020-06-12,Puducherry,India,0.0,0.0,0.0,0.0
+2020-06-12,Punjab,India,0.0,0.0,0.0,0.0
+2020-06-12,Rajasthan,India,0.0,0.0,0.0,0.0
+2020-06-12,Sikkim,India,0.0,0.0,0.0,0.0
+2020-06-12,Tamil Nadu,India,0.0,0.0,0.0,0.0
+2020-06-12,Telangana,India,0.0,0.0,0.0,0.0
+2020-06-12,Tripura,India,0.0,0.0,0.0,0.0
+2020-06-12,Uttar Pradesh,India,0.0,0.0,0.0,0.0
+2020-06-12,Uttarakhand,India,0.0,0.0,0.0,0.0
+2020-06-12,West Bengal,India,0.0,0.0,0.0,0.0
+2020-06-12,Cruise Ship 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-06-12,Cruise Ship 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-06-12,Cruise Ship 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-06-12,Cruise Ship 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-06-12,Cruise Ship 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-06-12,Cruise Ship 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-06-12,Cruise Ship 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-06-12,Cruise Ship 'Diamond Princess',International,0.0,0.0,0.0,0.0
+2020-06-12,Cruise Ship 'MS Zaandam',International,0.0,0.0,0.0,0.0
+2020-06-12,Cruise Ships,International,0.0,0.0,0.0,0.0
+2020-06-12,Abruzzo,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Valle d'Aosta,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Puglia,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Basilicata,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Emilia-Romagna,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Friuli Venezia Giulia,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Calabria,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Campania,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Lazio,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Liguria,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Lombardia,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Marche,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Molise,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Piemonte,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Sardegna,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Sicilia,Italy,0.0,0.0,0.0,0.0
+2020-06-12,P.A. Bolzano,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Toscana,Italy,0.0,0.0,0.0,0.0
+2020-06-12,P.A. Trento,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Umbria,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Veneto,Italy,0.0,0.0,0.0,0.0
+2020-06-12,Aichi,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Akita,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Aomori,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Chiba,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Ehime,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Fukui,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Fukuoka,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Fukushima,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Gifu,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Gunma,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Hiroshima,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Hokkaido,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Hyogo,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Ibaraki,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Ishikawa,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Kagawa,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Kagoshima,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Kanagawa,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Kochi,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Kumamoto,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Kyoto,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Mie,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Miyagi,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Miyazaki,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Nagano,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Nagasaki,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Nara,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Niigata,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Oita,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Okayama,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Okinawa,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Osaka,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Port Quarantine,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Saga,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Saitama,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Shiga,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Shimane,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Shizuoka,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Tochigi,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Tokyo,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Tokushima,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Tottori,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Toyama,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Unknown,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Wakayama,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Yamagata,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Yamaguchi,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Yamanashi,Japan,0.0,0.0,0.0,0.0
+2020-06-12,Alberta,Canada,0.0,0.0,0.0,0.0
+2020-06-12,British Columbia,Canada,0.0,0.0,0.0,0.0
+2020-06-12,Manitoba,Canada,0.0,0.0,0.0,0.0
+2020-06-12,Newfoundland and Labrador,Canada,0.0,0.0,0.0,0.0
+2020-06-12,Nova Scotia,Canada,0.0,0.0,0.0,0.0
+2020-06-12,New Brunswick,Canada,0.0,0.0,0.0,0.0
+2020-06-12,Northwest Territories,Canada,0.0,0.0,0.0,0.0
+2020-06-12,Ontario,Canada,0.0,0.0,0.0,0.0
+2020-06-12,Prince Edward Island,Canada,0.0,0.0,0.0,0.0
+2020-06-12,Québec,Canada,0.0,0.0,0.0,0.0
+2020-06-12,Saskatchewan,Canada,0.0,0.0,0.0,0.0
+2020-06-12,Yukon,Canada,0.0,0.0,0.0,0.0
+2020-06-12,Antioquia,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Arauca,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Atlantico,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Bolivar,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Boyaca,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Caldas,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Capital District,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Caqueta,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Casanare,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Cauca,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Cesar,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Choco,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Cordoba,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Cundinamarca,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Guainia,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Guaviare,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Huila,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,La Guajira,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Magdalena,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Meta,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Narino,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Norte de Santander,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Putumayo,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Quindio,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Risaralda,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,San Andres y Providencia,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Santander,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Sucre,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Tolima,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Valle del Cauca,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Vaupes,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Vichada,Colombia,0.0,0.0,0.0,0.0
+2020-06-12,Ludwigslust-Parchim (Kreis),Mecklenburg-Western Pomerania,0.0,0.0,0.0,0.0
+2020-06-12,Mecklenburgische Seenplatte (Kreis),Mecklenburg-Western Pomerania,0.0,0.0,0.0,0.0
+2020-06-12,Nordwestmecklenburg (Kreis),Mecklenburg-Western Pomerania,0.0,0.0,0.0,0.0
+2020-06-12,Rostock,Mecklenburg-Western Pomerania,0.0,0.0,0.0,0.0
+2020-06-12,Rostock (Kreis),Mecklenburg-Western Pomerania,0.0,0.0,0.0,0.0
+2020-06-12,Schwerin,Mecklenburg-Western Pomerania,0.0,0.0,0.0,0.0
+2020-06-12,Vorpommern-Greifswald (Kreis),Mecklenburg-Western Pomerania,0.0,0.0,0.0,0.0
+2020-06-12,Vorpommern-Rügen (Kreis),Mecklenburg-Western Pomerania,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,0.0,0.0,0.0,0.0
+2020-06-12,Aguascalientes,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Baja California,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Baja California Sur,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Campeche,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Chiapas,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Chihuahua,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Coahuila,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Colima,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Durango,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Guanajuato,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Guerrero,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Hidalgo,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Jalisco,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Mexico City,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Michoacan,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Morelos,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,México,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Nayarit,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Nuevo León,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Oaxaca,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Puebla,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Querétaro,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Quintana Roo,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,San Luis Potosí,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Sinaloa,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Sonora,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Tabasco,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Tamaulipas,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Tlaxcala,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Veracruz,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Yucatán,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Zacatecas,Mexico,0.0,0.0,0.0,0.0
+2020-06-12,Aruba,Netherlands,0.0,0.0,0.0,0.0
+2020-06-12,"Bonaire, Sint Eustatius and Saba",Netherlands,0.0,0.0,0.0,0.0
+2020-06-12,Curaçao,Netherlands,0.0,0.0,0.0,0.0
+2020-06-12,Sint Maarten,Netherlands,0.0,0.0,0.0,0.0
+2020-06-12,Ammerland (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Aurich (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Braunschweig,Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Celle (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Cloppenburg (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Cuxhaven (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Delmenhorst,Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Diepholz (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Emden,Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Emsland (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Friesland (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Gifhorn (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Goslar (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Grafschaft Bentheim (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Göttingen (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Hameln-Pyrmont (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Hannover (Region),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Harburg (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Heidekreis (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Helmstedt (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Hildesheim (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Holzminden (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Leer (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Lüchow-Dannenberg (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Lüneburg (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Nienburg/Weser (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Northeim (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Oldenburg,Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Oldenburg (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Osnabrück,Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Osnabrück (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Osterholz (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Peine (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Rotenburg/Wümme (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Salzgitter,Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Schaumburg (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Stade (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Uelzen (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Vechta (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Verden (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Wesermarsch (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Wilhelmshaven,Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Wittmund (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Wolfenbüttel (Kreis),Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Wolfsburg,Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Lower Saxony,Lower Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Aachen & Städteregion Aachen,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Bielefeld,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Bochum,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Bonn,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Borken (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Bottrop,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Coesfeld (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Dortmund,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Duisburg,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Düren (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Düsseldorf,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Ennepe-Ruhr-Kreis,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Essen,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Euskirchen (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Gelsenkirchen,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Gütersloh (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Hagen,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Hamm,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Heinsberg (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Herford (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Herne,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Hochsauerlandkreis,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Höxter (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Kleve (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Krefeld,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Köln,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Leverkusen,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Lippe (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Mettmann (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Minden-Lübbecke (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Märkischer Kreis,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Mönchengladbach,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Mülheim an der Ruhr,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Münster,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Oberbergischer Kreis,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Oberhausen,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Olpe (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Paderborn (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Recklinghausen (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Remscheid,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Rhein-Erft-Kreis,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Rhein-Kreis Neuss,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Rhein-Sieg-Kreis,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Rheinisch-Bergischer Kreis,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Siegen-Wittgenstein (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Soest (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Solingen,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Steinfurt (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Unna (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Viersen (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Warendorf (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Wesel (Kreis),North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Wuppertal,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,other cases in North Rhine-Westphalia,North Rhine-Westphalia,0.0,0.0,0.0,0.0
+2020-06-12,Azad Jammu and Kashmir,Pakistan,0.0,0.0,0.0,0.0
+2020-06-12,Balochistan,Pakistan,0.0,0.0,0.0,0.0
+2020-06-12,Gilgit-Baltistan,Pakistan,0.0,0.0,0.0,0.0
+2020-06-12,Islamabad,Pakistan,0.0,0.0,0.0,0.0
+2020-06-12,Khyber Pakhtunkhwa,Pakistan,0.0,0.0,0.0,0.0
+2020-06-12,Sindh,Pakistan,0.0,0.0,0.0,0.0
+2020-06-12,Ancash,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Apurimac,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Arequipa,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Ayacucho,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Cajamarca,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Callao,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Cusco,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Huancavelica,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Huanuco,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Ica,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Junin,Peru,0.0,0.0,0.0,0.0
+2020-06-12,La Libertad,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Lambayeque,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Lima,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Loreto,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Madre de Dios,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Moquegua,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Pasco,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Piura,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Puno,Peru,0.0,0.0,0.0,0.0
+2020-06-12,San Martin,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Tacna,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Tumbes,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Ucayali,Peru,0.0,0.0,0.0,0.0
+2020-06-12,Ahrweiler (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Altenkirchen (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Alzey-Worms (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Bad Dürkheim (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Bad Kreuznach (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Bernkastel-Wittlich (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Birkenfeld (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Bitburg-Prüm (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Cochem-Zell (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Donnersbergkreis,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Frankenthal,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Germersheim (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Kaiserslautern,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Kaiserslautern (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Koblenz,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Kusel (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Landau i.d.Pfalz,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Ludwigshafen,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Mainz,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Mainz-Bingen (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Mayen-Koblenz (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Neustadt Weinst.,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Neuwied (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Pirmasens,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Rhein-Hunsrück (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Rhein-Lahn-Kreis,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Rhein-Pfalz-Kreis,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Speyer,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Südliche Weinstr. (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Südwestpfalz (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Trier,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Trier-Saarburg (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Vulkaneifel (Kreis),Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Westerwaldkreis,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Worms,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Zweibrücken,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Rhineland-Palatinate,Rhineland-Palatinate,0.0,0.0,0.0,0.0
+2020-06-12,Adygea Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Altai Krai,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Altai Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Amur Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Arkhangelsk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Astrakhan Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Bashkortostan Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Belgorod Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Bryansk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Buryatia Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Chechen Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Chelyabinsk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Chukotka Autonomous Okrug,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Chuvashia Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Dagestan Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Ingushetia Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Irkutsk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Ivanovo Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Jewish Autonomous Okrug,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Kabardino-Balkarian Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Kaliningrad Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Kalmykia Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Kaluga Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Kamchatka Krai,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Karachay-Cherkess Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Karelia Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Kemerovo Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Khabarovsk Krai,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Khakassia Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Khanty-Mansi Autonomous Okrug,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Kirov Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Komi Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Kostroma Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Krasnodar Krai,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Krasnoyarsk Krai,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Kurgan Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Kursk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Leningrad Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Lipetsk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Magadan Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Mari El Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Mordovia Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Moscow,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Moscow Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Murmansk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Nenets Autonomous Okrug,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Nizhny Novgorod Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,North Ossetia - Alania Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Novgorod Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Novosibirsk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Omsk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Orel Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Orenburg Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Penza Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Perm Krai,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Primorsky Krai,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Pskov Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Rostov Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Ryazan Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Saint Petersburg,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Sakha (Yakutiya) Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Sakhalin Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Samara Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Saratov Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Smolensk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Stavropol Krai,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Sverdlovsk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Tambov Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Tatarstan Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Tomsk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Tula Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Tver Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Tyumen Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Tyva Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Udmurt Republic,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Ulyanovsk Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Vladimir Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Volgograd Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Vologda Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Voronezh Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Yamalo-Nenets Autonomous Okrug,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Yaroslavl Oblast,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Zabaykalsky Krai,Russia,0.0,0.0,0.0,0.0
+2020-06-12,Merzig-Wadern,Saarland,0.0,0.0,0.0,0.0
+2020-06-12,Neunkirchen,Saarland,0.0,0.0,0.0,0.0
+2020-06-12,Saarbrücken,Saarland,0.0,0.0,0.0,0.0
+2020-06-12,Saarlouis,Saarland,0.0,0.0,0.0,0.0
+2020-06-12,Saarpfalz,Saarland,0.0,0.0,0.0,0.0
+2020-06-12,St. Wendel,Saarland,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Saarland,Saarland,0.0,0.0,0.0,0.0
+2020-06-12,Bautzen (Kreis),Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Chemnitz,Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Dresden,Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Erzgebirgskreis,Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Görlitz (Kreis),Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Leipzig,Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Leipzig (Kreis),Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Meißen (Kreis),Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Mittelsachsen (Kreis),Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Nordsachsen (Kreis),Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Sächsische Schweiz-Osterzgebirge (Kreis),Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Vogtlandkreis,Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Zwickau (Kreis),Saxony,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Saxony,Saxony,0.0,0.0,0.0,0.0
+2020-06-12,Altmarkkreis Salzwedel,Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Anhalt-Bitterfeld (Kreis),Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Burgenlandkreis,Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Börde (Kreis),Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Dessau,Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Halle,Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Harz (Kreis),Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Jerichower Land (Kreis),Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Magdeburg,Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Mansfeld-Südharz (Kreis),Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Saalekreis,Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Salzlandkreis,Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Stendal (Kreis),Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Wittenberg (Kreis),Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Saxony-Anhalt,Saxony-Anhalt,0.0,0.0,0.0,0.0
+2020-06-12,Dithmarschen (Kreis),Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Flensburg,Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Herzogtum Lauenburg (Kreis),Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Kiel,Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Lübeck,Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Neumünster,Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Nordfriesland (Kreis),Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Ostholstein (Kreis),Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Pinneberg (Kreis),Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Plön (Kreis),Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Rendsburg-Eckernförde (Kreis),Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Schleswig-Flensburg (Kreis),Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Segeberg (Kreis),Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Steinburg (Kreis),Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Stormarn (Kreis),Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Sleswick-Holsatia,Sleswick-Holsatia,0.0,0.0,0.0,0.0
+2020-06-12,Blekinge,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Dalarna,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Gavleborg,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Gotland,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Halland,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Jamtland Harjedalen,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Jonkoping,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Kalmar,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Kronoberg,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Norrbotten,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Orebro,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Ostergotland,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Skane,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Sormland,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Stockholm,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Uppsala,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Varmland,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Vasterbotten,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Vasternorrland,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Vastmanland,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Vastra Gotaland,Sweden,0.0,0.0,0.0,0.0
+2020-06-12,Andalusia,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Aragon,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Asturias,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Baleares,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Pais Vasco,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Ceuta,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Extremadura,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Galicia,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Canary Islands,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Cantabria,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Castilla - La Mancha,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Castilla y Leon,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Catalonia,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,La Rioja,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Madrid,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Melilla,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Murcia,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Navarra,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Comunidad Valenciana,Spanien,0.0,0.0,0.0,0.0
+2020-06-12,Altenburger Land (Kreis),Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Eichsfeld (Kreis),Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Eisenach,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Erfurt,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Gera,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Gotha (Kreis),Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Greiz (Kreis),Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Hildburghausen (Kreis),Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Ilm-Kreis,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Jena,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Kyffhäuserkreis,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Nordhausen (Kreis),Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Saale-Holzland-Kreis,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Saale-Orla-Kreis,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Saalfeld-Rudolstadt (Kreis),Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Schmalkalden-Meiningen (Kreis),Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Sonneberg (Kreis),Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Suhl,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Sömmerda(Kreis),Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Unstrut-Hainich-Kreis,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Wartburgkreis,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Weimar,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Weimarer Land (Kreis),Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,other cases in Thuringia,Thuringia,0.0,0.0,0.0,0.0
+2020-06-12,Alabama,USA,0.0,0.0,0.0,0.0
+2020-06-12,Alaska,USA,0.0,0.0,0.0,0.0
+2020-06-12,American Samoa,USA,0.0,0.0,0.0,0.0
+2020-06-12,American Virgin Islands,USA,0.0,0.0,0.0,0.0
+2020-06-12,Arizona,USA,0.0,0.0,0.0,0.0
+2020-06-12,Arkansas,USA,0.0,0.0,0.0,0.0
+2020-06-12,California,USA,0.0,0.0,0.0,0.0
+2020-06-12,Colorado,USA,0.0,0.0,0.0,0.0
+2020-06-12,Connecticut,USA,0.0,0.0,0.0,0.0
+2020-06-12,Delaware,USA,0.0,0.0,0.0,0.0
+2020-06-12,District of Columbia,USA,0.0,0.0,0.0,0.0
+2020-06-12,Florida,USA,0.0,0.0,0.0,0.0
+2020-06-12,Georgia,USA,0.0,0.0,0.0,0.0
+2020-06-12,Guam,USA,0.0,0.0,0.0,0.0
+2020-06-12,Hawaii,USA,0.0,0.0,0.0,0.0
+2020-06-12,Idaho,USA,0.0,0.0,0.0,0.0
+2020-06-12,Illinois,USA,0.0,0.0,0.0,0.0
+2020-06-12,Indiana,USA,0.0,0.0,0.0,0.0
+2020-06-12,Iowa,USA,0.0,0.0,0.0,0.0
+2020-06-12,Kansas,USA,0.0,0.0,0.0,0.0
+2020-06-12,Kentucky,USA,0.0,0.0,0.0,0.0
+2020-06-12,Louisiana,USA,0.0,0.0,0.0,0.0
+2020-06-12,Maine,USA,0.0,0.0,0.0,0.0
+2020-06-12,Maryland,USA,0.0,0.0,0.0,0.0
+2020-06-12,Massachusetts,USA,0.0,0.0,0.0,0.0
+2020-06-12,Michigan,USA,0.0,0.0,0.0,0.0
+2020-06-12,Minnesota,USA,0.0,0.0,0.0,0.0
+2020-06-12,Mississippi,USA,0.0,0.0,0.0,0.0
+2020-06-12,Missouri,USA,0.0,0.0,0.0,0.0
+2020-06-12,Montana,USA,0.0,0.0,0.0,0.0
+2020-06-12,Nebraska,USA,0.0,0.0,0.0,0.0
+2020-06-12,Nevada,USA,0.0,0.0,0.0,0.0
+2020-06-12,New Hampshire,USA,0.0,0.0,0.0,0.0
+2020-06-12,New Jersey,USA,0.0,0.0,0.0,0.0
+2020-06-12,New Mexico,USA,0.0,0.0,0.0,0.0
+2020-06-12,New York,USA,0.0,0.0,0.0,0.0
+2020-06-12,North Carolina,USA,0.0,0.0,0.0,0.0
+2020-06-12,North Dakota,USA,0.0,0.0,0.0,0.0
+2020-06-12,Northern Mariana Islands,USA,0.0,0.0,0.0,0.0
+2020-06-12,Ohio,USA,0.0,0.0,0.0,0.0
+2020-06-12,Oklahoma,USA,0.0,0.0,0.0,0.0
+2020-06-12,Oregon,USA,0.0,0.0,0.0,0.0
+2020-06-12,Pennsylvania,USA,0.0,0.0,0.0,0.0
+2020-06-12,Puerto Rico,USA,0.0,0.0,0.0,0.0
+2020-06-12,Rhode Island,USA,0.0,0.0,0.0,0.0
+2020-06-12,South Carolina,USA,0.0,0.0,0.0,0.0
+2020-06-12,South Dakota,USA,0.0,0.0,0.0,0.0
+2020-06-12,Tennessee,USA,0.0,0.0,0.0,0.0
+2020-06-12,Texas,USA,0.0,0.0,0.0,0.0
+2020-06-12,Utah,USA,0.0,0.0,0.0,0.0
+2020-06-12,Vermont,USA,0.0,0.0,0.0,0.0
+2020-06-12,Virginia,USA,0.0,0.0,0.0,0.0
+2020-06-12,Washington,USA,0.0,0.0,0.0,0.0
+2020-06-12,West Virginia,USA,0.0,0.0,0.0,0.0
+2020-06-12,Wisconsin,USA,0.0,0.0,0.0,0.0
+2020-06-12,Wyoming,USA,0.0,0.0,0.0,0.0
+2020-06-12,Cherkasy Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Chernihiv Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Chernivtsi Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Dnipropetrovsk Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Donetsk Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Ivano-Frankivsk Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Kharkiv Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Kherson Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Khmelnytskyi Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Kiev Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Kiev,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Kirovohrad Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Luhansk Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Lviv Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Mykolaiv Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Odessa Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Poltava Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Rivne Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Sumy Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Ternopil Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Vinnytsia Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Volyn Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Zakarpattia Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Zaporizhia Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Zhytomyr Oblast,Ukraine,0.0,0.0,0.0,0.0
+2020-06-12,Crimea Republic,Ukraine (claimed by Russia),0.0,0.0,0.0,0.0
+2020-06-12,Sevastopol,Ukraine (claimed by Russia),0.0,0.0,0.0,0.0
