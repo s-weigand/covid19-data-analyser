@@ -75000,7 +75000,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-06-11,Bihar,India,5710.000002304441,3070.9999998710755,33.00000000007198,2606.000002433294
 2020-06-11,Chandigarh,India,327.0000000001178,286.0000000008114,5.000000000010907,35.99999999929549
 2020-06-11,Chhattisgarh,India,1262.0000000024515,402.00000000044497,6.000000000013088,854.0000000019936
-2020-06-11,Dadar Nagar Haveli,India,26.000000000056712,2.0000000000043623,0.0,24.000000000052342
+2020-06-11,Dadra and Nagar Haveli and Daman and Diu,India,26.000000000056712,2.0000000000043623,0.0,24.000000000052342
 2020-06-11,Delhi,India,32809.99996061891,12244.999998395791,984.0000000012387,19580.999962221875
 2020-06-11,Goa,India,387.0000000003795,67.00000000014613,0.0,320.0000000002334
 2020-06-11,Gujarat,India,21520.999993049983,14734.999988150157,1347.0000000028226,5439.000004897003
@@ -76169,7 +76169,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-06-12,Bihar,India,0.0,0.0,0.0,0.0
 2020-06-12,Chandigarh,India,0.0,0.0,0.0,0.0
 2020-06-12,Chhattisgarh,India,0.0,0.0,0.0,0.0
-2020-06-12,Dadar Nagar Haveli,India,0.0,0.0,0.0,0.0
+2020-06-12,Dadra and Nagar Haveli and Daman and Diu,India,0.0,0.0,0.0,0.0
 2020-06-12,Delhi,India,0.0,0.0,0.0,0.0
 2020-06-12,Goa,India,0.0,0.0,0.0,0.0
 2020-06-12,Gujarat,India,0.0,0.0,0.0,0.0
@@ -77338,6 +77338,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-06-13,Bihar,India,0.0,0.0,0.0,0.0
 2020-06-13,Chandigarh,India,0.0,0.0,0.0,0.0
 2020-06-13,Chhattisgarh,India,0.0,0.0,0.0,0.0
+2020-06-13,Dadra and Nagar Haveli and Daman and Diu,India,0.0,0.0,0.0,0.0
 2020-06-13,Delhi,India,0.0,0.0,0.0,0.0
 2020-06-13,Goa,India,0.0,0.0,0.0,0.0
 2020-06-13,Gujarat,India,0.0,0.0,0.0,0.0
@@ -78506,6 +78507,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-06-14,Bihar,India,0.0,0.0,0.0,0.0
 2020-06-14,Chandigarh,India,0.0,0.0,0.0,0.0
 2020-06-14,Chhattisgarh,India,0.0,0.0,0.0,0.0
+2020-06-14,Dadra and Nagar Haveli and Daman and Diu,India,0.0,0.0,0.0,0.0
 2020-06-14,Delhi,India,0.0,0.0,0.0,0.0
 2020-06-14,Goa,India,0.0,0.0,0.0,0.0
 2020-06-14,Gujarat,India,0.0,0.0,0.0,0.0
@@ -79674,6 +79676,7 @@ date,region,parent_region,confirmed,recovered,deaths,still_infectious
 2020-06-15,Bihar,India,0.0,0.0,0.0,0.0
 2020-06-15,Chandigarh,India,0.0,0.0,0.0,0.0
 2020-06-15,Chhattisgarh,India,0.0,0.0,0.0,0.0
+2020-06-15,Dadra and Nagar Haveli and Daman and Diu,India,0.0,0.0,0.0,0.0
 2020-06-15,Delhi,India,0.0,0.0,0.0,0.0
 2020-06-15,Goa,India,0.0,0.0,0.0,0.0
 2020-06-15,Gujarat,India,0.0,0.0,0.0,0.0
