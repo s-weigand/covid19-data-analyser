@@ -8289,7 +8289,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-23,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Chad,#Global,0.0,0.0,0.0,0.0
-2020-02-23,Chile,#Global,0.0,0.0,0.0,0.0
+2020-02-23,Chile,#Global,2.0,0.0,0.0,2.0
 2020-02-23,China (total),#Global,77022.0,2445.0,23187.0,51390.0
 2020-02-23,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -8547,7 +8547,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-24,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Chad,#Global,0.0,0.0,0.0,0.0
-2020-02-24,Chile,#Global,0.0,0.0,0.0,0.0
+2020-02-24,Chile,#Global,2.0,0.0,0.0,2.0
 2020-02-24,China (total),#Global,77241.0,2595.0,25015.0,49631.0
 2020-02-24,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -8805,7 +8805,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-25,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Chad,#Global,0.0,0.0,0.0,0.0
-2020-02-25,Chile,#Global,0.0,0.0,0.0,0.0
+2020-02-25,Chile,#Global,2.0,0.0,0.0,2.0
 2020-02-25,China (total),#Global,77754.0,2665.0,27676.0,47413.0
 2020-02-25,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -9063,7 +9063,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-26,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Chad,#Global,0.0,0.0,0.0,0.0
-2020-02-26,Chile,#Global,0.0,0.0,0.0,0.0
+2020-02-26,Chile,#Global,2.0,0.0,0.0,2.0
 2020-02-26,China (total),#Global,78166.0,2717.0,30084.0,45365.0
 2020-02-26,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -9321,7 +9321,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-27,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Chad,#Global,0.0,0.0,0.0,0.0
-2020-02-27,Chile,#Global,0.0,0.0,0.0,0.0
+2020-02-27,Chile,#Global,2.0,0.0,0.0,2.0
 2020-02-27,China (total),#Global,78600.0,2746.0,32930.0,42924.0
 2020-02-27,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -9579,7 +9579,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-28,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Chad,#Global,0.0,0.0,0.0,0.0
-2020-02-28,Chile,#Global,0.0,0.0,0.0,0.0
+2020-02-28,Chile,#Global,2.0,0.0,0.0,2.0
 2020-02-28,China (total),#Global,78928.0,2790.0,36329.0,39809.0
 2020-02-28,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -9837,7 +9837,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-29,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Chad,#Global,0.0,0.0,0.0,0.0
-2020-02-29,Chile,#Global,0.0,0.0,0.0,0.0
+2020-02-29,Chile,#Global,2.0,0.0,0.0,2.0
 2020-02-29,China (total),#Global,79356.0,2837.0,39320.0,37199.0
 2020-02-29,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -10095,7 +10095,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-01,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-01,Chile,#Global,0.0,0.0,0.0,0.0
+2020-03-01,Chile,#Global,9.0,0.0,0.0,9.0
 2020-03-01,China (total),#Global,79932.0,2872.0,42162.0,34898.0
 2020-03-01,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -10353,7 +10353,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-02,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-02,Chile,#Global,0.0,0.0,0.0,0.0
+2020-03-02,Chile,#Global,9.0,0.0,0.0,9.0
 2020-03-02,China (total),#Global,80136.0,2914.0,44854.0,32368.0
 2020-03-02,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -10611,7 +10611,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-03,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-03,Chile,#Global,1.0,0.0,0.0,1.0
+2020-03-03,Chile,#Global,10.0,0.0,0.0,10.0
 2020-03-03,China (total),#Global,80261.0,2947.0,47450.0,29864.0
 2020-03-03,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -10869,7 +10869,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-04,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-04,Chile,#Global,1.0,0.0,0.0,1.0
+2020-03-04,Chile,#Global,10.0,0.0,0.0,10.0
 2020-03-04,China (total),#Global,80386.0,2983.0,50001.0,27402.0
 2020-03-04,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -11127,7 +11127,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-05,Cameroon,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-05,Chile,#Global,4.0,0.0,0.0,4.0
+2020-03-05,Chile,#Global,13.0,0.0,0.0,13.0
 2020-03-05,China (total),#Global,80537.0,3015.0,52292.0,25230.0
 2020-03-05,Colombia,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -11385,7 +11385,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-06,Cameroon,#Global,1.0,0.0,0.0,1.0
 2020-03-06,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-06,Chile,#Global,4.0,0.0,0.0,4.0
+2020-03-06,Chile,#Global,13.0,0.0,0.0,13.0
 2020-03-06,China (total),#Global,80690.0,3044.0,53944.0,23702.0
 2020-03-06,Colombia,#Global,1.0,0.0,0.0,1.0
 2020-03-06,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -11643,7 +11643,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-07,Cameroon,#Global,1.0,0.0,0.0,1.0
 2020-03-07,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-07,Chile,#Global,4.0,0.0,0.0,4.0
+2020-03-07,Chile,#Global,13.0,0.0,0.0,13.0
 2020-03-07,China (total),#Global,80770.0,3072.0,55539.0,22159.0
 2020-03-07,Colombia,#Global,1.0,0.0,0.0,1.0
 2020-03-07,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -11901,7 +11901,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-08,Cameroon,#Global,2.0,0.0,0.0,2.0
 2020-03-08,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-08,Chile,#Global,8.0,0.0,0.0,8.0
+2020-03-08,Chile,#Global,20.0,0.0,0.0,20.0
 2020-03-08,China (total),#Global,80823.0,3100.0,57388.0,20335.0
 2020-03-08,Colombia,#Global,1.0,0.0,0.0,1.0
 2020-03-08,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -12159,7 +12159,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-09,Cameroon,#Global,2.0,0.0,0.0,2.0
 2020-03-09,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-09,Chile,#Global,8.0,0.0,0.0,8.0
+2020-03-09,Chile,#Global,20.0,0.0,0.0,20.0
 2020-03-09,China (total),#Global,80860.0,3123.0,58804.0,18933.0
 2020-03-09,Colombia,#Global,1.0,0.0,0.0,1.0
 2020-03-09,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -12417,7 +12417,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-10,Cameroon,#Global,2.0,0.0,0.0,2.0
 2020-03-10,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-10,Chile,#Global,13.0,0.0,0.0,13.0
+2020-03-10,Chile,#Global,25.0,0.0,0.0,25.0
 2020-03-10,China (total),#Global,80887.0,3139.0,60181.0,17567.0
 2020-03-10,Colombia,#Global,3.0,0.0,0.0,3.0
 2020-03-10,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -12675,7 +12675,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-11,Cameroon,#Global,2.0,0.0,0.0,2.0
 2020-03-11,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-11,Chile,#Global,23.0,0.0,0.0,23.0
+2020-03-11,Chile,#Global,35.0,0.0,0.0,35.0
 2020-03-11,China (total),#Global,80921.0,3161.0,61644.0,16116.0
 2020-03-11,Colombia,#Global,9.0,0.0,0.0,9.0
 2020-03-11,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -12933,7 +12933,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-12,Cameroon,#Global,2.0,0.0,0.0,2.0
 2020-03-12,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-12,Chile,#Global,23.0,0.0,0.0,23.0
+2020-03-12,Chile,#Global,35.0,0.0,0.0,35.0
 2020-03-12,China (total),#Global,80932.0,3172.0,62901.0,14859.0
 2020-03-12,Colombia,#Global,9.0,0.0,0.0,9.0
 2020-03-12,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -13191,7 +13191,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-13,Cameroon,#Global,2.0,0.0,0.0,2.0
 2020-03-13,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-13,Chile,#Global,43.0,0.0,0.0,43.0
+2020-03-13,Chile,#Global,55.0,0.0,0.0,55.0
 2020-03-13,China (total),#Global,80945.0,3180.0,64196.0,13569.0
 2020-03-13,Colombia,#Global,13.0,0.0,0.0,13.0
 2020-03-13,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -13449,7 +13449,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-14,Cameroon,#Global,2.0,0.0,0.0,2.0
 2020-03-14,Central African Republic,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-14,Chile,#Global,61.0,0.0,0.0,61.0
+2020-03-14,Chile,#Global,88.0,0.0,0.0,88.0
 2020-03-14,China (total),#Global,80977.0,3193.0,65660.0,12124.0
 2020-03-14,Colombia,#Global,22.0,0.0,0.0,22.0
 2020-03-14,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -13707,7 +13707,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-15,Cameroon,#Global,2.0,0.0,0.0,2.0
 2020-03-15,Central African Republic,#Global,1.0,0.0,0.0,1.0
 2020-03-15,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-15,Chile,#Global,74.0,0.0,0.0,74.0
+2020-03-15,Chile,#Global,101.0,0.0,0.0,101.0
 2020-03-15,China (total),#Global,81003.0,3203.0,67017.0,10783.0
 2020-03-15,Colombia,#Global,34.0,0.0,0.0,34.0
 2020-03-15,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -13965,7 +13965,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-16,Cameroon,#Global,4.0,0.0,0.0,4.0
 2020-03-16,Central African Republic,#Global,1.0,0.0,0.0,1.0
 2020-03-16,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-16,Chile,#Global,155.0,0.0,0.0,155.0
+2020-03-16,Chile,#Global,182.0,0.0,0.0,182.0
 2020-03-16,China (total),#Global,81033.0,3217.0,67910.0,9906.0
 2020-03-16,Colombia,#Global,57.0,0.0,0.0,57.0
 2020-03-16,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -14223,7 +14223,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-17,Cameroon,#Global,10.0,0.0,0.0,10.0
 2020-03-17,Central African Republic,#Global,1.0,0.0,0.0,1.0
 2020-03-17,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-17,Chile,#Global,201.0,0.0,0.0,201.0
+2020-03-17,Chile,#Global,228.0,0.0,0.0,228.0
 2020-03-17,China (total),#Global,81058.0,3230.0,68798.0,9030.0
 2020-03-17,Colombia,#Global,75.0,0.0,1.0,74.0
 2020-03-17,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -14481,7 +14481,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-18,Cameroon,#Global,10.0,0.0,0.0,10.0
 2020-03-18,Central African Republic,#Global,1.0,0.0,0.0,1.0
 2020-03-18,Chad,#Global,0.0,0.0,0.0,0.0
-2020-03-18,Chile,#Global,238.0,0.0,0.0,238.0
+2020-03-18,Chile,#Global,265.0,0.0,0.0,265.0
 2020-03-18,China (total),#Global,81102.0,3241.0,69755.0,8106.0
 2020-03-18,Colombia,#Global,102.0,0.0,1.0,101.0
 2020-03-18,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -14739,7 +14739,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-19,Cameroon,#Global,13.0,0.0,0.0,13.0
 2020-03-19,Central African Republic,#Global,1.0,0.0,0.0,1.0
 2020-03-19,Chad,#Global,1.0,0.0,0.0,1.0
-2020-03-19,Chile,#Global,238.0,0.0,0.0,238.0
+2020-03-19,Chile,#Global,265.0,0.0,0.0,265.0
 2020-03-19,China (total),#Global,81156.0,3249.0,70535.0,7372.0
 2020-03-19,Colombia,#Global,108.0,0.0,1.0,107.0
 2020-03-19,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -14997,7 +14997,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-20,Cameroon,#Global,20.0,0.0,0.0,20.0
 2020-03-20,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-20,Chad,#Global,1.0,0.0,0.0,1.0
-2020-03-20,Chile,#Global,434.0,0.0,6.0,428.0
+2020-03-20,Chile,#Global,461.0,0.0,6.0,455.0
 2020-03-20,China (total),#Global,81250.0,3253.0,71266.0,6731.0
 2020-03-20,Colombia,#Global,158.0,0.0,1.0,157.0
 2020-03-20,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -15255,7 +15255,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-21,Cameroon,#Global,27.0,0.0,0.0,27.0
 2020-03-21,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-21,Chad,#Global,1.0,0.0,0.0,1.0
-2020-03-21,Chile,#Global,537.0,0.0,6.0,531.0
+2020-03-21,Chile,#Global,592.0,0.0,6.0,586.0
 2020-03-21,China (total),#Global,81305.0,3259.0,71857.0,6189.0
 2020-03-21,Colombia,#Global,196.0,0.0,1.0,195.0
 2020-03-21,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -15513,7 +15513,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-22,Cameroon,#Global,40.0,0.0,0.0,40.0
 2020-03-22,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-22,Chad,#Global,1.0,0.0,0.0,1.0
-2020-03-22,Chile,#Global,632.0,1.0,8.0,623.0
+2020-03-22,Chile,#Global,687.0,1.0,8.0,678.0
 2020-03-22,China (total),#Global,81435.0,3274.0,72362.0,5799.0
 2020-03-22,Colombia,#Global,231.0,2.0,3.0,226.0
 2020-03-22,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -15771,7 +15771,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-23,Cameroon,#Global,56.0,0.0,0.0,56.0
 2020-03-23,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-23,Chad,#Global,1.0,0.0,0.0,1.0
-2020-03-23,Chile,#Global,746.0,2.0,8.0,736.0
+2020-03-23,Chile,#Global,801.0,2.0,8.0,791.0
 2020-03-23,China (total),#Global,81498.0,3274.0,72814.0,5410.0
 2020-03-23,Colombia,#Global,277.0,3.0,3.0,271.0
 2020-03-23,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -16029,7 +16029,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-24,Cameroon,#Global,66.0,0.0,0.0,66.0
 2020-03-24,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-24,Chad,#Global,3.0,0.0,0.0,3.0
-2020-03-24,Chile,#Global,922.0,2.0,17.0,903.0
+2020-03-24,Chile,#Global,977.0,2.0,17.0,958.0
 2020-03-24,China (total),#Global,81591.0,3281.0,73280.0,5030.0
 2020-03-24,Colombia,#Global,378.0,3.0,6.0,369.0
 2020-03-24,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -16287,7 +16287,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-25,Cameroon,#Global,75.0,1.0,2.0,72.0
 2020-03-25,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-25,Chad,#Global,3.0,0.0,0.0,3.0
-2020-03-25,Chile,#Global,1142.0,3.0,22.0,1117.0
+2020-03-25,Chile,#Global,1197.0,3.0,22.0,1172.0
 2020-03-25,China (total),#Global,81661.0,3285.0,73773.0,4603.0
 2020-03-25,Colombia,#Global,470.0,4.0,8.0,458.0
 2020-03-25,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -16545,7 +16545,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-26,Cameroon,#Global,75.0,1.0,2.0,72.0
 2020-03-26,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-26,Chad,#Global,3.0,0.0,0.0,3.0
-2020-03-26,Chile,#Global,1306.0,4.0,22.0,1280.0
+2020-03-26,Chile,#Global,1361.0,4.0,22.0,1335.0
 2020-03-26,China (total),#Global,81782.0,3291.0,74181.0,4310.0
 2020-03-26,Colombia,#Global,491.0,6.0,8.0,477.0
 2020-03-26,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -16803,7 +16803,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-27,Cameroon,#Global,91.0,2.0,2.0,87.0
 2020-03-27,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-27,Chad,#Global,3.0,0.0,0.0,3.0
-2020-03-27,Chile,#Global,1610.0,5.0,43.0,1562.0
+2020-03-27,Chile,#Global,1665.0,5.0,43.0,1617.0
 2020-03-27,China (total),#Global,81897.0,3296.0,74720.0,3881.0
 2020-03-27,Colombia,#Global,539.0,6.0,10.0,523.0
 2020-03-27,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -17061,7 +17061,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-28,Cameroon,#Global,91.0,2.0,2.0,87.0
 2020-03-28,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-28,Chad,#Global,3.0,0.0,0.0,3.0
-2020-03-28,Chile,#Global,1909.0,6.0,61.0,1842.0
+2020-03-28,Chile,#Global,2015.0,6.0,61.0,1948.0
 2020-03-28,China (total),#Global,81999.0,3299.0,75100.0,3600.0
 2020-03-28,Colombia,#Global,608.0,6.0,10.0,592.0
 2020-03-28,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -17319,7 +17319,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-29,Cameroon,#Global,139.0,6.0,5.0,128.0
 2020-03-29,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-29,Chad,#Global,3.0,0.0,0.0,3.0
-2020-03-29,Chile,#Global,2139.0,7.0,75.0,2057.0
+2020-03-29,Chile,#Global,2245.0,7.0,75.0,2163.0
 2020-03-29,China (total),#Global,82122.0,3304.0,75582.0,3236.0
 2020-03-29,Colombia,#Global,702.0,10.0,10.0,682.0
 2020-03-29,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -17577,7 +17577,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-30,Cameroon,#Global,139.0,6.0,5.0,128.0
 2020-03-30,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-30,Chad,#Global,5.0,0.0,0.0,5.0
-2020-03-30,Chile,#Global,2449.0,8.0,156.0,2285.0
+2020-03-30,Chile,#Global,2555.0,8.0,156.0,2391.0
 2020-03-30,China (total),#Global,82198.0,3308.0,75923.0,2967.0
 2020-03-30,Colombia,#Global,798.0,12.0,15.0,771.0
 2020-03-30,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -17835,7 +17835,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-31,Cameroon,#Global,193.0,6.0,5.0,182.0
 2020-03-31,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-03-31,Chad,#Global,7.0,0.0,0.0,7.0
-2020-03-31,Chile,#Global,2738.0,12.0,156.0,2570.0
+2020-03-31,Chile,#Global,2844.0,12.0,156.0,2676.0
 2020-03-31,China (total),#Global,82279.0,3309.0,76206.0,2764.0
 2020-03-31,Colombia,#Global,906.0,16.0,31.0,859.0
 2020-03-31,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -18093,7 +18093,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-01,Cameroon,#Global,233.0,6.0,10.0,217.0
 2020-04-01,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-04-01,Chad,#Global,7.0,0.0,0.0,7.0
-2020-04-01,Chile,#Global,3031.0,16.0,234.0,2781.0
+2020-04-01,Chile,#Global,3137.0,16.0,234.0,2887.0
 2020-04-01,China (total),#Global,82361.0,3316.0,76405.0,2640.0
 2020-04-01,Colombia,#Global,1065.0,17.0,39.0,1009.0
 2020-04-01,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -18351,7 +18351,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-02,Cameroon,#Global,306.0,7.0,10.0,289.0
 2020-04-02,Central African Republic,#Global,3.0,0.0,0.0,3.0
 2020-04-02,Chad,#Global,8.0,0.0,0.0,8.0
-2020-04-02,Chile,#Global,3404.0,18.0,335.0,3051.0
+2020-04-02,Chile,#Global,3510.0,18.0,335.0,3157.0
 2020-04-02,China (total),#Global,82432.0,3322.0,76565.0,2545.0
 2020-04-02,Colombia,#Global,1161.0,19.0,55.0,1087.0
 2020-04-02,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -18609,7 +18609,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-03,Cameroon,#Global,509.0,8.0,17.0,484.0
 2020-04-03,Central African Republic,#Global,8.0,0.0,0.0,8.0
 2020-04-03,Chad,#Global,8.0,0.0,0.0,8.0
-2020-04-03,Chile,#Global,3737.0,22.0,427.0,3288.0
+2020-04-03,Chile,#Global,3843.0,22.0,427.0,3394.0
 2020-04-03,China (total),#Global,82511.0,3326.0,76760.0,2425.0
 2020-04-03,Colombia,#Global,1267.0,25.0,55.0,1187.0
 2020-04-03,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -18867,7 +18867,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-04,Cameroon,#Global,555.0,9.0,17.0,529.0
 2020-04-04,Central African Republic,#Global,8.0,0.0,0.0,8.0
 2020-04-04,Chad,#Global,9.0,0.0,0.0,9.0
-2020-04-04,Chile,#Global,4161.0,27.0,528.0,3606.0
+2020-04-04,Chile,#Global,4355.0,27.0,528.0,3800.0
 2020-04-04,China (total),#Global,82543.0,3330.0,76946.0,2267.0
 2020-04-04,Colombia,#Global,1406.0,32.0,85.0,1289.0
 2020-04-04,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -19125,7 +19125,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-05,Cameroon,#Global,650.0,9.0,17.0,624.0
 2020-04-05,Central African Republic,#Global,8.0,0.0,0.0,8.0
 2020-04-05,Chad,#Global,9.0,0.0,0.0,9.0
-2020-04-05,Chile,#Global,4471.0,34.0,618.0,3819.0
+2020-04-05,Chile,#Global,4665.0,34.0,618.0,4013.0
 2020-04-05,China (total),#Global,82602.0,3333.0,77207.0,2062.0
 2020-04-05,Colombia,#Global,1485.0,35.0,88.0,1362.0
 2020-04-05,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -19383,7 +19383,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-06,Cameroon,#Global,658.0,9.0,17.0,632.0
 2020-04-06,Central African Republic,#Global,8.0,0.0,0.0,8.0
 2020-04-06,Chad,#Global,9.0,0.0,0.0,9.0
-2020-04-06,Chile,#Global,4815.0,37.0,728.0,4050.0
+2020-04-06,Chile,#Global,5009.0,37.0,728.0,4244.0
 2020-04-06,China (total),#Global,82665.0,3335.0,77310.0,2020.0
 2020-04-06,Colombia,#Global,1579.0,46.0,88.0,1445.0
 2020-04-06,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -19641,7 +19641,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-07,Cameroon,#Global,658.0,9.0,43.0,606.0
 2020-04-07,Central African Republic,#Global,8.0,0.0,0.0,8.0
 2020-04-07,Chad,#Global,10.0,0.0,2.0,8.0
-2020-04-07,Chile,#Global,5116.0,43.0,898.0,4175.0
+2020-04-07,Chile,#Global,5310.0,43.0,898.0,4369.0
 2020-04-07,China (total),#Global,82718.0,3335.0,77410.0,1973.0
 2020-04-07,Colombia,#Global,1780.0,50.0,100.0,1630.0
 2020-04-07,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -19899,7 +19899,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-08,Cameroon,#Global,730.0,10.0,60.0,660.0
 2020-04-08,Central African Republic,#Global,8.0,0.0,0.0,8.0
 2020-04-08,Chad,#Global,10.0,0.0,2.0,8.0
-2020-04-08,Chile,#Global,5546.0,48.0,1115.0,4383.0
+2020-04-08,Chile,#Global,5740.0,48.0,1115.0,4577.0
 2020-04-08,China (total),#Global,82809.0,3337.0,77567.0,1905.0
 2020-04-08,Colombia,#Global,2054.0,54.0,123.0,1877.0
 2020-04-08,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -20157,7 +20157,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-09,Cameroon,#Global,730.0,10.0,60.0,660.0
 2020-04-09,Central African Republic,#Global,8.0,0.0,0.0,8.0
 2020-04-09,Chad,#Global,11.0,0.0,2.0,9.0
-2020-04-09,Chile,#Global,5972.0,57.0,1274.0,4641.0
+2020-04-09,Chile,#Global,6166.0,57.0,1274.0,4835.0
 2020-04-09,China (total),#Global,82883.0,3339.0,77679.0,1865.0
 2020-04-09,Colombia,#Global,2223.0,69.0,174.0,1980.0
 2020-04-09,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -20415,7 +20415,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-10,Cameroon,#Global,820.0,12.0,98.0,710.0
 2020-04-10,Central African Republic,#Global,8.0,0.0,0.0,8.0
 2020-04-10,Chad,#Global,11.0,0.0,2.0,9.0
-2020-04-10,Chile,#Global,6501.0,65.0,1571.0,4865.0
+2020-04-10,Chile,#Global,6695.0,65.0,1571.0,5059.0
 2020-04-10,China (total),#Global,82941.0,3340.0,77791.0,1810.0
 2020-04-10,Colombia,#Global,2473.0,80.0,197.0,2196.0
 2020-04-10,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -20673,7 +20673,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-11,Cameroon,#Global,820.0,12.0,98.0,710.0
 2020-04-11,Central African Republic,#Global,8.0,0.0,0.0,8.0
 2020-04-11,Chad,#Global,11.0,0.0,2.0,9.0
-2020-04-11,Chile,#Global,6927.0,73.0,1864.0,4990.0
+2020-04-11,Chile,#Global,7366.0,73.0,1864.0,5429.0
 2020-04-11,China (total),#Global,83014.0,3343.0,77877.0,1794.0
 2020-04-11,Colombia,#Global,2709.0,100.0,214.0,2395.0
 2020-04-11,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -20931,7 +20931,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-12,Cameroon,#Global,820.0,12.0,98.0,710.0
 2020-04-12,Central African Republic,#Global,8.0,0.0,0.0,8.0
 2020-04-12,Chad,#Global,18.0,0.0,2.0,16.0
-2020-04-12,Chile,#Global,7213.0,80.0,2059.0,5074.0
+2020-04-12,Chile,#Global,7652.0,80.0,2059.0,5513.0
 2020-04-12,China (total),#Global,83134.0,3343.0,77956.0,1835.0
 2020-04-12,Colombia,#Global,2776.0,109.0,270.0,2397.0
 2020-04-12,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -21189,7 +21189,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-13,Cameroon,#Global,820.0,12.0,98.0,710.0
 2020-04-13,Central African Republic,#Global,11.0,0.0,3.0,8.0
 2020-04-13,Chad,#Global,23.0,0.0,2.0,21.0
-2020-04-13,Chile,#Global,7525.0,82.0,2367.0,5076.0
+2020-04-13,Chile,#Global,7964.0,82.0,2367.0,5515.0
 2020-04-13,China (total),#Global,83213.0,3345.0,78039.0,1829.0
 2020-04-13,Colombia,#Global,2852.0,112.0,319.0,2421.0
 2020-04-13,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -21447,7 +21447,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-14,Cameroon,#Global,848.0,14.0,130.0,704.0
 2020-04-14,Central African Republic,#Global,11.0,0.0,4.0,7.0
 2020-04-14,Chad,#Global,23.0,0.0,2.0,21.0
-2020-04-14,Chile,#Global,7917.0,92.0,2646.0,5179.0
+2020-04-14,Chile,#Global,8356.0,92.0,2646.0,5618.0
 2020-04-14,China (total),#Global,83306.0,3345.0,78200.0,1761.0
 2020-04-14,Colombia,#Global,2979.0,127.0,354.0,2498.0
 2020-04-14,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -21705,7 +21705,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,Cameroon,#Global,848.0,17.0,165.0,666.0
 2020-04-15,Central African Republic,#Global,12.0,0.0,4.0,8.0
 2020-04-15,Chad,#Global,23.0,0.0,2.0,21.0
-2020-04-15,Chile,#Global,8273.0,94.0,2937.0,5242.0
+2020-04-15,Chile,#Global,8712.0,94.0,2937.0,5681.0
 2020-04-15,China (total),#Global,83356.0,3346.0,78311.0,1699.0
 2020-04-15,Colombia,#Global,3105.0,131.0,452.0,2522.0
 2020-04-15,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -21963,7 +21963,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,Cameroon,#Global,996.0,22.0,164.0,810.0
 2020-04-16,Central African Republic,#Global,12.0,0.0,4.0,8.0
 2020-04-16,Chad,#Global,27.0,0.0,5.0,22.0
-2020-04-16,Chile,#Global,8807.0,105.0,3299.0,5403.0
+2020-04-16,Chile,#Global,9246.0,105.0,3299.0,5842.0
 2020-04-16,China (total),#Global,83403.0,3346.0,78401.0,1656.0
 2020-04-16,Colombia,#Global,3233.0,144.0,550.0,2539.0
 2020-04-16,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -22221,7 +22221,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,Cameroon,#Global,996.0,22.0,164.0,810.0
 2020-04-17,Central African Republic,#Global,12.0,0.0,4.0,8.0
 2020-04-17,Chad,#Global,27.0,0.0,5.0,22.0
-2020-04-17,Chile,#Global,9252.0,116.0,3621.0,5515.0
+2020-04-17,Chile,#Global,9691.0,116.0,3621.0,5954.0
 2020-04-17,China (total),#Global,83760.0,4636.0,77552.0,1572.0
 2020-04-17,Colombia,#Global,3439.0,153.0,634.0,2652.0
 2020-04-17,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -22479,7 +22479,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Cameroon,#Global,1017.0,22.0,177.0,818.0
 2020-04-18,Central African Republic,#Global,12.0,0.0,4.0,8.0
 2020-04-18,Chad,#Global,33.0,0.0,8.0,25.0
-2020-04-18,Chile,#Global,9730.0,126.0,4035.0,5569.0
+2020-04-18,Chile,#Global,10598.0,126.0,4035.0,6437.0
 2020-04-18,China (total),#Global,83787.0,4636.0,77614.0,1537.0
 2020-04-18,Colombia,#Global,3621.0,166.0,634.0,2821.0
 2020-04-18,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -22737,7 +22737,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Cameroon,#Global,1017.0,42.0,305.0,670.0
 2020-04-19,Central African Republic,#Global,12.0,0.0,4.0,8.0
 2020-04-19,Chad,#Global,33.0,0.0,8.0,25.0
-2020-04-19,Chile,#Global,10088.0,133.0,4338.0,5617.0
+2020-04-19,Chile,#Global,10956.0,133.0,4338.0,6485.0
 2020-04-19,China (total),#Global,83805.0,4636.0,77690.0,1479.0
 2020-04-19,Colombia,#Global,3792.0,179.0,711.0,2902.0
 2020-04-19,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -22995,7 +22995,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Cameroon,#Global,1163.0,42.0,305.0,816.0
 2020-04-20,Central African Republic,#Global,12.0,0.0,4.0,8.0
 2020-04-20,Chad,#Global,33.0,0.0,8.0,25.0
-2020-04-20,Chile,#Global,10507.0,139.0,4676.0,5692.0
+2020-04-20,Chile,#Global,11375.0,139.0,4676.0,6560.0
 2020-04-20,China (total),#Global,83817.0,4636.0,77745.0,1436.0
 2020-04-20,Colombia,#Global,3977.0,189.0,804.0,2984.0
 2020-04-20,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -23253,7 +23253,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Cameroon,#Global,1163.0,43.0,329.0,791.0
 2020-04-21,Central African Republic,#Global,14.0,0.0,10.0,4.0
 2020-04-21,Chad,#Global,33.0,0.0,8.0,25.0
-2020-04-21,Chile,#Global,10832.0,147.0,4969.0,5716.0
+2020-04-21,Chile,#Global,11700.0,147.0,4969.0,6584.0
 2020-04-21,China (total),#Global,83853.0,4636.0,77799.0,1418.0
 2020-04-21,Colombia,#Global,4149.0,196.0,804.0,3149.0
 2020-04-21,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -23511,7 +23511,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Cameroon,#Global,1163.0,43.0,397.0,723.0
 2020-04-22,Central African Republic,#Global,14.0,0.0,10.0,4.0
 2020-04-22,Chad,#Global,33.0,0.0,8.0,25.0
-2020-04-22,Chile,#Global,11296.0,160.0,5386.0,5750.0
+2020-04-22,Chile,#Global,12164.0,160.0,5386.0,6618.0
 2020-04-22,China (total),#Global,83868.0,4636.0,77861.0,1371.0
 2020-04-22,Colombia,#Global,4356.0,206.0,870.0,3280.0
 2020-04-22,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -23769,7 +23769,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,Cameroon,#Global,1334.0,43.0,668.0,623.0
 2020-04-23,Central African Republic,#Global,16.0,0.0,10.0,6.0
 2020-04-23,Chad,#Global,33.0,0.0,8.0,25.0
-2020-04-23,Chile,#Global,11812.0,168.0,5804.0,5840.0
+2020-04-23,Chile,#Global,12680.0,168.0,5804.0,6708.0
 2020-04-23,China (total),#Global,83884.0,4636.0,77983.0,1265.0
 2020-04-23,Colombia,#Global,4561.0,215.0,927.0,3419.0
 2020-04-23,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -24027,7 +24027,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Cameroon,#Global,1430.0,43.0,668.0,719.0
 2020-04-24,Central African Republic,#Global,16.0,0.0,10.0,6.0
 2020-04-24,Chad,#Global,40.0,0.0,8.0,32.0
-2020-04-24,Chile,#Global,12306.0,174.0,6327.0,5805.0
+2020-04-24,Chile,#Global,13174.0,174.0,6327.0,6673.0
 2020-04-24,China (total),#Global,83899.0,4636.0,78109.0,1154.0
 2020-04-24,Colombia,#Global,4881.0,225.0,1003.0,3653.0
 2020-04-24,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -24285,7 +24285,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-25,Cameroon,#Global,1518.0,53.0,697.0,768.0
 2020-04-25,Central African Republic,#Global,16.0,0.0,10.0,6.0
 2020-04-25,Chad,#Global,46.0,0.0,15.0,31.0
-2020-04-25,Chile,#Global,12858.0,181.0,6746.0,5931.0
+2020-04-25,Chile,#Global,14537.0,181.0,6746.0,7610.0
 2020-04-25,China (total),#Global,83909.0,4636.0,78175.0,1098.0
 2020-04-25,Colombia,#Global,5142.0,233.0,1067.0,3842.0
 2020-04-25,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -24543,7 +24543,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-26,Cameroon,#Global,1621.0,56.0,786.0,779.0
 2020-04-26,Central African Republic,#Global,19.0,0.0,10.0,9.0
 2020-04-26,Chad,#Global,46.0,0.0,15.0,31.0
-2020-04-26,Chile,#Global,13331.0,189.0,7024.0,6118.0
+2020-04-26,Chile,#Global,15010.0,189.0,7024.0,7797.0
 2020-04-26,China (total),#Global,83912.0,4637.0,78277.0,998.0
 2020-04-26,Colombia,#Global,5379.0,244.0,1133.0,4002.0
 2020-04-26,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -24801,7 +24801,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-27,Cameroon,#Global,1705.0,58.0,805.0,842.0
 2020-04-27,Central African Republic,#Global,19.0,0.0,10.0,9.0
 2020-04-27,Chad,#Global,46.0,0.0,15.0,31.0
-2020-04-27,Chile,#Global,13813.0,198.0,7327.0,6288.0
+2020-04-27,Chile,#Global,15492.0,198.0,7327.0,7967.0
 2020-04-27,China (total),#Global,83918.0,4637.0,78374.0,907.0
 2020-04-27,Colombia,#Global,5597.0,253.0,1210.0,4134.0
 2020-04-27,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -25059,7 +25059,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-28,Cameroon,#Global,1705.0,58.0,915.0,732.0
 2020-04-28,Central African Republic,#Global,50.0,0.0,10.0,40.0
 2020-04-28,Chad,#Global,52.0,2.0,19.0,31.0
-2020-04-28,Chile,#Global,14365.0,207.0,7710.0,6448.0
+2020-04-28,Chile,#Global,16044.0,207.0,7710.0,8127.0
 2020-04-28,China (total),#Global,83940.0,4637.0,78422.0,881.0
 2020-04-28,Colombia,#Global,5949.0,269.0,1268.0,4412.0
 2020-04-28,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -25317,7 +25317,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-29,Cameroon,#Global,1832.0,61.0,934.0,837.0
 2020-04-29,Central African Republic,#Global,50.0,0.0,10.0,40.0
 2020-04-29,Chad,#Global,52.0,2.0,19.0,31.0
-2020-04-29,Chile,#Global,14885.0,216.0,8057.0,6612.0
+2020-04-29,Chile,#Global,16564.0,216.0,8057.0,8291.0
 2020-04-29,China (total),#Global,83944.0,4637.0,78474.0,833.0
 2020-04-29,Colombia,#Global,6207.0,278.0,1411.0,4518.0
 2020-04-29,Comoros,#Global,0.0,0.0,0.0,0.0
@@ -25575,7 +25575,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-30,Cameroon,#Global,1832.0,61.0,934.0,837.0
 2020-04-30,Central African Republic,#Global,50.0,0.0,10.0,40.0
 2020-04-30,Chad,#Global,73.0,5.0,33.0,35.0
-2020-04-30,Chile,#Global,16023.0,227.0,8580.0,7216.0
+2020-04-30,Chile,#Global,17702.0,227.0,8580.0,8895.0
 2020-04-30,China (total),#Global,83956.0,4637.0,78523.0,796.0
 2020-04-30,Colombia,#Global,6507.0,293.0,1439.0,4775.0
 2020-04-30,Comoros,#Global,1.0,0.0,0.0,1.0
@@ -25833,7 +25833,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-01,Cameroon,#Global,1832.0,61.0,934.0,837.0
 2020-05-01,Central African Republic,#Global,72.0,0.0,10.0,62.0
 2020-05-01,Chad,#Global,73.0,5.0,33.0,35.0
-2020-05-01,Chile,#Global,17008.0,234.0,9018.0,7756.0
+2020-05-01,Chile,#Global,18687.0,234.0,9018.0,9435.0
 2020-05-01,China (total),#Global,83959.0,4637.0,78573.0,749.0
 2020-05-01,Colombia,#Global,7006.0,314.0,1551.0,5141.0
 2020-05-01,Comoros,#Global,1.0,0.0,0.0,1.0
@@ -26091,7 +26091,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-02,Cameroon,#Global,2077.0,64.0,953.0,1060.0
 2020-05-02,Central African Republic,#Global,72.0,0.0,10.0,62.0
 2020-05-02,Chad,#Global,117.0,10.0,39.0,68.0
-2020-05-02,Chile,#Global,18435.0,247.0,9572.0,8616.0
+2020-05-02,Chile,#Global,21213.0,247.0,9572.0,11394.0
 2020-05-02,China (total),#Global,83959.0,4637.0,78586.0,736.0
 2020-05-02,Colombia,#Global,7285.0,324.0,1666.0,5295.0
 2020-05-02,Comoros,#Global,3.0,0.0,0.0,3.0
@@ -26349,7 +26349,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-03,Cameroon,#Global,2077.0,64.0,953.0,1060.0
 2020-05-03,Central African Republic,#Global,72.0,0.0,10.0,62.0
 2020-05-03,Chad,#Global,117.0,10.0,39.0,68.0
-2020-05-03,Chile,#Global,19663.0,260.0,10041.0,9362.0
+2020-05-03,Chile,#Global,22441.0,260.0,10041.0,12140.0
 2020-05-03,China (total),#Global,83964.0,4637.0,78684.0,643.0
 2020-05-03,Colombia,#Global,7668.0,340.0,1722.0,5606.0
 2020-05-03,Comoros,#Global,3.0,0.0,0.0,3.0
@@ -26607,7 +26607,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-04,Cameroon,#Global,2104.0,64.0,953.0,1087.0
 2020-05-04,Central African Republic,#Global,85.0,0.0,10.0,75.0
 2020-05-04,Chad,#Global,117.0,10.0,39.0,68.0
-2020-05-04,Chile,#Global,20643.0,270.0,10415.0,9958.0
+2020-05-04,Chile,#Global,23421.0,270.0,10415.0,12736.0
 2020-05-04,China (total),#Global,83966.0,4637.0,78792.0,537.0
 2020-05-04,Colombia,#Global,7973.0,358.0,1807.0,5808.0
 2020-05-04,Comoros,#Global,3.0,0.0,0.0,3.0
@@ -26865,7 +26865,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-05,Cameroon,#Global,2104.0,64.0,953.0,1087.0
 2020-05-05,Central African Republic,#Global,85.0,0.0,10.0,75.0
 2020-05-05,Chad,#Global,170.0,17.0,43.0,110.0
-2020-05-05,Chile,#Global,22016.0,275.0,10710.0,11031.0
+2020-05-05,Chile,#Global,24794.0,275.0,10710.0,13809.0
 2020-05-05,China (total),#Global,83968.0,4637.0,78870.0,461.0
 2020-05-05,Colombia,#Global,8613.0,378.0,2013.0,6222.0
 2020-05-05,Comoros,#Global,3.0,0.0,0.0,3.0
@@ -27123,7 +27123,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-06,Cameroon,#Global,2265.0,108.0,1000.0,1157.0
 2020-05-06,Central African Republic,#Global,94.0,0.0,10.0,84.0
 2020-05-06,Chad,#Global,170.0,17.0,43.0,110.0
-2020-05-06,Chile,#Global,23048.0,281.0,11189.0,11578.0
+2020-05-06,Chile,#Global,25826.0,281.0,11189.0,14356.0
 2020-05-06,China (total),#Global,83970.0,4637.0,78929.0,404.0
 2020-05-06,Colombia,#Global,8959.0,397.0,2148.0,6414.0
 2020-05-06,Comoros,#Global,8.0,1.0,0.0,7.0
@@ -27381,7 +27381,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-07,Cameroon,#Global,2267.0,108.0,1002.0,1157.0
 2020-05-07,Central African Republic,#Global,94.0,0.0,10.0,84.0
 2020-05-07,Chad,#Global,253.0,27.0,50.0,176.0
-2020-05-07,Chile,#Global,24581.0,285.0,11664.0,12632.0
+2020-05-07,Chile,#Global,27359.0,285.0,11664.0,15410.0
 2020-05-07,China (total),#Global,83975.0,4637.0,78977.0,361.0
 2020-05-07,Colombia,#Global,9456.0,407.0,2300.0,6749.0
 2020-05-07,Comoros,#Global,8.0,1.0,0.0,7.0
@@ -27639,7 +27639,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-08,Cameroon,#Global,2267.0,108.0,1002.0,1157.0
 2020-05-08,Central African Republic,#Global,143.0,0.0,10.0,133.0
 2020-05-08,Chad,#Global,260.0,28.0,50.0,182.0
-2020-05-08,Chile,#Global,25972.0,294.0,12160.0,13518.0
+2020-05-08,Chile,#Global,28750.0,294.0,12160.0,16296.0
 2020-05-08,China (total),#Global,83976.0,4637.0,78993.0,346.0
 2020-05-08,Colombia,#Global,10051.0,428.0,2424.0,7199.0
 2020-05-08,Comoros,#Global,8.0,1.0,0.0,7.0
@@ -27897,7 +27897,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-09,Cameroon,#Global,2274.0,108.0,1232.0,934.0
 2020-05-09,Central African Republic,#Global,143.0,0.0,10.0,133.0
 2020-05-09,Chad,#Global,322.0,31.0,53.0,238.0
-2020-05-09,Chile,#Global,27219.0,304.0,12667.0,14248.0
+2020-05-09,Chile,#Global,32208.0,304.0,12667.0,19237.0
 2020-05-09,China (total),#Global,83990.0,4637.0,79127.0,226.0
 2020-05-09,Colombia,#Global,10495.0,445.0,2569.0,7481.0
 2020-05-09,Comoros,#Global,11.0,1.0,0.0,10.0
@@ -28155,7 +28155,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-10,Cameroon,#Global,2579.0,114.0,1465.0,1000.0
 2020-05-10,Central African Republic,#Global,143.0,0.0,10.0,133.0
 2020-05-10,Chad,#Global,322.0,31.0,53.0,238.0
-2020-05-10,Chile,#Global,28866.0,312.0,13112.0,15442.0
+2020-05-10,Chile,#Global,33855.0,312.0,13112.0,20431.0
 2020-05-10,China (total),#Global,84010.0,4637.0,79167.0,206.0
 2020-05-10,Colombia,#Global,11063.0,463.0,2705.0,7895.0
 2020-05-10,Comoros,#Global,11.0,1.0,0.0,10.0
@@ -28413,7 +28413,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-11,Cameroon,#Global,2689.0,125.0,1524.0,1040.0
 2020-05-11,Central African Republic,#Global,143.0,0.0,10.0,133.0
 2020-05-11,Chad,#Global,322.0,31.0,53.0,238.0
-2020-05-11,Chile,#Global,30063.0,323.0,13605.0,16135.0
+2020-05-11,Chile,#Global,35052.0,323.0,13605.0,21124.0
 2020-05-11,China (total),#Global,84011.0,4637.0,79198.0,176.0
 2020-05-11,Colombia,#Global,11613.0,479.0,2825.0,8309.0
 2020-05-11,Comoros,#Global,11.0,1.0,0.0,10.0
@@ -28671,7 +28671,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-12,Cameroon,#Global,2689.0,125.0,1524.0,1040.0
 2020-05-12,Central African Republic,#Global,143.0,0.0,10.0,133.0
 2020-05-12,Chad,#Global,357.0,40.0,76.0,241.0
-2020-05-12,Chile,#Global,31721.0,335.0,14125.0,17261.0
+2020-05-12,Chile,#Global,36710.0,335.0,14125.0,22250.0
 2020-05-12,China (total),#Global,84018.0,4637.0,79222.0,159.0
 2020-05-12,Colombia,#Global,12272.0,493.0,2971.0,8808.0
 2020-05-12,Comoros,#Global,11.0,1.0,0.0,10.0
@@ -28929,7 +28929,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-13,Cameroon,#Global,2800.0,136.0,1543.0,1121.0
 2020-05-13,Central African Republic,#Global,143.0,0.0,10.0,133.0
 2020-05-13,Chad,#Global,372.0,42.0,78.0,252.0
-2020-05-13,Chile,#Global,34381.0,346.0,14865.0,19170.0
+2020-05-13,Chile,#Global,39370.0,346.0,14865.0,24159.0
 2020-05-13,China (total),#Global,84024.0,4637.0,79246.0,141.0
 2020-05-13,Colombia,#Global,12930.0,509.0,3133.0,9288.0
 2020-05-13,Comoros,#Global,11.0,1.0,0.0,10.0
@@ -29187,7 +29187,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-14,Cameroon,#Global,2954.0,139.0,1553.0,1262.0
 2020-05-14,Central African Republic,#Global,143.0,0.0,10.0,133.0
 2020-05-14,Chad,#Global,399.0,46.0,83.0,270.0
-2020-05-14,Chile,#Global,37040.0,368.0,15655.0,21017.0
+2020-05-14,Chile,#Global,42029.0,368.0,15655.0,26006.0
 2020-05-14,China (total),#Global,84029.0,4637.0,79261.0,131.0
 2020-05-14,Colombia,#Global,13610.0,525.0,3358.0,9727.0
 2020-05-14,Comoros,#Global,11.0,1.0,3.0,7.0
@@ -29445,7 +29445,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-15,Cameroon,#Global,3105.0,140.0,1567.0,1398.0
 2020-05-15,Central African Republic,#Global,301.0,0.0,13.0,288.0
 2020-05-15,Chad,#Global,428.0,48.0,88.0,292.0
-2020-05-15,Chile,#Global,39542.0,394.0,16614.0,22534.0
+2020-05-15,Chile,#Global,44531.0,394.0,16614.0,27523.0
 2020-05-15,China (total),#Global,84038.0,4637.0,79281.0,120.0
 2020-05-15,Colombia,#Global,14216.0,546.0,3460.0,10210.0
 2020-05-15,Comoros,#Global,11.0,1.0,3.0,7.0
@@ -29703,7 +29703,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-16,Cameroon,#Global,3105.0,140.0,1567.0,1398.0
 2020-05-16,Central African Republic,#Global,327.0,0.0,13.0,314.0
 2020-05-16,Chad,#Global,474.0,50.0,111.0,313.0
-2020-05-16,Chile,#Global,41428.0,421.0,18014.0,22993.0
+2020-05-16,Chile,#Global,50016.0,421.0,18014.0,31581.0
 2020-05-16,China (total),#Global,84044.0,4638.0,79293.0,113.0
 2020-05-16,Colombia,#Global,14939.0,562.0,3587.0,10790.0
 2020-05-16,Comoros,#Global,11.0,1.0,3.0,7.0
@@ -29961,7 +29961,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-17,Cameroon,#Global,3105.0,140.0,1567.0,1398.0
 2020-05-17,Central African Republic,#Global,327.0,0.0,13.0,314.0
 2020-05-17,Chad,#Global,503.0,53.0,117.0,333.0
-2020-05-17,Chile,#Global,43781.0,450.0,19213.0,24118.0
+2020-05-17,Chile,#Global,52369.0,450.0,19213.0,32706.0
 2020-05-17,China (total),#Global,84054.0,4638.0,79306.0,110.0
 2020-05-17,Colombia,#Global,15574.0,574.0,3751.0,11249.0
 2020-05-17,Comoros,#Global,11.0,1.0,3.0,7.0
@@ -30219,7 +30219,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-18,Cameroon,#Global,3529.0,140.0,1567.0,1822.0
 2020-05-18,Central African Republic,#Global,327.0,0.0,13.0,314.0
 2020-05-18,Chad,#Global,519.0,53.0,117.0,349.0
-2020-05-18,Chile,#Global,46059.0,478.0,20165.0,25416.0
+2020-05-18,Chile,#Global,54647.0,478.0,20165.0,34004.0
 2020-05-18,China (total),#Global,84063.0,4638.0,79310.0,115.0
 2020-05-18,Colombia,#Global,16295.0,592.0,3903.0,11800.0
 2020-05-18,Comoros,#Global,11.0,1.0,3.0,7.0
@@ -30477,7 +30477,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-19,Cameroon,#Global,3529.0,140.0,1567.0,1822.0
 2020-05-19,Central African Republic,#Global,366.0,0.0,18.0,348.0
 2020-05-19,Chad,#Global,545.0,56.0,139.0,350.0
-2020-05-19,Chile,#Global,49579.0,509.0,21507.0,27563.0
+2020-05-19,Chile,#Global,58167.0,509.0,21507.0,36151.0
 2020-05-19,China (total),#Global,84063.0,4638.0,79310.0,115.0
 2020-05-19,Colombia,#Global,16935.0,613.0,4050.0,12272.0
 2020-05-19,Comoros,#Global,11.0,1.0,3.0,7.0
@@ -30735,7 +30735,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-20,Cameroon,#Global,3733.0,146.0,1595.0,1992.0
 2020-05-20,Central African Republic,#Global,418.0,0.0,18.0,400.0
 2020-05-20,Chad,#Global,565.0,57.0,177.0,331.0
-2020-05-20,Chile,#Global,53617.0,544.0,22504.0,30569.0
+2020-05-20,Chile,#Global,62205.0,544.0,22504.0,39157.0
 2020-05-20,China (total),#Global,84063.0,4638.0,79310.0,115.0
 2020-05-20,Colombia,#Global,17687.0,630.0,4256.0,12801.0
 2020-05-20,Comoros,#Global,34.0,1.0,8.0,25.0
@@ -30993,7 +30993,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-21,Cameroon,#Global,4288.0,156.0,1808.0,2324.0
 2020-05-21,Central African Republic,#Global,436.0,0.0,18.0,418.0
 2020-05-21,Chad,#Global,588.0,58.0,186.0,344.0
-2020-05-21,Chile,#Global,57581.0,589.0,23992.0,33000.0
+2020-05-21,Chile,#Global,66169.0,589.0,23992.0,41588.0
 2020-05-21,China (total),#Global,84063.0,4638.0,79310.0,115.0
 2020-05-21,Colombia,#Global,18330.0,652.0,4431.0,13247.0
 2020-05-21,Comoros,#Global,34.0,1.0,8.0,25.0
@@ -31251,7 +31251,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-22,Cameroon,#Global,4400.0,159.0,1822.0,2419.0
 2020-05-22,Central African Republic,#Global,479.0,0.0,18.0,461.0
 2020-05-22,Chad,#Global,611.0,58.0,196.0,357.0
-2020-05-22,Chile,#Global,61857.0,630.0,25342.0,35885.0
+2020-05-22,Chile,#Global,70445.0,630.0,25342.0,44473.0
 2020-05-22,China (total),#Global,84081.0,4638.0,79332.0,111.0
 2020-05-22,Colombia,#Global,19131.0,682.0,4575.0,13874.0
 2020-05-22,Comoros,#Global,78.0,1.0,18.0,59.0
@@ -31509,7 +31509,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-23,Cameroon,#Global,4400.0,159.0,1822.0,2419.0
 2020-05-23,Central African Republic,#Global,552.0,1.0,18.0,533.0
 2020-05-23,Chad,#Global,648.0,60.0,204.0,384.0
-2020-05-23,Chile,#Global,65393.0,673.0,26546.0,38174.0
+2020-05-23,Chile,#Global,80287.0,673.0,26546.0,53068.0
 2020-05-23,China (total),#Global,84084.0,4638.0,79335.0,111.0
 2020-05-23,Colombia,#Global,20177.0,705.0,4718.0,14754.0
 2020-05-23,Comoros,#Global,78.0,1.0,18.0,59.0
@@ -31767,7 +31767,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-24,Cameroon,#Global,4890.0,165.0,1865.0,2860.0
 2020-05-24,Central African Republic,#Global,604.0,1.0,22.0,581.0
 2020-05-24,Chad,#Global,675.0,60.0,215.0,400.0
-2020-05-24,Chile,#Global,69102.0,718.0,28148.0,40236.0
+2020-05-24,Chile,#Global,83996.0,718.0,28148.0,55130.0
 2020-05-24,China (total),#Global,84095.0,4638.0,79343.0,114.0
 2020-05-24,Colombia,#Global,21175.0,727.0,5016.0,15432.0
 2020-05-24,Comoros,#Global,87.0,1.0,21.0,65.0
@@ -32025,7 +32025,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-25,Cameroon,#Global,4890.0,165.0,1865.0,2860.0
 2020-05-25,Central African Republic,#Global,652.0,1.0,22.0,629.0
 2020-05-25,Chad,#Global,687.0,61.0,244.0,382.0
-2020-05-25,Chile,#Global,73997.0,761.0,29302.0,43934.0
+2020-05-25,Chile,#Global,88891.0,761.0,29302.0,58828.0
 2020-05-25,China (total),#Global,84102.0,4638.0,79352.0,112.0
 2020-05-25,Colombia,#Global,21981.0,750.0,5265.0,15966.0
 2020-05-25,Comoros,#Global,87.0,1.0,21.0,65.0
@@ -32283,7 +32283,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-26,Cameroon,#Global,5436.0,175.0,1996.0,3265.0
 2020-05-26,Central African Republic,#Global,671.0,1.0,22.0,648.0
 2020-05-26,Chad,#Global,700.0,62.0,303.0,335.0
-2020-05-26,Chile,#Global,77961.0,806.0,30915.0,46240.0
+2020-05-26,Chile,#Global,92855.0,806.0,30915.0,61134.0
 2020-05-26,China (total),#Global,84103.0,4638.0,79358.0,107.0
 2020-05-26,Colombia,#Global,23003.0,776.0,5511.0,16716.0
 2020-05-26,Comoros,#Global,87.0,1.0,21.0,65.0
@@ -32541,7 +32541,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-27,Cameroon,#Global,5436.0,175.0,1996.0,3265.0
 2020-05-27,Central African Republic,#Global,702.0,1.0,23.0,678.0
 2020-05-27,Chad,#Global,715.0,64.0,359.0,292.0
-2020-05-27,Chile,#Global,82289.0,841.0,33540.0,47908.0
+2020-05-27,Chile,#Global,97183.0,841.0,33540.0,62802.0
 2020-05-27,China (total),#Global,84106.0,4638.0,79367.0,101.0
 2020-05-27,Colombia,#Global,24104.0,803.0,6111.0,17190.0
 2020-05-27,Comoros,#Global,87.0,2.0,24.0,61.0
@@ -32799,7 +32799,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-28,Cameroon,#Global,5436.0,175.0,1996.0,3265.0
 2020-05-28,Central African Republic,#Global,755.0,1.0,23.0,731.0
 2020-05-28,Chad,#Global,726.0,65.0,413.0,248.0
-2020-05-28,Chile,#Global,86943.0,890.0,36115.0,49938.0
+2020-05-28,Chile,#Global,101837.0,890.0,36115.0,64832.0
 2020-05-28,China (total),#Global,84106.0,4638.0,79371.0,97.0
 2020-05-28,Colombia,#Global,25366.0,822.0,6132.0,18412.0
 2020-05-28,Comoros,#Global,87.0,2.0,24.0,61.0
@@ -33057,7 +33057,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-29,Cameroon,#Global,5436.0,177.0,3326.0,1933.0
 2020-05-29,Central African Republic,#Global,874.0,1.0,23.0,850.0
 2020-05-29,Chad,#Global,759.0,65.0,444.0,250.0
-2020-05-29,Chile,#Global,90638.0,944.0,38598.0,51096.0
+2020-05-29,Chile,#Global,105532.0,944.0,38598.0,65990.0
 2020-05-29,China (total),#Global,84123.0,4638.0,79382.0,103.0
 2020-05-29,Colombia,#Global,26688.0,853.0,6687.0,19148.0
 2020-05-29,Comoros,#Global,87.0,2.0,24.0,61.0
@@ -33315,7 +33315,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-30,Cameroon,#Global,5904.0,191.0,3568.0,2145.0
 2020-05-30,Central African Republic,#Global,962.0,1.0,23.0,938.0
 2020-05-30,Chad,#Global,759.0,65.0,470.0,224.0
-2020-05-30,Chile,#Global,94858.0,997.0,40431.0,53430.0
+2020-05-30,Chile,#Global,118720.0,997.0,40431.0,77292.0
 2020-05-30,China (total),#Global,84128.0,4638.0,79386.0,104.0
 2020-05-30,Colombia,#Global,28236.0,890.0,6935.0,20411.0
 2020-05-30,Comoros,#Global,106.0,2.0,26.0,78.0
@@ -33573,7 +33573,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-31,Cameroon,#Global,5904.0,191.0,3568.0,2145.0
 2020-05-31,Central African Republic,#Global,1011.0,2.0,23.0,986.0
 2020-05-31,Chad,#Global,778.0,65.0,491.0,222.0
-2020-05-31,Chile,#Global,99688.0,1054.0,42727.0,55907.0
+2020-05-31,Chile,#Global,123550.0,1054.0,42727.0,79769.0
 2020-05-31,China (total),#Global,84146.0,4638.0,79389.0,119.0
 2020-05-31,Colombia,#Global,29383.0,939.0,7032.0,21412.0
 2020-05-31,Comoros,#Global,106.0,2.0,26.0,78.0
@@ -33831,7 +33831,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-01,Cameroon,#Global,6397.0,199.0,3629.0,2569.0
 2020-06-01,Central African Republic,#Global,1069.0,4.0,23.0,1042.0
 2020-06-01,Chad,#Global,790.0,66.0,539.0,185.0
-2020-06-01,Chile,#Global,105158.0,1113.0,44946.0,59099.0
+2020-06-01,Chile,#Global,129020.0,1113.0,44946.0,82961.0
 2020-06-01,China (total),#Global,84154.0,4638.0,79398.0,118.0
 2020-06-01,Colombia,#Global,30493.0,969.0,8384.0,21140.0
 2020-06-01,Comoros,#Global,106.0,2.0,26.0,78.0
@@ -34089,7 +34089,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-02,Cameroon,#Global,6585.0,200.0,3676.0,2709.0
 2020-06-02,Central African Republic,#Global,1069.0,4.0,23.0,1042.0
 2020-06-02,Chad,#Global,803.0,66.0,562.0,175.0
-2020-06-02,Chile,#Global,108686.0,1188.0,86173.0,21325.0
+2020-06-02,Chile,#Global,132548.0,1188.0,86173.0,45187.0
 2020-06-02,China (total),#Global,84161.0,4638.0,79400.0,123.0
 2020-06-02,Colombia,#Global,31833.0,1009.0,9689.0,21135.0
 2020-06-02,Comoros,#Global,132.0,2.0,27.0,103.0
@@ -34347,7 +34347,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-03,Cameroon,#Global,6585.0,200.0,3676.0,2709.0
 2020-06-03,Central African Republic,#Global,1173.0,4.0,23.0,1146.0
 2020-06-03,Chad,#Global,820.0,66.0,590.0,164.0
-2020-06-03,Chile,#Global,113628.0,1275.0,90748.0,21605.0
+2020-06-03,Chile,#Global,137490.0,1275.0,90748.0,45467.0
 2020-06-03,China (total),#Global,84160.0,4638.0,79404.0,118.0
 2020-06-03,Colombia,#Global,33354.0,1045.0,11171.0,21138.0
 2020-06-03,Comoros,#Global,132.0,2.0,27.0,103.0
@@ -34605,7 +34605,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-04,Cameroon,#Global,6789.0,203.0,3705.0,2881.0
 2020-06-04,Central African Republic,#Global,1288.0,4.0,23.0,1261.0
 2020-06-04,Chad,#Global,828.0,66.0,633.0,129.0
-2020-06-04,Chile,#Global,118292.0,1356.0,95631.0,21305.0
+2020-06-04,Chile,#Global,142154.0,1356.0,95631.0,45167.0
 2020-06-04,China (total),#Global,84171.0,4638.0,79415.0,118.0
 2020-06-04,Colombia,#Global,35120.0,1087.0,12319.0,21714.0
 2020-06-04,Comoros,#Global,132.0,2.0,55.0,75.0
@@ -34863,7 +34863,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-05,Cameroon,#Global,7392.0,205.0,4575.0,2612.0
 2020-06-05,Central African Republic,#Global,1451.0,4.0,29.0,1418.0
 2020-06-05,Chad,#Global,836.0,68.0,657.0,111.0
-2020-06-05,Chile,#Global,122499.0,1448.0,99358.0,21693.0
+2020-06-05,Chile,#Global,146361.0,1448.0,99358.0,45555.0
 2020-06-05,China (total),#Global,84177.0,4638.0,79420.0,119.0
 2020-06-05,Colombia,#Global,36635.0,1145.0,13670.0,21820.0
 2020-06-05,Comoros,#Global,132.0,2.0,55.0,75.0
@@ -35121,7 +35121,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-06,Cameroon,#Global,7599.0,212.0,4587.0,2800.0
 2020-06-06,Central African Republic,#Global,1570.0,5.0,37.0,1528.0
 2020-06-06,Chad,#Global,836.0,69.0,672.0,95.0
-2020-06-06,Chile,#Global,127745.0,1541.0,103817.0,22387.0
+2020-06-06,Chile,#Global,160351.0,1541.0,103817.0,54993.0
 2020-06-06,China (total),#Global,84186.0,4638.0,79424.0,124.0
 2020-06-06,Colombia,#Global,38027.0,1205.0,13670.0,23152.0
 2020-06-06,Comoros,#Global,141.0,2.0,67.0,72.0
@@ -35379,7 +35379,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-07,Cameroon,#Global,7908.0,212.0,4735.0,2961.0
 2020-06-07,Central African Republic,#Global,1634.0,5.0,38.0,1591.0
 2020-06-07,Chad,#Global,837.0,69.0,672.0,96.0
-2020-06-07,Chile,#Global,134150.0,1637.0,108150.0,24363.0
+2020-06-07,Chile,#Global,166756.0,1637.0,108150.0,56969.0
 2020-06-07,China (total),#Global,84191.0,4638.0,79434.0,119.0
 2020-06-07,Colombia,#Global,39236.0,1259.0,14414.0,23563.0
 2020-06-07,Comoros,#Global,141.0,2.0,67.0,72.0
@@ -35637,7 +35637,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-08,Cameroon,#Global,8060.0,212.0,4748.0,3100.0
 2020-06-08,Central African Republic,#Global,1850.0,5.0,38.0,1807.0
 2020-06-08,Chad,#Global,839.0,70.0,685.0,84.0
-2020-06-08,Chile,#Global,138846.0,2264.0,112248.0,24334.0
+2020-06-08,Chile,#Global,171452.0,2264.0,112248.0,56940.0
 2020-06-08,China (total),#Global,84195.0,4638.0,79444.0,113.0
 2020-06-08,Colombia,#Global,40719.0,1308.0,16459.0,22952.0
 2020-06-08,Comoros,#Global,141.0,2.0,67.0,72.0
@@ -35895,7 +35895,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-09,Cameroon,#Global,8312.0,212.0,4794.0,3306.0
 2020-06-09,Central African Republic,#Global,1850.0,5.0,38.0,1807.0
 2020-06-09,Chad,#Global,844.0,71.0,706.0,67.0
-2020-06-09,Chile,#Global,142759.0,2283.0,117361.0,23115.0
+2020-06-09,Chile,#Global,175365.0,2283.0,117361.0,55721.0
 2020-06-09,China (total),#Global,84198.0,4638.0,79451.0,109.0
 2020-06-09,Colombia,#Global,42078.0,1372.0,16459.0,24247.0
 2020-06-09,Comoros,#Global,141.0,2.0,67.0,72.0
@@ -36153,7 +36153,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-10,Cameroon,#Global,8681.0,212.0,4836.0,3633.0
 2020-06-10,Central African Republic,#Global,1888.0,5.0,38.0,1845.0
 2020-06-10,Chad,#Global,846.0,72.0,706.0,68.0
-2020-06-10,Chile,#Global,148456.0,2475.0,121780.0,24201.0
+2020-06-10,Chile,#Global,181062.0,2475.0,121780.0,56807.0
 2020-06-10,China (total),#Global,84209.0,4638.0,79456.0,115.0
 2020-06-10,Colombia,#Global,43682.0,1433.0,16566.0,25683.0
 2020-06-10,Comoros,#Global,162.0,2.0,97.0,63.0
@@ -36411,7 +36411,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-11,Cameroon,#Global,8681.0,212.0,4836.0,3633.0
 2020-06-11,Central African Republic,#Global,1952.0,5.0,38.0,1909.0
 2020-06-11,Chad,#Global,848.0,72.0,706.0,70.0
-2020-06-11,Chile,#Global,154092.0,2648.0,126444.0,25000.0
+2020-06-11,Chile,#Global,186698.0,2648.0,126444.0,57606.0
 2020-06-11,China (total),#Global,84216.0,4638.0,79464.0,114.0
 2020-06-11,Colombia,#Global,45212.0,1488.0,17366.0,26358.0
 2020-06-11,Comoros,#Global,162.0,2.0,97.0,63.0
@@ -36669,7 +36669,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-12,Cameroon,#Global,8681.0,212.0,4836.0,3633.0
 2020-06-12,Central African Republic,#Global,2044.0,7.0,360.0,1677.0
 2020-06-12,Chad,#Global,848.0,72.0,711.0,65.0
-2020-06-12,Chile,#Global,160846.0,2870.0,131358.0,26618.0
+2020-06-12,Chile,#Global,193452.0,2870.0,131358.0,59224.0
 2020-06-12,China (total),#Global,84228.0,4638.0,79472.0,118.0
 2020-06-12,Colombia,#Global,46858.0,1545.0,17823.0,27490.0
 2020-06-12,Comoros,#Global,163.0,2.0,97.0,64.0
@@ -36927,7 +36927,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-13,Cameroon,#Global,8681.0,212.0,4836.0,3633.0
 2020-06-13,Central African Republic,#Global,2057.0,7.0,363.0,1687.0
 2020-06-13,Chad,#Global,848.0,72.0,718.0,58.0
-2020-06-13,Chile,#Global,167355.0,3101.0,137296.0,26958.0
+2020-06-13,Chile,#Global,201634.0,3101.0,137296.0,61237.0
 2020-06-13,China (total),#Global,84286.0,4638.0,79475.0,173.0
 2020-06-13,Colombia,#Global,48746.0,1592.0,18749.0,28405.0
 2020-06-13,Comoros,#Global,176.0,2.0,114.0,60.0
@@ -37185,7 +37185,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-14,Cameroon,#Global,8681.0,212.0,4836.0,3633.0
 2020-06-14,Central African Republic,#Global,2057.0,7.0,363.0,1687.0
 2020-06-14,Chad,#Global,850.0,73.0,720.0,57.0
-2020-06-14,Chile,#Global,174293.0,3323.0,143704.0,27266.0
+2020-06-14,Chile,#Global,208572.0,3323.0,143704.0,61545.0
 2020-06-14,China (total),#Global,84335.0,4638.0,79482.0,215.0
 2020-06-14,Colombia,#Global,50939.0,1667.0,19460.0,29812.0
 2020-06-14,Comoros,#Global,176.0,2.0,114.0,60.0
@@ -37443,7 +37443,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-15,Cameroon,#Global,9864.0,276.0,5570.0,4018.0
 2020-06-15,Central African Republic,#Global,2222.0,7.0,369.0,1846.0
 2020-06-15,Chad,#Global,850.0,73.0,720.0,57.0
-2020-06-15,Chile,#Global,179436.0,3362.0,148792.0,27282.0
+2020-06-15,Chile,#Global,213715.0,3362.0,148792.0,61561.0
 2020-06-15,China (total),#Global,84378.0,4638.0,79489.0,251.0
 2020-06-15,Colombia,#Global,53063.0,1726.0,19985.0,31352.0
 2020-06-15,Comoros,#Global,176.0,2.0,114.0,60.0
@@ -37701,7 +37701,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-16,Cameroon,#Global,9864.0,276.0,5570.0,4018.0
 2020-06-16,Central African Republic,#Global,2410.0,14.0,396.0,2000.0
 2020-06-16,Chad,#Global,853.0,74.0,720.0,59.0
-2020-06-16,Chile,#Global,184449.0,3383.0,156232.0,24834.0
+2020-06-16,Chile,#Global,218728.0,3383.0,156232.0,59113.0
 2020-06-16,China (total),#Global,84422.0,4638.0,79493.0,291.0
 2020-06-16,Colombia,#Global,54931.0,1801.0,19986.0,33144.0
 2020-06-16,Comoros,#Global,197.0,3.0,127.0,67.0
