@@ -211,7 +211,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-22,Heilongjiang,China,0.0,0.0,0.0,0.0
 2020-01-22,Henan,China,5.000000000010906,0.0,0.0,5.000000000010906
 2020-01-22,Hong Kong,China,0.0,0.0,0.0,0.0
-2020-01-22,Hubei,China,444.00000000062823,17.00000000003708,28.00000000006107,399.0000000005301
+2020-01-22,Hubei,China,100.00000000021814,17.00000000003708,28.00000000006107,55.00000000011998
 2020-01-22,Hunan,China,4.000000000008725,0.0,0.0,4.000000000008725
 2020-01-22,Inner Mongolia,China,0.0,0.0,0.0,0.0
 2020-01-22,Jiangsu,China,1.0000000000021811,0.0,0.0,1.0000000000021811
@@ -49793,3 +49793,261 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-01,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-01,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-01,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-02,Afghanistan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Albania,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Algeria,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Andorra,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Angola,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Antigua and Barbuda,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Argentina,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Armenia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Australia (total),#Global,0.0,0.0,0.0,0.0
+2020-08-02,Austria,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Azerbaijan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Bahamas,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Bahrain,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Bangladesh,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Barbados,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Belarus,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Belgium,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Belize,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Benin,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Bhutan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Bolivia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Bosnia and Herzegovina,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Botswana,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Brazil,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Brunei,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Bulgaria,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Burkina Faso,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Burma,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Burundi,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Cabo Verde,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Cambodia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Cameroon,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Central African Republic,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Chad,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Chile,#Global,0.0,0.0,0.0,0.0
+2020-08-02,China (total),#Global,0.0,0.0,0.0,0.0
+2020-08-02,Colombia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Comoros,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Congo (Brazzaville),#Global,0.0,0.0,0.0,0.0
+2020-08-02,Congo (Kinshasa),#Global,0.0,0.0,0.0,0.0
+2020-08-02,Costa Rica,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Cote d'Ivoire,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Croatia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Cuba,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Cyprus,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Czechia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Denmark,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Denmark (total),#Global,0.0,0.0,0.0,0.0
+2020-08-02,Diamond Princess,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Djibouti,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Dominica,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Dominican Republic,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Ecuador,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Egypt,#Global,0.0,0.0,0.0,0.0
+2020-08-02,El Salvador,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Equatorial Guinea,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Eritrea,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Estonia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Eswatini,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Ethiopia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Fiji,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Finland,#Global,0.0,0.0,0.0,0.0
+2020-08-02,France,#Global,0.0,0.0,0.0,0.0
+2020-08-02,France (total),#Global,0.0,0.0,0.0,0.0
+2020-08-02,Gabon,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Gambia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Georgia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Germany,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Ghana,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Greece,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Grenada,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Guatemala,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Guinea,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Guinea-Bissau,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Guyana,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Haiti,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Holy See,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Honduras,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Hungary,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Iceland,#Global,0.0,0.0,0.0,0.0
+2020-08-02,India,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Indonesia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Iran,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Iraq,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Ireland,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Israel,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Italy,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Jamaica,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Japan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Jordan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Kazakhstan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Kenya,#Global,0.0,0.0,0.0,0.0
+2020-08-02,"Korea, South",#Global,0.0,0.0,0.0,0.0
+2020-08-02,Kosovo,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Kuwait,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Kyrgyzstan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Laos,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Latvia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Lebanon,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Lesotho,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Liberia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Libya,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Liechtenstein,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Lithuania,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Luxembourg,#Global,0.0,0.0,0.0,0.0
+2020-08-02,MS Zaandam,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Madagascar,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Malawi,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Malaysia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Maldives,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Mali,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Malta,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Mauritania,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Mauritius,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Mexico,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Moldova,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Monaco,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Mongolia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Montenegro,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Morocco,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Mozambique,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Namibia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Nepal,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Netherlands,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Netherlands (total),#Global,0.0,0.0,0.0,0.0
+2020-08-02,New Zealand,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Nicaragua,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Niger,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Nigeria,#Global,0.0,0.0,0.0,0.0
+2020-08-02,North Macedonia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Norway,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Oman,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Pakistan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Panama,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Papua New Guinea,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Paraguay,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Peru,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Philippines,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Poland,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Portugal,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Qatar,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Romania,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Russia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Rwanda,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Saint Kitts and Nevis,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Saint Lucia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Saint Vincent and the Grenadines,#Global,0.0,0.0,0.0,0.0
+2020-08-02,San Marino,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Sao Tome and Principe,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Saudi Arabia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Senegal,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Serbia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Seychelles,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Sierra Leone,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Singapore,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Slovakia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Somalia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,South Africa,#Global,0.0,0.0,0.0,0.0
+2020-08-02,South Sudan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Spain,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Sri Lanka,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Sudan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Suriname,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Sweden,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Switzerland,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Syria,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Taiwan*,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Tajikistan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Tanzania,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Thailand,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Timor-Leste,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Togo,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Trinidad and Tobago,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Tunisia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Turkey,#Global,0.0,0.0,0.0,0.0
+2020-08-02,US,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Uganda,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Ukraine,#Global,0.0,0.0,0.0,0.0
+2020-08-02,United Arab Emirates,#Global,0.0,0.0,0.0,0.0
+2020-08-02,United Kingdom,#Global,0.0,0.0,0.0,0.0
+2020-08-02,United Kingdom (total),#Global,0.0,0.0,0.0,0.0
+2020-08-02,Uruguay,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Uzbekistan,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Venezuela,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Vietnam,#Global,0.0,0.0,0.0,0.0
+2020-08-02,West Bank and Gaza,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Western Sahara,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Yemen,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Zambia,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-08-02,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
+2020-08-02,New South Wales,Australia,0.0,0.0,0.0,0.0
+2020-08-02,Northern Territory,Australia,0.0,0.0,0.0,0.0
+2020-08-02,Queensland,Australia,0.0,0.0,0.0,0.0
+2020-08-02,South Australia,Australia,0.0,0.0,0.0,0.0
+2020-08-02,Tasmania,Australia,0.0,0.0,0.0,0.0
+2020-08-02,Victoria,Australia,0.0,0.0,0.0,0.0
+2020-08-02,Western Australia,Australia,0.0,0.0,0.0,0.0
+2020-08-02,Anhui,China,0.0,0.0,0.0,0.0
+2020-08-02,Beijing,China,0.0,0.0,0.0,0.0
+2020-08-02,Chongqing,China,0.0,0.0,0.0,0.0
+2020-08-02,Fujian,China,0.0,0.0,0.0,0.0
+2020-08-02,Gansu,China,0.0,0.0,0.0,0.0
+2020-08-02,Guangdong,China,0.0,0.0,0.0,0.0
+2020-08-02,Guangxi,China,0.0,0.0,0.0,0.0
+2020-08-02,Guizhou,China,0.0,0.0,0.0,0.0
+2020-08-02,Hainan,China,0.0,0.0,0.0,0.0
+2020-08-02,Hebei,China,0.0,0.0,0.0,0.0
+2020-08-02,Heilongjiang,China,0.0,0.0,0.0,0.0
+2020-08-02,Henan,China,0.0,0.0,0.0,0.0
+2020-08-02,Hong Kong,China,0.0,0.0,0.0,0.0
+2020-08-02,Hubei,China,0.0,0.0,0.0,0.0
+2020-08-02,Hunan,China,0.0,0.0,0.0,0.0
+2020-08-02,Inner Mongolia,China,0.0,0.0,0.0,0.0
+2020-08-02,Jiangsu,China,0.0,0.0,0.0,0.0
+2020-08-02,Jiangxi,China,0.0,0.0,0.0,0.0
+2020-08-02,Jilin,China,0.0,0.0,0.0,0.0
+2020-08-02,Liaoning,China,0.0,0.0,0.0,0.0
+2020-08-02,Macau,China,0.0,0.0,0.0,0.0
+2020-08-02,Ningxia,China,0.0,0.0,0.0,0.0
+2020-08-02,Qinghai,China,0.0,0.0,0.0,0.0
+2020-08-02,Shaanxi,China,0.0,0.0,0.0,0.0
+2020-08-02,Shandong,China,0.0,0.0,0.0,0.0
+2020-08-02,Shanghai,China,0.0,0.0,0.0,0.0
+2020-08-02,Shanxi,China,0.0,0.0,0.0,0.0
+2020-08-02,Sichuan,China,0.0,0.0,0.0,0.0
+2020-08-02,Tianjin,China,0.0,0.0,0.0,0.0
+2020-08-02,Tibet,China,0.0,0.0,0.0,0.0
+2020-08-02,Xinjiang,China,0.0,0.0,0.0,0.0
+2020-08-02,Yunnan,China,0.0,0.0,0.0,0.0
+2020-08-02,Zhejiang,China,0.0,0.0,0.0,0.0
+2020-08-02,Faroe Islands,Denmark,0.0,0.0,0.0,0.0
+2020-08-02,Greenland,Denmark,0.0,0.0,0.0,0.0
+2020-08-02,French Guiana,France,0.0,0.0,0.0,0.0
+2020-08-02,French Polynesia,France,0.0,0.0,0.0,0.0
+2020-08-02,Guadeloupe,France,0.0,0.0,0.0,0.0
+2020-08-02,Martinique,France,0.0,0.0,0.0,0.0
+2020-08-02,Mayotte,France,0.0,0.0,0.0,0.0
+2020-08-02,New Caledonia,France,0.0,0.0,0.0,0.0
+2020-08-02,Reunion,France,0.0,0.0,0.0,0.0
+2020-08-02,Saint Barthelemy,France,0.0,0.0,0.0,0.0
+2020-08-02,Saint Pierre and Miquelon,France,0.0,0.0,0.0,0.0
+2020-08-02,St Martin,France,0.0,0.0,0.0,0.0
+2020-08-02,Aruba,Netherlands,0.0,0.0,0.0,0.0
+2020-08-02,"Bonaire, Sint Eustatius and Saba",Netherlands,0.0,0.0,0.0,0.0
+2020-08-02,Curacao,Netherlands,0.0,0.0,0.0,0.0
+2020-08-02,Sint Maarten,Netherlands,0.0,0.0,0.0,0.0
+2020-08-02,Anguilla,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-02,Bermuda,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-02,British Virgin Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-02,Cayman Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-02,Channel Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-02,Falkland Islands (Malvinas),United Kingdom,0.0,0.0,0.0,0.0
+2020-08-02,Gibraltar,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-02,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-02,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-02,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
