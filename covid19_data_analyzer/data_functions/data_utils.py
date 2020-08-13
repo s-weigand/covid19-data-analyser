@@ -221,7 +221,7 @@ def params_to_df(
     """
     param_vals = params_to_dict(params)
     param_stderrs = params_to_dict(params, kind="stderr")
-    param_df = pd.DataFrame({"value": param_vals, "stderr": param_stderrs})
+    param_df = pd.DataFrame({"values": param_vals, "stderr": param_stderrs})
     param_df.loc[param_inverted_stderr, "stderr"] = -param_df.loc[
         param_inverted_stderr, "stderr"
     ]
