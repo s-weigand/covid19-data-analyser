@@ -5,6 +5,7 @@ from covid19_data_analyzer.data_functions.data_utils import (
     get_data_path,
     get_infectious,
     calc_country_total,
+    calc_worldwide_total,
 )
 
 
@@ -80,6 +81,7 @@ def get_JHU_data(update_data: bool = False) -> pd.DataFrame:
         JHU_data = pd.merge(JHU_data, recovered, on=["date", "region", "parent_region"])
         country_total = calc_country_total(JHU_data)
         JHU_data = JHU_data.append(country_total, ignore_index=True)
+        JHU_data = JHU_data.append(calc_worldwide_total(JHU_data), ignore_index=True)
         get_infectious(JHU_data)
         JHU_data.sort_values(["date", "parent_region", "region"], inplace=True)
         JHU_data.set_index("date").to_csv(local_save_path)

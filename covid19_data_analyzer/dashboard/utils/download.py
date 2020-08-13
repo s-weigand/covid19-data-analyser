@@ -4,7 +4,7 @@ import io
 
 import pandas as pd
 
-from covid19_data_analyzer.data_functions.scrapers import get_data
+from covid19_data_analyzer.dashboard.utils.data_loader import DASHBOARD_DATA
 
 
 def generate_download_buffer(data_source: str, file_format: str) -> Dict:
@@ -25,7 +25,7 @@ def generate_download_buffer(data_source: str, file_format: str) -> Dict:
         dict containing the buffer, mimetype and filename
     """
     buffer = io.BytesIO()
-    covid19_data = get_data(data_source)
+    covid19_data = DASHBOARD_DATA[data_source]
     file_name = f"covid19_data_{data_source}"
     if file_format == "xls":
         with pd.ExcelWriter(buffer, engine="xlsxwriter") as excel_writer:  # noqa: E0110

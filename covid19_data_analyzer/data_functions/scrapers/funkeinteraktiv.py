@@ -3,6 +3,7 @@ import pandas as pd
 from covid19_data_analyzer.data_functions.data_utils import (
     get_data_path,
     get_infectious,
+    calc_worldwide_total,
 )
 
 
@@ -86,10 +87,14 @@ def get_funkeinteraktiv_data(
             "scraper",
         ]
         funkeinteraktiv_data = pd.read_csv(
-            f"https://funkeinteraktiv.b-cdn.net/history.v4.csv", parse_dates=["date"],
+            "https://funkeinteraktiv.b-cdn.net/history.v4.csv", parse_dates=["date"],
         ).drop(columns_to_drop, axis=1)
         funkeinteraktiv_data.fillna(
             {"label_parent": "#Global", "label_parent_en": "#Global"}, inplace=True
+        )
+        funkeinteraktiv_data = funkeinteraktiv_data.append(
+            calc_worldwide_total(funkeinteraktiv_data, "label_parent", "label"),
+            ignore_index=True,
         )
         get_infectious(funkeinteraktiv_data)
         funkeinteraktiv_data.sort_values(

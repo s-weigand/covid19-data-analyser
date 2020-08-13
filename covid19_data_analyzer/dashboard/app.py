@@ -1,6 +1,11 @@
 import dash
 import flask
 
+from covid19_data_analyzer.dashboard.utils.data_loader import (  # noqa: F401
+    DASHBOARD_DATA,
+    DASHBOARD_FIT_PARAM_DATA,
+    DASHBOARD_FIT_PLOT_DATA,
+)
 
 external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 
