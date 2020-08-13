@@ -56,7 +56,7 @@ def calc_country_total(covid_df: pd.DataFrame) -> pd.DataFrame:
     Parameters
     ----------
     covid_df : pd.DataFrame
-        covid19 DataFrame
+        covid19 DataFrame (needs to be in uniform style)
 
     Returns
     -------
@@ -73,6 +73,34 @@ def calc_country_total(covid_df: pd.DataFrame) -> pd.DataFrame:
             country_total["date"] = date
             total_df = total_df.append(country_total, ignore_index=True)
     return total_df
+
+
+def calc_worldwide_total(
+    covid_df: pd.DataFrame, parent_region_label="parent_region", region_label="region"
+) -> pd.DataFrame:
+    """
+    Calculates the worldwide total.
+
+    Parameters
+    ----------
+    covid_df : pd.DataFrame
+        covid19 DataFrame (needs to be in uniform style)
+    parent_region_label: str
+        name of the parent_region column
+    region_label: str
+        name of the region column
+
+    Returns
+    -------
+    pd.DataFrame
+        Dataframe containing the worldwide totals.
+    """
+    global_country_df = covid_df[covid_df[parent_region_label] == "#Global"]
+    worldwide_total_df = global_country_df.groupby(["date"]).sum()
+    worldwide_total_df[parent_region_label] = "#Global"
+    worldwide_total_df[region_label] = "#Worldwide"
+    worldwide_total_df.reset_index(inplace=True)
+    return worldwide_total_df
 
 
 def get_shifted_dfs(
