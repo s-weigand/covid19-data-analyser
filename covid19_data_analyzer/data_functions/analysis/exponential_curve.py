@@ -1,5 +1,6 @@
 from typing import Dict, Union
 
+import numpy as np
 import pandas as pd
 
 import lmfit
@@ -50,19 +51,23 @@ def fit_data_exponential_curve(
     fit_data_model
 
     """
+
+    def exp_func(x, amplitude=1, decay=1):
+        return amplitude * np.exp(-x / decay)
+
     data_selector = (covid19_data.region == region) & (
         covid19_data.parent_region == parent_region
     )
     covid19_region_data = covid19_data.loc[data_selector, :].reset_index(drop=True)
+    current_max = covid19_region_data[data_set].max()
     init_params = {
-        "amplitude": 0,
-        "decay": -1,
+        "amplitude": current_max * 1e-3,
+        "decay": -covid19_region_data.shape[0] / 7,
     }
+    exp_model = ExponentialModel()
+    exp_model.func = exp_func
     fit_result = fit_data_model(
-        covid19_region_data,
-        ExponentialModel(),
-        data_set=data_set,
-        init_params=init_params,
+        covid19_region_data, exp_model, data_set=data_set, init_params=init_params,
     )
     return fit_result
 
