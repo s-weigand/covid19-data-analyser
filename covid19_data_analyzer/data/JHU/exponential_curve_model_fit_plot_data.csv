@@ -1,4 +1,5 @@
 date,region,parent_region,confirmed,deaths,recovered,still_infectious
+2020-01-22,#Worldwide,#Global,100.00000000021814,17.00000000003708,28.00000000006107,55.00000000011998
 2020-01-22,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Albania,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -257,6 +258,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-22,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-22,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-22,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-01-23,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Albania,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -515,6 +517,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-23,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-23,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-23,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-01-24,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Albania,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -773,6 +776,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-24,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-24,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-24,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-01-25,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Albania,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -1031,6 +1035,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-25,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-25,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-25,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-01-26,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Albania,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -1289,6 +1294,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-26,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-26,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-26,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-01-27,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Albania,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -1547,6 +1553,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-27,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-27,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-27,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-01-28,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Albania,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -1805,6 +1812,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-28,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-28,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-28,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-01-29,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Albania,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -2063,6 +2071,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-29,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-29,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-29,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-01-30,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Albania,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -2321,6 +2330,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-30,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-30,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-30,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-01-31,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Albania,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -2579,6 +2589,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-31,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-31,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-01-31,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-01,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -2837,6 +2848,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-01,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-01,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-01,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-02,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -3095,6 +3107,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-02,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-02,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-02,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-03,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -3353,6 +3366,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-03,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-03,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-03,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-04,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -3611,6 +3625,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-04,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-04,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-04,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-05,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -3869,6 +3884,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-05,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-05,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-05,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-06,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -4127,6 +4143,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-06,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-06,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-06,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-07,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -4385,6 +4402,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-07,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-07,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-07,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-08,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -4643,6 +4661,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-08,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-08,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-08,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-09,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -4901,6 +4920,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-09,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-09,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-09,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-10,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -5159,6 +5179,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-10,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-10,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-10,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-11,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -5417,6 +5438,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-11,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-11,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-11,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-12,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -5675,6 +5697,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-12,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-12,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-12,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-13,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -5933,6 +5956,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-13,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-13,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-13,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-14,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -6191,6 +6215,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-14,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-14,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-14,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-15,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -6449,6 +6474,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-15,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-15,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-15,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-16,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -6707,6 +6733,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-16,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-16,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-16,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-17,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -6965,6 +6992,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-17,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-17,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-17,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-18,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -7223,6 +7251,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-18,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-18,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-18,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-19,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -7481,6 +7510,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-19,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-19,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-19,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-20,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -7739,6 +7769,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-20,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-20,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-20,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-21,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -7997,6 +8028,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-21,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-21,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-21,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-22,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -8255,6 +8287,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-22,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-22,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-22,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-23,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -8513,6 +8546,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-23,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-23,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-23,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-24,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -8771,6 +8805,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-24,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-24,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-24,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-25,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -9029,6 +9064,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-25,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-25,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-25,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-26,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -9287,6 +9323,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-26,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-26,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-26,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-27,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -9545,6 +9582,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-27,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-27,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-27,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-28,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -9803,6 +9841,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-28,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-28,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-28,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-02-29,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Albania,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -10061,6 +10100,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-29,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-29,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-02-29,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-01,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -10319,6 +10359,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-01,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-01,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-01,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-02,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -10577,6 +10618,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-02,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-02,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-02,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-03,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -10835,6 +10877,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-03,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-03,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-03,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-04,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -11093,6 +11136,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-04,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-04,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-04,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-05,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -11351,6 +11395,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-05,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-05,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-05,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-06,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -11609,6 +11654,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-06,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-06,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-06,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-07,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -11867,6 +11913,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-07,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-07,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-07,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-08,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -12125,6 +12172,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-08,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-08,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-08,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-09,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -12383,6 +12431,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-09,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-09,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-09,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-10,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -12641,6 +12690,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-10,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-10,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-10,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-11,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -12899,6 +12949,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-11,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-11,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-11,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-12,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -13157,6 +13208,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-12,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-12,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-12,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-13,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -13415,6 +13467,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-13,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-13,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-13,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-14,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -13673,6 +13726,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-14,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-14,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-14,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-15,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -13931,6 +13985,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-15,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-15,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-15,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-16,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -14189,6 +14244,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-16,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-16,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-16,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-17,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -14447,6 +14503,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-17,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-17,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-17,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-18,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -14705,6 +14762,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-18,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-18,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-18,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-19,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -14963,6 +15021,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-19,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-19,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-19,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-20,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -15221,6 +15280,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-20,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-20,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-20,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-21,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-21,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-21,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-21,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -15479,6 +15539,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-21,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-21,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-21,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-22,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-22,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-22,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-22,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -15737,6 +15798,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-22,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-22,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-22,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-23,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-23,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-23,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-23,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -15995,6 +16057,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-23,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-23,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-23,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-24,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-24,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-24,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-24,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -16253,6 +16316,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-24,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-24,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-24,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-25,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-25,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-25,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-25,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -16511,6 +16575,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-25,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-25,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-25,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-26,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-26,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-26,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-26,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -16769,6 +16834,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-26,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-26,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-26,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-27,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-27,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-27,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-27,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -17027,6 +17093,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-27,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-27,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-27,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-28,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-28,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-28,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-28,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -17285,6 +17352,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-28,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-28,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-28,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-29,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-29,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-29,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-29,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -17543,6 +17611,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-29,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-29,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-29,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-30,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-30,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-30,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-30,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -17801,6 +17870,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-30,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-30,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-30,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-03-31,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-03-31,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-03-31,Albania,#Global,0.0,0.0,0.0,0.0
 2020-03-31,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -18059,6 +18129,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-31,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-31,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-03-31,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-01,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-01,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-01,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-01,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -18317,6 +18388,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-01,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-01,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-01,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-02,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-02,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-02,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-02,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -18575,6 +18647,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-02,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-02,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-02,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-03,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-03,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-03,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-03,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -18833,6 +18906,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-03,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-03,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-03,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-04,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-04,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-04,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-04,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -19091,6 +19165,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-04,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-04,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-04,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-05,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-05,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-05,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-05,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -19349,6 +19424,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-05,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-05,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-05,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-06,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-06,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-06,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-06,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -19607,6 +19683,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-06,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-06,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-06,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-07,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-07,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-07,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-07,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -19865,6 +19942,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-07,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-07,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-07,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-08,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-08,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-08,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-08,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -20123,6 +20201,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-08,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-08,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-08,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-09,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-09,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-09,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-09,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -20381,6 +20460,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-09,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-09,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-09,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-10,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-10,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-10,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-10,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -20639,6 +20719,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-10,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-10,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-10,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-11,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-11,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-11,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-11,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -20897,6 +20978,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-11,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-11,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-11,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-12,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-12,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-12,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-12,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -21155,6 +21237,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-12,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-12,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-12,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-13,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-13,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-13,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-13,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -21413,6 +21496,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-13,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-13,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-13,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-14,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-14,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-14,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-14,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -21671,6 +21755,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-14,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-14,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-14,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-15,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-15,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-15,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-15,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -21929,6 +22014,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-15,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-15,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-16,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-16,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-16,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-16,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -22187,6 +22273,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-16,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-16,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-17,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-17,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-17,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-17,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -22445,6 +22532,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-17,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-17,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-18,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-18,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-18,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-18,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -22703,6 +22791,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-18,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-18,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-19,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-19,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-19,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-19,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -22961,6 +23050,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-19,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-19,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-20,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-20,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-20,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-20,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -23219,6 +23309,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-20,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-20,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-21,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-21,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-21,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-21,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -23477,6 +23568,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-21,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-21,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-22,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-22,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-22,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-22,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -23735,6 +23827,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-22,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-22,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-23,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-23,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-23,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-23,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -23993,6 +24086,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-23,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-23,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-24,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-24,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-24,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-24,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -24251,6 +24345,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-24,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-24,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-25,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-25,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-25,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-25,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -24509,6 +24604,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-25,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-25,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-25,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-26,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-26,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-26,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-26,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -24767,6 +24863,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-26,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-26,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-26,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-27,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-27,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-27,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-27,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -25025,6 +25122,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-27,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-27,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-27,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-28,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-28,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-28,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-28,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -25283,6 +25381,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-28,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-28,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-28,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-29,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-29,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-29,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-29,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -25541,6 +25640,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-29,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-29,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-29,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-04-30,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-04-30,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-04-30,Albania,#Global,0.0,0.0,0.0,0.0
 2020-04-30,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -25799,6 +25899,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-30,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-30,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-04-30,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-01,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-01,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-01,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-01,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -26057,6 +26158,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-01,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-01,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-01,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-02,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-02,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-02,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-02,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -26315,6 +26417,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-02,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-02,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-02,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-03,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-03,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-03,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-03,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -26573,6 +26676,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-03,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-03,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-03,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-04,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-04,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-04,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-04,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -26831,6 +26935,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-04,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-04,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-04,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-05,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-05,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-05,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-05,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -27089,6 +27194,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-05,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-05,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-05,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-06,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-06,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-06,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-06,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -27347,6 +27453,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-06,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-06,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-06,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-07,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-07,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-07,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-07,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -27605,6 +27712,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-07,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-07,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-07,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-08,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-08,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-08,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-08,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -27863,6 +27971,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-08,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-08,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-08,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-09,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-09,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-09,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-09,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -28121,6 +28230,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-09,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-09,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-09,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-10,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-10,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-10,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-10,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -28379,6 +28489,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-10,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-10,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-10,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-11,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-11,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-11,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-11,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -28637,6 +28748,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-11,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-11,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-11,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-12,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-12,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-12,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-12,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -28895,6 +29007,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-12,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-12,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-12,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-13,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-13,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-13,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-13,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -29153,6 +29266,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-13,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-13,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-13,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-14,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-14,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-14,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-14,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -29411,6 +29525,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-14,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-14,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-14,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-15,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-15,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-15,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-15,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -29669,6 +29784,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-15,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-15,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-15,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-16,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-16,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-16,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-16,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -29927,6 +30043,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-16,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-16,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-16,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-17,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-17,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-17,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-17,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -30185,6 +30302,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-17,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-17,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-17,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-18,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-18,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-18,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-18,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -30443,6 +30561,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-18,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-18,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-18,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-19,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-19,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-19,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-19,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -30701,6 +30820,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-19,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-19,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-19,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-20,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-20,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-20,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-20,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -30959,6 +31079,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-20,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-20,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-20,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-21,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-21,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-21,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-21,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -31217,6 +31338,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-21,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-21,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-21,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-22,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-22,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-22,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-22,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -31475,6 +31597,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-22,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-22,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-22,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-23,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-23,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-23,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-23,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -31733,6 +31856,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-23,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-23,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-23,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-24,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-24,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-24,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-24,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -31991,6 +32115,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-24,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-24,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-24,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-25,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-25,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-25,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-25,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -32249,6 +32374,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-25,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-25,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-25,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-26,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-26,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-26,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-26,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -32507,6 +32633,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-26,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-26,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-26,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-27,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-27,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-27,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-27,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -32765,6 +32892,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-27,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-27,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-27,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-28,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-28,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-28,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-28,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -33023,6 +33151,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-28,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-28,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-28,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-29,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-29,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-29,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-29,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -33281,6 +33410,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-29,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-29,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-29,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-30,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-30,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-30,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-30,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -33539,6 +33669,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-30,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-30,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-30,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-05-31,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-05-31,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-05-31,Albania,#Global,0.0,0.0,0.0,0.0
 2020-05-31,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -33797,6 +33928,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-31,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-31,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-05-31,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-01,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-01,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-01,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-01,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -34055,6 +34187,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-01,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-01,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-01,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-02,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-02,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-02,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-02,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -34313,6 +34446,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-02,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-02,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-02,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-03,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-03,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-03,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-03,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -34571,6 +34705,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-03,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-03,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-03,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-04,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-04,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-04,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-04,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -34829,6 +34964,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-04,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-04,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-04,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-05,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-05,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-05,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-05,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -35087,6 +35223,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-05,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-05,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-05,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-06,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-06,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-06,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-06,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -35345,6 +35482,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-06,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-06,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-06,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-07,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-07,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-07,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-07,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -35603,6 +35741,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-07,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-07,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-07,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-08,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-08,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-08,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-08,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -35861,6 +36000,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-08,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-08,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-08,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-09,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-09,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-09,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-09,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -36119,6 +36259,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-09,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-09,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-09,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-10,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-10,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-10,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-10,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -36377,6 +36518,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-10,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-10,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-10,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-11,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-11,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-11,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-11,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -36635,6 +36777,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-11,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-11,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-11,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-12,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-12,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-12,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-12,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -36893,6 +37036,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-12,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-12,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-12,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-13,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-13,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-13,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-13,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -37151,6 +37295,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-13,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-13,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-13,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-14,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-14,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-14,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-14,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -37409,6 +37554,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-14,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-14,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-14,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-15,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-15,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-15,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-15,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -37667,6 +37813,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-15,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-15,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-15,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-16,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-16,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-16,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-16,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -37925,6 +38072,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-16,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-16,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-16,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-17,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-17,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-17,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-17,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -38183,6 +38331,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-17,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-17,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-17,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-18,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-18,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-18,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-18,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -38441,6 +38590,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-18,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-18,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-18,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-19,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-19,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-19,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-19,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -38699,6 +38849,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-19,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-19,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-19,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-20,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-20,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-20,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-20,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -38957,6 +39108,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-20,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-20,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-20,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-21,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-21,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-21,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-21,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -39215,6 +39367,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-21,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-21,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-21,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-22,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-22,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-22,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-22,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -39473,6 +39626,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-22,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-22,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-22,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-23,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-23,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-23,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-23,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -39731,6 +39885,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-23,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-23,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-23,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-24,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-24,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-24,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-24,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -39989,6 +40144,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-24,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-24,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-24,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-25,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-25,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-25,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-25,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -40247,6 +40403,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-25,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-25,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-25,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-26,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-26,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-26,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-26,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -40505,6 +40662,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-26,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-26,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-26,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-27,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-27,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-27,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-27,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -40763,6 +40921,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-27,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-27,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-27,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-28,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-28,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-28,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-28,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -41021,6 +41180,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-28,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-28,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-28,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-29,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-29,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-29,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-29,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -41279,6 +41439,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-29,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-29,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-29,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-06-30,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-06-30,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-06-30,Albania,#Global,0.0,0.0,0.0,0.0
 2020-06-30,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -41537,6 +41698,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-30,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-30,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-06-30,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-01,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-01,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-01,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-01,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -41795,6 +41957,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-01,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-01,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-01,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-02,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-02,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-02,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-02,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -42053,6 +42216,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-02,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-02,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-02,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-03,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-03,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-03,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-03,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -42311,6 +42475,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-03,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-03,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-03,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-04,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-04,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-04,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-04,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -42569,6 +42734,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-04,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-04,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-04,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-05,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-05,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-05,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-05,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -42827,6 +42993,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-05,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-05,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-05,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-06,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-06,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-06,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-06,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -43085,6 +43252,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-06,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-06,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-06,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-07,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-07,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-07,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-07,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -43343,6 +43511,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-07,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-07,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-07,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-08,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-08,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-08,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-08,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -43601,6 +43770,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-08,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-08,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-08,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-09,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-09,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-09,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-09,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -43859,6 +44029,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-09,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-09,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-09,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-10,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-10,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-10,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-10,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -44117,6 +44288,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-10,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-10,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-10,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-11,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-11,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-11,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-11,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -44375,6 +44547,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-11,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-11,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-11,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-12,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-12,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-12,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-12,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -44633,6 +44806,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-12,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-12,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-12,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-13,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-13,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-13,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-13,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -44891,6 +45065,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-13,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-13,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-13,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-14,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-14,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-14,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-14,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -45149,6 +45324,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-14,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-14,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-14,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-15,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-15,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-15,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-15,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -45407,6 +45583,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-15,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-15,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-15,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-16,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-16,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-16,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-16,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -45665,6 +45842,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-16,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-16,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-16,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-17,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-17,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-17,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-17,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -45923,6 +46101,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-17,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-17,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-17,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-18,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-18,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-18,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-18,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -46181,6 +46360,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-18,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-18,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-18,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-19,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-19,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-19,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-19,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -46439,6 +46619,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-19,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-19,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-19,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-20,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-20,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-20,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-20,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -46697,6 +46878,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-20,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-20,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-20,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-21,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-21,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-21,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-21,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -46955,6 +47137,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-21,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-21,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-21,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-22,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-22,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-22,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-22,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -47213,6 +47396,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-22,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-22,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-22,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-23,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-23,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-23,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-23,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -47471,6 +47655,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-23,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-23,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-23,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-24,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-24,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-24,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-24,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -47729,6 +47914,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-24,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-24,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-24,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-25,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-25,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-25,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-25,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -47987,6 +48173,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-25,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-25,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-25,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-26,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-26,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-26,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-26,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -48245,6 +48432,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-26,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-26,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-26,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-27,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-27,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-27,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-27,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -48503,6 +48691,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-27,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-27,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-27,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-28,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-28,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-28,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-28,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -48761,6 +48950,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-28,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-28,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-28,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-29,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-29,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-29,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-29,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -49019,6 +49209,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-29,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-29,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-29,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-30,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-30,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-30,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-30,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -49277,6 +49468,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-30,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-30,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-30,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-07-31,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-07-31,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-07-31,Albania,#Global,0.0,0.0,0.0,0.0
 2020-07-31,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -49535,6 +49727,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-31,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-31,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-07-31,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-01,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-01,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-01,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-01,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -49793,6 +49986,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-01,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-01,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-01,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-02,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-02,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-02,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-02,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -50051,6 +50245,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-02,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-02,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-02,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-03,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-03,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-03,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-03,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -50309,6 +50504,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-03,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-03,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-03,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-04,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-04,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-04,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-04,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -50567,6 +50763,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-04,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-04,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-04,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-05,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-05,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-05,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-05,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -50825,6 +51022,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-05,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-05,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-05,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-06,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-06,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-06,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-06,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -51083,6 +51281,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-06,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-06,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-06,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-07,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-07,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-07,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-07,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -51341,6 +51540,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-07,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-07,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-07,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-08,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-08,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-08,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-08,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -51599,6 +51799,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-08,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-08,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-08,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-09,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-09,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-09,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-09,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -51857,6 +52058,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-09,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-09,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-09,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-10,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-10,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-10,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-10,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -52115,6 +52317,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-10,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-10,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-10,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-11,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-11,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-11,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-11,Algeria,#Global,0.0,0.0,0.0,0.0
@@ -52373,6 +52576,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-11,Isle of Man,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-11,Montserrat,United Kingdom,0.0,0.0,0.0,0.0
 2020-08-11,Turks and Caicos Islands,United Kingdom,0.0,0.0,0.0,0.0
+2020-08-12,#Worldwide,#Global,0.0,0.0,0.0,0.0
 2020-08-12,Afghanistan,#Global,0.0,0.0,0.0,0.0
 2020-08-12,Albania,#Global,0.0,0.0,0.0,0.0
 2020-08-12,Algeria,#Global,0.0,0.0,0.0,0.0

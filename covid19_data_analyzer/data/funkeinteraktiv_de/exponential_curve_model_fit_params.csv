@@ -1,4 +1,7 @@
 region,parent_region,subset,amplitude value,amplitude stderr,decay value,decay stderr
+#Worldwide,#Global,confirmed,100.00000000021812,,-1.0,
+#Worldwide,#Global,recovered,28.00000000006107,,-1.0,
+#Worldwide,#Global,deaths,17.00000000003708,,-1.0,
 Afghanistan,#Global,confirmed,1.0000000000021811,,-1.0,
 Afghanistan,#Global,recovered,0.0,,-1.0,
 Afghanistan,#Global,deaths,0.0,,-1.0,
