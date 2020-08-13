@@ -5,8 +5,8 @@ import dash_html_components as html
 
 from covid19_data_analyzer.dashboard.app import app
 from covid19_data_analyzer.dashboard.utils.plot import generate_figure
+from covid19_data_analyzer.dashboard.utils.data_loader import DASHBOARD_FIT_PARAM_DATA
 
-from covid19_data_analyzer.data_functions.analysis import get_fit_data
 from covid19_data_analyzer.data_functions.data_utils import (
     get_daily_growth,
     get_growth_rate,
@@ -55,9 +55,7 @@ def update_fit_param_table(
     data_source, parent_regions, regions, subsets, plot_settings, fit_model
 ):
     if "show_params" in plot_settings and fit_model is not None:
-        fit_param_df = get_fit_data(
-            data_source=data_source, model_name=fit_model, kind="params",
-        )
+        fit_param_df = DASHBOARD_FIT_PARAM_DATA[data_source][fit_model]
         fit_param_df = fit_param_df[
             fit_param_df.parent_region.isin(parent_regions)
             & fit_param_df.region.isin(regions)

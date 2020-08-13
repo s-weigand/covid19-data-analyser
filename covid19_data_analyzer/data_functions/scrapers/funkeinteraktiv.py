@@ -86,7 +86,7 @@ def get_funkeinteraktiv_data(
             "scraper",
         ]
         funkeinteraktiv_data = pd.read_csv(
-            f"https://funkeinteraktiv.b-cdn.net/history.v4.csv", parse_dates=["date"],
+            "https://funkeinteraktiv.b-cdn.net/history.v4.csv", parse_dates=["date"],
         ).drop(columns_to_drop, axis=1)
         funkeinteraktiv_data.fillna(
             {"label_parent": "#Global", "label_parent_en": "#Global"}, inplace=True

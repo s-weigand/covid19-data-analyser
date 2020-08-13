@@ -3,8 +3,10 @@ from typing import Callable, Dict, List, Iterable
 import pandas as pd
 from plotly.colors import DEFAULT_PLOTLY_COLORS
 
-from covid19_data_analyzer.data_functions.scrapers import get_data
-from covid19_data_analyzer.data_functions.analysis import get_fit_data
+from covid19_data_analyzer.dashboard.utils.data_loader import (
+    DASHBOARD_DATA,
+    DASHBOARD_FIT_PLOT_DATA,
+)
 
 
 def plotly_color_cycler(plot_index: int) -> str:
@@ -69,14 +71,12 @@ def generate_figure(
     if data_source and regions:
         plot_data = []
         plot_index = 0
-        data = get_data(data_source)
+        data = DASHBOARD_DATA[data_source]
         data = data[data.parent_region.isin(parent_regions)]
         if data_transform_fuction is not None:
             data = data_transform_fuction(data)
         if fit_model is not None:
-            fit_plot_data = get_fit_data(
-                data_source=data_source, model_name=fit_model, kind="plot"
-            )
+            fit_plot_data = DASHBOARD_FIT_PLOT_DATA[data_source][fit_model]
             if data_transform_fuction is not None:
                 fit_plot_data = data_transform_fuction(fit_plot_data)
         else:

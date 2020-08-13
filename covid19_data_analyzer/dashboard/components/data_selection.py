@@ -10,7 +10,9 @@ from covid19_data_analyzer.dashboard.utils.controls import (
     get_available_subsets,
 )
 
-from covid19_data_analyzer.data_functions.scrapers import ALLOWED_SOURCES, get_data
+from covid19_data_analyzer.dashboard.utils.data_loader import DASHBOARD_DATA
+from covid19_data_analyzer.data_functions.scrapers import ALLOWED_SOURCES
+
 from covid19_data_analyzer.data_functions.analysis import IMPLEMENTED_FIT_MODELS
 
 
@@ -104,7 +106,7 @@ DATA_SELECTION = html.Div(
 )
 def update_parent_regions(data_source):
     if data_source:
-        covid19_data = get_data(data_source)
+        covid19_data = DASHBOARD_DATA[data_source]
         parent_regions = covid19_data.parent_region.sort_values().unique()
         return (generate_dropdown_options(parent_regions), *[False] * 3)
     else:
@@ -121,7 +123,7 @@ def update_parent_regions(data_source):
 )
 def update_regions(data_source, values):
     if data_source and values:
-        covid19_data = get_data(data_source)
+        covid19_data = DASHBOARD_DATA[data_source]
         selector = generate_selector(covid19_data.parent_region, values)
         regions = covid19_data[selector].region.sort_values().unique()
         return (generate_dropdown_options(regions), *[False] * 2)
@@ -135,7 +137,7 @@ def update_regions(data_source, values):
 )
 def update_subsets(data_source):
     if data_source:
-        covid19_data = get_data(data_source)
+        covid19_data = DASHBOARD_DATA[data_source]
         subsets = get_available_subsets(covid19_data)
         return generate_dropdown_options(subsets), subsets
     else:
