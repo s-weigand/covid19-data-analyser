@@ -56461,7 +56461,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-26,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-26,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-26,Turks and Caicos Islands,United Kingdom,464.0,3.0,102.0,359.0
-2020-08-27,#Worldwide,#Global,24323853.0,822399.0,15882671.0,7618783.0
+2020-08-27,#Worldwide,#Global,24323853.0,822399.0,15881385.0,7620069.0
 2020-08-27,Afghanistan,#Global,38129.0,1401.0,29046.0,7682.0
 2020-08-27,Albania,#Global,9083.0,266.0,4791.0,4026.0
 2020-08-27,Algeria,#Global,43016.0,1475.0,30157.0,11384.0
@@ -56566,7 +56566,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-27,Libya,#Global,12274.0,219.0,1209.0,10846.0
 2020-08-27,Liechtenstein,#Global,105.0,1.0,96.0,8.0
 2020-08-27,Lithuania,#Global,2762.0,85.0,1802.0,875.0
-2020-08-27,Luxembourg,#Global,7928.0,124.0,7140.0,664.0
+2020-08-27,Luxembourg,#Global,7928.0,124.0,5854.0,1950.0
 2020-08-27,MS Zaandam,#Global,9.0,2.0,0.0,7.0
 2020-08-27,Madagascar,#Global,14592.0,184.0,13686.0,722.0
 2020-08-27,Malawi,#Global,5496.0,173.0,3121.0,2202.0
@@ -56720,7 +56720,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-27,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-27,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-27,Turks and Caicos Islands,United Kingdom,482.0,3.0,102.0,377.0
-2020-08-28,#Worldwide,#Global,24605106.0,827925.0,16083136.0,7694045.0
+2020-08-28,#Worldwide,#Global,24605106.0,827925.0,16081905.0,7695276.0
 2020-08-28,Afghanistan,#Global,38140.0,1402.0,29059.0,7679.0
 2020-08-28,Albania,#Global,9195.0,271.0,4923.0,4001.0
 2020-08-28,Algeria,#Global,43403.0,1483.0,30436.0,11484.0
@@ -56825,7 +56825,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-28,Libya,#Global,12629.0,226.0,1310.0,11093.0
 2020-08-28,Liechtenstein,#Global,106.0,1.0,96.0,9.0
 2020-08-28,Lithuania,#Global,2810.0,86.0,1816.0,908.0
-2020-08-28,Luxembourg,#Global,6580.0,124.0,7140.0,-684.0
+2020-08-28,Luxembourg,#Global,6580.0,124.0,5909.0,547.0
 2020-08-28,MS Zaandam,#Global,9.0,2.0,0.0,7.0
 2020-08-28,Madagascar,#Global,14696.0,187.0,13709.0,800.0
 2020-08-28,Malawi,#Global,5523.0,174.0,3143.0,2206.0
@@ -56979,7 +56979,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-28,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-28,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-28,Turks and Caicos Islands,United Kingdom,490.0,3.0,148.0,339.0
-2020-08-29,#Worldwide,#Global,24866817.0,833291.0,16294463.0,7739063.0
+2020-08-29,#Worldwide,#Global,24866817.0,833291.0,16293265.0,7740261.0
 2020-08-29,Afghanistan,#Global,38143.0,1402.0,29063.0,7678.0
 2020-08-29,Albania,#Global,9279.0,275.0,5020.0,3984.0
 2020-08-29,Algeria,#Global,43781.0,1491.0,30717.0,11573.0
@@ -57084,7 +57084,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-29,Libya,#Global,12958.0,231.0,1333.0,11394.0
 2020-08-29,Liechtenstein,#Global,107.0,1.0,97.0,9.0
 2020-08-29,Lithuania,#Global,2839.0,86.0,1833.0,920.0
-2020-08-29,Luxembourg,#Global,6625.0,124.0,7140.0,-639.0
+2020-08-29,Luxembourg,#Global,6625.0,124.0,5942.0,559.0
 2020-08-29,MS Zaandam,#Global,9.0,2.0,0.0,7.0
 2020-08-29,Madagascar,#Global,14791.0,190.0,13753.0,848.0
 2020-08-29,Malawi,#Global,5528.0,174.0,3143.0,2211.0
@@ -57238,7 +57238,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-29,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-29,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-29,Turks and Caicos Islands,United Kingdom,490.0,3.0,148.0,339.0
-2020-08-30,#Worldwide,#Global,25092821.0,837189.0,16502708.0,7752924.0
+2020-08-30,#Worldwide,#Global,25092821.0,837189.0,16501535.0,7754097.0
 2020-08-30,Afghanistan,#Global,38162.0,1402.0,29089.0,7671.0
 2020-08-30,Albania,#Global,9380.0,280.0,5139.0,3961.0
 2020-08-30,Algeria,#Global,44146.0,1501.0,30978.0,11667.0
@@ -57343,7 +57343,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-30,Libya,#Global,13423.0,232.0,1410.0,11781.0
 2020-08-30,Liechtenstein,#Global,107.0,1.0,97.0,9.0
 2020-08-30,Lithuania,#Global,2874.0,86.0,1837.0,951.0
-2020-08-30,Luxembourg,#Global,6625.0,124.0,7140.0,-639.0
+2020-08-30,Luxembourg,#Global,6625.0,124.0,5967.0,534.0
 2020-08-30,MS Zaandam,#Global,9.0,2.0,0.0,7.0
 2020-08-30,Madagascar,#Global,14843.0,191.0,13802.0,850.0
 2020-08-30,Malawi,#Global,5536.0,174.0,3147.0,2215.0
@@ -57497,7 +57497,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-30,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-30,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-30,Turks and Caicos Islands,United Kingdom,505.0,3.0,148.0,354.0
-2020-08-31,#Worldwide,#Global,25353849.0,841362.0,16703572.0,7808915.0
+2020-08-31,#Worldwide,#Global,25353849.0,841362.0,16702416.0,7810071.0
 2020-08-31,Afghanistan,#Global,38165.0,1402.0,29089.0,7674.0
 2020-08-31,Albania,#Global,9513.0,284.0,5214.0,4015.0
 2020-08-31,Algeria,#Global,44494.0,1510.0,31244.0,11740.0
@@ -57602,7 +57602,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-31,Libya,#Global,13966.0,237.0,1459.0,12270.0
 2020-08-31,Liechtenstein,#Global,107.0,1.0,97.0,9.0
 2020-08-31,Lithuania,#Global,2906.0,86.0,1840.0,980.0
-2020-08-31,Luxembourg,#Global,6625.0,124.0,7140.0,-639.0
+2020-08-31,Luxembourg,#Global,6625.0,124.0,5984.0,517.0
 2020-08-31,MS Zaandam,#Global,9.0,2.0,0.0,7.0
 2020-08-31,Madagascar,#Global,14863.0,192.0,13832.0,839.0
 2020-08-31,Malawi,#Global,5566.0,175.0,3160.0,2231.0
@@ -57756,7 +57756,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-31,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-31,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-31,Turks and Caicos Islands,United Kingdom,508.0,4.0,200.0,304.0
-2020-09-01,#Worldwide,#Global,25618220.0,847836.0,16957954.0,7812430.0
+2020-09-01,#Worldwide,#Global,25618220.0,847836.0,16956804.0,7813580.0
 2020-09-01,Afghanistan,#Global,38196.0,1406.0,29231.0,7559.0
 2020-09-01,Albania,#Global,9606.0,290.0,5441.0,3875.0
 2020-09-01,Algeria,#Global,44833.0,1518.0,31493.0,11822.0
@@ -57861,7 +57861,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-01,Libya,#Global,14624.0,242.0,1676.0,12706.0
 2020-09-01,Liechtenstein,#Global,107.0,1.0,97.0,9.0
 2020-09-01,Lithuania,#Global,2929.0,86.0,1857.0,986.0
-2020-09-01,Luxembourg,#Global,6625.0,124.0,7140.0,-639.0
+2020-09-01,Luxembourg,#Global,6625.0,124.0,5990.0,511.0
 2020-09-01,MS Zaandam,#Global,9.0,2.0,0.0,7.0
 2020-09-01,Madagascar,#Global,14957.0,195.0,13915.0,847.0
 2020-09-01,Malawi,#Global,5576.0,175.0,3420.0,1981.0
