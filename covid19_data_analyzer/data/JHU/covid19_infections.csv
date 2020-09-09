@@ -55166,7 +55166,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-21,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-21,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-21,Turks and Caicos Islands,United Kingdom,347.0,2.0,102.0,243.0
-2020-08-22,#Worldwide,#Global,23074038.0,795270.0,14798704.0,7480064.0
+2020-08-22,#Worldwide,#Global,23085003.0,795670.0,14809556.0,7479777.0
 2020-08-22,Afghanistan,#Global,37953.0,1385.0,28016.0,8552.0
 2020-08-22,Albania,#Global,8275.0,245.0,4184.0,3846.0
 2020-08-22,Algeria,#Global,41068.0,1424.0,28874.0,10770.0
@@ -55203,7 +55203,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-22,Chad,#Global,982.0,76.0,869.0,37.0
 2020-08-22,Chile,#Global,395708.0,10792.0,369730.0,15186.0
 2020-08-22,China (total),#Global,89654.0,4711.0,83924.0,1019.0
-2020-08-22,Colombia,#Global,522138.0,16568.0,348940.0,156630.0
+2020-08-22,Colombia,#Global,533103.0,16968.0,359792.0,156343.0
 2020-08-22,Comoros,#Global,417.0,7.0,396.0,14.0
 2020-08-22,Congo (Brazzaville),#Global,3850.0,77.0,1625.0,2148.0
 2020-08-22,Congo (Kinshasa),#Global,9811.0,251.0,8920.0,640.0
@@ -58533,7 +58533,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-03,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-09-03,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-03,Turks and Caicos Islands,United Kingdom,577.0,5.0,220.0,352.0
-2020-09-04,#Worldwide,#Global,26476341.0,865179.0,17599511.0,8011651.0
+2020-09-04,#Worldwide,#Global,26484830.0,865449.0,17608581.0,8010800.0
 2020-09-04,Afghanistan,#Global,38304.0,1409.0,29713.0,7182.0
 2020-09-04,Albania,#Global,9967.0,306.0,5882.0,3779.0
 2020-09-04,Algeria,#Global,45773.0,1539.0,32259.0,11975.0
@@ -58570,7 +58570,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-04,Chad,#Global,1023.0,77.0,914.0,32.0
 2020-09-04,Chile,#Global,418469.0,11494.0,391248.0,15727.0
 2020-09-04,China (total),#Global,90008.0,4728.0,84782.0,498.0
-2020-09-04,Colombia,#Global,641574.0,20618.0,489151.0,131805.0
+2020-09-04,Colombia,#Global,650063.0,20888.0,498221.0,130954.0
 2020-09-04,Comoros,#Global,448.0,7.0,410.0,31.0
 2020-09-04,Congo (Brazzaville),#Global,4628.0,102.0,1742.0,2784.0
 2020-09-04,Congo (Kinshasa),#Global,10149.0,259.0,9367.0,523.0
@@ -58792,7 +58792,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-04,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-09-04,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-04,Turks and Caicos Islands,United Kingdom,591.0,5.0,221.0,365.0
-2020-09-05,#Worldwide,#Global,26739635.0,870115.0,17799676.0,8069844.0
+2020-09-05,#Worldwide,#Global,26748036.0,870385.0,17809227.0,8068424.0
 2020-09-05,Afghanistan,#Global,38324.0,1409.0,30082.0,6833.0
 2020-09-05,Albania,#Global,10102.0,312.0,5976.0,3814.0
 2020-09-05,Algeria,#Global,46071.0,1549.0,32481.0,12041.0
@@ -58829,7 +58829,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-05,Chad,#Global,1034.0,77.0,914.0,43.0
 2020-09-05,Chile,#Global,420434.0,11551.0,392967.0,15916.0
 2020-09-05,China (total),#Global,90025.0,4728.0,84837.0,460.0
-2020-09-05,Colombia,#Global,650055.0,20886.0,498219.0,130950.0
+2020-09-05,Colombia,#Global,658456.0,21156.0,507770.0,129530.0
 2020-09-05,Comoros,#Global,452.0,7.0,410.0,35.0
 2020-09-05,Congo (Brazzaville),#Global,4628.0,102.0,1742.0,2784.0
 2020-09-05,Congo (Kinshasa),#Global,10178.0,259.0,9420.0,499.0
@@ -59310,7 +59310,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-06,Isle of Man,United Kingdom,337.0,24.0,312.0,1.0
 2020-09-06,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-06,Turks and Caicos Islands,United Kingdom,598.0,5.0,264.0,329.0
-2020-09-07,#Worldwide,#Global,27198138.0,883247.0,18206676.0,8108215.0
+2020-09-07,#Worldwide,#Global,27203465.0,883450.0,18217726.0,8102289.0
 2020-09-07,Afghanistan,#Global,38494.0,1415.0,30557.0,6522.0
 2020-09-07,Albania,#Global,10406.0,319.0,6186.0,3901.0
 2020-09-07,Algeria,#Global,46653.0,1562.0,32985.0,12106.0
@@ -59347,7 +59347,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-07,Chad,#Global,1040.0,79.0,919.0,42.0
 2020-09-07,Chile,#Global,424274.0,11652.0,395717.0,16905.0
 2020-09-07,China (total),#Global,90078.0,4732.0,84900.0,446.0
-2020-09-07,Colombia,#Global,666521.0,21412.0,518229.0,126880.0
+2020-09-07,Colombia,#Global,671848.0,21615.0,529279.0,120954.0
 2020-09-07,Comoros,#Global,452.0,7.0,410.0,35.0
 2020-09-07,Congo (Brazzaville),#Global,4891.0,102.0,3887.0,902.0
 2020-09-07,Congo (Kinshasa),#Global,10233.0,260.0,9451.0,522.0
