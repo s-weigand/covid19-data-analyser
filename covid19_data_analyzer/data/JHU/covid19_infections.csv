@@ -60346,7 +60346,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-10,Isle of Man,United Kingdom,337.0,24.0,312.0,1.0
 2020-09-10,Montserrat,United Kingdom,13.0,1.0,11.0,1.0
 2020-09-10,Turks and Caicos Islands,United Kingdom,638.0,5.0,270.0,363.0
-2020-09-11,#Worldwide,#Global,28343737.0,906142.0,19094263.0,8343332.0
+2020-09-11,#Worldwide,#Global,28343646.0,906142.0,19094263.0,8343241.0
 2020-09-11,Afghanistan,#Global,38606.0,1420.0,31154.0,6032.0
 2020-09-11,Albania,#Global,11021.0,327.0,6443.0,4251.0
 2020-09-11,Algeria,#Global,47752.0,1599.0,33723.0,12430.0
@@ -60523,7 +60523,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-11,Trinidad and Tobago,#Global,2825.0,50.0,762.0,2013.0
 2020-09-11,Tunisia,#Global,6259.0,103.0,1956.0,4200.0
 2020-09-11,Turkey,#Global,288126.0,6951.0,256524.0,24651.0
-2020-09-11,US,#Global,6443743.0,192979.0,2417878.0,3832886.0
+2020-09-11,US,#Global,6443652.0,192979.0,2417878.0,3832795.0
 2020-09-11,Uganda,#Global,4377.0,49.0,1998.0,2330.0
 2020-09-11,Ukraine,#Global,152373.0,3132.0,69466.0,79775.0
 2020-09-11,United Arab Emirates,#Global,77842.0,398.0,68462.0,8982.0
@@ -60605,7 +60605,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-11,Isle of Man,United Kingdom,337.0,24.0,312.0,1.0
 2020-09-11,Montserrat,United Kingdom,13.0,1.0,11.0,1.0
 2020-09-11,Turks and Caicos Islands,United Kingdom,641.0,5.0,270.0,366.0
-2020-09-12,#Worldwide,#Global,28620872.0,911011.0,19317213.0,8392648.0
+2020-09-12,#Worldwide,#Global,28620781.0,911011.0,19317213.0,8392557.0
 2020-09-12,Afghanistan,#Global,38641.0,1420.0,31234.0,5987.0
 2020-09-12,Albania,#Global,11185.0,330.0,6494.0,4361.0
 2020-09-12,Algeria,#Global,48007.0,1605.0,33875.0,12527.0
@@ -60782,7 +60782,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-12,Trinidad and Tobago,#Global,2993.0,51.0,766.0,2176.0
 2020-09-12,Tunisia,#Global,6635.0,107.0,1991.0,4537.0
 2020-09-12,Turkey,#Global,289635.0,6999.0,257731.0,24905.0
-2020-09-12,US,#Global,6485214.0,193693.0,2434658.0,3856863.0
+2020-09-12,US,#Global,6485123.0,193693.0,2434658.0,3856772.0
 2020-09-12,Uganda,#Global,4703.0,52.0,1998.0,2653.0
 2020-09-12,Ukraine,#Global,155558.0,3206.0,70881.0,81471.0
 2020-09-12,United Arab Emirates,#Global,78849.0,399.0,68983.0,9467.0
