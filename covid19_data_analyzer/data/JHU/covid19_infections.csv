@@ -66303,7 +66303,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-03,Isle of Man,United Kingdom,342.0,24.0,315.0,3.0
 2020-10-03,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-03,Turks and Caicos Islands,United Kingdom,695.0,6.0,651.0,38.0
-2020-10-04,#Worldwide,#Global,34910651.0,1026578.0,24286522.0,9597551.0
+2020-10-04,#Worldwide,#Global,34907525.0,1026505.0,24286522.0,9594498.0
 2020-10-04,Afghanistan,#Global,39341.0,1462.0,32852.0,5027.0
 2020-10-04,Albania,#Global,14266.0,396.0,8675.0,5195.0
 2020-10-04,Algeria,#Global,52136.0,1760.0,36578.0,13798.0
@@ -66480,7 +66480,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-04,Trinidad and Tobago,#Global,4763.0,81.0,2843.0,1839.0
 2020-10-04,Tunisia,#Global,22230.0,321.0,5032.0,16877.0
 2020-10-04,Turkey,#Global,324443.0,8441.0,285050.0,30952.0
-2020-10-04,US,#Global,7420971.0,209794.0,2911699.0,4299478.0
+2020-10-04,US,#Global,7417845.0,209721.0,2911699.0,4296425.0
 2020-10-04,Uganda,#Global,8808.0,81.0,4736.0,3991.0
 2020-10-04,Ukraine,#Global,232424.0,4495.0,103762.0,124167.0
 2020-10-04,United Arab Emirates,#Global,98801.0,426.0,88123.0,10252.0
