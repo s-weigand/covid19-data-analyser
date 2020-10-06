@@ -39626,7 +39626,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-22,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-06-22,Montserrat,United Kingdom,11.0,1.0,10.0,0.0
 2020-06-22,Turks and Caicos Islands,United Kingdom,14.0,1.0,11.0,2.0
-2020-06-23,#Worldwide,#Global,9131802.0,469027.0,4564277.0,4098498.0
+2020-06-23,#Worldwide,#Global,9131802.0,469026.0,4564277.0,4098499.0
 2020-06-23,Afghanistan,#Global,29481.0,618.0,9260.0,19603.0
 2020-06-23,Albania,#Global,2047.0,45.0,1195.0,807.0
 2020-06-23,Algeria,#Global,12076.0,861.0,8674.0,2541.0
@@ -39729,7 +39729,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-23,Lesotho,#Global,17.0,0.0,2.0,15.0
 2020-06-23,Liberia,#Global,652.0,34.0,270.0,348.0
 2020-06-23,Libya,#Global,639.0,17.0,132.0,490.0
-2020-06-23,Liechtenstein,#Global,82.0,2.0,81.0,-1.0
+2020-06-23,Liechtenstein,#Global,82.0,1.0,81.0,0.0
 2020-06-23,Lithuania,#Global,1803.0,77.0,1483.0,243.0
 2020-06-23,Luxembourg,#Global,4133.0,110.0,3959.0,64.0
 2020-06-23,MS Zaandam,#Global,9.0,2.0,0.0,7.0
