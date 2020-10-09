@@ -53353,7 +53353,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-14,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-14,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-14,Turks and Caicos Islands,United Kingdom,274.0,2.0,54.0,218.0
-2020-08-15,#Worldwide,#Global,21330176.0,756643.0,13335909.0,7237624.0
+2020-08-15,#Worldwide,#Global,21330176.0,756643.0,13335911.0,7237622.0
 2020-08-15,Afghanistan,#Global,37551.0,1370.0,27166.0,9015.0
 2020-08-15,Albania,#Global,7260.0,225.0,3746.0,3289.0
 2020-08-15,Algeria,#Global,38133.0,1360.0,26644.0,10129.0
@@ -53362,7 +53362,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-15,Antigua and Barbuda,#Global,93.0,3.0,83.0,7.0
 2020-08-15,Argentina,#Global,289100.0,5637.0,205697.0,77766.0
 2020-08-15,Armenia,#Global,41495.0,817.0,34484.0,6194.0
-2020-08-15,Australia (total),#Global,23287.0,396.0,13633.0,9258.0
+2020-08-15,Australia (total),#Global,23287.0,396.0,13635.0,9256.0
 2020-08-15,Austria,#Global,23179.0,728.0,20627.0,1824.0
 2020-08-15,Azerbaijan,#Global,34107.0,506.0,31697.0,1904.0
 2020-08-15,Bahamas,#Global,1252.0,17.0,160.0,1075.0
@@ -53547,7 +53547,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-15,Zimbabwe,#Global,5176.0,130.0,2047.0,2999.0
 2020-08-15,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-15,New South Wales,Australia,3950.0,52.0,2994.0,904.0
-2020-08-15,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-15,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-15,Queensland,Australia,1091.0,6.0,1079.0,6.0
 2020-08-15,South Australia,Australia,460.0,4.0,449.0,7.0
 2020-08-15,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -53612,7 +53612,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-15,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-15,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-15,Turks and Caicos Islands,United Kingdom,298.0,2.0,55.0,241.0
-2020-08-16,#Worldwide,#Global,21542053.0,760840.0,13566896.0,7214317.0
+2020-08-16,#Worldwide,#Global,21542053.0,760840.0,13566898.0,7214315.0
 2020-08-16,Afghanistan,#Global,37596.0,1375.0,27166.0,9055.0
 2020-08-16,Albania,#Global,7380.0,228.0,3794.0,3358.0
 2020-08-16,Algeria,#Global,38583.0,1370.0,27017.0,10196.0
@@ -53621,7 +53621,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-16,Antigua and Barbuda,#Global,93.0,3.0,88.0,2.0
 2020-08-16,Argentina,#Global,294569.0,5703.0,211702.0,77164.0
 2020-08-16,Armenia,#Global,41663.0,818.0,34584.0,6261.0
-2020-08-16,Australia (total),#Global,23558.0,421.0,14083.0,9054.0
+2020-08-16,Australia (total),#Global,23558.0,421.0,14085.0,9052.0
 2020-08-16,Austria,#Global,23370.0,728.0,20681.0,1961.0
 2020-08-16,Azerbaijan,#Global,34219.0,506.0,31875.0,1838.0
 2020-08-16,Bahamas,#Global,1315.0,18.0,189.0,1108.0
@@ -53806,7 +53806,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-16,Zimbabwe,#Global,5261.0,132.0,2092.0,3037.0
 2020-08-16,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-16,New South Wales,Australia,3957.0,52.0,2994.0,911.0
-2020-08-16,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-16,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-16,Queensland,Australia,1091.0,6.0,1079.0,6.0
 2020-08-16,South Australia,Australia,461.0,4.0,450.0,7.0
 2020-08-16,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -53871,7 +53871,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-16,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-16,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-16,Turks and Caicos Islands,United Kingdom,298.0,2.0,55.0,241.0
-2020-08-17,#Worldwide,#Global,21751890.0,764981.0,13778250.0,7208659.0
+2020-08-17,#Worldwide,#Global,21751890.0,764981.0,13778252.0,7208657.0
 2020-08-17,Afghanistan,#Global,37599.0,1375.0,27166.0,9058.0
 2020-08-17,Albania,#Global,7499.0,230.0,3816.0,3453.0
 2020-08-17,Algeria,#Global,39025.0,1379.0,27347.0,10299.0
@@ -53880,7 +53880,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-17,Antigua and Barbuda,#Global,93.0,3.0,88.0,2.0
 2020-08-17,Argentina,#Global,299126.0,5814.0,217850.0,75462.0
 2020-08-17,Armenia,#Global,41701.0,824.0,34655.0,6222.0
-2020-08-17,Australia (total),#Global,23773.0,438.0,14536.0,8799.0
+2020-08-17,Australia (total),#Global,23773.0,438.0,14538.0,8797.0
 2020-08-17,Austria,#Global,23534.0,729.0,20765.0,2040.0
 2020-08-17,Azerbaijan,#Global,34343.0,508.0,32042.0,1793.0
 2020-08-17,Bahamas,#Global,1329.0,19.0,191.0,1119.0
@@ -54065,7 +54065,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-17,Zimbabwe,#Global,5308.0,135.0,3848.0,1325.0
 2020-08-17,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-17,New South Wales,Australia,3959.0,52.0,2994.0,913.0
-2020-08-17,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-17,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-17,Queensland,Australia,1091.0,6.0,1079.0,6.0
 2020-08-17,South Australia,Australia,462.0,4.0,450.0,8.0
 2020-08-17,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -54130,7 +54130,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-17,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-17,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-17,Turks and Caicos Islands,United Kingdom,298.0,2.0,55.0,241.0
-2020-08-18,#Worldwide,#Global,22007394.0,771845.0,14005578.0,7229971.0
+2020-08-18,#Worldwide,#Global,22007394.0,771845.0,14005580.0,7229969.0
 2020-08-18,Afghanistan,#Global,37599.0,1375.0,27166.0,9058.0
 2020-08-18,Albania,#Global,7654.0,232.0,3871.0,3551.0
 2020-08-18,Algeria,#Global,39444.0,1391.0,27653.0,10400.0
@@ -54139,7 +54139,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-18,Antigua and Barbuda,#Global,93.0,3.0,88.0,2.0
 2020-08-18,Argentina,#Global,305966.0,6048.0,223531.0,76387.0
 2020-08-18,Armenia,#Global,41846.0,832.0,34982.0,6032.0
-2020-08-18,Australia (total),#Global,23989.0,450.0,14927.0,8612.0
+2020-08-18,Australia (total),#Global,23989.0,450.0,14929.0,8610.0
 2020-08-18,Austria,#Global,23829.0,729.0,20870.0,2230.0
 2020-08-18,Azerbaijan,#Global,34474.0,509.0,32201.0,1764.0
 2020-08-18,Bahamas,#Global,1424.0,20.0,203.0,1201.0
@@ -54324,7 +54324,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-18,Zimbabwe,#Global,5378.0,141.0,4105.0,1132.0
 2020-08-18,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-18,New South Wales,Australia,3966.0,52.0,2994.0,920.0
-2020-08-18,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-18,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-18,Queensland,Australia,1092.0,6.0,1079.0,7.0
 2020-08-18,South Australia,Australia,462.0,4.0,451.0,7.0
 2020-08-18,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -54389,7 +54389,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-18,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-18,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-18,Turks and Caicos Islands,United Kingdom,315.0,2.0,56.0,257.0
-2020-08-19,#Worldwide,#Global,22281659.0,778599.0,14222696.0,7280364.0
+2020-08-19,#Worldwide,#Global,22281659.0,778599.0,14222698.0,7280362.0
 2020-08-19,Afghanistan,#Global,37599.0,1375.0,27166.0,9058.0
 2020-08-19,Albania,#Global,7812.0,234.0,3928.0,3650.0
 2020-08-19,Algeria,#Global,39847.0,1402.0,27971.0,10474.0
@@ -54398,7 +54398,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-19,Antigua and Barbuda,#Global,94.0,3.0,88.0,3.0
 2020-08-19,Argentina,#Global,312659.0,6330.0,228725.0,77604.0
 2020-08-19,Armenia,#Global,42056.0,833.0,35226.0,5997.0
-2020-08-19,Australia (total),#Global,24236.0,463.0,15247.0,8526.0
+2020-08-19,Australia (total),#Global,24236.0,463.0,15249.0,8524.0
 2020-08-19,Austria,#Global,24084.0,729.0,20958.0,2397.0
 2020-08-19,Azerbaijan,#Global,34620.0,510.0,32363.0,1747.0
 2020-08-19,Bahamas,#Global,1531.0,22.0,209.0,1300.0
@@ -54583,7 +54583,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-19,Zimbabwe,#Global,5643.0,150.0,4442.0,1051.0
 2020-08-19,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-19,New South Wales,Australia,3971.0,52.0,2995.0,924.0
-2020-08-19,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-19,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-19,Queensland,Australia,1093.0,6.0,1081.0,6.0
 2020-08-19,South Australia,Australia,462.0,4.0,452.0,6.0
 2020-08-19,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -54648,7 +54648,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-19,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-19,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-19,Turks and Caicos Islands,United Kingdom,327.0,2.0,56.0,269.0
-2020-08-20,#Worldwide,#Global,22548775.0,784635.0,14430348.0,7333792.0
+2020-08-20,#Worldwide,#Global,22548775.0,784635.0,14430350.0,7333790.0
 2020-08-20,Afghanistan,#Global,37856.0,1385.0,27681.0,8790.0
 2020-08-20,Albania,#Global,7967.0,238.0,3986.0,3743.0
 2020-08-20,Algeria,#Global,40258.0,1411.0,28281.0,10566.0
@@ -54657,7 +54657,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-20,Antigua and Barbuda,#Global,94.0,3.0,89.0,2.0
 2020-08-20,Argentina,#Global,320884.0,6517.0,233651.0,80716.0
 2020-08-20,Armenia,#Global,42319.0,836.0,35476.0,6007.0
-2020-08-20,Australia (total),#Global,24407.0,472.0,17852.0,6083.0
+2020-08-20,Australia (total),#Global,24407.0,472.0,17854.0,6081.0
 2020-08-20,Austria,#Global,24431.0,729.0,21093.0,2609.0
 2020-08-20,Azerbaijan,#Global,34759.0,510.0,32511.0,1738.0
 2020-08-20,Bahamas,#Global,1610.0,23.0,211.0,1376.0
@@ -54842,7 +54842,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-20,Zimbabwe,#Global,5745.0,151.0,4525.0,1069.0
 2020-08-20,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-20,New South Wales,Australia,3972.0,52.0,2994.0,926.0
-2020-08-20,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-20,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-20,Queensland,Australia,1094.0,6.0,1082.0,6.0
 2020-08-20,South Australia,Australia,462.0,4.0,452.0,6.0
 2020-08-20,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -54907,7 +54907,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-20,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-20,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-20,Turks and Caicos Islands,United Kingdom,334.0,2.0,102.0,230.0
-2020-08-21,#Worldwide,#Global,22817937.0,790114.0,14599871.0,7427952.0
+2020-08-21,#Worldwide,#Global,22817937.0,790114.0,14599873.0,7427950.0
 2020-08-21,Afghanistan,#Global,37894.0,1385.0,28016.0,8493.0
 2020-08-21,Albania,#Global,8119.0,240.0,4096.0,3783.0
 2020-08-21,Algeria,#Global,40667.0,1418.0,28587.0,10662.0
@@ -54916,7 +54916,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-21,Antigua and Barbuda,#Global,94.0,3.0,89.0,2.0
 2020-08-21,Argentina,#Global,329043.0,6730.0,239806.0,82507.0
 2020-08-21,Armenia,#Global,42477.0,842.0,35693.0,5942.0
-2020-08-21,Australia (total),#Global,24602.0,485.0,18458.0,5659.0
+2020-08-21,Australia (total),#Global,24602.0,485.0,18460.0,5657.0
 2020-08-21,Austria,#Global,24762.0,730.0,21260.0,2772.0
 2020-08-21,Azerbaijan,#Global,34921.0,512.0,32682.0,1727.0
 2020-08-21,Bahamas,#Global,1703.0,27.0,221.0,1455.0
@@ -55101,7 +55101,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-21,Zimbabwe,#Global,5815.0,152.0,4587.0,1076.0
 2020-08-21,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-21,New South Wales,Australia,3981.0,52.0,2994.0,935.0
-2020-08-21,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-21,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-21,Queensland,Australia,1103.0,6.0,1082.0,15.0
 2020-08-21,South Australia,Australia,462.0,4.0,452.0,6.0
 2020-08-21,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -55166,7 +55166,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-21,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-21,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-21,Turks and Caicos Islands,United Kingdom,347.0,2.0,102.0,243.0
-2020-08-22,#Worldwide,#Global,23083188.0,795679.0,14809753.0,7477756.0
+2020-08-22,#Worldwide,#Global,23083188.0,795679.0,14809755.0,7477754.0
 2020-08-22,Afghanistan,#Global,37953.0,1385.0,28016.0,8552.0
 2020-08-22,Albania,#Global,8275.0,245.0,4184.0,3846.0
 2020-08-22,Algeria,#Global,41068.0,1424.0,28874.0,10770.0
@@ -55175,7 +55175,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-22,Antigua and Barbuda,#Global,94.0,3.0,89.0,2.0
 2020-08-22,Argentina,#Global,336802.0,6848.0,245781.0,84173.0
 2020-08-22,Armenia,#Global,42616.0,850.0,35907.0,5859.0
-2020-08-22,Australia (total),#Global,24811.0,502.0,18758.0,5551.0
+2020-08-22,Australia (total),#Global,24811.0,502.0,18760.0,5549.0
 2020-08-22,Austria,#Global,25062.0,732.0,21406.0,2924.0
 2020-08-22,Azerbaijan,#Global,35105.0,515.0,32842.0,1748.0
 2020-08-22,Bahamas,#Global,1765.0,27.0,227.0,1511.0
@@ -55360,7 +55360,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-22,Zimbabwe,#Global,5893.0,153.0,4629.0,1111.0
 2020-08-22,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-22,New South Wales,Australia,3985.0,52.0,2994.0,939.0
-2020-08-22,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-22,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-22,Queensland,Australia,1105.0,6.0,1082.0,17.0
 2020-08-22,South Australia,Australia,462.0,4.0,452.0,6.0
 2020-08-22,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -55425,7 +55425,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-22,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-22,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-22,Turks and Caicos Islands,United Kingdom,383.0,2.0,102.0,279.0
-2020-08-23,#Worldwide,#Global,23288559.0,799529.0,15024774.0,7464256.0
+2020-08-23,#Worldwide,#Global,23288559.0,799529.0,15024776.0,7464254.0
 2020-08-23,Afghanistan,#Global,37999.0,1387.0,28180.0,8432.0
 2020-08-23,Albania,#Global,8427.0,250.0,4332.0,3845.0
 2020-08-23,Algeria,#Global,41460.0,1435.0,29142.0,10883.0
@@ -55434,7 +55434,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-23,Antigua and Barbuda,#Global,94.0,3.0,89.0,2.0
 2020-08-23,Argentina,#Global,342154.0,6985.0,251400.0,83769.0
 2020-08-23,Armenia,#Global,42792.0,852.0,35991.0,5949.0
-2020-08-23,Australia (total),#Global,24915.0,517.0,19231.0,5167.0
+2020-08-23,Australia (total),#Global,24915.0,517.0,19233.0,5165.0
 2020-08-23,Austria,#Global,25253.0,732.0,21558.0,2963.0
 2020-08-23,Azerbaijan,#Global,35274.0,518.0,32993.0,1763.0
 2020-08-23,Bahamas,#Global,1784.0,29.0,634.0,1121.0
@@ -55619,7 +55619,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-23,Zimbabwe,#Global,5930.0,155.0,4872.0,903.0
 2020-08-23,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-23,New South Wales,Australia,3988.0,52.0,2994.0,942.0
-2020-08-23,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-23,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-23,Queensland,Australia,1106.0,6.0,1082.0,18.0
 2020-08-23,South Australia,Australia,463.0,4.0,456.0,3.0
 2020-08-23,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -55684,7 +55684,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-23,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-23,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-23,Turks and Caicos Islands,United Kingdom,383.0,2.0,102.0,279.0
-2020-08-24,#Worldwide,#Global,23514192.0,803882.0,15224362.0,7485948.0
+2020-08-24,#Worldwide,#Global,23514192.0,803882.0,15224364.0,7485946.0
 2020-08-24,Afghanistan,#Global,38054.0,1389.0,28360.0,8305.0
 2020-08-24,Albania,#Global,8605.0,254.0,4413.0,3938.0
 2020-08-24,Algeria,#Global,41858.0,1446.0,29369.0,11043.0
@@ -55693,7 +55693,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-24,Antigua and Barbuda,#Global,94.0,3.0,89.0,2.0
 2020-08-24,Argentina,#Global,350867.0,7366.0,256789.0,86712.0
 2020-08-24,Armenia,#Global,42825.0,854.0,36049.0,5922.0
-2020-08-24,Australia (total),#Global,25053.0,525.0,19601.0,4927.0
+2020-08-24,Australia (total),#Global,25053.0,525.0,19603.0,4925.0
 2020-08-24,Austria,#Global,25495.0,733.0,21657.0,3105.0
 2020-08-24,Azerbaijan,#Global,35426.0,519.0,33104.0,1803.0
 2020-08-24,Bahamas,#Global,1798.0,44.0,634.0,1120.0
@@ -55878,7 +55878,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-24,Zimbabwe,#Global,6070.0,155.0,4950.0,965.0
 2020-08-24,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-24,New South Wales,Australia,3991.0,52.0,2994.0,945.0
-2020-08-24,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-24,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-24,Queensland,Australia,1106.0,6.0,1082.0,18.0
 2020-08-24,South Australia,Australia,463.0,4.0,456.0,3.0
 2020-08-24,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -55943,7 +55943,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-24,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-24,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-24,Turks and Caicos Islands,United Kingdom,383.0,2.0,102.0,279.0
-2020-08-25,#Worldwide,#Global,23755870.0,810260.0,15456789.0,7488821.0
+2020-08-25,#Worldwide,#Global,23755870.0,810260.0,15456791.0,7488819.0
 2020-08-25,Afghanistan,#Global,38070.0,1397.0,28440.0,8233.0
 2020-08-25,Albania,#Global,8759.0,259.0,4530.0,3970.0
 2020-08-25,Algeria,#Global,42228.0,1456.0,29587.0,11185.0
@@ -55952,7 +55952,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-25,Antigua and Barbuda,#Global,94.0,3.0,89.0,2.0
 2020-08-25,Argentina,#Global,359638.0,7563.0,263202.0,88873.0
 2020-08-25,Armenia,#Global,42936.0,858.0,36475.0,5603.0
-2020-08-25,Australia (total),#Global,25204.0,549.0,20098.0,4557.0
+2020-08-25,Australia (total),#Global,25204.0,549.0,20100.0,4555.0
 2020-08-25,Austria,#Global,25706.0,733.0,21888.0,3085.0
 2020-08-25,Azerbaijan,#Global,35559.0,521.0,33190.0,1848.0
 2020-08-25,Bahamas,#Global,1813.0,46.0,634.0,1133.0
@@ -56137,7 +56137,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-25,Zimbabwe,#Global,6196.0,166.0,4961.0,1069.0
 2020-08-25,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-25,New South Wales,Australia,3997.0,52.0,2994.0,951.0
-2020-08-25,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-25,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-25,Queensland,Australia,1107.0,6.0,1083.0,18.0
 2020-08-25,South Australia,Australia,463.0,4.0,456.0,3.0
 2020-08-25,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -56202,7 +56202,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-25,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-25,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-25,Turks and Caicos Islands,United Kingdom,383.0,2.0,102.0,279.0
-2020-08-26,#Worldwide,#Global,24044393.0,816543.0,15680881.0,7546969.0
+2020-08-26,#Worldwide,#Global,24044393.0,816543.0,15680883.0,7546967.0
 2020-08-26,Afghanistan,#Global,38113.0,1401.0,29042.0,7670.0
 2020-08-26,Albania,#Global,8927.0,263.0,4633.0,4031.0
 2020-08-26,Algeria,#Global,42619.0,1465.0,29886.0,11268.0
@@ -56211,7 +56211,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-26,Antigua and Barbuda,#Global,94.0,3.0,89.0,2.0
 2020-08-26,Argentina,#Global,370188.0,7839.0,268801.0,93548.0
 2020-08-26,Armenia,#Global,43067.0,861.0,36726.0,5480.0
-2020-08-26,Australia (total),#Global,25322.0,572.0,20099.0,4651.0
+2020-08-26,Australia (total),#Global,25322.0,572.0,20101.0,4649.0
 2020-08-26,Austria,#Global,26033.0,733.0,22145.0,3155.0
 2020-08-26,Azerbaijan,#Global,35707.0,522.0,33281.0,1904.0
 2020-08-26,Bahamas,#Global,1923.0,48.0,733.0,1142.0
@@ -56396,7 +56396,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-26,Zimbabwe,#Global,6251.0,179.0,5001.0,1071.0
 2020-08-26,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-26,New South Wales,Australia,4006.0,52.0,2994.0,960.0
-2020-08-26,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-26,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-26,Queensland,Australia,1110.0,6.0,1083.0,21.0
 2020-08-26,South Australia,Australia,463.0,4.0,456.0,3.0
 2020-08-26,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -56461,7 +56461,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-26,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-26,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-26,Turks and Caicos Islands,United Kingdom,464.0,3.0,102.0,359.0
-2020-08-27,#Worldwide,#Global,24323181.0,822428.0,15882197.0,7618556.0
+2020-08-27,#Worldwide,#Global,24323181.0,822428.0,15882199.0,7618554.0
 2020-08-27,Afghanistan,#Global,38129.0,1401.0,29046.0,7682.0
 2020-08-27,Albania,#Global,9083.0,266.0,4791.0,4026.0
 2020-08-27,Algeria,#Global,43016.0,1475.0,30157.0,11384.0
@@ -56470,7 +56470,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-27,Antigua and Barbuda,#Global,94.0,3.0,89.0,2.0
 2020-08-27,Argentina,#Global,380292.0,8050.0,274458.0,97784.0
 2020-08-27,Armenia,#Global,43270.0,864.0,36988.0,5418.0
-2020-08-27,Australia (total),#Global,25448.0,583.0,20365.0,4500.0
+2020-08-27,Australia (total),#Global,25448.0,583.0,20367.0,4498.0
 2020-08-27,Austria,#Global,26361.0,733.0,22317.0,3311.0
 2020-08-27,Azerbaijan,#Global,35844.0,524.0,33364.0,1956.0
 2020-08-27,Bahamas,#Global,2020.0,48.0,742.0,1230.0
@@ -56655,7 +56655,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-27,Zimbabwe,#Global,6292.0,189.0,5010.0,1093.0
 2020-08-27,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-27,New South Wales,Australia,4019.0,52.0,2994.0,973.0
-2020-08-27,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-27,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-27,Queensland,Australia,1113.0,6.0,1084.0,23.0
 2020-08-27,South Australia,Australia,463.0,4.0,456.0,3.0
 2020-08-27,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -56720,7 +56720,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-27,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-27,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-27,Turks and Caicos Islands,United Kingdom,482.0,3.0,102.0,377.0
-2020-08-28,#Worldwide,#Global,24604338.0,827936.0,16082356.0,7694046.0
+2020-08-28,#Worldwide,#Global,24604338.0,827936.0,16082358.0,7694044.0
 2020-08-28,Afghanistan,#Global,38140.0,1402.0,29059.0,7679.0
 2020-08-28,Albania,#Global,9195.0,271.0,4923.0,4001.0
 2020-08-28,Algeria,#Global,43403.0,1483.0,30436.0,11484.0
@@ -56729,7 +56729,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-28,Antigua and Barbuda,#Global,94.0,3.0,89.0,2.0
 2020-08-28,Argentina,#Global,392009.0,8271.0,280165.0,103573.0
 2020-08-28,Armenia,#Global,43451.0,869.0,37264.0,5318.0
-2020-08-28,Australia (total),#Global,25547.0,600.0,20631.0,4316.0
+2020-08-28,Australia (total),#Global,25547.0,600.0,20633.0,4314.0
 2020-08-28,Austria,#Global,26590.0,733.0,22594.0,3263.0
 2020-08-28,Azerbaijan,#Global,35986.0,527.0,33461.0,1998.0
 2020-08-28,Bahamas,#Global,2057.0,50.0,755.0,1252.0
@@ -56914,7 +56914,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-28,Zimbabwe,#Global,6388.0,195.0,5043.0,1150.0
 2020-08-28,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-28,New South Wales,Australia,4033.0,52.0,2994.0,987.0
-2020-08-28,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-28,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-28,Queensland,Australia,1117.0,6.0,1084.0,27.0
 2020-08-28,South Australia,Australia,463.0,4.0,458.0,1.0
 2020-08-28,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -56979,7 +56979,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-28,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-28,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-28,Turks and Caicos Islands,United Kingdom,490.0,3.0,148.0,339.0
-2020-08-29,#Worldwide,#Global,24865031.0,833311.0,16293832.0,7737888.0
+2020-08-29,#Worldwide,#Global,24865031.0,833311.0,16293834.0,7737886.0
 2020-08-29,Afghanistan,#Global,38143.0,1402.0,29063.0,7678.0
 2020-08-29,Albania,#Global,9279.0,275.0,5020.0,3984.0
 2020-08-29,Algeria,#Global,43781.0,1491.0,30717.0,11573.0
@@ -56988,7 +56988,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-29,Antigua and Barbuda,#Global,94.0,3.0,89.0,2.0
 2020-08-29,Argentina,#Global,401239.0,8353.0,287220.0,105666.0
 2020-08-29,Armenia,#Global,43626.0,872.0,37563.0,5191.0
-2020-08-29,Australia (total),#Global,25670.0,611.0,20858.0,4201.0
+2020-08-29,Australia (total),#Global,25670.0,611.0,20860.0,4199.0
 2020-08-29,Austria,#Global,26985.0,733.0,22866.0,3386.0
 2020-08-29,Azerbaijan,#Global,36174.0,529.0,33576.0,2069.0
 2020-08-29,Bahamas,#Global,2135.0,50.0,782.0,1303.0
@@ -57173,7 +57173,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-29,Zimbabwe,#Global,6406.0,196.0,5056.0,1154.0
 2020-08-29,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-29,New South Wales,Australia,4040.0,52.0,2994.0,994.0
-2020-08-29,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-29,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-29,Queensland,Australia,1121.0,6.0,1084.0,31.0
 2020-08-29,South Australia,Australia,463.0,4.0,458.0,1.0
 2020-08-29,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -57238,7 +57238,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-29,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-29,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-29,Turks and Caicos Islands,United Kingdom,490.0,3.0,148.0,339.0
-2020-08-30,#Worldwide,#Global,25091171.0,837217.0,16502220.0,7751734.0
+2020-08-30,#Worldwide,#Global,25091171.0,837217.0,16502222.0,7751732.0
 2020-08-30,Afghanistan,#Global,38162.0,1402.0,29089.0,7671.0
 2020-08-30,Albania,#Global,9380.0,280.0,5139.0,3961.0
 2020-08-30,Algeria,#Global,44146.0,1501.0,30978.0,11667.0
@@ -57247,7 +57247,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-30,Antigua and Barbuda,#Global,94.0,3.0,91.0,0.0
 2020-08-30,Argentina,#Global,408426.0,8457.0,294007.0,105962.0
 2020-08-30,Armenia,#Global,43750.0,877.0,37650.0,5223.0
-2020-08-30,Australia (total),#Global,25746.0,652.0,21114.0,3980.0
+2020-08-30,Australia (total),#Global,25746.0,652.0,21116.0,3978.0
 2020-08-30,Austria,#Global,27166.0,733.0,23070.0,3363.0
 2020-08-30,Azerbaijan,#Global,36309.0,531.0,33703.0,2075.0
 2020-08-30,Bahamas,#Global,2167.0,50.0,782.0,1335.0
@@ -57432,7 +57432,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-30,Zimbabwe,#Global,6412.0,196.0,5061.0,1155.0
 2020-08-30,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-30,New South Wales,Australia,4050.0,52.0,2994.0,1004.0
-2020-08-30,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-30,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-30,Queensland,Australia,1122.0,6.0,1084.0,32.0
 2020-08-30,South Australia,Australia,463.0,4.0,458.0,1.0
 2020-08-30,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -57497,7 +57497,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-30,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-30,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-30,Turks and Caicos Islands,United Kingdom,505.0,3.0,148.0,354.0
-2020-08-31,#Worldwide,#Global,25352675.0,841399.0,16703223.0,7808053.0
+2020-08-31,#Worldwide,#Global,25352675.0,841399.0,16703225.0,7808051.0
 2020-08-31,Afghanistan,#Global,38165.0,1402.0,29089.0,7674.0
 2020-08-31,Albania,#Global,9513.0,284.0,5214.0,4015.0
 2020-08-31,Algeria,#Global,44494.0,1510.0,31244.0,11740.0
@@ -57506,7 +57506,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-31,Antigua and Barbuda,#Global,94.0,3.0,91.0,0.0
 2020-08-31,Argentina,#Global,417735.0,8660.0,301195.0,107880.0
 2020-08-31,Armenia,#Global,43781.0,879.0,37722.0,5180.0
-2020-08-31,Australia (total),#Global,25819.0,657.0,21348.0,3814.0
+2020-08-31,Australia (total),#Global,25819.0,657.0,21350.0,3812.0
 2020-08-31,Austria,#Global,27438.0,733.0,23226.0,3479.0
 2020-08-31,Azerbaijan,#Global,36435.0,534.0,33847.0,2054.0
 2020-08-31,Bahamas,#Global,2217.0,50.0,801.0,1366.0
@@ -57691,7 +57691,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-31,Zimbabwe,#Global,6497.0,202.0,5221.0,1074.0
 2020-08-31,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-31,New South Wales,Australia,4063.0,52.0,2994.0,1017.0
-2020-08-31,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-08-31,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-08-31,Queensland,Australia,1124.0,6.0,1084.0,34.0
 2020-08-31,South Australia,Australia,463.0,4.0,458.0,1.0
 2020-08-31,Tasmania,Australia,230.0,13.0,216.0,1.0
@@ -57756,7 +57756,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-31,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-08-31,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-08-31,Turks and Caicos Islands,United Kingdom,508.0,4.0,200.0,304.0
-2020-09-01,#Worldwide,#Global,25616469.0,847881.0,16957808.0,7810780.0
+2020-09-01,#Worldwide,#Global,25616469.0,847881.0,16957810.0,7810778.0
 2020-09-01,Afghanistan,#Global,38196.0,1406.0,29231.0,7559.0
 2020-09-01,Albania,#Global,9606.0,290.0,5441.0,3875.0
 2020-09-01,Algeria,#Global,44833.0,1518.0,31493.0,11822.0
@@ -57765,7 +57765,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-01,Antigua and Barbuda,#Global,94.0,3.0,91.0,0.0
 2020-09-01,Argentina,#Global,428239.0,8919.0,308376.0,110944.0
 2020-09-01,Armenia,#Global,43878.0,881.0,38356.0,4641.0
-2020-09-01,Australia (total),#Global,25923.0,663.0,21687.0,3573.0
+2020-09-01,Australia (total),#Global,25923.0,663.0,21689.0,3571.0
 2020-09-01,Austria,#Global,27642.0,734.0,23565.0,3343.0
 2020-09-01,Azerbaijan,#Global,36578.0,536.0,33977.0,2065.0
 2020-09-01,Bahamas,#Global,2276.0,50.0,801.0,1425.0
@@ -57950,7 +57950,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-01,Zimbabwe,#Global,6559.0,203.0,5241.0,1115.0
 2020-09-01,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-01,New South Wales,Australia,4079.0,52.0,2994.0,1033.0
-2020-09-01,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-01,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-01,Queensland,Australia,1126.0,6.0,1084.0,36.0
 2020-09-01,South Australia,Australia,463.0,4.0,458.0,1.0
 2020-09-01,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -58015,7 +58015,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-01,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-09-01,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-01,Turks and Caicos Islands,United Kingdom,538.0,4.0,218.0,316.0
-2020-09-02,#Worldwide,#Global,25898763.0,853897.0,17176143.0,7868723.0
+2020-09-02,#Worldwide,#Global,25898763.0,853897.0,17176145.0,7868721.0
 2020-09-02,Afghanistan,#Global,38243.0,1409.0,29315.0,7519.0
 2020-09-02,Albania,#Global,9728.0,296.0,5582.0,3850.0
 2020-09-02,Algeria,#Global,45158.0,1523.0,31746.0,11889.0
@@ -58024,7 +58024,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-02,Antigua and Barbuda,#Global,94.0,3.0,91.0,0.0
 2020-09-02,Argentina,#Global,439172.0,9118.0,315530.0,114524.0
 2020-09-02,Armenia,#Global,44075.0,884.0,38631.0,4560.0
-2020-09-02,Australia (total),#Global,26049.0,678.0,21690.0,3681.0
+2020-09-02,Australia (total),#Global,26049.0,678.0,21692.0,3679.0
 2020-09-02,Austria,#Global,27969.0,734.0,23820.0,3415.0
 2020-09-02,Azerbaijan,#Global,36732.0,538.0,34116.0,2078.0
 2020-09-02,Bahamas,#Global,2337.0,50.0,849.0,1438.0
@@ -58209,7 +58209,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-02,Zimbabwe,#Global,6638.0,206.0,5250.0,1182.0
 2020-09-02,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-02,New South Wales,Australia,4091.0,52.0,2994.0,1045.0
-2020-09-02,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-02,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-02,Queensland,Australia,1128.0,6.0,1086.0,36.0
 2020-09-02,South Australia,Australia,463.0,4.0,459.0,0.0
 2020-09-02,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -58274,7 +58274,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-02,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-09-02,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-02,Turks and Caicos Islands,United Kingdom,538.0,4.0,218.0,316.0
-2020-09-03,#Worldwide,#Global,26179113.0,859604.0,17396633.0,7922876.0
+2020-09-03,#Worldwide,#Global,26179113.0,859604.0,17396635.0,7922874.0
 2020-09-03,Afghanistan,#Global,38288.0,1409.0,29390.0,7489.0
 2020-09-03,Albania,#Global,9844.0,301.0,5732.0,3811.0
 2020-09-03,Algeria,#Global,45469.0,1529.0,32006.0,11934.0
@@ -58283,7 +58283,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-03,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-03,Argentina,#Global,451198.0,9361.0,322461.0,119376.0
 2020-09-03,Armenia,#Global,44271.0,887.0,38855.0,4529.0
-2020-09-03,Australia (total),#Global,26136.0,737.0,21912.0,3487.0
+2020-09-03,Australia (total),#Global,26136.0,737.0,21914.0,3485.0
 2020-09-03,Austria,#Global,28372.0,735.0,24171.0,3466.0
 2020-09-03,Azerbaijan,#Global,36899.0,541.0,34264.0,2094.0
 2020-09-03,Bahamas,#Global,2386.0,50.0,893.0,1443.0
@@ -58468,7 +58468,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-03,Zimbabwe,#Global,6678.0,206.0,5263.0,1209.0
 2020-09-03,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-03,New South Wales,Australia,4099.0,52.0,2994.0,1053.0
-2020-09-03,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-03,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-03,Queensland,Australia,1128.0,6.0,1088.0,34.0
 2020-09-03,South Australia,Australia,463.0,4.0,459.0,0.0
 2020-09-03,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -58533,7 +58533,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-03,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-09-03,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-03,Turks and Caicos Islands,United Kingdom,577.0,5.0,220.0,352.0
-2020-09-04,#Worldwide,#Global,26491338.0,865512.0,17610093.0,8015733.0
+2020-09-04,#Worldwide,#Global,26491338.0,865512.0,17610095.0,8015731.0
 2020-09-04,Afghanistan,#Global,38304.0,1409.0,29713.0,7182.0
 2020-09-04,Albania,#Global,9967.0,306.0,5882.0,3779.0
 2020-09-04,Algeria,#Global,45773.0,1539.0,32259.0,11975.0
@@ -58542,7 +58542,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-04,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-04,Argentina,#Global,461882.0,9623.0,331621.0,120638.0
 2020-09-04,Armenia,#Global,44461.0,891.0,39257.0,4313.0
-2020-09-04,Australia (total),#Global,26207.0,748.0,22170.0,3289.0
+2020-09-04,Australia (total),#Global,26207.0,748.0,22172.0,3287.0
 2020-09-04,Austria,#Global,28729.0,735.0,24513.0,3481.0
 2020-09-04,Azerbaijan,#Global,37031.0,543.0,34419.0,2069.0
 2020-09-04,Bahamas,#Global,2386.0,50.0,893.0,1443.0
@@ -58727,7 +58727,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-04,Zimbabwe,#Global,6837.0,206.0,5345.0,1286.0
 2020-09-04,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-04,New South Wales,Australia,4104.0,52.0,2994.0,1058.0
-2020-09-04,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-04,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-04,Queensland,Australia,1129.0,6.0,1089.0,34.0
 2020-09-04,South Australia,Australia,463.0,4.0,459.0,0.0
 2020-09-04,Tasmania,Australia,231.0,13.0,218.0,0.0
@@ -58792,7 +58792,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-04,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-09-04,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-04,Turks and Caicos Islands,United Kingdom,591.0,5.0,221.0,365.0
-2020-09-05,#Worldwide,#Global,26754260.0,870453.0,17810870.0,8072937.0
+2020-09-05,#Worldwide,#Global,26754260.0,870453.0,17810872.0,8072935.0
 2020-09-05,Afghanistan,#Global,38324.0,1409.0,30082.0,6833.0
 2020-09-05,Albania,#Global,10102.0,312.0,5976.0,3814.0
 2020-09-05,Algeria,#Global,46071.0,1549.0,32481.0,12041.0
@@ -58801,7 +58801,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-05,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-05,Argentina,#Global,471806.0,9739.0,340381.0,121686.0
 2020-09-05,Armenia,#Global,44649.0,895.0,39823.0,3931.0
-2020-09-05,Australia (total),#Global,26278.0,753.0,22328.0,3197.0
+2020-09-05,Australia (total),#Global,26278.0,753.0,22330.0,3195.0
 2020-09-05,Austria,#Global,29087.0,735.0,24828.0,3524.0
 2020-09-05,Azerbaijan,#Global,37192.0,545.0,34565.0,2082.0
 2020-09-05,Bahamas,#Global,2476.0,55.0,948.0,1473.0
@@ -58986,7 +58986,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-05,Zimbabwe,#Global,6837.0,206.0,5345.0,1286.0
 2020-09-05,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-05,New South Wales,Australia,4114.0,52.0,2994.0,1068.0
-2020-09-05,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-05,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-05,Queensland,Australia,1131.0,6.0,1089.0,36.0
 2020-09-05,South Australia,Australia,464.0,4.0,459.0,1.0
 2020-09-05,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -59051,7 +59051,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-05,Isle of Man,United Kingdom,336.0,24.0,312.0,0.0
 2020-09-05,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-05,Turks and Caicos Islands,United Kingdom,598.0,5.0,264.0,329.0
-2020-09-06,#Worldwide,#Global,26976007.0,874220.0,18020876.0,8080911.0
+2020-09-06,#Worldwide,#Global,26976007.0,874220.0,18020878.0,8080909.0
 2020-09-06,Afghanistan,#Global,38398.0,1412.0,30537.0,6449.0
 2020-09-06,Albania,#Global,10255.0,316.0,6106.0,3833.0
 2020-09-06,Algeria,#Global,46364.0,1556.0,32745.0,12063.0
@@ -59060,7 +59060,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-06,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-06,Argentina,#Global,478792.0,9859.0,349132.0,119801.0
 2020-09-06,Armenia,#Global,44783.0,897.0,40089.0,3797.0
-2020-09-06,Australia (total),#Global,26321.0,762.0,22465.0,3094.0
+2020-09-06,Australia (total),#Global,26321.0,762.0,22467.0,3092.0
 2020-09-06,Austria,#Global,29271.0,736.0,25043.0,3492.0
 2020-09-06,Azerbaijan,#Global,37329.0,548.0,34705.0,2076.0
 2020-09-06,Bahamas,#Global,2506.0,56.0,948.0,1502.0
@@ -59245,7 +59245,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-06,Zimbabwe,#Global,6837.0,206.0,5345.0,1286.0
 2020-09-06,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-06,New South Wales,Australia,4118.0,52.0,2994.0,1072.0
-2020-09-06,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-06,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-06,Queensland,Australia,1133.0,6.0,1089.0,38.0
 2020-09-06,South Australia,Australia,464.0,4.0,459.0,1.0
 2020-09-06,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -59310,7 +59310,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-06,Isle of Man,United Kingdom,337.0,24.0,312.0,1.0
 2020-09-06,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-06,Turks and Caicos Islands,United Kingdom,598.0,5.0,264.0,329.0
-2020-09-07,#Worldwide,#Global,27209401.0,883530.0,18219581.0,8106290.0
+2020-09-07,#Worldwide,#Global,27209401.0,883530.0,18219583.0,8106288.0
 2020-09-07,Afghanistan,#Global,38494.0,1415.0,30557.0,6522.0
 2020-09-07,Albania,#Global,10406.0,319.0,6186.0,3901.0
 2020-09-07,Algeria,#Global,46653.0,1562.0,32985.0,12106.0
@@ -59319,7 +59319,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-07,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-07,Argentina,#Global,488007.0,10129.0,357388.0,120490.0
 2020-09-07,Armenia,#Global,44845.0,900.0,40121.0,3824.0
-2020-09-07,Australia (total),#Global,26373.0,770.0,22602.0,3001.0
+2020-09-07,Australia (total),#Global,26373.0,770.0,22604.0,2999.0
 2020-09-07,Austria,#Global,29561.0,746.0,25300.0,3515.0
 2020-09-07,Azerbaijan,#Global,37418.0,551.0,34837.0,2030.0
 2020-09-07,Bahamas,#Global,2546.0,58.0,976.0,1512.0
@@ -59504,7 +59504,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-07,Zimbabwe,#Global,7298.0,210.0,5455.0,1633.0
 2020-09-07,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-07,New South Wales,Australia,4126.0,52.0,2994.0,1080.0
-2020-09-07,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-07,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-07,Queensland,Australia,1134.0,6.0,1090.0,38.0
 2020-09-07,South Australia,Australia,464.0,4.0,460.0,0.0
 2020-09-07,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -59569,7 +59569,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-07,Isle of Man,United Kingdom,337.0,24.0,312.0,1.0
 2020-09-07,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-07,Turks and Caicos Islands,United Kingdom,599.0,5.0,264.0,330.0
-2020-09-08,#Worldwide,#Global,27441367.0,888260.0,18406965.0,8146142.0
+2020-09-08,#Worldwide,#Global,27441367.0,888260.0,18406967.0,8146140.0
 2020-09-08,Afghanistan,#Global,38520.0,1418.0,30715.0,6387.0
 2020-09-08,Albania,#Global,10553.0,321.0,6239.0,3993.0
 2020-09-08,Algeria,#Global,46938.0,1571.0,33183.0,12184.0
@@ -59578,7 +59578,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-08,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-08,Argentina,#Global,500034.0,10405.0,366590.0,123039.0
 2020-09-08,Armenia,#Global,44953.0,903.0,40592.0,3458.0
-2020-09-08,Australia (total),#Global,26465.0,781.0,22723.0,2961.0
+2020-09-08,Australia (total),#Global,26465.0,781.0,22725.0,2959.0
 2020-09-08,Austria,#Global,30081.0,747.0,25629.0,3705.0
 2020-09-08,Azerbaijan,#Global,37557.0,552.0,34965.0,2040.0
 2020-09-08,Bahamas,#Global,2585.0,59.0,976.0,1550.0
@@ -59763,7 +59763,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-08,Zimbabwe,#Global,7388.0,218.0,5477.0,1693.0
 2020-09-08,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-08,New South Wales,Australia,4135.0,52.0,2994.0,1089.0
-2020-09-08,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-08,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-08,Queensland,Australia,1143.0,6.0,1091.0,46.0
 2020-09-08,South Australia,Australia,465.0,4.0,461.0,0.0
 2020-09-08,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -59828,7 +59828,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-08,Isle of Man,United Kingdom,337.0,24.0,312.0,1.0
 2020-09-08,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-08,Turks and Caicos Islands,United Kingdom,614.0,5.0,264.0,345.0
-2020-09-09,#Worldwide,#Global,27733352.0,894555.0,18659072.0,8179725.0
+2020-09-09,#Worldwide,#Global,27733352.0,894555.0,18659074.0,8179723.0
 2020-09-09,Afghanistan,#Global,38544.0,1420.0,31048.0,6076.0
 2020-09-09,Albania,#Global,10704.0,322.0,6284.0,4098.0
 2020-09-09,Algeria,#Global,47216.0,1581.0,33379.0,12256.0
@@ -59837,7 +59837,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-09,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-09,Argentina,#Global,512293.0,10658.0,382490.0,119145.0
 2020-09-09,Armenia,#Global,45152.0,905.0,41023.0,3224.0
-2020-09-09,Australia (total),#Global,26524.0,788.0,22861.0,2875.0
+2020-09-09,Australia (total),#Global,26524.0,788.0,22863.0,2873.0
 2020-09-09,Austria,#Global,30583.0,747.0,25764.0,4072.0
 2020-09-09,Azerbaijan,#Global,37732.0,555.0,35119.0,2058.0
 2020-09-09,Bahamas,#Global,2721.0,63.0,1183.0,1475.0
@@ -60022,7 +60022,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-09,Zimbabwe,#Global,7429.0,222.0,5542.0,1665.0
 2020-09-09,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-09,New South Wales,Australia,4142.0,52.0,2994.0,1096.0
-2020-09-09,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-09,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-09,Queensland,Australia,1143.0,6.0,1091.0,46.0
 2020-09-09,South Australia,Australia,465.0,4.0,461.0,0.0
 2020-09-09,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -60087,7 +60087,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-09,Isle of Man,United Kingdom,337.0,24.0,312.0,1.0
 2020-09-09,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-09,Turks and Caicos Islands,United Kingdom,628.0,5.0,266.0,357.0
-2020-09-10,#Worldwide,#Global,28031826.0,900359.0,18873780.0,8257687.0
+2020-09-10,#Worldwide,#Global,28031826.0,900359.0,18873782.0,8257685.0
 2020-09-10,Afghanistan,#Global,38572.0,1420.0,31129.0,6023.0
 2020-09-10,Albania,#Global,10860.0,324.0,6346.0,4190.0
 2020-09-10,Algeria,#Global,47488.0,1591.0,33562.0,12335.0
@@ -60096,7 +60096,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-10,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-10,Argentina,#Global,524198.0,10907.0,390098.0,123193.0
 2020-09-10,Armenia,#Global,45326.0,906.0,41233.0,3187.0
-2020-09-10,Australia (total),#Global,26564.0,797.0,23037.0,2730.0
+2020-09-10,Australia (total),#Global,26564.0,797.0,23039.0,2728.0
 2020-09-10,Austria,#Global,31247.0,748.0,26043.0,4456.0
 2020-09-10,Azerbaijan,#Global,37874.0,556.0,35269.0,2049.0
 2020-09-10,Bahamas,#Global,2721.0,63.0,1183.0,1475.0
@@ -60281,7 +60281,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-10,Zimbabwe,#Global,7453.0,222.0,5635.0,1596.0
 2020-09-10,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-10,New South Wales,Australia,4152.0,52.0,2994.0,1106.0
-2020-09-10,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-10,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-10,Queensland,Australia,1145.0,6.0,1094.0,45.0
 2020-09-10,South Australia,Australia,465.0,4.0,461.0,0.0
 2020-09-10,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -60346,7 +60346,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-10,Isle of Man,United Kingdom,337.0,24.0,312.0,1.0
 2020-09-10,Montserrat,United Kingdom,13.0,1.0,11.0,1.0
 2020-09-10,Turks and Caicos Islands,United Kingdom,638.0,5.0,270.0,363.0
-2020-09-11,#Worldwide,#Global,28351014.0,906240.0,19096625.0,8348149.0
+2020-09-11,#Worldwide,#Global,28351014.0,906240.0,19096627.0,8348147.0
 2020-09-11,Afghanistan,#Global,38606.0,1420.0,31154.0,6032.0
 2020-09-11,Albania,#Global,11021.0,327.0,6443.0,4251.0
 2020-09-11,Algeria,#Global,47752.0,1599.0,33723.0,12430.0
@@ -60355,7 +60355,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-11,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-11,Argentina,#Global,535705.0,11148.0,400121.0,124436.0
 2020-09-11,Armenia,#Global,45503.0,909.0,41434.0,3160.0
-2020-09-11,Australia (total),#Global,26607.0,803.0,23327.0,2477.0
+2020-09-11,Australia (total),#Global,26607.0,803.0,23329.0,2475.0
 2020-09-11,Austria,#Global,31827.0,750.0,26257.0,4820.0
 2020-09-11,Azerbaijan,#Global,38037.0,557.0,35440.0,2040.0
 2020-09-11,Bahamas,#Global,2814.0,65.0,1220.0,1529.0
@@ -60540,7 +60540,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-11,Zimbabwe,#Global,7479.0,224.0,5660.0,1595.0
 2020-09-11,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-11,New South Wales,Australia,4157.0,52.0,2994.0,1111.0
-2020-09-11,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-11,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-11,Queensland,Australia,1149.0,6.0,1096.0,47.0
 2020-09-11,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-11,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -60605,7 +60605,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-11,Isle of Man,United Kingdom,337.0,24.0,312.0,1.0
 2020-09-11,Montserrat,United Kingdom,13.0,1.0,11.0,1.0
 2020-09-11,Turks and Caicos Islands,United Kingdom,641.0,5.0,270.0,366.0
-2020-09-12,#Worldwide,#Global,28627871.0,911112.0,19319697.0,8397062.0
+2020-09-12,#Worldwide,#Global,28627871.0,911112.0,19319699.0,8397060.0
 2020-09-12,Afghanistan,#Global,38641.0,1420.0,31234.0,5987.0
 2020-09-12,Albania,#Global,11185.0,330.0,6494.0,4361.0
 2020-09-12,Algeria,#Global,48007.0,1605.0,33875.0,12527.0
@@ -60614,7 +60614,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-12,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-12,Argentina,#Global,546481.0,11263.0,409771.0,125447.0
 2020-09-12,Armenia,#Global,45675.0,911.0,41605.0,3159.0
-2020-09-12,Australia (total),#Global,26651.0,810.0,23338.0,2503.0
+2020-09-12,Australia (total),#Global,26651.0,810.0,23340.0,2501.0
 2020-09-12,Austria,#Global,32696.0,754.0,26579.0,5363.0
 2020-09-12,Azerbaijan,#Global,38172.0,559.0,35607.0,2006.0
 2020-09-12,Bahamas,#Global,2928.0,67.0,1319.0,1542.0
@@ -60799,7 +60799,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-12,Zimbabwe,#Global,7508.0,224.0,5675.0,1609.0
 2020-09-12,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-12,New South Wales,Australia,4166.0,52.0,2994.0,1120.0
-2020-09-12,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-12,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-12,Queensland,Australia,1149.0,6.0,1107.0,36.0
 2020-09-12,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-12,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -60864,7 +60864,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-12,Isle of Man,United Kingdom,337.0,24.0,312.0,1.0
 2020-09-12,Montserrat,United Kingdom,13.0,1.0,11.0,1.0
 2020-09-12,Turks and Caicos Islands,United Kingdom,641.0,5.0,270.0,366.0
-2020-09-13,#Worldwide,#Global,28863519.0,914761.0,19505316.0,8443442.0
+2020-09-13,#Worldwide,#Global,28863519.0,914761.0,19505318.0,8443440.0
 2020-09-13,Afghanistan,#Global,38716.0,1420.0,31638.0,5658.0
 2020-09-13,Albania,#Global,11353.0,334.0,6569.0,4450.0
 2020-09-13,Algeria,#Global,48254.0,1612.0,34037.0,12605.0
@@ -60873,7 +60873,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-13,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-13,Argentina,#Global,555537.0,11352.0,419513.0,124672.0
 2020-09-13,Armenia,#Global,45862.0,916.0,41659.0,3287.0
-2020-09-13,Australia (total),#Global,26692.0,816.0,23463.0,2413.0
+2020-09-13,Australia (total),#Global,26692.0,816.0,23465.0,2411.0
 2020-09-13,Austria,#Global,33159.0,756.0,26760.0,5643.0
 2020-09-13,Azerbaijan,#Global,38327.0,562.0,35756.0,2009.0
 2020-09-13,Bahamas,#Global,2928.0,67.0,1319.0,1542.0
@@ -61058,7 +61058,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-13,Zimbabwe,#Global,7526.0,224.0,5678.0,1624.0
 2020-09-13,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-13,New South Wales,Australia,4170.0,52.0,2994.0,1124.0
-2020-09-13,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-13,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-13,Queensland,Australia,1149.0,6.0,1110.0,33.0
 2020-09-13,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-13,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -61123,7 +61123,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-13,Isle of Man,United Kingdom,337.0,24.0,312.0,1.0
 2020-09-13,Montserrat,United Kingdom,13.0,1.0,11.0,1.0
 2020-09-13,Turks and Caicos Islands,United Kingdom,646.0,5.0,532.0,109.0
-2020-09-14,#Worldwide,#Global,29141809.0,919186.0,19734069.0,8488554.0
+2020-09-14,#Worldwide,#Global,29141809.0,919186.0,19734071.0,8488552.0
 2020-09-14,Afghanistan,#Global,38772.0,1425.0,32073.0,5274.0
 2020-09-14,Albania,#Global,11520.0,338.0,6615.0,4567.0
 2020-09-14,Algeria,#Global,48496.0,1620.0,34204.0,12672.0
@@ -61132,7 +61132,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-14,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-14,Argentina,#Global,565446.0,11667.0,428953.0,124826.0
 2020-09-14,Armenia,#Global,45969.0,919.0,41693.0,3357.0
-2020-09-14,Australia (total),#Global,26739.0,816.0,23577.0,2346.0
+2020-09-14,Australia (total),#Global,26739.0,816.0,23579.0,2344.0
 2020-09-14,Austria,#Global,33541.0,757.0,27010.0,5774.0
 2020-09-14,Azerbaijan,#Global,38403.0,564.0,35860.0,1979.0
 2020-09-14,Bahamas,#Global,3008.0,68.0,1391.0,1549.0
@@ -61317,7 +61317,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-14,Zimbabwe,#Global,7531.0,224.0,5690.0,1617.0
 2020-09-14,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-14,New South Wales,Australia,4177.0,52.0,2994.0,1131.0
-2020-09-14,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-14,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-14,Queensland,Australia,1150.0,6.0,1111.0,33.0
 2020-09-14,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-14,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -61382,7 +61382,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-14,Isle of Man,United Kingdom,339.0,24.0,312.0,3.0
 2020-09-14,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-14,Turks and Caicos Islands,United Kingdom,648.0,5.0,532.0,111.0
-2020-09-15,#Worldwide,#Global,29424871.0,925726.0,19958198.0,8540947.0
+2020-09-15,#Worldwide,#Global,29424871.0,925726.0,19958200.0,8540945.0
 2020-09-15,Afghanistan,#Global,38815.0,1426.0,32098.0,5291.0
 2020-09-15,Albania,#Global,11672.0,340.0,6668.0,4664.0
 2020-09-15,Algeria,#Global,48734.0,1632.0,34385.0,12717.0
@@ -61391,7 +61391,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-15,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-15,Argentina,#Global,577338.0,11852.0,438883.0,126603.0
 2020-09-15,Armenia,#Global,46119.0,920.0,41941.0,3258.0
-2020-09-15,Australia (total),#Global,26778.0,824.0,23650.0,2304.0
+2020-09-15,Australia (total),#Global,26778.0,824.0,23652.0,2302.0
 2020-09-15,Austria,#Global,34305.0,757.0,27354.0,6194.0
 2020-09-15,Azerbaijan,#Global,38517.0,566.0,35998.0,1953.0
 2020-09-15,Bahamas,#Global,3032.0,69.0,1482.0,1481.0
@@ -61576,7 +61576,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-15,Zimbabwe,#Global,7576.0,224.0,5783.0,1569.0
 2020-09-15,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-15,New South Wales,Australia,4185.0,52.0,2994.0,1139.0
-2020-09-15,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-15,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-15,Queensland,Australia,1149.0,6.0,1111.0,32.0
 2020-09-15,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-15,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -61641,7 +61641,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-15,Isle of Man,United Kingdom,339.0,24.0,312.0,3.0
 2020-09-15,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-15,Turks and Caicos Islands,United Kingdom,650.0,5.0,557.0,88.0
-2020-09-16,#Worldwide,#Global,29728844.0,931478.0,20186687.0,8610679.0
+2020-09-16,#Worldwide,#Global,29728844.0,931478.0,20186689.0,8610677.0
 2020-09-16,Afghanistan,#Global,38855.0,1436.0,32503.0,4916.0
 2020-09-16,Albania,#Global,11816.0,343.0,6733.0,4740.0
 2020-09-16,Algeria,#Global,48966.0,1645.0,34517.0,12804.0
@@ -61650,7 +61650,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-16,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-16,Argentina,#Global,589012.0,12116.0,448263.0,128633.0
 2020-09-16,Armenia,#Global,46376.0,923.0,42069.0,3384.0
-2020-09-16,Australia (total),#Global,26813.0,832.0,23790.0,2191.0
+2020-09-16,Australia (total),#Global,26813.0,832.0,23792.0,2189.0
 2020-09-16,Austria,#Global,35073.0,758.0,27655.0,6660.0
 2020-09-16,Azerbaijan,#Global,38658.0,569.0,36149.0,1940.0
 2020-09-16,Bahamas,#Global,3087.0,69.0,1533.0,1485.0
@@ -61835,7 +61835,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-16,Zimbabwe,#Global,7598.0,224.0,5823.0,1551.0
 2020-09-16,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-16,New South Wales,Australia,4190.0,52.0,2994.0,1144.0
-2020-09-16,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-16,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-16,Queensland,Australia,1150.0,6.0,1111.0,33.0
 2020-09-16,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-16,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -61900,7 +61900,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-16,Isle of Man,United Kingdom,339.0,24.0,312.0,3.0
 2020-09-16,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-16,Turks and Caicos Islands,United Kingdom,659.0,5.0,561.0,93.0
-2020-09-17,#Worldwide,#Global,30041594.0,936932.0,20405601.0,8699061.0
+2020-09-17,#Worldwide,#Global,30041594.0,936932.0,20405603.0,8699059.0
 2020-09-17,Afghanistan,#Global,38872.0,1436.0,32505.0,4931.0
 2020-09-17,Albania,#Global,11948.0,347.0,6788.0,4813.0
 2020-09-17,Algeria,#Global,49194.0,1654.0,34675.0,12865.0
@@ -61909,7 +61909,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-17,Antigua and Barbuda,#Global,95.0,3.0,91.0,1.0
 2020-09-17,Argentina,#Global,601713.0,12460.0,456347.0,132906.0
 2020-09-17,Armenia,#Global,46671.0,925.0,42231.0,3515.0
-2020-09-17,Australia (total),#Global,26861.0,837.0,23852.0,2172.0
+2020-09-17,Australia (total),#Global,26861.0,837.0,23854.0,2170.0
 2020-09-17,Austria,#Global,35853.0,758.0,28044.0,7051.0
 2020-09-17,Azerbaijan,#Global,38777.0,571.0,36289.0,1917.0
 2020-09-17,Bahamas,#Global,3177.0,69.0,1626.0,1482.0
@@ -62094,7 +62094,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-17,Zimbabwe,#Global,7633.0,224.0,5841.0,1568.0
 2020-09-17,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-17,New South Wales,Australia,4196.0,52.0,2994.0,1150.0
-2020-09-17,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-17,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-17,Queensland,Australia,1150.0,6.0,1112.0,32.0
 2020-09-17,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-17,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -62159,7 +62159,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-17,Isle of Man,United Kingdom,339.0,24.0,312.0,3.0
 2020-09-17,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-17,Turks and Caicos Islands,United Kingdom,663.0,5.0,565.0,93.0
-2020-09-18,#Worldwide,#Global,30363892.0,942634.0,20656873.0,8764385.0
+2020-09-18,#Worldwide,#Global,30363892.0,942634.0,20656875.0,8764383.0
 2020-09-18,Afghanistan,#Global,38883.0,1437.0,32576.0,4870.0
 2020-09-18,Albania,#Global,12073.0,353.0,6831.0,4889.0
 2020-09-18,Algeria,#Global,49413.0,1659.0,34818.0,12936.0
@@ -62168,7 +62168,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-18,Antigua and Barbuda,#Global,95.0,3.0,92.0,0.0
 2020-09-18,Argentina,#Global,613658.0,12656.0,467286.0,133716.0
 2020-09-18,Armenia,#Global,46910.0,926.0,42369.0,3615.0
-2020-09-18,Australia (total),#Global,26885.0,844.0,23859.0,2182.0
+2020-09-18,Australia (total),#Global,26885.0,844.0,23861.0,2180.0
 2020-09-18,Austria,#Global,36661.0,763.0,28451.0,7447.0
 2020-09-18,Azerbaijan,#Global,38894.0,572.0,36424.0,1898.0
 2020-09-18,Bahamas,#Global,3177.0,69.0,1626.0,1482.0
@@ -62353,7 +62353,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-18,Zimbabwe,#Global,7647.0,224.0,5883.0,1540.0
 2020-09-18,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-18,New South Wales,Australia,4198.0,52.0,2994.0,1152.0
-2020-09-18,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-18,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-18,Queensland,Australia,1150.0,6.0,1118.0,26.0
 2020-09-18,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-18,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -62418,7 +62418,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-18,Isle of Man,United Kingdom,339.0,24.0,312.0,3.0
 2020-09-18,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-18,Turks and Caicos Islands,United Kingdom,667.0,5.0,567.0,95.0
-2020-09-19,#Worldwide,#Global,30644486.0,947863.0,20894480.0,8802143.0
+2020-09-19,#Worldwide,#Global,30644486.0,947863.0,20894482.0,8802141.0
 2020-09-19,Afghanistan,#Global,38919.0,1437.0,32576.0,4906.0
 2020-09-19,Albania,#Global,12226.0,358.0,6888.0,4980.0
 2020-09-19,Algeria,#Global,49623.0,1665.0,34923.0,13035.0
@@ -62427,7 +62427,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-19,Antigua and Barbuda,#Global,96.0,3.0,92.0,1.0
 2020-09-19,Argentina,#Global,622934.0,12799.0,478077.0,132058.0
 2020-09-19,Armenia,#Global,47154.0,928.0,42551.0,3675.0
-2020-09-19,Australia (total),#Global,26898.0,849.0,23966.0,2083.0
+2020-09-19,Australia (total),#Global,26898.0,849.0,23968.0,2081.0
 2020-09-19,Austria,#Global,37474.0,765.0,28961.0,7748.0
 2020-09-19,Azerbaijan,#Global,39042.0,574.0,36601.0,1867.0
 2020-09-19,Bahamas,#Global,3214.0,73.0,1679.0,1462.0
@@ -62612,7 +62612,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-19,Zimbabwe,#Global,7672.0,225.0,5914.0,1533.0
 2020-09-19,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-19,New South Wales,Australia,4200.0,53.0,2994.0,1153.0
-2020-09-19,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-19,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-19,Queensland,Australia,1152.0,6.0,1123.0,23.0
 2020-09-19,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-19,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -62677,7 +62677,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-19,Isle of Man,United Kingdom,339.0,24.0,312.0,3.0
 2020-09-19,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-19,Turks and Caicos Islands,United Kingdom,668.0,5.0,572.0,91.0
-2020-09-20,#Worldwide,#Global,30884140.0,951554.0,21130005.0,8802581.0
+2020-09-20,#Worldwide,#Global,30884140.0,951554.0,21130007.0,8802579.0
 2020-09-20,Afghanistan,#Global,39044.0,1441.0,32576.0,5027.0
 2020-09-20,Albania,#Global,12385.0,362.0,6940.0,5083.0
 2020-09-20,Algeria,#Global,49826.0,1672.0,35047.0,13107.0
@@ -62686,7 +62686,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-20,Antigua and Barbuda,#Global,96.0,3.0,92.0,1.0
 2020-09-20,Argentina,#Global,631365.0,13053.0,488231.0,130081.0
 2020-09-20,Armenia,#Global,47431.0,930.0,42608.0,3893.0
-2020-09-20,Australia (total),#Global,26912.0,851.0,24061.0,2000.0
+2020-09-20,Australia (total),#Global,26912.0,851.0,24063.0,1998.0
 2020-09-20,Austria,#Global,38095.0,766.0,29229.0,8100.0
 2020-09-20,Azerbaijan,#Global,39188.0,575.0,36755.0,1858.0
 2020-09-20,Bahamas,#Global,3315.0,74.0,1689.0,1552.0
@@ -62871,7 +62871,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-20,Zimbabwe,#Global,7683.0,225.0,5924.0,1534.0
 2020-09-20,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-20,New South Wales,Australia,4204.0,53.0,2994.0,1157.0
-2020-09-20,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-20,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-20,Queensland,Australia,1153.0,6.0,1124.0,23.0
 2020-09-20,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-20,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -62936,7 +62936,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-20,Isle of Man,United Kingdom,339.0,24.0,312.0,3.0
 2020-09-20,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-20,Turks and Caicos Islands,United Kingdom,668.0,5.0,572.0,91.0
-2020-09-21,#Worldwide,#Global,31181688.0,955594.0,21372263.0,8853831.0
+2020-09-21,#Worldwide,#Global,31181688.0,955594.0,21372265.0,8853829.0
 2020-09-21,Afghanistan,#Global,39074.0,1444.0,32576.0,5054.0
 2020-09-21,Albania,#Global,12535.0,364.0,6995.0,5176.0
 2020-09-21,Algeria,#Global,50023.0,1679.0,35180.0,13164.0
@@ -62945,7 +62945,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-21,Antigua and Barbuda,#Global,96.0,3.0,92.0,1.0
 2020-09-21,Argentina,#Global,640147.0,13482.0,508563.0,118102.0
 2020-09-21,Armenia,#Global,47552.0,936.0,42637.0,3979.0
-2020-09-21,Australia (total),#Global,26942.0,854.0,24155.0,1933.0
+2020-09-21,Australia (total),#Global,26942.0,854.0,24157.0,1931.0
 2020-09-21,Austria,#Global,38658.0,767.0,29516.0,8375.0
 2020-09-21,Azerbaijan,#Global,39280.0,576.0,36836.0,1868.0
 2020-09-21,Bahamas,#Global,3418.0,75.0,1771.0,1572.0
@@ -63130,7 +63130,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-21,Zimbabwe,#Global,7683.0,225.0,5924.0,1534.0
 2020-09-21,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-21,New South Wales,Australia,4206.0,53.0,2994.0,1159.0
-2020-09-21,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-21,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-21,Queensland,Australia,1153.0,6.0,1124.0,23.0
 2020-09-21,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-21,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -63195,7 +63195,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-21,Isle of Man,United Kingdom,340.0,24.0,312.0,4.0
 2020-09-21,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-21,Turks and Caicos Islands,United Kingdom,668.0,5.0,572.0,91.0
-2020-09-22,#Worldwide,#Global,31459667.0,961467.0,21589317.0,8908883.0
+2020-09-22,#Worldwide,#Global,31459667.0,961467.0,21589319.0,8908881.0
 2020-09-22,Afghanistan,#Global,39096.0,1445.0,32576.0,5075.0
 2020-09-22,Albania,#Global,12666.0,367.0,7042.0,5257.0
 2020-09-22,Algeria,#Global,50214.0,1689.0,35307.0,13218.0
@@ -63204,7 +63204,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-22,Antigua and Barbuda,#Global,96.0,3.0,92.0,1.0
 2020-09-22,Argentina,#Global,652174.0,13952.0,517228.0,120994.0
 2020-09-22,Armenia,#Global,47667.0,938.0,42676.0,4053.0
-2020-09-22,Australia (total),#Global,26972.0,859.0,24329.0,1784.0
+2020-09-22,Australia (total),#Global,26972.0,859.0,24331.0,1782.0
 2020-09-22,Austria,#Global,39303.0,771.0,30312.0,8220.0
 2020-09-22,Azerbaijan,#Global,39378.0,578.0,36949.0,1851.0
 2020-09-22,Bahamas,#Global,3467.0,77.0,1871.0,1519.0
@@ -63389,7 +63389,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-22,Zimbabwe,#Global,7711.0,226.0,5979.0,1506.0
 2020-09-22,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-22,New South Wales,Australia,4212.0,53.0,3107.0,1052.0
-2020-09-22,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-22,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-22,Queensland,Australia,1153.0,6.0,1124.0,23.0
 2020-09-22,South Australia,Australia,466.0,4.0,462.0,0.0
 2020-09-22,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -63454,7 +63454,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-22,Isle of Man,United Kingdom,340.0,24.0,312.0,4.0
 2020-09-22,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-22,Turks and Caicos Islands,United Kingdom,672.0,5.0,581.0,86.0
-2020-09-23,#Worldwide,#Global,31725657.0,967067.0,21852078.0,8906512.0
+2020-09-23,#Worldwide,#Global,31725657.0,967067.0,21852080.0,8906510.0
 2020-09-23,Afghanistan,#Global,39145.0,1446.0,32610.0,5089.0
 2020-09-23,Albania,#Global,12787.0,370.0,7139.0,5278.0
 2020-09-23,Algeria,#Global,50400.0,1698.0,35428.0,13274.0
@@ -63463,7 +63463,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-23,Antigua and Barbuda,#Global,97.0,3.0,92.0,2.0
 2020-09-23,Argentina,#Global,664799.0,14376.0,525486.0,124937.0
 2020-09-23,Armenia,#Global,47877.0,942.0,43026.0,3909.0
-2020-09-23,Australia (total),#Global,26980.0,861.0,24446.0,1673.0
+2020-09-23,Australia (total),#Global,26980.0,861.0,24448.0,1671.0
 2020-09-23,Austria,#Global,39984.0,777.0,30949.0,8258.0
 2020-09-23,Azerbaijan,#Global,39524.0,580.0,37122.0,1822.0
 2020-09-23,Bahamas,#Global,3618.0,80.0,1915.0,1623.0
@@ -63648,7 +63648,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-23,Zimbabwe,#Global,7725.0,227.0,6007.0,1491.0
 2020-09-23,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-23,New South Wales,Australia,4213.0,53.0,3113.0,1047.0
-2020-09-23,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-23,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-23,Queensland,Australia,1153.0,6.0,1125.0,22.0
 2020-09-23,South Australia,Australia,468.0,4.0,462.0,2.0
 2020-09-23,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -63713,7 +63713,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-23,Isle of Man,United Kingdom,340.0,24.0,312.0,4.0
 2020-09-23,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-23,Turks and Caicos Islands,United Kingdom,676.0,5.0,588.0,83.0
-2020-09-24,#Worldwide,#Global,32085528.0,973780.0,22106103.0,9005645.0
+2020-09-24,#Worldwide,#Global,32085528.0,973780.0,22106105.0,9005643.0
 2020-09-24,Afghanistan,#Global,39170.0,1451.0,32619.0,5100.0
 2020-09-24,Albania,#Global,12921.0,370.0,7239.0,5312.0
 2020-09-24,Algeria,#Global,50579.0,1703.0,35544.0,13332.0
@@ -63722,7 +63722,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-24,Antigua and Barbuda,#Global,97.0,3.0,92.0,2.0
 2020-09-24,Argentina,#Global,678266.0,14766.0,536589.0,126911.0
 2020-09-24,Armenia,#Global,48251.0,945.0,43266.0,4040.0
-2020-09-24,Australia (total),#Global,27000.0,869.0,24521.0,1610.0
+2020-09-24,Australia (total),#Global,27000.0,869.0,24523.0,1608.0
 2020-09-24,Austria,#Global,40816.0,783.0,31661.0,8372.0
 2020-09-24,Azerbaijan,#Global,39686.0,581.0,37255.0,1850.0
 2020-09-24,Bahamas,#Global,3699.0,86.0,1962.0,1651.0
@@ -63907,7 +63907,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-24,Zimbabwe,#Global,7752.0,227.0,6043.0,1482.0
 2020-09-24,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-24,New South Wales,Australia,4217.0,53.0,3116.0,1048.0
-2020-09-24,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-24,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-24,Queensland,Australia,1153.0,6.0,1141.0,6.0
 2020-09-24,South Australia,Australia,468.0,4.0,462.0,2.0
 2020-09-24,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -63972,7 +63972,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-24,Isle of Man,United Kingdom,340.0,24.0,312.0,4.0
 2020-09-24,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-24,Turks and Caicos Islands,United Kingdom,679.0,5.0,602.0,72.0
-2020-09-25,#Worldwide,#Global,32414273.0,979687.0,22344697.0,9089889.0
+2020-09-25,#Worldwide,#Global,32414273.0,979687.0,22344699.0,9089887.0
 2020-09-25,Afghanistan,#Global,39186.0,1451.0,32619.0,5116.0
 2020-09-25,Albania,#Global,13045.0,373.0,7309.0,5363.0
 2020-09-25,Algeria,#Global,50754.0,1707.0,35654.0,13393.0
@@ -63981,7 +63981,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-25,Antigua and Barbuda,#Global,98.0,3.0,92.0,3.0
 2020-09-25,Argentina,#Global,691235.0,15208.0,546924.0,129103.0
 2020-09-25,Armenia,#Global,48643.0,947.0,43401.0,4295.0
-2020-09-25,Australia (total),#Global,27016.0,870.0,24521.0,1625.0
+2020-09-25,Australia (total),#Global,27016.0,870.0,24523.0,1623.0
 2020-09-25,Austria,#Global,41500.0,786.0,32301.0,8413.0
 2020-09-25,Azerbaijan,#Global,39787.0,583.0,37392.0,1812.0
 2020-09-25,Bahamas,#Global,3790.0,89.0,1999.0,1702.0
@@ -64166,7 +64166,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-25,Zimbabwe,#Global,7787.0,227.0,6057.0,1503.0
 2020-09-25,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-25,New South Wales,Australia,4218.0,53.0,3116.0,1049.0
-2020-09-25,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-25,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-25,Queensland,Australia,1156.0,6.0,1141.0,9.0
 2020-09-25,South Australia,Australia,468.0,4.0,462.0,2.0
 2020-09-25,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -64231,7 +64231,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-25,Isle of Man,United Kingdom,340.0,24.0,314.0,2.0
 2020-09-25,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-25,Turks and Caicos Islands,United Kingdom,680.0,5.0,617.0,58.0
-2020-09-26,#Worldwide,#Global,32690698.0,984961.0,22587504.0,9118233.0
+2020-09-26,#Worldwide,#Global,32690698.0,984961.0,22587506.0,9118231.0
 2020-09-26,Afghanistan,#Global,39192.0,1453.0,32635.0,5104.0
 2020-09-26,Albania,#Global,13153.0,375.0,7397.0,5381.0
 2020-09-26,Algeria,#Global,50914.0,1711.0,35756.0,13447.0
@@ -64240,7 +64240,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-26,Antigua and Barbuda,#Global,98.0,3.0,92.0,3.0
 2020-09-26,Argentina,#Global,702484.0,15543.0,556489.0,130452.0
 2020-09-26,Armenia,#Global,49072.0,948.0,43576.0,4548.0
-2020-09-26,Australia (total),#Global,27040.0,872.0,24571.0,1597.0
+2020-09-26,Australia (total),#Global,27040.0,872.0,24573.0,1595.0
 2020-09-26,Austria,#Global,42214.0,787.0,33154.0,8273.0
 2020-09-26,Azerbaijan,#Global,39895.0,585.0,37523.0,1787.0
 2020-09-26,Bahamas,#Global,3790.0,89.0,1999.0,1702.0
@@ -64425,7 +64425,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-26,Zimbabwe,#Global,7803.0,227.0,6067.0,1509.0
 2020-09-26,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-26,New South Wales,Australia,4218.0,53.0,3117.0,1048.0
-2020-09-26,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-26,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-26,Queensland,Australia,1157.0,6.0,1141.0,10.0
 2020-09-26,South Australia,Australia,468.0,4.0,462.0,2.0
 2020-09-26,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -64490,7 +64490,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-26,Isle of Man,United Kingdom,340.0,24.0,314.0,2.0
 2020-09-26,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-26,Turks and Caicos Islands,United Kingdom,681.0,5.0,620.0,56.0
-2020-09-27,#Worldwide,#Global,32929297.0,988558.0,22796953.0,9143786.0
+2020-09-27,#Worldwide,#Global,32929297.0,988558.0,22796955.0,9143784.0
 2020-09-27,Afghanistan,#Global,39227.0,1453.0,32642.0,5132.0
 2020-09-27,Albania,#Global,13259.0,377.0,7397.0,5485.0
 2020-09-27,Algeria,#Global,51067.0,1714.0,35860.0,13493.0
@@ -64499,7 +64499,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-27,Antigua and Barbuda,#Global,101.0,3.0,92.0,6.0
 2020-09-27,Argentina,#Global,711325.0,15749.0,565935.0,129641.0
 2020-09-27,Armenia,#Global,49400.0,951.0,43613.0,4836.0
-2020-09-27,Australia (total),#Global,27044.0,875.0,24631.0,1538.0
+2020-09-27,Australia (total),#Global,27044.0,875.0,24633.0,1536.0
 2020-09-27,Austria,#Global,42876.0,787.0,33589.0,8500.0
 2020-09-27,Azerbaijan,#Global,40023.0,586.0,37655.0,1782.0
 2020-09-27,Bahamas,#Global,3838.0,89.0,2005.0,1744.0
@@ -64684,7 +64684,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-27,Zimbabwe,#Global,7812.0,227.0,6106.0,1479.0
 2020-09-27,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-27,New South Wales,Australia,4218.0,53.0,3118.0,1047.0
-2020-09-27,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-27,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-27,Queensland,Australia,1157.0,6.0,1141.0,10.0
 2020-09-27,South Australia,Australia,468.0,4.0,462.0,2.0
 2020-09-27,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -64749,7 +64749,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-27,Isle of Man,United Kingdom,340.0,24.0,314.0,2.0
 2020-09-27,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-27,Turks and Caicos Islands,United Kingdom,682.0,5.0,620.0,57.0
-2020-09-28,#Worldwide,#Global,33204594.0,992469.0,23021162.0,9190963.0
+2020-09-28,#Worldwide,#Global,33204594.0,992469.0,23021164.0,9190961.0
 2020-09-28,Afghanistan,#Global,39233.0,1455.0,32642.0,5136.0
 2020-09-28,Albania,#Global,13391.0,380.0,7629.0,5382.0
 2020-09-28,Algeria,#Global,51213.0,1719.0,35962.0,13532.0
@@ -64758,7 +64758,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-28,Antigua and Barbuda,#Global,101.0,3.0,92.0,6.0
 2020-09-28,Argentina,#Global,723132.0,16113.0,576715.0,130304.0
 2020-09-28,Armenia,#Global,49574.0,957.0,43665.0,4952.0
-2020-09-28,Australia (total),#Global,27055.0,882.0,24679.0,1494.0
+2020-09-28,Australia (total),#Global,27055.0,882.0,24681.0,1492.0
 2020-09-28,Austria,#Global,43432.0,790.0,34052.0,8590.0
 2020-09-28,Azerbaijan,#Global,40061.0,588.0,37725.0,1748.0
 2020-09-28,Bahamas,#Global,3838.0,89.0,2005.0,1744.0
@@ -64943,7 +64943,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-28,Zimbabwe,#Global,7816.0,228.0,6112.0,1476.0
 2020-09-28,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-28,New South Wales,Australia,4220.0,53.0,3123.0,1044.0
-2020-09-28,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-28,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-28,Queensland,Australia,1157.0,6.0,1141.0,10.0
 2020-09-28,South Australia,Australia,468.0,4.0,462.0,2.0
 2020-09-28,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -65008,7 +65008,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-28,Isle of Man,United Kingdom,340.0,24.0,315.0,1.0
 2020-09-28,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-28,Turks and Caicos Islands,United Kingdom,682.0,5.0,631.0,46.0
-2020-09-29,#Worldwide,#Global,33486860.0,998552.0,23256629.0,9231679.0
+2020-09-29,#Worldwide,#Global,33486860.0,998552.0,23256631.0,9231677.0
 2020-09-29,Afghanistan,#Global,39254.0,1458.0,32746.0,5050.0
 2020-09-29,Albania,#Global,13518.0,384.0,7732.0,5402.0
 2020-09-29,Algeria,#Global,51368.0,1726.0,36063.0,13579.0
@@ -65017,7 +65017,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-29,Antigua and Barbuda,#Global,101.0,3.0,92.0,6.0
 2020-09-29,Argentina,#Global,736609.0,16519.0,585857.0,134233.0
 2020-09-29,Armenia,#Global,49901.0,958.0,43849.0,5094.0
-2020-09-29,Australia (total),#Global,27078.0,886.0,24750.0,1442.0
+2020-09-29,Australia (total),#Global,27078.0,886.0,24752.0,1440.0
 2020-09-29,Austria,#Global,44041.0,796.0,34916.0,8329.0
 2020-09-29,Azerbaijan,#Global,40119.0,590.0,37827.0,1702.0
 2020-09-29,Bahamas,#Global,3903.0,91.0,2072.0,1740.0
@@ -65202,7 +65202,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-29,Zimbabwe,#Global,7837.0,228.0,6122.0,1487.0
 2020-09-29,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-29,New South Wales,Australia,4224.0,53.0,3129.0,1042.0
-2020-09-29,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-29,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-29,Queensland,Australia,1157.0,6.0,1142.0,9.0
 2020-09-29,South Australia,Australia,468.0,4.0,462.0,2.0
 2020-09-29,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -65267,7 +65267,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-29,Isle of Man,United Kingdom,340.0,24.0,315.0,1.0
 2020-09-29,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-29,Turks and Caicos Islands,United Kingdom,686.0,6.0,642.0,38.0
-2020-09-30,#Worldwide,#Global,33811767.0,1004952.0,23504749.0,9302066.0
+2020-09-30,#Worldwide,#Global,33811767.0,1004952.0,23504751.0,9302064.0
 2020-09-30,Afghanistan,#Global,39268.0,1458.0,32789.0,5021.0
 2020-09-30,Albania,#Global,13649.0,387.0,7847.0,5415.0
 2020-09-30,Algeria,#Global,51530.0,1736.0,36174.0,13620.0
@@ -65276,7 +65276,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-30,Antigua and Barbuda,#Global,101.0,3.0,92.0,6.0
 2020-09-30,Argentina,#Global,751001.0,16937.0,594645.0,139419.0
 2020-09-30,Armenia,#Global,50359.0,959.0,44001.0,5399.0
-2020-09-30,Australia (total),#Global,27096.0,888.0,24782.0,1426.0
+2020-09-30,Australia (total),#Global,27096.0,888.0,24784.0,1424.0
 2020-09-30,Austria,#Global,44813.0,799.0,35644.0,8370.0
 2020-09-30,Azerbaijan,#Global,40229.0,591.0,37954.0,1684.0
 2020-09-30,Bahamas,#Global,4123.0,96.0,2206.0,1821.0
@@ -65461,7 +65461,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-30,Zimbabwe,#Global,7838.0,228.0,6303.0,1307.0
 2020-09-30,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-30,New South Wales,Australia,4227.0,53.0,3129.0,1045.0
-2020-09-30,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-09-30,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-09-30,Queensland,Australia,1157.0,6.0,1143.0,8.0
 2020-09-30,South Australia,Australia,468.0,4.0,464.0,0.0
 2020-09-30,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -65526,7 +65526,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-30,Isle of Man,United Kingdom,340.0,24.0,315.0,1.0
 2020-09-30,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-30,Turks and Caicos Islands,United Kingdom,689.0,6.0,645.0,38.0
-2020-10-01,#Worldwide,#Global,34127321.0,1013630.0,23723997.0,9389694.0
+2020-10-01,#Worldwide,#Global,34127321.0,1013630.0,23723999.0,9389692.0
 2020-10-01,Afghanistan,#Global,39285.0,1458.0,32842.0,4985.0
 2020-10-01,Albania,#Global,13806.0,388.0,8077.0,5341.0
 2020-10-01,Algeria,#Global,51690.0,1741.0,36282.0,13667.0
@@ -65535,7 +65535,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-01,Antigua and Barbuda,#Global,101.0,3.0,92.0,6.0
 2020-10-01,Argentina,#Global,765002.0,20288.0,603140.0,141574.0
 2020-10-01,Armenia,#Global,50850.0,963.0,44219.0,5668.0
-2020-10-01,Australia (total),#Global,27109.0,890.0,24786.0,1433.0
+2020-10-01,Australia (total),#Global,27109.0,890.0,24788.0,1431.0
 2020-10-01,Austria,#Global,45686.0,802.0,36476.0,8408.0
 2020-10-01,Azerbaijan,#Global,40309.0,593.0,38068.0,1648.0
 2020-10-01,Bahamas,#Global,4123.0,96.0,2206.0,1821.0
@@ -65720,7 +65720,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-01,Zimbabwe,#Global,7850.0,228.0,6312.0,1310.0
 2020-10-01,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-01,New South Wales,Australia,4231.0,53.0,3129.0,1049.0
-2020-10-01,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-10-01,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-10-01,Queensland,Australia,1160.0,6.0,1147.0,7.0
 2020-10-01,South Australia,Australia,468.0,4.0,464.0,0.0
 2020-10-01,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -65785,7 +65785,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-01,Isle of Man,United Kingdom,340.0,24.0,315.0,1.0
 2020-10-01,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-01,Turks and Caicos Islands,United Kingdom,690.0,6.0,648.0,36.0
-2020-10-02,#Worldwide,#Global,34420666.0,1018500.0,23894625.0,9507541.0
+2020-10-02,#Worldwide,#Global,34420666.0,1018500.0,23894627.0,9507539.0
 2020-10-02,Afghanistan,#Global,39290.0,1458.0,32842.0,4990.0
 2020-10-02,Albania,#Global,13965.0,389.0,8342.0,5234.0
 2020-10-02,Algeria,#Global,51847.0,1749.0,36385.0,13713.0
@@ -65794,7 +65794,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-02,Antigua and Barbuda,#Global,106.0,3.0,94.0,9.0
 2020-10-02,Argentina,#Global,779689.0,20599.0,614515.0,144575.0
 2020-10-02,Armenia,#Global,51382.0,966.0,44406.0,6010.0
-2020-10-02,Australia (total),#Global,27121.0,893.0,24848.0,1380.0
+2020-10-02,Australia (total),#Global,27121.0,893.0,24850.0,1378.0
 2020-10-02,Austria,#Global,46374.0,803.0,37186.0,8385.0
 2020-10-02,Azerbaijan,#Global,40453.0,594.0,38217.0,1642.0
 2020-10-02,Bahamas,#Global,4220.0,96.0,2290.0,1834.0
@@ -65979,7 +65979,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-02,Zimbabwe,#Global,7858.0,228.0,6322.0,1308.0
 2020-10-02,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-02,New South Wales,Australia,4232.0,53.0,3131.0,1048.0
-2020-10-02,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-10-02,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-10-02,Queensland,Australia,1160.0,6.0,1147.0,7.0
 2020-10-02,South Australia,Australia,470.0,4.0,464.0,2.0
 2020-10-02,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -66044,7 +66044,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-02,Isle of Man,United Kingdom,341.0,24.0,315.0,2.0
 2020-10-02,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-02,Turks and Caicos Islands,United Kingdom,695.0,6.0,651.0,38.0
-2020-10-03,#Worldwide,#Global,34739362.0,1023831.0,24151917.0,9563614.0
+2020-10-03,#Worldwide,#Global,34739362.0,1023831.0,24151919.0,9563612.0
 2020-10-03,Afghanistan,#Global,39297.0,1462.0,32842.0,4993.0
 2020-10-03,Albania,#Global,14117.0,392.0,8536.0,5189.0
 2020-10-03,Algeria,#Global,51995.0,1756.0,36482.0,13757.0
@@ -66053,7 +66053,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-03,Antigua and Barbuda,#Global,107.0,3.0,96.0,8.0
 2020-10-03,Argentina,#Global,790818.0,20795.0,626114.0,143909.0
 2020-10-03,Armenia,#Global,51925.0,972.0,44583.0,6370.0
-2020-10-03,Australia (total),#Global,27135.0,894.0,24864.0,1377.0
+2020-10-03,Australia (total),#Global,27135.0,894.0,24866.0,1375.0
 2020-10-03,Austria,#Global,47432.0,809.0,38045.0,8578.0
 2020-10-03,Azerbaijan,#Global,40561.0,595.0,38354.0,1612.0
 2020-10-03,Bahamas,#Global,4332.0,96.0,2375.0,1861.0
@@ -66238,7 +66238,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-03,Zimbabwe,#Global,7885.0,228.0,6327.0,1330.0
 2020-10-03,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-03,New South Wales,Australia,4234.0,53.0,3131.0,1050.0
-2020-10-03,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-10-03,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-10-03,Queensland,Australia,1160.0,6.0,1148.0,6.0
 2020-10-03,South Australia,Australia,470.0,4.0,465.0,1.0
 2020-10-03,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -66303,7 +66303,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-03,Isle of Man,United Kingdom,342.0,24.0,315.0,3.0
 2020-10-03,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-03,Turks and Caicos Islands,United Kingdom,695.0,6.0,651.0,38.0
-2020-10-04,#Worldwide,#Global,34985098.0,1027550.0,24368327.0,9589221.0
+2020-10-04,#Worldwide,#Global,34985098.0,1027550.0,24368329.0,9589219.0
 2020-10-04,Afghanistan,#Global,39341.0,1462.0,32852.0,5027.0
 2020-10-04,Albania,#Global,14266.0,396.0,8675.0,5195.0
 2020-10-04,Algeria,#Global,52136.0,1760.0,36578.0,13798.0
@@ -66312,7 +66312,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-04,Antigua and Barbuda,#Global,107.0,3.0,96.0,8.0
 2020-10-04,Argentina,#Global,798486.0,21018.0,636672.0,140796.0
 2020-10-04,Armenia,#Global,52496.0,977.0,44672.0,6847.0
-2020-10-04,Australia (total),#Global,27148.0,894.0,24888.0,1366.0
+2020-10-04,Australia (total),#Global,27148.0,894.0,24890.0,1364.0
 2020-10-04,Austria,#Global,48146.0,813.0,38629.0,8704.0
 2020-10-04,Azerbaijan,#Global,40691.0,596.0,38496.0,1599.0
 2020-10-04,Bahamas,#Global,4409.0,96.0,2375.0,1938.0
@@ -66497,7 +66497,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-04,Zimbabwe,#Global,7888.0,228.0,6359.0,1301.0
 2020-10-04,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-04,New South Wales,Australia,4235.0,53.0,3131.0,1051.0
-2020-10-04,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-10-04,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-10-04,Queensland,Australia,1160.0,6.0,1148.0,6.0
 2020-10-04,South Australia,Australia,471.0,4.0,465.0,2.0
 2020-10-04,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -66562,7 +66562,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-04,Isle of Man,United Kingdom,342.0,24.0,315.0,3.0
 2020-10-04,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-04,Turks and Caicos Islands,United Kingdom,695.0,6.0,656.0,33.0
-2020-10-05,#Worldwide,#Global,35307667.0,1034530.0,24605063.0,9668074.0
+2020-10-05,#Worldwide,#Global,35307667.0,1034530.0,24605065.0,9668072.0
 2020-10-05,Afghanistan,#Global,39422.0,1466.0,32879.0,5077.0
 2020-10-05,Albania,#Global,14410.0,400.0,8825.0,5185.0
 2020-10-05,Algeria,#Global,52270.0,1768.0,36672.0,13830.0
@@ -66571,7 +66571,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-05,Antigua and Barbuda,#Global,107.0,3.0,96.0,8.0
 2020-10-05,Argentina,#Global,809728.0,21468.0,649017.0,139243.0
 2020-10-05,Armenia,#Global,52677.0,984.0,44710.0,6983.0
-2020-10-05,Australia (total),#Global,27173.0,895.0,24890.0,1388.0
+2020-10-05,Australia (total),#Global,27173.0,895.0,24892.0,1386.0
 2020-10-05,Austria,#Global,48896.0,818.0,39058.0,9020.0
 2020-10-05,Azerbaijan,#Global,40788.0,598.0,38587.0,1603.0
 2020-10-05,Bahamas,#Global,4452.0,96.0,2375.0,1981.0
@@ -66756,7 +66756,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-05,Zimbabwe,#Global,7898.0,228.0,6424.0,1246.0
 2020-10-05,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-05,New South Wales,Australia,4246.0,53.0,3131.0,1062.0
-2020-10-05,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-10-05,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-10-05,Queensland,Australia,1160.0,6.0,1148.0,6.0
 2020-10-05,South Australia,Australia,471.0,4.0,465.0,2.0
 2020-10-05,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -66821,7 +66821,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-05,Isle of Man,United Kingdom,344.0,24.0,316.0,4.0
 2020-10-05,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-05,Turks and Caicos Islands,United Kingdom,695.0,6.0,656.0,33.0
-2020-10-06,#Worldwide,#Global,35633216.0,1040293.0,24834866.0,9758057.0
+2020-10-06,#Worldwide,#Global,35633216.0,1040293.0,24834868.0,9758055.0
 2020-10-06,Afghanistan,#Global,39486.0,1467.0,32977.0,5042.0
 2020-10-06,Albania,#Global,14568.0,403.0,8965.0,5200.0
 2020-10-06,Algeria,#Global,52399.0,1768.0,36763.0,13868.0
@@ -66830,7 +66830,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-06,Antigua and Barbuda,#Global,107.0,3.0,96.0,8.0
 2020-10-06,Argentina,#Global,824468.0,21827.0,660272.0,142369.0
 2020-10-06,Armenia,#Global,53083.0,990.0,44932.0,7161.0
-2020-10-06,Australia (total),#Global,27181.0,897.0,24915.0,1369.0
+2020-10-06,Australia (total),#Global,27181.0,897.0,24917.0,1367.0
 2020-10-06,Austria,#Global,49819.0,822.0,39790.0,9207.0
 2020-10-06,Azerbaijan,#Global,40931.0,600.0,38713.0,1618.0
 2020-10-06,Bahamas,#Global,4559.0,100.0,2475.0,1984.0
@@ -67015,7 +67015,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-06,Zimbabwe,#Global,7915.0,229.0,6440.0,1246.0
 2020-10-06,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-06,New South Wales,Australia,4249.0,53.0,3131.0,1065.0
-2020-10-06,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-10-06,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-10-06,Queensland,Australia,1160.0,6.0,1148.0,6.0
 2020-10-06,South Australia,Australia,472.0,4.0,465.0,3.0
 2020-10-06,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -67080,7 +67080,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-06,Isle of Man,United Kingdom,345.0,24.0,316.0,5.0
 2020-10-06,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-06,Turks and Caicos Islands,United Kingdom,695.0,6.0,656.0,33.0
-2020-10-07,#Worldwide,#Global,35980846.0,1046090.0,25088881.0,9845875.0
+2020-10-07,#Worldwide,#Global,35980846.0,1046090.0,25088883.0,9845873.0
 2020-10-07,Afghanistan,#Global,39548.0,1469.0,33045.0,5034.0
 2020-10-07,Albania,#Global,14730.0,407.0,9115.0,5208.0
 2020-10-07,Algeria,#Global,52520.0,1771.0,36857.0,13892.0
@@ -67089,7 +67089,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-07,Antigua and Barbuda,#Global,108.0,3.0,97.0,8.0
 2020-10-07,Argentina,#Global,840915.0,22226.0,670725.0,147964.0
 2020-10-07,Armenia,#Global,53755.0,995.0,45110.0,7650.0
-2020-10-07,Australia (total),#Global,27206.0,897.0,24937.0,1372.0
+2020-10-07,Australia (total),#Global,27206.0,897.0,24939.0,1370.0
 2020-10-07,Austria,#Global,50848.0,830.0,40499.0,9519.0
 2020-10-07,Azerbaijan,#Global,41113.0,602.0,38858.0,1653.0
 2020-10-07,Bahamas,#Global,4713.0,102.0,2607.0,2004.0
@@ -67274,7 +67274,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-07,Zimbabwe,#Global,7919.0,229.0,6441.0,1249.0
 2020-10-07,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-07,New South Wales,Australia,4261.0,53.0,3133.0,1075.0
-2020-10-07,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-10-07,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-10-07,Queensland,Australia,1160.0,6.0,1149.0,5.0
 2020-10-07,South Australia,Australia,472.0,4.0,465.0,3.0
 2020-10-07,Tasmania,Australia,230.0,13.0,217.0,0.0
@@ -67339,7 +67339,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-07,Isle of Man,United Kingdom,345.0,24.0,316.0,5.0
 2020-10-07,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-07,Turks and Caicos Islands,United Kingdom,695.0,6.0,656.0,33.0
-2020-10-08,#Worldwide,#Global,36337833.0,1052268.0,25306449.0,9979116.0
+2020-10-08,#Worldwide,#Global,36337833.0,1052268.0,25306451.0,9979114.0
 2020-10-08,Afghanistan,#Global,39616.0,1470.0,33058.0,5088.0
 2020-10-08,Albania,#Global,14899.0,411.0,9215.0,5273.0
 2020-10-08,Algeria,#Global,52658.0,1783.0,36958.0,13917.0
@@ -67348,7 +67348,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-08,Antigua and Barbuda,#Global,111.0,3.0,97.0,11.0
 2020-10-08,Argentina,#Global,856369.0,22710.0,684844.0,148815.0
 2020-10-08,Armenia,#Global,54473.0,1004.0,45312.0,8157.0
-2020-10-08,Australia (total),#Global,27226.0,897.0,24969.0,1360.0
+2020-10-08,Australia (total),#Global,27226.0,897.0,24971.0,1358.0
 2020-10-08,Austria,#Global,52057.0,838.0,41289.0,9930.0
 2020-10-08,Azerbaijan,#Global,41304.0,603.0,39012.0,1689.0
 2020-10-08,Bahamas,#Global,4713.0,102.0,2607.0,2004.0
@@ -67533,7 +67533,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-08,Zimbabwe,#Global,7951.0,229.0,6446.0,1276.0
 2020-10-08,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-08,New South Wales,Australia,4271.0,53.0,3132.0,1086.0
-2020-10-08,Northern Territory,Australia,33.0,0.0,31.0,2.0
+2020-10-08,Northern Territory,Australia,33.0,0.0,33.0,0.0
 2020-10-08,Queensland,Australia,1160.0,6.0,1152.0,2.0
 2020-10-08,South Australia,Australia,472.0,4.0,465.0,3.0
 2020-10-08,Tasmania,Australia,230.0,13.0,217.0,0.0
