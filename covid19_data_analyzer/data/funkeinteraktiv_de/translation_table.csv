@@ -443,8 +443,14 @@ Großbritannien,Bermuda,United Kingdom,Bermuda
 #Global,Niger,#Global,Niger
 #Global,Papua-Neuguinea,#Global,Papua New Guinea
 #Global,Simbabwe,#Global,Zimbabwe
+Baden-Württemberg,weitere Fälle in Baden-Württemberg,Baden-Württemberg,other cases in Baden-Württemberg
+Bremen,weitere Fälle in Bremen,Bremen,other cases in Bremen
 Großbritannien,Isle of Man,United Kingdom,Isle of Man
+Hessen,weitere Fälle in Hessen,Hesse,other cases in Hesse
 Niederlande,Sint Maarten,Netherlands,Sint Maarten
+Rheinland-Pfalz,weitere Fälle in Rheinland-Pfalz,Rhineland-Palatinate,other cases in Rhineland-Palatinate
+Sachsen,weitere Fälle in Sachsen,Saxony,other cases in Saxony
+Sachsen-Anhalt,weitere Fälle in Sachsen-Anhalt,Saxony-Anhalt,other cases in Saxony-Anhalt
 #Global,Eritrea,#Global,Eritrea
 #Global,Osttimor,#Global,East Timor
 #Global,Uganda,#Global,Uganda
@@ -453,6 +459,8 @@ Kanada,Nordwest-Territorien,Canada,Northwest Territories
 #Global,Grenada,#Global,Grenada
 #Global,Mosambik,#Global,Mozambique
 #Global,Syrien,#Global,Syria
+Bayern,weitere Fälle in Bayern,Bavaria,other cases in Bavaria
+Berlin,weitere Fälle in Berlin,Berlin,other cases in Berlin
 #Global,Belize,#Global,Belize
 Baden-Württemberg,Alb-Donau-Kreis,Baden-Württemberg,Alb-Donau-Kreis
 Baden-Württemberg,Baden-Baden,Baden-Württemberg,Baden-Baden
@@ -730,34 +738,28 @@ Schleswig-Holstein,Schleswig-Flensburg (Kreis),Sleswick-Holsatia,Schleswig-Flens
 Schleswig-Holstein,Segeberg (Kreis),Sleswick-Holsatia,Segeberg (Kreis)
 Schleswig-Holstein,Steinburg (Kreis),Sleswick-Holsatia,Steinburg (Kreis)
 Schleswig-Holstein,Stormarn (Kreis),Sleswick-Holsatia,Stormarn (Kreis)
+Schleswig-Holstein,weitere Fälle in Schleswig-Holstein,Sleswick-Holsatia,other cases in Sleswick-Holsatia
 USA,Amerikanisch-Samoa,USA,American Samoa
 USA,Nördliche Marianen,USA,Northern Mariana Islands
 #Global,Laos,#Global,Laos
-Berlin,weitere Fälle in Berlin,Berlin,other cases in Berlin
 Niedersachsen,weitere Fälle in Niedersachsen,Lower Saxony,other cases in Lower Saxony
-Sachsen,weitere Fälle in Sachsen,Saxony,other cases in Saxony
 #Global,Guinea-Bissau,#Global,Guinea-Bissau
 #Global,Libyen,#Global,Libya
 #Global,Mali,#Global,Libya
 #Global,St. Kitts und Nevis,#Global,St. Kitts and Nevis
 Bayern,Coburg,Bavaria,Coburg
-Bayern,weitere Fälle in Bayern,Bavaria,other cases in Bavaria
-Bremen,weitere Fälle in Bremen,Bremen,other cases in Bremen
 Bürger Kanadas,Kreuzfahrtschiff 'Diamond Princess',Canadian Citizens,Cruise Ship 'Diamond Princess'
 Kanada,Genesene,Canada,Recovered
 Saarland,weitere Fälle im Saarland,Saarland,other cases in Saarland
-Schleswig-Holstein,weitere Fälle in Schleswig-Holstein,Sleswick-Holsatia,other cases in Sleswick-Holsatia
 USA,Genesene,USA,Recovered
 Bayern,Kempten,Bavaria,Kempten
 Kanada,Yukon,Canada,Yukon
 Mecklenburg-Vorpommern,weitere Fälle in Mecklenburg-Vorpommern,Mecklenburg-Western Pomerania,other cases in Mecklenburg-Western Pomerania
-#Global,Myanmar,#Global,Myanmar
-Baden-Württemberg,weitere Fälle in Baden-Württemberg,Baden-Württemberg,other cases in Baden-Württemberg
 Thüringen,weitere Fälle in Thüringen,Thuringia,other cases in Thuringia
+#Global,Myanmar,#Global,Myanmar
 Großbritannien,Anguilla,United Kingdom,Anguilla
 Großbritannien,Britische Jungferninseln,United Kingdom,British Virgin Islands
 Großbritannien,Turks- und Caicosinseln,United Kingdom,Turks and Caicos Islands
-Hessen,weitere Fälle in Hessen,Hesse,other cases in Hesse
 International,Kreuzfahrtschiff 'MS Zaandam',International,Cruise Ship 'MS Zaandam'
 #Global,Botswana,#Global,Botswana
 Nordrhein-Westfalen,weitere Fälle in Nordrhein-Westfalen,North Rhine-Westphalia,other cases in North Rhine-Westphalia
@@ -766,14 +768,12 @@ Nordrhein-Westfalen,weitere Fälle in Nordrhein-Westfalen,North Rhine-Westphalia
 Brandenburg,weitere Fälle in Brandenburg,Brandenburg,other cases in Brandenburg
 #Global,Malawi,#Global,Malawi
 #Global,Südsudan,#Global,South Sudan
-Rheinland-Pfalz,weitere Fälle in Rheinland-Pfalz,Rhineland-Palatinate,other cases in Rhineland-Palatinate
 #Global,Falklandinseln (Malwinen),#Global,Falkland Islands (Malvinas)
 #Global,Westsahara,#Global,Western Sahara
 Frankreich,Saint-Pierre und Miquelon,France,Saint Pierre and Miquelon
 Niederlande,"Bonaire, Sint Eustatius und Saba",Netherlands,"Bonaire, Sint Eustatius and Saba"
 #Global,São Tomé und Príncipe,#Global,São Tomé and Príncipe
 #Global,Jemen,#Global,Yemen
-Sachsen-Anhalt,weitere Fälle in Sachsen-Anhalt,Saxony-Anhalt,other cases in Saxony-Anhalt
 #Global,Komoren,#Global,Comoros
 #Global,Tadschikistan,#Global,Tajikistan
 #Global,Lesotho,#Global,Lesotho
