@@ -157,6 +157,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-22,Singapore,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-01-22,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-01-22,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-01-22,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -416,6 +417,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-23,Singapore,#Global,1.0,0.0,0.0,1.0
 2020-01-23,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-01-23,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-01-23,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-01-23,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -675,6 +677,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-24,Singapore,#Global,3.0,0.0,0.0,3.0
 2020-01-24,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-01-24,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-01-24,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-01-24,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -934,6 +937,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-25,Singapore,#Global,3.0,0.0,0.0,3.0
 2020-01-25,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-01-25,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-01-25,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-01-25,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -1193,6 +1197,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-26,Singapore,#Global,4.0,0.0,0.0,4.0
 2020-01-26,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-01-26,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-01-26,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-01-26,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -1452,6 +1457,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-27,Singapore,#Global,5.0,0.0,0.0,5.0
 2020-01-27,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-01-27,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-01-27,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-01-27,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -1711,6 +1717,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-28,Singapore,#Global,7.0,0.0,0.0,7.0
 2020-01-28,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-01-28,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-01-28,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-01-28,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -1970,6 +1977,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-29,Singapore,#Global,7.0,0.0,0.0,7.0
 2020-01-29,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-01-29,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-01-29,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-01-29,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -2229,6 +2237,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-30,Singapore,#Global,10.0,0.0,0.0,10.0
 2020-01-30,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-01-30,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-01-30,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-01-30,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -2488,6 +2497,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-31,Singapore,#Global,13.0,0.0,0.0,13.0
 2020-01-31,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-01-31,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-01-31,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-01-31,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -2747,6 +2757,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-01,Singapore,#Global,16.0,0.0,0.0,16.0
 2020-02-01,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-01,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-01,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-01,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -3006,6 +3017,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-02,Singapore,#Global,18.0,0.0,0.0,18.0
 2020-02-02,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-02,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-02,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-02,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -3265,6 +3277,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-03,Singapore,#Global,18.0,0.0,0.0,18.0
 2020-02-03,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-03,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-03,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-03,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -3524,6 +3537,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-04,Singapore,#Global,24.0,0.0,0.0,24.0
 2020-02-04,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-04,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-04,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-04,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -3783,6 +3797,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-05,Singapore,#Global,28.0,0.0,0.0,28.0
 2020-02-05,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-05,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-05,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-05,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -4042,6 +4057,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-06,Singapore,#Global,28.0,0.0,0.0,28.0
 2020-02-06,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-06,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-06,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-06,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -4301,6 +4317,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-07,Singapore,#Global,30.0,0.0,0.0,30.0
 2020-02-07,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-07,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-07,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-07,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -4560,6 +4577,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-08,Singapore,#Global,33.0,0.0,2.0,31.0
 2020-02-08,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-08,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-08,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-08,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -4819,6 +4837,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-09,Singapore,#Global,40.0,0.0,2.0,38.0
 2020-02-09,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-09,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-09,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-09,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -5078,6 +5097,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-10,Singapore,#Global,45.0,0.0,2.0,43.0
 2020-02-10,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-10,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-10,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-10,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -5337,6 +5357,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-11,Singapore,#Global,47.0,0.0,9.0,38.0
 2020-02-11,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-11,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-11,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-11,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -5596,6 +5617,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-12,Singapore,#Global,50.0,0.0,15.0,35.0
 2020-02-12,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-12,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-12,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-12,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -5855,6 +5877,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-13,Singapore,#Global,58.0,0.0,15.0,43.0
 2020-02-13,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-13,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-13,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-13,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -6114,6 +6137,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-14,Singapore,#Global,67.0,0.0,17.0,50.0
 2020-02-14,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-14,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-14,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-14,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -6373,6 +6397,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-15,Singapore,#Global,72.0,0.0,18.0,54.0
 2020-02-15,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-15,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-15,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-15,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -6632,6 +6657,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-16,Singapore,#Global,75.0,0.0,18.0,57.0
 2020-02-16,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-16,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-16,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-16,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -6891,6 +6917,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-17,Singapore,#Global,77.0,0.0,24.0,53.0
 2020-02-17,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-17,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-17,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-17,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -7150,6 +7177,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-18,Singapore,#Global,81.0,0.0,29.0,52.0
 2020-02-18,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-18,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-18,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-18,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -7409,6 +7437,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-19,Singapore,#Global,84.0,0.0,34.0,50.0
 2020-02-19,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-19,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-19,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-19,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -7668,6 +7697,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-20,Singapore,#Global,84.0,0.0,34.0,50.0
 2020-02-20,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-20,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-20,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-20,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -7927,6 +7957,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-21,Singapore,#Global,85.0,0.0,37.0,48.0
 2020-02-21,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-21,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-21,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-21,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -8186,6 +8217,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-22,Singapore,#Global,85.0,0.0,37.0,48.0
 2020-02-22,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-22,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-22,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-22,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -8445,6 +8477,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-23,Singapore,#Global,89.0,0.0,51.0,38.0
 2020-02-23,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-23,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-23,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-23,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -8704,6 +8737,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-24,Singapore,#Global,89.0,0.0,51.0,38.0
 2020-02-24,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-24,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-24,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-24,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -8963,6 +8997,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-25,Singapore,#Global,91.0,0.0,53.0,38.0
 2020-02-25,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-25,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-25,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-25,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -9222,6 +9257,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-26,Singapore,#Global,93.0,0.0,62.0,31.0
 2020-02-26,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-26,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-26,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-26,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -9481,6 +9517,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-27,Singapore,#Global,93.0,0.0,62.0,31.0
 2020-02-27,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-27,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-27,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-27,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -9740,6 +9777,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-28,Singapore,#Global,93.0,0.0,62.0,31.0
 2020-02-28,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-28,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-28,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-28,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -9999,6 +10037,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-29,Singapore,#Global,102.0,0.0,72.0,30.0
 2020-02-29,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-02-29,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-02-29,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-02-29,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -10258,6 +10297,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-01,Singapore,#Global,106.0,0.0,72.0,34.0
 2020-03-01,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-03-01,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-01,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-03-01,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -10517,6 +10557,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-02,Singapore,#Global,108.0,0.0,78.0,30.0
 2020-03-02,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-03-02,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-02,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-03-02,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -10776,6 +10817,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-03,Singapore,#Global,110.0,0.0,78.0,32.0
 2020-03-03,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-03-03,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-03,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-03-03,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -11035,6 +11077,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-04,Singapore,#Global,110.0,0.0,78.0,32.0
 2020-03-04,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Slovenia,#Global,0.0,0.0,0.0,0.0
+2020-03-04,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-04,South Africa,#Global,0.0,0.0,0.0,0.0
 2020-03-04,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -11294,6 +11337,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-05,Singapore,#Global,117.0,0.0,78.0,39.0
 2020-03-05,Slovakia,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Slovenia,#Global,2.0,0.0,0.0,2.0
+2020-03-05,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-05,South Africa,#Global,1.0,0.0,0.0,1.0
 2020-03-05,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -11553,6 +11597,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-06,Singapore,#Global,130.0,0.0,78.0,52.0
 2020-03-06,Slovakia,#Global,1.0,0.0,0.0,1.0
 2020-03-06,Slovenia,#Global,7.0,0.0,0.0,7.0
+2020-03-06,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-06,South Africa,#Global,1.0,0.0,0.0,1.0
 2020-03-06,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -11812,6 +11857,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-07,Singapore,#Global,138.0,0.0,78.0,60.0
 2020-03-07,Slovakia,#Global,1.0,0.0,0.0,1.0
 2020-03-07,Slovenia,#Global,7.0,0.0,0.0,7.0
+2020-03-07,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-07,South Africa,#Global,1.0,0.0,0.0,1.0
 2020-03-07,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -12071,6 +12117,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-08,Singapore,#Global,150.0,0.0,78.0,72.0
 2020-03-08,Slovakia,#Global,3.0,0.0,0.0,3.0
 2020-03-08,Slovenia,#Global,16.0,0.0,0.0,16.0
+2020-03-08,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-08,South Africa,#Global,3.0,0.0,0.0,3.0
 2020-03-08,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -12330,6 +12377,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-09,Singapore,#Global,150.0,0.0,78.0,72.0
 2020-03-09,Slovakia,#Global,3.0,0.0,0.0,3.0
 2020-03-09,Slovenia,#Global,16.0,0.0,0.0,16.0
+2020-03-09,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-09,South Africa,#Global,3.0,0.0,0.0,3.0
 2020-03-09,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -12589,6 +12637,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-10,Singapore,#Global,160.0,0.0,78.0,82.0
 2020-03-10,Slovakia,#Global,7.0,0.0,0.0,7.0
 2020-03-10,Slovenia,#Global,31.0,0.0,0.0,31.0
+2020-03-10,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-10,South Africa,#Global,7.0,0.0,0.0,7.0
 2020-03-10,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -12848,6 +12897,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-11,Singapore,#Global,178.0,0.0,96.0,82.0
 2020-03-11,Slovakia,#Global,10.0,0.0,0.0,10.0
 2020-03-11,Slovenia,#Global,57.0,0.0,0.0,57.0
+2020-03-11,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-11,South Africa,#Global,13.0,0.0,0.0,13.0
 2020-03-11,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -13107,6 +13157,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-12,Singapore,#Global,178.0,0.0,96.0,82.0
 2020-03-12,Slovakia,#Global,16.0,0.0,0.0,16.0
 2020-03-12,Slovenia,#Global,89.0,0.0,0.0,89.0
+2020-03-12,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-12,South Africa,#Global,17.0,0.0,0.0,17.0
 2020-03-12,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -13366,6 +13417,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-13,Singapore,#Global,200.0,0.0,97.0,103.0
 2020-03-13,Slovakia,#Global,32.0,0.0,0.0,32.0
 2020-03-13,Slovenia,#Global,141.0,0.0,0.0,141.0
+2020-03-13,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-13,South Africa,#Global,24.0,0.0,0.0,24.0
 2020-03-13,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -13625,6 +13677,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-14,Singapore,#Global,212.0,0.0,105.0,107.0
 2020-03-14,Slovakia,#Global,44.0,0.0,0.0,44.0
 2020-03-14,Slovenia,#Global,181.0,1.0,0.0,180.0
+2020-03-14,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-14,South Africa,#Global,38.0,0.0,0.0,38.0
 2020-03-14,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -13884,6 +13937,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-15,Singapore,#Global,226.0,0.0,105.0,121.0
 2020-03-15,Slovakia,#Global,54.0,0.0,0.0,54.0
 2020-03-15,Slovenia,#Global,219.0,1.0,0.0,218.0
+2020-03-15,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Somalia,#Global,0.0,0.0,0.0,0.0
 2020-03-15,South Africa,#Global,51.0,0.0,0.0,51.0
 2020-03-15,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -14143,6 +14197,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-16,Singapore,#Global,243.0,0.0,109.0,134.0
 2020-03-16,Slovakia,#Global,63.0,0.0,0.0,63.0
 2020-03-16,Slovenia,#Global,253.0,1.0,0.0,252.0
+2020-03-16,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Somalia,#Global,1.0,0.0,0.0,1.0
 2020-03-16,South Africa,#Global,62.0,0.0,0.0,62.0
 2020-03-16,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -14402,6 +14457,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-17,Singapore,#Global,266.0,0.0,114.0,152.0
 2020-03-17,Slovakia,#Global,72.0,0.0,0.0,72.0
 2020-03-17,Slovenia,#Global,275.0,1.0,0.0,274.0
+2020-03-17,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Somalia,#Global,1.0,0.0,0.0,1.0
 2020-03-17,South Africa,#Global,62.0,0.0,0.0,62.0
 2020-03-17,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -14661,6 +14717,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-18,Singapore,#Global,313.0,0.0,114.0,199.0
 2020-03-18,Slovakia,#Global,105.0,1.0,0.0,104.0
 2020-03-18,Slovenia,#Global,275.0,1.0,0.0,274.0
+2020-03-18,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Somalia,#Global,1.0,0.0,0.0,1.0
 2020-03-18,South Africa,#Global,116.0,0.0,0.0,116.0
 2020-03-18,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -14920,6 +14977,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-19,Singapore,#Global,345.0,0.0,114.0,231.0
 2020-03-19,Slovakia,#Global,123.0,1.0,0.0,122.0
 2020-03-19,Slovenia,#Global,286.0,1.0,0.0,285.0
+2020-03-19,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Somalia,#Global,1.0,0.0,0.0,1.0
 2020-03-19,South Africa,#Global,150.0,0.0,0.0,150.0
 2020-03-19,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -15179,6 +15237,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-20,Singapore,#Global,385.0,0.0,124.0,261.0
 2020-03-20,Slovakia,#Global,137.0,1.0,0.0,136.0
 2020-03-20,Slovenia,#Global,341.0,1.0,0.0,340.0
+2020-03-20,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Somalia,#Global,1.0,0.0,0.0,1.0
 2020-03-20,South Africa,#Global,202.0,0.0,0.0,202.0
 2020-03-20,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -15438,6 +15497,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-21,Singapore,#Global,432.0,2.0,140.0,290.0
 2020-03-21,Slovakia,#Global,178.0,1.0,0.0,177.0
 2020-03-21,Slovenia,#Global,383.0,1.0,0.0,382.0
+2020-03-21,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-21,Somalia,#Global,1.0,0.0,0.0,1.0
 2020-03-21,South Africa,#Global,240.0,0.0,0.0,240.0
 2020-03-21,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -15697,6 +15757,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-22,Singapore,#Global,455.0,2.0,144.0,309.0
 2020-03-22,Slovakia,#Global,185.0,0.0,7.0,178.0
 2020-03-22,Slovenia,#Global,414.0,2.0,0.0,412.0
+2020-03-22,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-22,Somalia,#Global,1.0,0.0,0.0,1.0
 2020-03-22,South Africa,#Global,274.0,0.0,0.0,274.0
 2020-03-22,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -15956,6 +16017,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-23,Singapore,#Global,509.0,2.0,144.0,363.0
 2020-03-23,Slovakia,#Global,186.0,0.0,7.0,179.0
 2020-03-23,Slovenia,#Global,442.0,3.0,0.0,439.0
+2020-03-23,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-23,Somalia,#Global,1.0,0.0,0.0,1.0
 2020-03-23,South Africa,#Global,402.0,0.0,0.0,402.0
 2020-03-23,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -16215,6 +16277,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-24,Singapore,#Global,558.0,2.0,156.0,400.0
 2020-03-24,Slovakia,#Global,204.0,0.0,7.0,197.0
 2020-03-24,Slovenia,#Global,480.0,4.0,0.0,476.0
+2020-03-24,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-24,Somalia,#Global,1.0,0.0,0.0,1.0
 2020-03-24,South Africa,#Global,554.0,0.0,4.0,550.0
 2020-03-24,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -16474,6 +16537,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-25,Singapore,#Global,631.0,2.0,160.0,469.0
 2020-03-25,Slovakia,#Global,216.0,0.0,7.0,209.0
 2020-03-25,Slovenia,#Global,528.0,5.0,10.0,513.0
+2020-03-25,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-25,Somalia,#Global,1.0,0.0,0.0,1.0
 2020-03-25,South Africa,#Global,709.0,0.0,12.0,697.0
 2020-03-25,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -16733,6 +16797,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-26,Singapore,#Global,683.0,2.0,172.0,509.0
 2020-03-26,Slovakia,#Global,226.0,0.0,2.0,224.0
 2020-03-26,Slovenia,#Global,562.0,6.0,10.0,546.0
+2020-03-26,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-26,Somalia,#Global,2.0,0.0,0.0,2.0
 2020-03-26,South Africa,#Global,927.0,0.0,12.0,915.0
 2020-03-26,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -16992,6 +17057,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-27,Singapore,#Global,732.0,2.0,183.0,547.0
 2020-03-27,Slovakia,#Global,269.0,0.0,2.0,267.0
 2020-03-27,Slovenia,#Global,632.0,9.0,10.0,613.0
+2020-03-27,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-27,Somalia,#Global,3.0,0.0,0.0,3.0
 2020-03-27,South Africa,#Global,1170.0,1.0,31.0,1138.0
 2020-03-27,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -17251,6 +17317,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-28,Singapore,#Global,802.0,2.0,198.0,602.0
 2020-03-28,Slovakia,#Global,292.0,0.0,2.0,290.0
 2020-03-28,Slovenia,#Global,684.0,9.0,10.0,665.0
+2020-03-28,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-28,Somalia,#Global,3.0,0.0,0.0,3.0
 2020-03-28,South Africa,#Global,1187.0,1.0,31.0,1155.0
 2020-03-28,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -17510,6 +17577,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-29,Singapore,#Global,844.0,3.0,212.0,629.0
 2020-03-29,Slovakia,#Global,314.0,0.0,2.0,312.0
 2020-03-29,Slovenia,#Global,730.0,11.0,10.0,709.0
+2020-03-29,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-29,Somalia,#Global,3.0,0.0,0.0,3.0
 2020-03-29,South Africa,#Global,1280.0,2.0,31.0,1247.0
 2020-03-29,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -17769,6 +17837,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-30,Singapore,#Global,879.0,3.0,228.0,648.0
 2020-03-30,Slovakia,#Global,336.0,0.0,7.0,329.0
 2020-03-30,Slovenia,#Global,756.0,11.0,10.0,735.0
+2020-03-30,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-30,Somalia,#Global,3.0,0.0,0.0,3.0
 2020-03-30,South Africa,#Global,1326.0,3.0,31.0,1292.0
 2020-03-30,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -18028,6 +18097,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-31,Singapore,#Global,926.0,3.0,240.0,683.0
 2020-03-31,Slovakia,#Global,363.0,0.0,3.0,360.0
 2020-03-31,Slovenia,#Global,802.0,15.0,10.0,777.0
+2020-03-31,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-31,Somalia,#Global,5.0,0.0,1.0,4.0
 2020-03-31,South Africa,#Global,1353.0,5.0,31.0,1317.0
 2020-03-31,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -18287,6 +18357,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-01,Singapore,#Global,1000.0,3.0,245.0,752.0
 2020-04-01,Slovakia,#Global,400.0,1.0,3.0,396.0
 2020-04-01,Slovenia,#Global,841.0,15.0,10.0,816.0
+2020-04-01,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-01,Somalia,#Global,5.0,0.0,1.0,4.0
 2020-04-01,South Africa,#Global,1380.0,5.0,50.0,1325.0
 2020-04-01,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -18546,6 +18617,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-02,Singapore,#Global,1049.0,4.0,266.0,779.0
 2020-04-02,Slovakia,#Global,426.0,1.0,5.0,420.0
 2020-04-02,Slovenia,#Global,897.0,17.0,70.0,810.0
+2020-04-02,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-02,Somalia,#Global,5.0,0.0,1.0,4.0
 2020-04-02,South Africa,#Global,1462.0,5.0,50.0,1407.0
 2020-04-02,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -18805,6 +18877,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-03,Singapore,#Global,1114.0,5.0,282.0,827.0
 2020-04-03,Slovakia,#Global,450.0,1.0,10.0,439.0
 2020-04-03,Slovenia,#Global,934.0,20.0,70.0,844.0
+2020-04-03,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-03,Somalia,#Global,7.0,0.0,1.0,6.0
 2020-04-03,South Africa,#Global,1505.0,9.0,95.0,1401.0
 2020-04-03,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -19064,6 +19137,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-04,Singapore,#Global,1189.0,6.0,297.0,886.0
 2020-04-04,Slovakia,#Global,471.0,1.0,10.0,460.0
 2020-04-04,Slovenia,#Global,977.0,22.0,79.0,876.0
+2020-04-04,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-04,Somalia,#Global,7.0,0.0,1.0,6.0
 2020-04-04,South Africa,#Global,1585.0,9.0,95.0,1481.0
 2020-04-04,South Sudan,#Global,0.0,0.0,0.0,0.0
@@ -19323,6 +19397,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-05,Singapore,#Global,1309.0,6.0,320.0,983.0
 2020-04-05,Slovakia,#Global,485.0,1.0,10.0,474.0
 2020-04-05,Slovenia,#Global,997.0,28.0,79.0,890.0
+2020-04-05,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-05,Somalia,#Global,7.0,0.0,1.0,6.0
 2020-04-05,South Africa,#Global,1655.0,11.0,95.0,1549.0
 2020-04-05,South Sudan,#Global,1.0,0.0,0.0,1.0
@@ -19582,6 +19657,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-06,Singapore,#Global,1375.0,6.0,344.0,1025.0
 2020-04-06,Slovakia,#Global,534.0,2.0,8.0,524.0
 2020-04-06,Slovenia,#Global,1021.0,30.0,102.0,889.0
+2020-04-06,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-06,Somalia,#Global,7.0,0.0,1.0,6.0
 2020-04-06,South Africa,#Global,1686.0,12.0,95.0,1579.0
 2020-04-06,South Sudan,#Global,1.0,0.0,0.0,1.0
@@ -19841,6 +19917,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-07,Singapore,#Global,1481.0,6.0,377.0,1098.0
 2020-04-07,Slovakia,#Global,581.0,2.0,13.0,566.0
 2020-04-07,Slovenia,#Global,1059.0,36.0,102.0,921.0
+2020-04-07,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-07,Somalia,#Global,8.0,0.0,1.0,7.0
 2020-04-07,South Africa,#Global,1749.0,13.0,95.0,1641.0
 2020-04-07,South Sudan,#Global,2.0,0.0,0.0,2.0
@@ -20100,6 +20177,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-08,Singapore,#Global,1623.0,6.0,406.0,1211.0
 2020-04-08,Slovakia,#Global,682.0,2.0,16.0,664.0
 2020-04-08,Slovenia,#Global,1091.0,40.0,120.0,931.0
+2020-04-08,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-08,Somalia,#Global,12.0,1.0,1.0,10.0
 2020-04-08,South Africa,#Global,1845.0,18.0,95.0,1732.0
 2020-04-08,South Sudan,#Global,2.0,0.0,0.0,2.0
@@ -20359,6 +20437,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-09,Singapore,#Global,1910.0,6.0,460.0,1444.0
 2020-04-09,Slovakia,#Global,701.0,2.0,23.0,676.0
 2020-04-09,Slovenia,#Global,1124.0,43.0,128.0,953.0
+2020-04-09,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-09,Somalia,#Global,12.0,1.0,1.0,10.0
 2020-04-09,South Africa,#Global,1934.0,18.0,95.0,1821.0
 2020-04-09,South Sudan,#Global,3.0,0.0,0.0,3.0
@@ -20618,6 +20697,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-10,Singapore,#Global,2108.0,7.0,492.0,1609.0
 2020-04-10,Slovakia,#Global,715.0,2.0,23.0,690.0
 2020-04-10,Slovenia,#Global,1160.0,45.0,137.0,978.0
+2020-04-10,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-10,Somalia,#Global,21.0,1.0,1.0,19.0
 2020-04-10,South Africa,#Global,2003.0,24.0,410.0,1569.0
 2020-04-10,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -20877,6 +20957,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-11,Singapore,#Global,2299.0,8.0,528.0,1763.0
 2020-04-11,Slovakia,#Global,728.0,2.0,23.0,703.0
 2020-04-11,Slovenia,#Global,1188.0,50.0,148.0,990.0
+2020-04-11,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-11,Somalia,#Global,21.0,1.0,1.0,19.0
 2020-04-11,South Africa,#Global,2028.0,25.0,410.0,1593.0
 2020-04-11,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -21136,6 +21217,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-12,Singapore,#Global,2532.0,8.0,560.0,1964.0
 2020-04-12,Slovakia,#Global,742.0,2.0,23.0,717.0
 2020-04-12,Slovenia,#Global,1205.0,53.0,150.0,1002.0
+2020-04-12,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-12,Somalia,#Global,25.0,1.0,2.0,22.0
 2020-04-12,South Africa,#Global,2173.0,25.0,410.0,1738.0
 2020-04-12,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -21395,6 +21477,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-13,Singapore,#Global,2918.0,9.0,586.0,2323.0
 2020-04-13,Slovakia,#Global,769.0,2.0,107.0,660.0
 2020-04-13,Slovenia,#Global,1212.0,55.0,152.0,1005.0
+2020-04-13,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-13,Somalia,#Global,60.0,2.0,2.0,56.0
 2020-04-13,South Africa,#Global,2272.0,27.0,410.0,1835.0
 2020-04-13,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -21654,6 +21737,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-14,Singapore,#Global,3252.0,10.0,611.0,2631.0
 2020-04-14,Slovakia,#Global,835.0,2.0,113.0,720.0
 2020-04-14,Slovenia,#Global,1220.0,56.0,152.0,1012.0
+2020-04-14,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-14,Somalia,#Global,60.0,2.0,2.0,56.0
 2020-04-14,South Africa,#Global,2415.0,27.0,410.0,1978.0
 2020-04-14,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -21913,6 +21997,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,Singapore,#Global,3699.0,10.0,652.0,3037.0
 2020-04-15,Slovakia,#Global,863.0,6.0,151.0,706.0
 2020-04-15,Slovenia,#Global,1248.0,61.0,165.0,1022.0
+2020-04-15,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-15,Somalia,#Global,80.0,5.0,2.0,73.0
 2020-04-15,South Africa,#Global,2506.0,34.0,410.0,2062.0
 2020-04-15,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -22172,6 +22257,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,Singapore,#Global,4427.0,10.0,683.0,3734.0
 2020-04-16,Slovakia,#Global,977.0,8.0,167.0,802.0
 2020-04-16,Slovenia,#Global,1268.0,61.0,174.0,1033.0
+2020-04-16,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-16,Somalia,#Global,80.0,5.0,2.0,73.0
 2020-04-16,South Africa,#Global,2605.0,48.0,903.0,1654.0
 2020-04-16,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -22431,6 +22517,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,Singapore,#Global,5050.0,11.0,708.0,4331.0
 2020-04-17,Slovakia,#Global,1049.0,9.0,175.0,865.0
 2020-04-17,Slovenia,#Global,1304.0,66.0,174.0,1064.0
+2020-04-17,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-17,Somalia,#Global,116.0,6.0,2.0,108.0
 2020-04-17,South Africa,#Global,2783.0,50.0,903.0,1830.0
 2020-04-17,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -22690,6 +22777,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Singapore,#Global,5992.0,11.0,740.0,5241.0
 2020-04-18,Slovakia,#Global,1089.0,11.0,213.0,865.0
 2020-04-18,Slovenia,#Global,1317.0,70.0,190.0,1057.0
+2020-04-18,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-18,Somalia,#Global,135.0,7.0,2.0,126.0
 2020-04-18,South Africa,#Global,3034.0,52.0,903.0,2079.0
 2020-04-18,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -22949,6 +23037,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Singapore,#Global,6588.0,11.0,768.0,5809.0
 2020-04-19,Slovakia,#Global,1161.0,12.0,229.0,920.0
 2020-04-19,Slovenia,#Global,1330.0,74.0,192.0,1064.0
+2020-04-19,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-19,Somalia,#Global,164.0,7.0,3.0,154.0
 2020-04-19,South Africa,#Global,3158.0,54.0,903.0,2201.0
 2020-04-19,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -23208,6 +23297,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Singapore,#Global,8014.0,11.0,801.0,7202.0
 2020-04-20,Slovakia,#Global,1173.0,13.0,251.0,909.0
 2020-04-20,Slovenia,#Global,1335.0,77.0,193.0,1065.0
+2020-04-20,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-20,Somalia,#Global,237.0,8.0,4.0,225.0
 2020-04-20,South Africa,#Global,3300.0,58.0,1055.0,2187.0
 2020-04-20,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -23467,6 +23557,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Singapore,#Global,9125.0,11.0,839.0,8275.0
 2020-04-21,Slovakia,#Global,1199.0,14.0,258.0,927.0
 2020-04-21,Slovenia,#Global,1344.0,77.0,197.0,1070.0
+2020-04-21,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-21,Somalia,#Global,286.0,8.0,4.0,274.0
 2020-04-21,South Africa,#Global,3465.0,58.0,1055.0,2352.0
 2020-04-21,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -23726,6 +23817,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Singapore,#Global,10141.0,12.0,896.0,9233.0
 2020-04-22,Slovakia,#Global,1244.0,14.0,284.0,946.0
 2020-04-22,Slovenia,#Global,1353.0,79.0,205.0,1069.0
+2020-04-22,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-22,Somalia,#Global,286.0,8.0,4.0,274.0
 2020-04-22,South Africa,#Global,3635.0,65.0,1055.0,2515.0
 2020-04-22,South Sudan,#Global,4.0,0.0,0.0,4.0
@@ -23985,6 +24077,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,Singapore,#Global,11178.0,12.0,924.0,10242.0
 2020-04-23,Slovakia,#Global,1325.0,15.0,288.0,1022.0
 2020-04-23,Slovenia,#Global,1366.0,79.0,211.0,1076.0
+2020-04-23,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-23,Somalia,#Global,328.0,16.0,8.0,304.0
 2020-04-23,South Africa,#Global,3953.0,75.0,1473.0,2405.0
 2020-04-23,South Sudan,#Global,5.0,0.0,0.0,5.0
@@ -24244,6 +24337,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Singapore,#Global,12075.0,12.0,956.0,11107.0
 2020-04-24,Slovakia,#Global,1360.0,17.0,355.0,988.0
 2020-04-24,Slovenia,#Global,1373.0,80.0,211.0,1082.0
+2020-04-24,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-24,Somalia,#Global,328.0,16.0,8.0,304.0
 2020-04-24,South Africa,#Global,4220.0,79.0,1473.0,2668.0
 2020-04-24,South Sudan,#Global,5.0,0.0,0.0,5.0
@@ -24503,6 +24597,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-25,Singapore,#Global,12693.0,12.0,1002.0,11679.0
 2020-04-25,Slovakia,#Global,1373.0,17.0,386.0,970.0
 2020-04-25,Slovenia,#Global,1388.0,81.0,219.0,1088.0
+2020-04-25,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-25,Somalia,#Global,390.0,18.0,8.0,364.0
 2020-04-25,South Africa,#Global,4361.0,86.0,1473.0,2802.0
 2020-04-25,South Sudan,#Global,5.0,0.0,0.0,5.0
@@ -24762,6 +24857,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-26,Singapore,#Global,13624.0,12.0,1060.0,12552.0
 2020-04-26,Slovakia,#Global,1379.0,18.0,394.0,967.0
 2020-04-26,Slovenia,#Global,1396.0,82.0,221.0,1093.0
+2020-04-26,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-26,Somalia,#Global,436.0,23.0,10.0,403.0
 2020-04-26,South Africa,#Global,4546.0,87.0,1473.0,2986.0
 2020-04-26,South Sudan,#Global,6.0,0.0,0.0,6.0
@@ -25021,6 +25117,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-27,Singapore,#Global,14423.0,14.0,1095.0,13314.0
 2020-04-27,Slovakia,#Global,1381.0,18.0,403.0,960.0
 2020-04-27,Slovenia,#Global,1402.0,83.0,221.0,1098.0
+2020-04-27,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-27,Somalia,#Global,480.0,26.0,10.0,444.0
 2020-04-27,South Africa,#Global,4793.0,90.0,1473.0,3230.0
 2020-04-27,South Sudan,#Global,6.0,0.0,0.0,6.0
@@ -25280,6 +25377,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-28,Singapore,#Global,14951.0,14.0,1128.0,13809.0
 2020-04-28,Slovakia,#Global,1384.0,20.0,423.0,941.0
 2020-04-28,Slovenia,#Global,1408.0,86.0,223.0,1099.0
+2020-04-28,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-28,Somalia,#Global,528.0,28.0,19.0,481.0
 2020-04-28,South Africa,#Global,4996.0,93.0,2073.0,2830.0
 2020-04-28,South Sudan,#Global,34.0,0.0,0.0,34.0
@@ -25539,6 +25637,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-29,Singapore,#Global,15641.0,14.0,1188.0,14439.0
 2020-04-29,Slovakia,#Global,1391.0,22.0,484.0,885.0
 2020-04-29,Slovenia,#Global,1418.0,89.0,230.0,1099.0
+2020-04-29,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-29,Somalia,#Global,582.0,28.0,20.0,534.0
 2020-04-29,South Africa,#Global,5350.0,103.0,2073.0,3174.0
 2020-04-29,South Sudan,#Global,34.0,0.0,0.0,34.0
@@ -25798,6 +25897,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-30,Singapore,#Global,16169.0,15.0,1244.0,14910.0
 2020-04-30,Slovakia,#Global,1396.0,23.0,524.0,849.0
 2020-04-30,Slovenia,#Global,1429.0,91.0,233.0,1105.0
+2020-04-30,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-30,Somalia,#Global,601.0,28.0,31.0,542.0
 2020-04-30,South Africa,#Global,5647.0,103.0,2073.0,3471.0
 2020-04-30,South Sudan,#Global,35.0,0.0,0.0,35.0
@@ -26057,6 +26157,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-01,Singapore,#Global,17101.0,16.0,1268.0,15817.0
 2020-05-01,Slovakia,#Global,1403.0,23.0,558.0,822.0
 2020-05-01,Slovenia,#Global,1434.0,92.0,233.0,1109.0
+2020-05-01,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-01,Somalia,#Global,601.0,28.0,31.0,542.0
 2020-05-01,South Africa,#Global,5951.0,116.0,2382.0,3453.0
 2020-05-01,South Sudan,#Global,45.0,0.0,0.0,45.0
@@ -26316,6 +26417,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-02,Singapore,#Global,17548.0,17.0,1347.0,16184.0
 2020-05-02,Slovakia,#Global,1407.0,24.0,608.0,775.0
 2020-05-02,Slovenia,#Global,1439.0,94.0,239.0,1106.0
+2020-05-02,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-02,Somalia,#Global,671.0,31.0,34.0,606.0
 2020-05-02,South Africa,#Global,6336.0,123.0,2549.0,3664.0
 2020-05-02,South Sudan,#Global,45.0,0.0,0.0,45.0
@@ -26575,6 +26677,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-03,Singapore,#Global,18205.0,18.0,1408.0,16779.0
 2020-05-03,Slovakia,#Global,1408.0,24.0,619.0,765.0
 2020-05-03,Slovenia,#Global,1439.0,96.0,241.0,1102.0
+2020-05-03,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-03,Somalia,#Global,722.0,32.0,44.0,646.0
 2020-05-03,South Africa,#Global,6783.0,131.0,2549.0,4103.0
 2020-05-03,South Sudan,#Global,46.0,0.0,0.0,46.0
@@ -26834,6 +26937,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-04,Singapore,#Global,18778.0,18.0,1457.0,17303.0
 2020-05-04,Slovakia,#Global,1413.0,25.0,643.0,745.0
 2020-05-04,Slovenia,#Global,1439.0,97.0,241.0,1101.0
+2020-05-04,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-04,Somalia,#Global,756.0,35.0,61.0,660.0
 2020-05-04,South Africa,#Global,7220.0,138.0,2746.0,4336.0
 2020-05-04,South Sudan,#Global,46.0,0.0,0.0,46.0
@@ -27093,6 +27197,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-05,Singapore,#Global,19410.0,18.0,1519.0,17873.0
 2020-05-05,Slovakia,#Global,1421.0,25.0,741.0,655.0
 2020-05-05,Slovenia,#Global,1445.0,98.0,244.0,1103.0
+2020-05-05,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-05,Somalia,#Global,835.0,38.0,75.0,722.0
 2020-05-05,South Africa,#Global,7572.0,148.0,2746.0,4678.0
 2020-05-05,South Sudan,#Global,52.0,0.0,0.0,52.0
@@ -27352,6 +27457,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-06,Singapore,#Global,20198.0,20.0,1634.0,18544.0
 2020-05-06,Slovakia,#Global,1429.0,25.0,762.0,642.0
 2020-05-06,Slovenia,#Global,1448.0,99.0,246.0,1103.0
+2020-05-06,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-06,Somalia,#Global,873.0,39.0,87.0,747.0
 2020-05-06,South Africa,#Global,7808.0,153.0,3153.0,4502.0
 2020-05-06,South Sudan,#Global,58.0,0.0,0.0,58.0
@@ -27611,6 +27717,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-07,Singapore,#Global,20939.0,20.0,1712.0,19207.0
 2020-05-07,Slovakia,#Global,1445.0,26.0,806.0,613.0
 2020-05-07,Slovenia,#Global,1449.0,99.0,247.0,1103.0
+2020-05-07,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-07,Somalia,#Global,928.0,44.0,106.0,778.0
 2020-05-07,South Africa,#Global,8232.0,161.0,3153.0,4918.0
 2020-05-07,South Sudan,#Global,74.0,0.0,0.0,74.0
@@ -27870,6 +27977,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-08,Singapore,#Global,21707.0,20.0,2040.0,19647.0
 2020-05-08,Slovakia,#Global,1455.0,26.0,905.0,524.0
 2020-05-08,Slovenia,#Global,1450.0,100.0,252.0,1098.0
+2020-05-08,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-08,Somalia,#Global,928.0,44.0,106.0,778.0
 2020-05-08,South Africa,#Global,8895.0,178.0,3153.0,5564.0
 2020-05-08,South Sudan,#Global,120.0,0.0,2.0,118.0
@@ -28129,6 +28237,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-09,Singapore,#Global,22460.0,20.0,2296.0,20144.0
 2020-05-09,Slovakia,#Global,1455.0,26.0,919.0,510.0
 2020-05-09,Slovenia,#Global,1454.0,101.0,255.0,1098.0
+2020-05-09,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-09,Somalia,#Global,997.0,48.0,110.0,839.0
 2020-05-09,South Africa,#Global,9420.0,186.0,3983.0,5251.0
 2020-05-09,South Sudan,#Global,120.0,0.0,2.0,118.0
@@ -28388,6 +28497,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-10,Singapore,#Global,23336.0,20.0,2721.0,20595.0
 2020-05-10,Slovakia,#Global,1457.0,26.0,941.0,490.0
 2020-05-10,Slovenia,#Global,1457.0,102.0,256.0,1099.0
+2020-05-10,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-10,Somalia,#Global,1054.0,51.0,118.0,885.0
 2020-05-10,South Africa,#Global,10015.0,194.0,4173.0,5648.0
 2020-05-10,South Sudan,#Global,120.0,0.0,2.0,118.0
@@ -28647,6 +28757,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-11,Singapore,#Global,23822.0,21.0,3225.0,20576.0
 2020-05-11,Slovakia,#Global,1457.0,26.0,959.0,472.0
 2020-05-11,Slovenia,#Global,1460.0,102.0,256.0,1102.0
+2020-05-11,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-11,Somalia,#Global,1089.0,52.0,121.0,916.0
 2020-05-11,South Africa,#Global,10652.0,206.0,4357.0,6089.0
 2020-05-11,South Sudan,#Global,156.0,0.0,2.0,154.0
@@ -28906,6 +29017,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-12,Singapore,#Global,24671.0,21.0,3851.0,20799.0
 2020-05-12,Slovakia,#Global,1465.0,27.0,983.0,455.0
 2020-05-12,Slovenia,#Global,1461.0,102.0,259.0,1100.0
+2020-05-12,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-12,Somalia,#Global,1170.0,52.0,126.0,992.0
 2020-05-12,South Africa,#Global,11350.0,206.0,4357.0,6787.0
 2020-05-12,South Sudan,#Global,194.0,0.0,2.0,192.0
@@ -29165,6 +29277,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-13,Singapore,#Global,25346.0,21.0,4809.0,20516.0
 2020-05-13,Slovakia,#Global,1469.0,27.0,1060.0,382.0
 2020-05-13,Slovenia,#Global,1463.0,103.0,260.0,1100.0
+2020-05-13,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-13,Somalia,#Global,1219.0,52.0,130.0,1037.0
 2020-05-13,South Africa,#Global,12074.0,219.0,4745.0,7110.0
 2020-05-13,South Sudan,#Global,203.0,0.0,2.0,201.0
@@ -29424,6 +29537,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-14,Singapore,#Global,26098.0,21.0,5973.0,20104.0
 2020-05-14,Slovakia,#Global,1477.0,27.0,1112.0,338.0
 2020-05-14,Slovenia,#Global,1464.0,103.0,267.0,1094.0
+2020-05-14,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-14,Somalia,#Global,1284.0,53.0,135.0,1096.0
 2020-05-14,South Africa,#Global,12739.0,238.0,5676.0,6825.0
 2020-05-14,South Sudan,#Global,203.0,0.0,3.0,200.0
@@ -29683,6 +29797,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-15,Singapore,#Global,26891.0,21.0,7248.0,19622.0
 2020-05-15,Slovakia,#Global,1480.0,27.0,1131.0,322.0
 2020-05-15,Slovenia,#Global,1465.0,103.0,270.0,1092.0
+2020-05-15,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-15,Somalia,#Global,1284.0,53.0,135.0,1096.0
 2020-05-15,South Africa,#Global,13524.0,247.0,6083.0,7194.0
 2020-05-15,South Sudan,#Global,236.0,4.0,4.0,228.0
@@ -29942,6 +30057,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-16,Singapore,#Global,27356.0,22.0,8342.0,18992.0
 2020-05-16,Slovakia,#Global,1493.0,28.0,1151.0,314.0
 2020-05-16,Slovenia,#Global,1465.0,103.0,272.0,1090.0
+2020-05-16,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-16,Somalia,#Global,1357.0,55.0,148.0,1154.0
 2020-05-16,South Africa,#Global,14355.0,261.0,6478.0,7616.0
 2020-05-16,South Sudan,#Global,236.0,4.0,4.0,228.0
@@ -30201,6 +30317,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-17,Singapore,#Global,28038.0,22.0,9340.0,18676.0
 2020-05-17,Slovakia,#Global,1494.0,28.0,1163.0,303.0
 2020-05-17,Slovenia,#Global,1466.0,104.0,273.0,1089.0
+2020-05-17,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-17,Somalia,#Global,1421.0,56.0,152.0,1213.0
 2020-05-17,South Africa,#Global,15515.0,264.0,7006.0,8245.0
 2020-05-17,South Sudan,#Global,290.0,4.0,4.0,282.0
@@ -30460,6 +30577,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-18,Singapore,#Global,28343.0,22.0,9835.0,18486.0
 2020-05-18,Slovakia,#Global,1495.0,28.0,1185.0,282.0
 2020-05-18,Slovenia,#Global,1466.0,104.0,1335.0,27.0
+2020-05-18,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-18,Somalia,#Global,1455.0,57.0,163.0,1235.0
 2020-05-18,South Africa,#Global,16433.0,286.0,7298.0,8849.0
 2020-05-18,South Sudan,#Global,290.0,4.0,4.0,282.0
@@ -30719,6 +30837,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-19,Singapore,#Global,28794.0,22.0,10365.0,18407.0
 2020-05-19,Slovakia,#Global,1495.0,28.0,1192.0,275.0
 2020-05-19,Slovenia,#Global,1467.0,104.0,1338.0,25.0
+2020-05-19,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-19,Somalia,#Global,1502.0,59.0,178.0,1265.0
 2020-05-19,South Africa,#Global,17200.0,312.0,7960.0,8928.0
 2020-05-19,South Sudan,#Global,290.0,4.0,4.0,282.0
@@ -30978,6 +31097,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-20,Singapore,#Global,29364.0,22.0,11207.0,18135.0
 2020-05-20,Slovakia,#Global,1496.0,28.0,1231.0,237.0
 2020-05-20,Slovenia,#Global,1468.0,105.0,1340.0,23.0
+2020-05-20,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-20,Somalia,#Global,1573.0,61.0,188.0,1324.0
 2020-05-20,South Africa,#Global,18003.0,339.0,8950.0,8714.0
 2020-05-20,South Sudan,#Global,290.0,4.0,4.0,282.0
@@ -31237,6 +31357,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-21,Singapore,#Global,29812.0,23.0,12117.0,17672.0
 2020-05-21,Slovakia,#Global,1502.0,28.0,1245.0,229.0
 2020-05-21,Slovenia,#Global,1468.0,106.0,1340.0,22.0
+2020-05-21,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-21,Somalia,#Global,1594.0,61.0,204.0,1329.0
 2020-05-21,South Africa,#Global,19137.0,369.0,8950.0,9818.0
 2020-05-21,South Sudan,#Global,481.0,4.0,4.0,473.0
@@ -31496,6 +31617,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-22,Singapore,#Global,30426.0,23.0,12995.0,17408.0
 2020-05-22,Slovakia,#Global,1503.0,28.0,1256.0,219.0
 2020-05-22,Slovenia,#Global,1468.0,106.0,1340.0,22.0
+2020-05-22,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-22,Somalia,#Global,1594.0,61.0,204.0,1329.0
 2020-05-22,South Africa,#Global,20125.0,397.0,10104.0,9624.0
 2020-05-22,South Sudan,#Global,563.0,6.0,6.0,551.0
@@ -31755,6 +31877,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-23,Singapore,#Global,31068.0,23.0,13882.0,17163.0
 2020-05-23,Slovakia,#Global,1504.0,28.0,1280.0,196.0
 2020-05-23,Slovenia,#Global,1468.0,106.0,1340.0,22.0
+2020-05-23,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-23,Somalia,#Global,1594.0,61.0,204.0,1329.0
 2020-05-23,South Africa,#Global,21343.0,407.0,10104.0,10832.0
 2020-05-23,South Sudan,#Global,655.0,8.0,6.0,641.0
@@ -32014,6 +32137,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-24,Singapore,#Global,31616.0,23.0,14876.0,16717.0
 2020-05-24,Slovakia,#Global,1509.0,28.0,1301.0,180.0
 2020-05-24,Slovenia,#Global,1468.0,107.0,1340.0,21.0
+2020-05-24,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-24,Somalia,#Global,1594.0,61.0,204.0,1329.0
 2020-05-24,South Africa,#Global,22583.0,429.0,11100.0,11054.0
 2020-05-24,South Sudan,#Global,655.0,8.0,6.0,641.0
@@ -32273,6 +32397,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-25,Singapore,#Global,31960.0,23.0,15738.0,16199.0
 2020-05-25,Slovakia,#Global,1511.0,28.0,1307.0,176.0
 2020-05-25,Slovenia,#Global,1469.0,107.0,1346.0,16.0
+2020-05-25,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-25,Somalia,#Global,1689.0,66.0,235.0,1388.0
 2020-05-25,South Africa,#Global,23615.0,481.0,11917.0,11217.0
 2020-05-25,South Sudan,#Global,806.0,8.0,6.0,792.0
@@ -32532,6 +32657,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-26,Singapore,#Global,32343.0,23.0,16444.0,15876.0
 2020-05-26,Slovakia,#Global,1513.0,28.0,1322.0,163.0
 2020-05-26,Slovenia,#Global,1469.0,108.0,1346.0,15.0
+2020-05-26,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-26,Somalia,#Global,1711.0,67.0,253.0,1391.0
 2020-05-26,South Africa,#Global,24264.0,524.0,12741.0,10999.0
 2020-05-26,South Sudan,#Global,806.0,8.0,6.0,792.0
@@ -32791,6 +32917,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-27,Singapore,#Global,32876.0,23.0,17276.0,15577.0
 2020-05-27,Slovakia,#Global,1515.0,28.0,1327.0,160.0
 2020-05-27,Slovenia,#Global,1471.0,108.0,1354.0,9.0
+2020-05-27,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-27,Somalia,#Global,1731.0,67.0,265.0,1399.0
 2020-05-27,South Africa,#Global,25937.0,552.0,13451.0,11934.0
 2020-05-27,South Sudan,#Global,994.0,10.0,6.0,978.0
@@ -33050,6 +33177,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-28,Singapore,#Global,33249.0,23.0,18294.0,14932.0
 2020-05-28,Slovakia,#Global,1520.0,28.0,1332.0,160.0
 2020-05-28,Slovenia,#Global,1473.0,108.0,1356.0,9.0
+2020-05-28,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-28,Somalia,#Global,1828.0,72.0,310.0,1446.0
 2020-05-28,South Africa,#Global,27403.0,577.0,14370.0,12456.0
 2020-05-28,South Sudan,#Global,994.0,10.0,6.0,978.0
@@ -33309,6 +33437,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-29,Singapore,#Global,33860.0,23.0,19631.0,14206.0
 2020-05-29,Slovakia,#Global,1520.0,28.0,1338.0,154.0
 2020-05-29,Slovenia,#Global,1473.0,108.0,1357.0,8.0
+2020-05-29,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-29,Somalia,#Global,1828.0,72.0,310.0,1446.0
 2020-05-29,South Africa,#Global,29240.0,611.0,15093.0,13536.0
 2020-05-29,South Sudan,#Global,994.0,10.0,6.0,978.0
@@ -33568,6 +33697,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-30,Singapore,#Global,34366.0,23.0,20727.0,13616.0
 2020-05-30,Slovakia,#Global,1521.0,28.0,1356.0,137.0
 2020-05-30,Slovenia,#Global,1473.0,108.0,1357.0,8.0
+2020-05-30,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-30,Somalia,#Global,1916.0,73.0,327.0,1516.0
 2020-05-30,South Africa,#Global,30967.0,643.0,16116.0,14208.0
 2020-05-30,South Sudan,#Global,994.0,10.0,6.0,978.0
@@ -33827,6 +33957,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-31,Singapore,#Global,34884.0,23.0,21699.0,13162.0
 2020-05-31,Slovakia,#Global,1521.0,28.0,1366.0,127.0
 2020-05-31,Slovenia,#Global,1473.0,108.0,1358.0,7.0
+2020-05-31,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-31,Somalia,#Global,1976.0,78.0,348.0,1550.0
 2020-05-31,South Africa,#Global,32683.0,683.0,16809.0,15191.0
 2020-05-31,South Sudan,#Global,994.0,10.0,6.0,978.0
@@ -34086,6 +34217,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-01,Singapore,#Global,35292.0,24.0,22466.0,12802.0
 2020-06-01,Slovakia,#Global,1522.0,28.0,1368.0,126.0
 2020-06-01,Slovenia,#Global,1473.0,109.0,1358.0,6.0
+2020-06-01,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-01,Somalia,#Global,2023.0,79.0,361.0,1583.0
 2020-06-01,South Africa,#Global,34357.0,705.0,17291.0,16361.0
 2020-06-01,South Sudan,#Global,994.0,10.0,6.0,978.0
@@ -34345,6 +34477,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-02,Singapore,#Global,35836.0,24.0,23175.0,12637.0
 2020-06-02,Slovakia,#Global,1522.0,28.0,1372.0,122.0
 2020-06-02,Slovenia,#Global,1475.0,109.0,1358.0,8.0
+2020-06-02,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-02,Somalia,#Global,2089.0,79.0,361.0,1649.0
 2020-06-02,South Africa,#Global,35812.0,755.0,18313.0,16744.0
 2020-06-02,South Sudan,#Global,994.0,10.0,6.0,978.0
@@ -34604,6 +34737,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-03,Singapore,#Global,36405.0,24.0,23582.0,12799.0
 2020-06-03,Slovakia,#Global,1525.0,28.0,1375.0,122.0
 2020-06-03,Slovenia,#Global,1477.0,109.0,1358.0,10.0
+2020-06-03,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-03,Somalia,#Global,2146.0,79.0,406.0,1661.0
 2020-06-03,South Africa,#Global,37525.0,792.0,19682.0,17051.0
 2020-06-03,South Sudan,#Global,994.0,10.0,6.0,978.0
@@ -34863,6 +34997,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-04,Singapore,#Global,36922.0,24.0,23904.0,12994.0
 2020-06-04,Slovakia,#Global,1526.0,28.0,1376.0,122.0
 2020-06-04,Slovenia,#Global,1477.0,109.0,1359.0,9.0
+2020-06-04,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-04,Somalia,#Global,2204.0,79.0,418.0,1707.0
 2020-06-04,South Africa,#Global,40792.0,848.0,21311.0,18633.0
 2020-06-04,South Sudan,#Global,994.0,10.0,6.0,978.0
@@ -35122,6 +35257,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-05,Singapore,#Global,37183.0,24.0,24209.0,12950.0
 2020-06-05,Slovakia,#Global,1526.0,28.0,1379.0,119.0
 2020-06-05,Slovenia,#Global,1479.0,109.0,1359.0,11.0
+2020-06-05,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-05,Somalia,#Global,2204.0,79.0,418.0,1707.0
 2020-06-05,South Africa,#Global,43434.0,908.0,23088.0,19438.0
 2020-06-05,South Sudan,#Global,994.0,10.0,6.0,978.0
@@ -35381,6 +35517,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-06,Singapore,#Global,37527.0,25.0,24559.0,12943.0
 2020-06-06,Slovakia,#Global,1528.0,28.0,1379.0,121.0
 2020-06-06,Slovenia,#Global,1484.0,109.0,1359.0,16.0
+2020-06-06,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-06,Somalia,#Global,2289.0,82.0,431.0,1776.0
 2020-06-06,South Africa,#Global,45973.0,952.0,24258.0,20763.0
 2020-06-06,South Sudan,#Global,994.0,10.0,6.0,978.0
@@ -35640,6 +35777,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-07,Singapore,#Global,37910.0,25.0,24886.0,12999.0
 2020-06-07,Slovakia,#Global,1528.0,28.0,1389.0,111.0
 2020-06-07,Slovenia,#Global,1485.0,109.0,1359.0,17.0
+2020-06-07,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-07,Somalia,#Global,2334.0,83.0,441.0,1810.0
 2020-06-07,South Africa,#Global,48285.0,998.0,24364.0,22923.0
 2020-06-07,South Sudan,#Global,1317.0,14.0,6.0,1297.0
@@ -35899,6 +36037,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-08,Singapore,#Global,38296.0,25.0,25368.0,12903.0
 2020-06-08,Slovakia,#Global,1530.0,28.0,1396.0,106.0
 2020-06-08,Slovenia,#Global,1485.0,109.0,1359.0,17.0
+2020-06-08,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-08,Somalia,#Global,2368.0,84.0,470.0,1814.0
 2020-06-08,South Africa,#Global,50879.0,1080.0,26099.0,23700.0
 2020-06-08,South Sudan,#Global,1604.0,19.0,15.0,1570.0
@@ -36158,6 +36297,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-09,Singapore,#Global,38514.0,25.0,25877.0,12612.0
 2020-06-09,Slovakia,#Global,1531.0,28.0,1402.0,101.0
 2020-06-09,Slovenia,#Global,1486.0,109.0,1359.0,18.0
+2020-06-09,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-09,Somalia,#Global,2416.0,85.0,489.0,1842.0
 2020-06-09,South Africa,#Global,52991.0,1162.0,29006.0,22823.0
 2020-06-09,South Sudan,#Global,1604.0,19.0,15.0,1570.0
@@ -36417,6 +36557,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-10,Singapore,#Global,38965.0,25.0,26532.0,12408.0
 2020-06-10,Slovakia,#Global,1533.0,28.0,1404.0,101.0
 2020-06-10,Slovenia,#Global,1488.0,109.0,1359.0,20.0
+2020-06-10,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-10,Somalia,#Global,2452.0,85.0,506.0,1861.0
 2020-06-10,South Africa,#Global,55421.0,1210.0,31505.0,22706.0
 2020-06-10,South Sudan,#Global,1604.0,19.0,15.0,1570.0
@@ -36676,6 +36817,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-11,Singapore,#Global,39387.0,25.0,27286.0,12076.0
 2020-06-11,Slovakia,#Global,1541.0,28.0,1409.0,104.0
 2020-06-11,Slovenia,#Global,1488.0,109.0,1359.0,20.0
+2020-06-11,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-11,Somalia,#Global,2513.0,85.0,532.0,1896.0
 2020-06-11,South Africa,#Global,58568.0,1284.0,33252.0,24032.0
 2020-06-11,South Sudan,#Global,1670.0,24.0,48.0,1598.0
@@ -36935,6 +37077,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-12,Singapore,#Global,39850.0,25.0,28040.0,11785.0
 2020-06-12,Slovakia,#Global,1542.0,28.0,1409.0,105.0
 2020-06-12,Slovenia,#Global,1490.0,109.0,1359.0,22.0
+2020-06-12,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-12,Somalia,#Global,2513.0,85.0,532.0,1896.0
 2020-06-12,South Africa,#Global,61927.0,1354.0,35006.0,25567.0
 2020-06-12,South Sudan,#Global,1670.0,24.0,48.0,1598.0
@@ -37194,6 +37337,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-13,Singapore,#Global,40197.0,26.0,28808.0,11363.0
 2020-06-13,Slovakia,#Global,1545.0,28.0,1410.0,107.0
 2020-06-13,Slovenia,#Global,1492.0,109.0,1359.0,24.0
+2020-06-13,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-13,Somalia,#Global,2579.0,87.0,559.0,1933.0
 2020-06-13,South Africa,#Global,65736.0,1423.0,36850.0,27463.0
 2020-06-13,South Sudan,#Global,1693.0,27.0,49.0,1617.0
@@ -37453,6 +37597,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-14,Singapore,#Global,40604.0,26.0,29589.0,10989.0
 2020-06-14,Slovakia,#Global,1548.0,28.0,1410.0,110.0
 2020-06-14,Slovenia,#Global,1495.0,109.0,1359.0,27.0
+2020-06-14,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-14,Somalia,#Global,2618.0,88.0,577.0,1953.0
 2020-06-14,South Africa,#Global,70038.0,1480.0,38531.0,30027.0
 2020-06-14,South Sudan,#Global,1693.0,27.0,49.0,1617.0
@@ -37712,6 +37857,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-15,Singapore,#Global,40818.0,26.0,30366.0,10426.0
 2020-06-15,Slovakia,#Global,1552.0,28.0,1410.0,114.0
 2020-06-15,Slovenia,#Global,1496.0,109.0,1359.0,28.0
+2020-06-15,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-15,Somalia,#Global,2642.0,88.0,622.0,1932.0
 2020-06-15,South Africa,#Global,73533.0,1568.0,39867.0,32098.0
 2020-06-15,South Sudan,#Global,1693.0,27.0,49.0,1617.0
@@ -37971,6 +38117,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-16,Singapore,#Global,40969.0,26.0,31163.0,9780.0
 2020-06-16,Slovakia,#Global,1552.0,28.0,1426.0,98.0
 2020-06-16,Slovenia,#Global,1499.0,109.0,1359.0,31.0
+2020-06-16,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-16,Somalia,#Global,2658.0,88.0,649.0,1921.0
 2020-06-16,South Africa,#Global,76334.0,1625.0,42063.0,32646.0
 2020-06-16,South Sudan,#Global,1776.0,30.0,58.0,1688.0
@@ -38230,6 +38377,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-17,Singapore,#Global,41216.0,26.0,31938.0,9252.0
 2020-06-17,Slovakia,#Global,1561.0,28.0,1437.0,96.0
 2020-06-17,Slovenia,#Global,1503.0,109.0,1359.0,35.0
+2020-06-17,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-17,Somalia,#Global,2696.0,88.0,685.0,1923.0
 2020-06-17,South Africa,#Global,80412.0,1674.0,44331.0,34407.0
 2020-06-17,South Sudan,#Global,1813.0,31.0,89.0,1693.0
@@ -38489,6 +38637,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-18,Singapore,#Global,41473.0,26.0,32712.0,8735.0
 2020-06-18,Slovakia,#Global,1562.0,28.0,1443.0,91.0
 2020-06-18,Slovenia,#Global,1511.0,109.0,1359.0,43.0
+2020-06-18,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-18,Somalia,#Global,2719.0,88.0,724.0,1907.0
 2020-06-18,South Africa,#Global,83890.0,1737.0,44920.0,37233.0
 2020-06-18,South Sudan,#Global,1830.0,32.0,117.0,1681.0
@@ -38748,6 +38897,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-19,Singapore,#Global,41615.0,26.0,33459.0,8130.0
 2020-06-19,Slovakia,#Global,1576.0,28.0,1447.0,101.0
 2020-06-19,Slovenia,#Global,1513.0,109.0,1359.0,45.0
+2020-06-19,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-19,Somalia,#Global,2719.0,88.0,724.0,1907.0
 2020-06-19,South Africa,#Global,87715.0,1831.0,47825.0,38059.0
 2020-06-19,South Sudan,#Global,1864.0,34.0,122.0,1708.0
@@ -39007,6 +39157,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-20,Singapore,#Global,41833.0,26.0,34224.0,7583.0
 2020-06-20,Slovakia,#Global,1586.0,28.0,1447.0,111.0
 2020-06-20,Slovenia,#Global,1519.0,109.0,1359.0,51.0
+2020-06-20,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-20,Somalia,#Global,2755.0,88.0,751.0,1916.0
 2020-06-20,South Africa,#Global,92681.0,1877.0,50326.0,40478.0
 2020-06-20,South Sudan,#Global,1882.0,34.0,122.0,1726.0
@@ -39266,6 +39417,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-21,Singapore,#Global,42095.0,26.0,34942.0,7127.0
 2020-06-21,Slovakia,#Global,1587.0,28.0,1447.0,112.0
 2020-06-21,Slovenia,#Global,1520.0,109.0,1376.0,35.0
+2020-06-21,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-21,Somalia,#Global,2779.0,90.0,782.0,1907.0
 2020-06-21,South Africa,#Global,97302.0,1930.0,51608.0,43764.0
 2020-06-21,South Sudan,#Global,1892.0,34.0,169.0,1689.0
@@ -39525,6 +39677,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-22,Singapore,#Global,42313.0,26.0,35590.0,6697.0
 2020-06-22,Slovakia,#Global,1588.0,28.0,1447.0,113.0
 2020-06-22,Slovenia,#Global,1521.0,109.0,1376.0,36.0
+2020-06-22,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-22,Somalia,#Global,2812.0,90.0,818.0,1904.0
 2020-06-22,South Africa,#Global,101590.0,1991.0,53444.0,46155.0
 2020-06-22,South Sudan,#Global,1916.0,35.0,190.0,1691.0
@@ -39784,6 +39937,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-23,Singapore,#Global,42432.0,26.0,35995.0,6411.0
 2020-06-23,Slovakia,#Global,1589.0,28.0,1448.0,113.0
 2020-06-23,Slovenia,#Global,1534.0,109.0,1376.0,49.0
+2020-06-23,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-23,Somalia,#Global,2812.0,90.0,818.0,1904.0
 2020-06-23,South Africa,#Global,106108.0,2102.0,55045.0,48961.0
 2020-06-23,South Sudan,#Global,1930.0,36.0,217.0,1677.0
@@ -40043,6 +40197,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-24,Singapore,#Global,42623.0,26.0,36299.0,6298.0
 2020-06-24,Slovakia,#Global,1607.0,28.0,1448.0,131.0
 2020-06-24,Slovenia,#Global,1541.0,109.0,1376.0,56.0
+2020-06-24,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-24,Somalia,#Global,2835.0,90.0,829.0,1916.0
 2020-06-24,South Africa,#Global,111796.0,2205.0,56874.0,52717.0
 2020-06-24,South Sudan,#Global,1942.0,36.0,224.0,1682.0
@@ -40302,6 +40457,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-25,Singapore,#Global,42736.0,26.0,36604.0,6106.0
 2020-06-25,Slovakia,#Global,1630.0,28.0,1452.0,150.0
 2020-06-25,Slovenia,#Global,1547.0,109.0,1376.0,62.0
+2020-06-25,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-25,Somalia,#Global,2878.0,90.0,868.0,1920.0
 2020-06-25,South Africa,#Global,118375.0,2292.0,59974.0,56109.0
 2020-06-25,South Sudan,#Global,1942.0,36.0,224.0,1682.0
@@ -40561,6 +40717,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-26,Singapore,#Global,42955.0,26.0,36825.0,6104.0
 2020-06-26,Slovakia,#Global,1643.0,28.0,1455.0,160.0
 2020-06-26,Slovenia,#Global,1558.0,109.0,1376.0,73.0
+2020-06-26,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-26,Somalia,#Global,2878.0,90.0,868.0,1920.0
 2020-06-26,South Africa,#Global,124590.0,2340.0,64111.0,58139.0
 2020-06-26,South Sudan,#Global,1942.0,36.0,224.0,1682.0
@@ -40820,6 +40977,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-27,Singapore,#Global,43246.0,26.0,37163.0,6057.0
 2020-06-27,Slovakia,#Global,1657.0,28.0,1455.0,174.0
 2020-06-27,Slovenia,#Global,1572.0,109.0,1376.0,87.0
+2020-06-27,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-27,Somalia,#Global,2878.0,90.0,868.0,1920.0
 2020-06-27,South Africa,#Global,131800.0,2413.0,67094.0,62293.0
 2020-06-27,South Sudan,#Global,1942.0,36.0,224.0,1682.0
@@ -41079,6 +41237,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-28,Singapore,#Global,43459.0,26.0,37508.0,5925.0
 2020-06-28,Slovakia,#Global,1664.0,28.0,1461.0,175.0
 2020-06-28,Slovenia,#Global,1581.0,111.0,1384.0,86.0
+2020-06-28,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-28,Somalia,#Global,2894.0,90.0,887.0,1917.0
 2020-06-28,South Africa,#Global,138134.0,2456.0,68925.0,66753.0
 2020-06-28,South Sudan,#Global,1989.0,36.0,246.0,1707.0
@@ -41338,6 +41497,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-29,Singapore,#Global,43661.0,26.0,37985.0,5650.0
 2020-06-29,Slovakia,#Global,1665.0,28.0,1464.0,173.0
 2020-06-29,Slovenia,#Global,1585.0,111.0,1384.0,90.0
+2020-06-29,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-29,Somalia,#Global,2904.0,90.0,910.0,1904.0
 2020-06-29,South Africa,#Global,144264.0,2529.0,70614.0,71121.0
 2020-06-29,South Sudan,#Global,1989.0,36.0,246.0,1707.0
@@ -41597,6 +41757,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-30,Singapore,#Global,43907.0,26.0,38500.0,5381.0
 2020-06-30,Slovakia,#Global,1667.0,28.0,1464.0,175.0
 2020-06-30,Slovenia,#Global,1600.0,111.0,1384.0,105.0
+2020-06-30,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-30,Somalia,#Global,2924.0,90.0,910.0,1924.0
 2020-06-30,South Africa,#Global,151209.0,2657.0,73543.0,75009.0
 2020-06-30,South Sudan,#Global,2007.0,38.0,279.0,1690.0
@@ -41856,6 +42017,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-01,Singapore,#Global,44122.0,26.0,39011.0,5085.0
 2020-07-01,Slovakia,#Global,1687.0,28.0,1466.0,193.0
 2020-07-01,Slovenia,#Global,1613.0,111.0,1384.0,118.0
+2020-07-01,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-01,Somalia,#Global,2924.0,90.0,932.0,1902.0
 2020-07-01,South Africa,#Global,159333.0,2749.0,76025.0,80559.0
 2020-07-01,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -42115,6 +42277,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-02,Singapore,#Global,44310.0,26.0,39429.0,4855.0
 2020-07-02,Slovakia,#Global,1700.0,28.0,1466.0,206.0
 2020-07-02,Slovenia,#Global,1634.0,111.0,1384.0,139.0
+2020-07-02,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-02,Somalia,#Global,2944.0,90.0,951.0,1903.0
 2020-07-02,South Africa,#Global,168061.0,2844.0,81999.0,83218.0
 2020-07-02,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -42374,6 +42537,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-03,Singapore,#Global,44479.0,26.0,39769.0,4684.0
 2020-07-03,Slovakia,#Global,1720.0,28.0,1466.0,226.0
 2020-07-03,Slovenia,#Global,1650.0,111.0,1384.0,155.0
+2020-07-03,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-03,Somalia,#Global,2944.0,90.0,951.0,1903.0
 2020-07-03,South Africa,#Global,177124.0,2952.0,86298.0,87874.0
 2020-07-03,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -42633,6 +42797,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-04,Singapore,#Global,44664.0,26.0,40117.0,4521.0
 2020-07-04,Slovakia,#Global,1749.0,28.0,1466.0,255.0
 2020-07-04,Slovenia,#Global,1679.0,111.0,1384.0,184.0
+2020-07-04,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-04,Somalia,#Global,2961.0,92.0,973.0,1896.0
 2020-07-04,South Africa,#Global,187977.0,3026.0,91227.0,93724.0
 2020-07-04,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -42892,6 +43057,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-05,Singapore,#Global,44800.0,26.0,40441.0,4333.0
 2020-07-05,Slovakia,#Global,1764.0,28.0,1466.0,270.0
 2020-07-05,Slovenia,#Global,1700.0,111.0,1384.0,205.0
+2020-07-05,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-05,Somalia,#Global,2997.0,92.0,1014.0,1891.0
 2020-07-05,South Africa,#Global,196750.0,3199.0,93315.0,100236.0
 2020-07-05,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -43151,6 +43317,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-06,Singapore,#Global,44983.0,26.0,40717.0,4240.0
 2020-07-06,Slovakia,#Global,1765.0,28.0,1466.0,271.0
 2020-07-06,Slovenia,#Global,1716.0,111.0,1384.0,221.0
+2020-07-06,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-06,Somalia,#Global,3006.0,92.0,1051.0,1863.0
 2020-07-06,South Africa,#Global,205721.0,3310.0,97848.0,104563.0
 2020-07-06,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -43410,6 +43577,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-07,Singapore,#Global,45140.0,26.0,41002.0,4112.0
 2020-07-07,Slovakia,#Global,1767.0,28.0,1473.0,266.0
 2020-07-07,Slovenia,#Global,1739.0,111.0,1423.0,205.0
+2020-07-07,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-07,Somalia,#Global,3015.0,92.0,1096.0,1827.0
 2020-07-07,South Africa,#Global,215855.0,3502.0,102299.0,110054.0
 2020-07-07,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -43669,6 +43837,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-08,Singapore,#Global,45298.0,26.0,41323.0,3949.0
 2020-07-08,Slovakia,#Global,1798.0,28.0,1473.0,297.0
 2020-07-08,Slovenia,#Global,1763.0,111.0,1429.0,223.0
+2020-07-08,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-08,Somalia,#Global,3028.0,92.0,1147.0,1789.0
 2020-07-08,South Africa,#Global,224665.0,3602.0,106842.0,114221.0
 2020-07-08,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -43928,6 +44097,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-09,Singapore,#Global,45423.0,26.0,41645.0,3752.0
 2020-07-09,Slovakia,#Global,1851.0,28.0,1477.0,346.0
 2020-07-09,Slovenia,#Global,1776.0,111.0,1429.0,236.0
+2020-07-09,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-09,Somalia,#Global,3038.0,92.0,1209.0,1737.0
 2020-07-09,South Africa,#Global,238339.0,3720.0,113061.0,121558.0
 2020-07-09,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -44187,6 +44357,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-10,Singapore,#Global,45614.0,26.0,41780.0,3808.0
 2020-07-10,Slovakia,#Global,1870.0,28.0,1481.0,361.0
 2020-07-10,Slovenia,#Global,1793.0,111.0,1429.0,253.0
+2020-07-10,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-10,Somalia,#Global,3038.0,92.0,1209.0,1737.0
 2020-07-10,South Africa,#Global,250687.0,3860.0,118232.0,128595.0
 2020-07-10,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -44446,6 +44617,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-11,Singapore,#Global,45783.0,26.0,42026.0,3731.0
 2020-07-11,Slovakia,#Global,1893.0,28.0,1493.0,372.0
 2020-07-11,Slovenia,#Global,1827.0,111.0,1429.0,287.0
+2020-07-11,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-11,Somalia,#Global,3051.0,92.0,1264.0,1695.0
 2020-07-11,South Africa,#Global,264184.0,3971.0,127715.0,132498.0
 2020-07-11,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -44705,6 +44877,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-12,Singapore,#Global,45961.0,26.0,42285.0,3650.0
 2020-07-12,Slovakia,#Global,1901.0,28.0,1493.0,380.0
 2020-07-12,Slovenia,#Global,1841.0,111.0,1469.0,261.0
+2020-07-12,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-12,Somalia,#Global,3059.0,93.0,1264.0,1702.0
 2020-07-12,South Africa,#Global,276242.0,4079.0,134874.0,137289.0
 2020-07-12,South Sudan,#Global,2021.0,38.0,333.0,1650.0
@@ -44964,6 +45137,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-13,Singapore,#Global,46283.0,26.0,42541.0,3716.0
 2020-07-13,Slovakia,#Global,1902.0,28.0,1493.0,381.0
 2020-07-13,Slovenia,#Global,1849.0,111.0,1473.0,265.0
+2020-07-13,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-13,Somalia,#Global,3072.0,93.0,1343.0,1636.0
 2020-07-13,South Africa,#Global,287796.0,4172.0,138241.0,145383.0
 2020-07-13,South Sudan,#Global,2148.0,41.0,333.0,1774.0
@@ -45223,6 +45397,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-14,Singapore,#Global,46630.0,27.0,42737.0,3866.0
 2020-07-14,Slovakia,#Global,1908.0,28.0,1493.0,387.0
 2020-07-14,Slovenia,#Global,1859.0,111.0,1488.0,260.0
+2020-07-14,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-14,Somalia,#Global,3076.0,93.0,1380.0,1603.0
 2020-07-14,South Africa,#Global,298292.0,4346.0,146279.0,147667.0
 2020-07-14,South Sudan,#Global,2148.0,41.0,333.0,1774.0
@@ -45482,6 +45657,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-15,Singapore,#Global,46878.0,27.0,42988.0,3863.0
 2020-07-15,Slovakia,#Global,1927.0,28.0,1507.0,392.0
 2020-07-15,Slovenia,#Global,1878.0,111.0,1501.0,266.0
+2020-07-15,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-15,Somalia,#Global,3083.0,93.0,1425.0,1565.0
 2020-07-15,South Africa,#Global,311049.0,4453.0,160693.0,145903.0
 2020-07-15,South Sudan,#Global,2153.0,41.0,1175.0,937.0
@@ -45741,6 +45917,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-16,Singapore,#Global,47126.0,27.0,43256.0,3843.0
 2020-07-16,Slovakia,#Global,1951.0,28.0,1514.0,409.0
 2020-07-16,Slovenia,#Global,1897.0,111.0,1522.0,264.0
+2020-07-16,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-16,Somalia,#Global,3106.0,93.0,1444.0,1569.0
 2020-07-16,South Africa,#Global,324221.0,4669.0,165591.0,153961.0
 2020-07-16,South Sudan,#Global,2171.0,41.0,1175.0,955.0
@@ -46000,6 +46177,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-17,Singapore,#Global,47453.0,27.0,43577.0,3849.0
 2020-07-17,Slovakia,#Global,1965.0,28.0,1523.0,414.0
 2020-07-17,Slovenia,#Global,1916.0,111.0,1522.0,283.0
+2020-07-17,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-17,Somalia,#Global,3106.0,93.0,1444.0,1569.0
 2020-07-17,South Africa,#Global,337594.0,4804.0,178183.0,154607.0
 2020-07-17,South Sudan,#Global,2191.0,43.0,1175.0,973.0
@@ -46259,6 +46437,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-18,Singapore,#Global,47655.0,27.0,43833.0,3795.0
 2020-07-18,Slovakia,#Global,1976.0,28.0,1523.0,425.0
 2020-07-18,Slovenia,#Global,1940.0,111.0,1568.0,261.0
+2020-07-18,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-18,Somalia,#Global,3111.0,93.0,1452.0,1566.0
 2020-07-18,South Africa,#Global,350879.0,4948.0,182230.0,163701.0
 2020-07-18,South Sudan,#Global,2191.0,43.0,1175.0,973.0
@@ -46518,6 +46697,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-19,Singapore,#Global,47912.0,27.0,44086.0,3799.0
 2020-07-19,Slovakia,#Global,1979.0,28.0,1530.0,421.0
 2020-07-19,Slovenia,#Global,1946.0,112.0,1568.0,266.0
+2020-07-19,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-19,Somalia,#Global,3119.0,93.0,1457.0,1569.0
 2020-07-19,South Africa,#Global,364328.0,5033.0,191059.0,168236.0
 2020-07-19,South Sudan,#Global,2200.0,43.0,1175.0,982.0
@@ -46777,6 +46957,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-20,Singapore,#Global,48035.0,27.0,44371.0,3637.0
 2020-07-20,Slovakia,#Global,1980.0,28.0,1538.0,414.0
 2020-07-20,Slovenia,#Global,1953.0,113.0,1603.0,237.0
+2020-07-20,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-20,Somalia,#Global,3130.0,93.0,1462.0,1575.0
 2020-07-20,South Africa,#Global,373628.0,5173.0,194865.0,173590.0
 2020-07-20,South Sudan,#Global,2211.0,45.0,1175.0,991.0
@@ -47036,6 +47217,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-21,Singapore,#Global,48434.0,27.0,44584.0,3823.0
 2020-07-21,Slovakia,#Global,2021.0,28.0,1538.0,455.0
 2020-07-21,Slovenia,#Global,1977.0,114.0,1625.0,238.0
+2020-07-21,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-21,Somalia,#Global,3135.0,93.0,1464.0,1578.0
 2020-07-21,South Africa,#Global,381798.0,5368.0,208144.0,168286.0
 2020-07-21,South Sudan,#Global,2211.0,45.0,1175.0,991.0
@@ -47295,6 +47477,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-22,Singapore,#Global,48744.0,27.0,44795.0,3922.0
 2020-07-22,Slovakia,#Global,2058.0,28.0,1556.0,474.0
 2020-07-22,Slovenia,#Global,2006.0,115.0,1648.0,243.0
+2020-07-22,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-22,Somalia,#Global,3161.0,93.0,1495.0,1573.0
 2020-07-22,South Africa,#Global,394948.0,5940.0,229175.0,159833.0
 2020-07-22,South Sudan,#Global,2211.0,45.0,1175.0,991.0
@@ -47554,6 +47737,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-23,Singapore,#Global,49098.0,27.0,45015.0,4056.0
 2020-07-23,Slovakia,#Global,2089.0,28.0,1556.0,505.0
 2020-07-23,Slovenia,#Global,2033.0,115.0,1661.0,257.0
+2020-07-23,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-23,Somalia,#Global,3171.0,93.0,1499.0,1579.0
 2020-07-23,South Africa,#Global,408052.0,6093.0,236260.0,165699.0
 2020-07-23,South Sudan,#Global,2239.0,45.0,1175.0,1019.0
@@ -47813,6 +47997,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-24,Singapore,#Global,49375.0,27.0,45172.0,4176.0
 2020-07-24,Slovakia,#Global,2118.0,28.0,1577.0,513.0
 2020-07-24,Slovenia,#Global,2052.0,115.0,1678.0,259.0
+2020-07-24,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-24,Somalia,#Global,3171.0,93.0,1499.0,1579.0
 2020-07-24,South Africa,#Global,421996.0,6343.0,245771.0,169882.0
 2020-07-24,South Sudan,#Global,2258.0,45.0,1175.0,1038.0
@@ -48072,6 +48257,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-25,Singapore,#Global,49888.0,27.0,45352.0,4509.0
 2020-07-25,Slovakia,#Global,2141.0,28.0,1577.0,536.0
 2020-07-25,Slovenia,#Global,2066.0,116.0,1678.0,272.0
+2020-07-25,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-25,Somalia,#Global,3178.0,93.0,1521.0,1564.0
 2020-07-25,South Africa,#Global,434200.0,6655.0,263054.0,164491.0
 2020-07-25,South Sudan,#Global,2258.0,45.0,1175.0,1038.0
@@ -48331,6 +48517,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-26,Singapore,#Global,50369.0,27.0,45521.0,4821.0
 2020-07-26,Slovakia,#Global,2179.0,28.0,1577.0,574.0
 2020-07-26,Slovenia,#Global,2082.0,116.0,1678.0,288.0
+2020-07-26,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-26,Somalia,#Global,3178.0,93.0,1521.0,1564.0
 2020-07-26,South Africa,#Global,445433.0,6769.0,265077.0,173587.0
 2020-07-26,South Sudan,#Global,2262.0,45.0,1175.0,1042.0
@@ -48590,6 +48777,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-27,Singapore,#Global,50838.0,27.0,45692.0,5119.0
 2020-07-27,Slovakia,#Global,2181.0,28.0,1616.0,537.0
 2020-07-27,Slovenia,#Global,2087.0,116.0,1733.0,238.0
+2020-07-27,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-27,Somalia,#Global,3196.0,93.0,1543.0,1560.0
 2020-07-27,South Africa,#Global,452529.0,7067.0,274925.0,170537.0
 2020-07-27,South Sudan,#Global,2305.0,46.0,1175.0,1084.0
@@ -48849,6 +49037,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-28,Singapore,#Global,51197.0,27.0,45893.0,5277.0
 2020-07-28,Slovakia,#Global,2204.0,28.0,1644.0,532.0
 2020-07-28,Slovenia,#Global,2101.0,117.0,1742.0,242.0
+2020-07-28,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-28,Somalia,#Global,3212.0,93.0,1562.0,1557.0
 2020-07-28,South Africa,#Global,459761.0,7257.0,287313.0,165191.0
 2020-07-28,South Sudan,#Global,2305.0,46.0,1175.0,1084.0
@@ -49108,6 +49297,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-29,Singapore,#Global,51531.0,27.0,46098.0,5406.0
 2020-07-29,Slovakia,#Global,2245.0,28.0,1660.0,557.0
 2020-07-29,Slovenia,#Global,2115.0,117.0,1761.0,237.0
+2020-07-29,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-29,Somalia,#Global,3212.0,93.0,1562.0,1557.0
 2020-07-29,South Africa,#Global,471123.0,7497.0,297967.0,165659.0
 2020-07-29,South Sudan,#Global,2322.0,46.0,1175.0,1101.0
@@ -49367,6 +49557,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-30,Singapore,#Global,51809.0,27.0,46308.0,5474.0
 2020-07-30,Slovakia,#Global,2265.0,28.0,1675.0,562.0
 2020-07-30,Slovenia,#Global,2139.0,117.0,1780.0,242.0
+2020-07-30,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-30,Somalia,#Global,3212.0,93.0,1562.0,1557.0
 2020-07-30,South Africa,#Global,482169.0,7812.0,309601.0,164756.0
 2020-07-30,South Sudan,#Global,2322.0,46.0,1175.0,1101.0
@@ -49626,6 +49817,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-31,Singapore,#Global,52205.0,27.0,46491.0,5687.0
 2020-07-31,Slovakia,#Global,2292.0,29.0,1695.0,568.0
 2020-07-31,Slovenia,#Global,2156.0,119.0,1797.0,240.0
+2020-07-31,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-31,Somalia,#Global,3212.0,93.0,1562.0,1557.0
 2020-07-31,South Africa,#Global,493183.0,8005.0,326171.0,159007.0
 2020-07-31,South Sudan,#Global,2322.0,46.0,1175.0,1101.0
@@ -49885,6 +50077,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-01,Singapore,#Global,52512.0,27.0,46740.0,5745.0
 2020-08-01,Slovakia,#Global,2337.0,29.0,1742.0,566.0
 2020-08-01,Slovenia,#Global,2171.0,119.0,1821.0,231.0
+2020-08-01,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-01,Somalia,#Global,3212.0,93.0,1562.0,1557.0
 2020-08-01,South Africa,#Global,503290.0,8153.0,342461.0,152676.0
 2020-08-01,South Sudan,#Global,2352.0,46.0,1175.0,1131.0
@@ -50144,6 +50337,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-02,Singapore,#Global,52825.0,27.0,46926.0,5872.0
 2020-08-02,Slovakia,#Global,2344.0,29.0,1742.0,573.0
 2020-08-02,Slovenia,#Global,2180.0,120.0,1826.0,234.0
+2020-08-02,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-02,Somalia,#Global,3220.0,93.0,1598.0,1529.0
 2020-08-02,South Africa,#Global,511485.0,8366.0,347227.0,155892.0
 2020-08-02,South Sudan,#Global,2429.0,46.0,1175.0,1208.0
@@ -50403,6 +50597,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-03,Singapore,#Global,53051.0,27.0,47179.0,5845.0
 2020-08-03,Slovakia,#Global,2354.0,29.0,1746.0,579.0
 2020-08-03,Slovenia,#Global,2181.0,122.0,1831.0,228.0
+2020-08-03,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-03,Somalia,#Global,3220.0,93.0,1598.0,1529.0
 2020-08-03,South Africa,#Global,516862.0,8539.0,358037.0,150286.0
 2020-08-03,South Sudan,#Global,2429.0,46.0,1175.0,1208.0
@@ -50662,6 +50857,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-04,Singapore,#Global,53346.0,27.0,47454.0,5865.0
 2020-08-04,Slovakia,#Global,2368.0,29.0,1771.0,568.0
 2020-08-04,Slovenia,#Global,2190.0,123.0,1854.0,213.0
+2020-08-04,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-04,Somalia,#Global,3220.0,93.0,1598.0,1529.0
 2020-08-04,South Africa,#Global,521318.0,8884.0,363751.0,148683.0
 2020-08-04,South Sudan,#Global,2437.0,47.0,1175.0,1215.0
@@ -50921,6 +51117,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-05,Singapore,#Global,54254.0,27.0,47768.0,6459.0
 2020-08-05,Slovakia,#Global,2417.0,29.0,1777.0,611.0
 2020-08-05,Slovenia,#Global,2208.0,124.0,1884.0,200.0
+2020-08-05,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-05,Somalia,#Global,3227.0,93.0,1728.0,1406.0
 2020-08-05,South Africa,#Global,529877.0,9298.0,377266.0,143313.0
 2020-08-05,South Sudan,#Global,2437.0,47.0,1175.0,1215.0
@@ -51180,6 +51377,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-06,Singapore,#Global,54555.0,27.0,48031.0,6497.0
 2020-08-06,Slovakia,#Global,2480.0,29.0,1824.0,627.0
 2020-08-06,Slovenia,#Global,2223.0,125.0,1909.0,189.0
+2020-08-06,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-06,Somalia,#Global,3227.0,93.0,1728.0,1406.0
 2020-08-06,South Africa,#Global,538184.0,9604.0,387316.0,141264.0
 2020-08-06,South Sudan,#Global,2450.0,47.0,1175.0,1228.0
@@ -51439,6 +51637,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-07,Singapore,#Global,54797.0,27.0,48312.0,6458.0
 2020-08-07,Slovakia,#Global,2523.0,31.0,1846.0,646.0
 2020-08-07,Slovenia,#Global,2233.0,125.0,1927.0,181.0
+2020-08-07,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-07,Somalia,#Global,3227.0,93.0,1728.0,1406.0
 2020-08-07,South Africa,#Global,545476.0,9909.0,394759.0,140808.0
 2020-08-07,South Sudan,#Global,2450.0,47.0,1175.0,1228.0
@@ -51698,6 +51897,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-08,Singapore,#Global,54929.0,27.0,48583.0,6319.0
 2020-08-08,Slovakia,#Global,2566.0,31.0,1861.0,674.0
 2020-08-08,Slovenia,#Global,2247.0,126.0,1927.0,194.0
+2020-08-08,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-08,Somalia,#Global,3227.0,93.0,1728.0,1406.0
 2020-08-08,South Africa,#Global,553188.0,10210.0,404568.0,138410.0
 2020-08-08,South Sudan,#Global,2463.0,47.0,1175.0,1241.0
@@ -51957,6 +52157,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-09,Singapore,#Global,55104.0,27.0,48915.0,6162.0
 2020-08-09,Slovakia,#Global,2596.0,31.0,1864.0,701.0
 2020-08-09,Slovenia,#Global,2249.0,127.0,1927.0,195.0
+2020-08-09,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-09,Somalia,#Global,3227.0,93.0,1728.0,1406.0
 2020-08-09,South Africa,#Global,559859.0,10408.0,411474.0,137977.0
 2020-08-09,South Sudan,#Global,2470.0,47.0,1175.0,1248.0
@@ -52216,6 +52417,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-10,Singapore,#Global,55292.0,27.0,49609.0,5656.0
 2020-08-10,Slovakia,#Global,2599.0,31.0,1866.0,702.0
 2020-08-10,Slovenia,#Global,2255.0,128.0,1960.0,167.0
+2020-08-10,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-10,Somalia,#Global,3227.0,93.0,1728.0,1406.0
 2020-08-10,South Africa,#Global,563598.0,10621.0,417200.0,135777.0
 2020-08-10,South Sudan,#Global,2470.0,47.0,1175.0,1248.0
@@ -52475,6 +52677,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-11,Singapore,#Global,55353.0,27.0,50128.0,5198.0
 2020-08-11,Slovakia,#Global,2615.0,31.0,1874.0,710.0
 2020-08-11,Slovenia,#Global,2272.0,129.0,1960.0,183.0
+2020-08-11,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-11,Somalia,#Global,3227.0,93.0,1728.0,1406.0
 2020-08-11,South Africa,#Global,566109.0,10751.0,426125.0,129233.0
 2020-08-11,South Sudan,#Global,2472.0,47.0,1175.0,1250.0
@@ -52734,6 +52937,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-12,Singapore,#Global,55395.0,27.0,50520.0,4848.0
 2020-08-12,Slovakia,#Global,2690.0,31.0,1884.0,775.0
 2020-08-12,Slovenia,#Global,2303.0,129.0,1960.0,214.0
+2020-08-12,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-12,Somalia,#Global,3227.0,93.0,1728.0,1406.0
 2020-08-12,South Africa,#Global,568919.0,11010.0,432029.0,125880.0
 2020-08-12,South Sudan,#Global,2477.0,47.0,1175.0,1255.0
@@ -52993,6 +53197,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-13,Singapore,#Global,55497.0,27.0,50736.0,4734.0
 2020-08-13,Slovakia,#Global,2739.0,31.0,1939.0,769.0
 2020-08-13,Slovenia,#Global,2332.0,129.0,1960.0,243.0
+2020-08-13,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-13,Somalia,#Global,3227.0,93.0,1728.0,1406.0
 2020-08-13,South Africa,#Global,572865.0,11270.0,437617.0,123978.0
 2020-08-13,South Sudan,#Global,2478.0,47.0,1175.0,1256.0
@@ -53252,6 +53457,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-14,Singapore,#Global,55580.0,27.0,51049.0,4504.0
 2020-08-14,Slovakia,#Global,2801.0,31.0,1944.0,826.0
 2020-08-14,Slovenia,#Global,2369.0,129.0,2027.0,213.0
+2020-08-14,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-14,Somalia,#Global,3250.0,93.0,2268.0,889.0
 2020-08-14,South Africa,#Global,579140.0,11556.0,461734.0,105850.0
 2020-08-14,South Sudan,#Global,2482.0,47.0,1175.0,1260.0
@@ -53511,6 +53717,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-15,Singapore,#Global,55661.0,27.0,51521.0,4113.0
 2020-08-15,Slovakia,#Global,2855.0,31.0,1969.0,855.0
 2020-08-15,Slovenia,#Global,2401.0,129.0,2042.0,230.0
+2020-08-15,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-15,Somalia,#Global,3250.0,93.0,2268.0,889.0
 2020-08-15,South Africa,#Global,583653.0,11677.0,466941.0,105035.0
 2020-08-15,South Sudan,#Global,2488.0,47.0,1175.0,1266.0
@@ -53770,6 +53977,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-16,Singapore,#Global,55747.0,27.0,51953.0,3767.0
 2020-08-16,Slovakia,#Global,2902.0,31.0,1969.0,902.0
 2020-08-16,Slovenia,#Global,2416.0,129.0,2051.0,236.0
+2020-08-16,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-16,Somalia,#Global,3256.0,93.0,2374.0,789.0
 2020-08-16,South Africa,#Global,587345.0,11839.0,472377.0,103129.0
 2020-08-16,South Sudan,#Global,2489.0,47.0,1175.0,1267.0
@@ -54029,6 +54237,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-17,Singapore,#Global,55838.0,27.0,52350.0,3461.0
 2020-08-17,Slovakia,#Global,2907.0,31.0,1969.0,907.0
 2020-08-17,Slovenia,#Global,2429.0,129.0,2052.0,248.0
+2020-08-17,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-17,Somalia,#Global,3257.0,93.0,2374.0,790.0
 2020-08-17,South Africa,#Global,589886.0,11982.0,477671.0,100233.0
 2020-08-17,South Sudan,#Global,2490.0,47.0,1175.0,1268.0
@@ -54288,6 +54497,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-18,Singapore,#Global,55938.0,27.0,52533.0,3378.0
 2020-08-18,Slovakia,#Global,2922.0,31.0,1980.0,911.0
 2020-08-18,Slovenia,#Global,2456.0,129.0,2052.0,275.0
+2020-08-18,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-18,Somalia,#Global,3257.0,93.0,2374.0,790.0
 2020-08-18,South Africa,#Global,592144.0,12264.0,485468.0,94412.0
 2020-08-18,South Sudan,#Global,2490.0,47.0,1175.0,1268.0
@@ -54547,6 +54757,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-19,Singapore,#Global,56031.0,27.0,52810.0,3194.0
 2020-08-19,Slovakia,#Global,3022.0,33.0,1997.0,992.0
 2020-08-19,Slovenia,#Global,2493.0,129.0,2079.0,285.0
+2020-08-19,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-19,Somalia,#Global,3265.0,93.0,2396.0,776.0
 2020-08-19,South Africa,#Global,596060.0,12423.0,491441.0,92196.0
 2020-08-19,South Sudan,#Global,2494.0,47.0,1290.0,1157.0
@@ -54806,6 +55017,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-20,Singapore,#Global,56099.0,27.0,53119.0,2953.0
 2020-08-20,Slovakia,#Global,3102.0,33.0,2014.0,1055.0
 2020-08-20,Slovenia,#Global,2536.0,129.0,2079.0,328.0
+2020-08-20,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-20,Somalia,#Global,3265.0,93.0,2396.0,776.0
 2020-08-20,South Africa,#Global,599940.0,12618.0,497169.0,90153.0
 2020-08-20,South Sudan,#Global,2494.0,47.0,1290.0,1157.0
@@ -55065,6 +55277,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-21,Singapore,#Global,56216.0,27.0,53651.0,2538.0
 2020-08-21,Slovakia,#Global,3225.0,33.0,2045.0,1147.0
 2020-08-21,Slovenia,#Global,2574.0,130.0,2079.0,365.0
+2020-08-21,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-21,Somalia,#Global,3265.0,93.0,2396.0,776.0
 2020-08-21,South Africa,#Global,603338.0,12843.0,500102.0,90393.0
 2020-08-21,South Sudan,#Global,2497.0,47.0,1290.0,1160.0
@@ -55324,6 +55537,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-22,Singapore,#Global,56266.0,27.0,53920.0,2319.0
 2020-08-22,Slovakia,#Global,3316.0,33.0,2147.0,1136.0
 2020-08-22,Slovenia,#Global,2617.0,131.0,2079.0,407.0
+2020-08-22,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-22,Somalia,#Global,3269.0,93.0,2396.0,780.0
 2020-08-22,South Africa,#Global,607045.0,12987.0,504127.0,89931.0
 2020-08-22,South Sudan,#Global,2497.0,47.0,1290.0,1160.0
@@ -55583,6 +55797,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-23,Singapore,#Global,56353.0,27.0,54164.0,2162.0
 2020-08-23,Slovakia,#Global,3356.0,33.0,2148.0,1175.0
 2020-08-23,Slovenia,#Global,2651.0,131.0,2079.0,441.0
+2020-08-23,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-23,Somalia,#Global,3269.0,93.0,2396.0,780.0
 2020-08-23,South Africa,#Global,609773.0,13059.0,506470.0,90244.0
 2020-08-23,South Sudan,#Global,2499.0,47.0,1290.0,1162.0
@@ -55842,6 +56057,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-24,Singapore,#Global,56404.0,27.0,54587.0,1790.0
 2020-08-24,Slovakia,#Global,3424.0,33.0,2153.0,1238.0
 2020-08-24,Slovenia,#Global,2665.0,133.0,2122.0,410.0
+2020-08-24,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-24,Somalia,#Global,3269.0,93.0,2443.0,733.0
 2020-08-24,South Africa,#Global,611450.0,13159.0,516494.0,81797.0
 2020-08-24,South Sudan,#Global,2504.0,47.0,1290.0,1167.0
@@ -56101,6 +56317,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-25,Singapore,#Global,56435.0,27.0,54816.0,1592.0
 2020-08-25,Slovakia,#Global,3452.0,33.0,2167.0,1252.0
 2020-08-25,Slovenia,#Global,2686.0,133.0,2139.0,414.0
+2020-08-25,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-25,Somalia,#Global,3275.0,95.0,2443.0,737.0
 2020-08-25,South Africa,#Global,613017.0,13308.0,520381.0,79328.0
 2020-08-25,South Sudan,#Global,2507.0,47.0,1290.0,1170.0
@@ -56360,6 +56577,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-26,Singapore,#Global,56495.0,27.0,54971.0,1497.0
 2020-08-26,Slovakia,#Global,3536.0,33.0,2192.0,1311.0
 2020-08-26,Slovenia,#Global,2722.0,133.0,2170.0,419.0
+2020-08-26,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-26,Somalia,#Global,3275.0,95.0,2443.0,737.0
 2020-08-26,South Africa,#Global,615701.0,13502.0,525242.0,76957.0
 2020-08-26,South Sudan,#Global,2510.0,47.0,1290.0,1173.0
@@ -56619,6 +56837,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-27,Singapore,#Global,56572.0,27.0,55139.0,1406.0
 2020-08-27,Slovakia,#Global,3626.0,33.0,2206.0,1387.0
 2020-08-27,Slovenia,#Global,2755.0,133.0,2199.0,423.0
+2020-08-27,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-27,Somalia,#Global,3275.0,95.0,2443.0,737.0
 2020-08-27,South Africa,#Global,618286.0,13628.0,531338.0,73320.0
 2020-08-27,South Sudan,#Global,2514.0,47.0,1290.0,1177.0
@@ -56878,6 +57097,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-28,Singapore,#Global,56666.0,27.0,55337.0,1302.0
 2020-08-28,Slovakia,#Global,3728.0,33.0,2225.0,1470.0
 2020-08-28,Slovenia,#Global,2797.0,133.0,2236.0,428.0
+2020-08-28,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-28,Somalia,#Global,3275.0,95.0,2443.0,737.0
 2020-08-28,South Africa,#Global,620132.0,13743.0,533935.0,72454.0
 2020-08-28,South Sudan,#Global,2518.0,47.0,1290.0,1181.0
@@ -57137,6 +57357,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-29,Singapore,#Global,56717.0,27.0,55447.0,1243.0
 2020-08-29,Slovakia,#Global,3842.0,33.0,2254.0,1555.0
 2020-08-29,Slovenia,#Global,2834.0,133.0,2268.0,433.0
+2020-08-29,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-29,Somalia,#Global,3310.0,97.0,2481.0,732.0
 2020-08-29,South Africa,#Global,622551.0,13981.0,536694.0,71876.0
 2020-08-29,South Sudan,#Global,2519.0,47.0,1290.0,1182.0
@@ -57396,6 +57617,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-30,Singapore,#Global,56771.0,27.0,55586.0,1158.0
 2020-08-30,Slovakia,#Global,3876.0,33.0,2278.0,1565.0
 2020-08-30,Slovenia,#Global,2865.0,133.0,2283.0,449.0
+2020-08-30,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-30,Somalia,#Global,3310.0,98.0,2481.0,731.0
 2020-08-30,South Africa,#Global,625056.0,14028.0,538604.0,72424.0
 2020-08-30,South Sudan,#Global,2519.0,47.0,1290.0,1182.0
@@ -57655,6 +57877,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-31,Singapore,#Global,56812.0,27.0,55658.0,1127.0
 2020-08-31,Slovakia,#Global,3917.0,33.0,2377.0,1507.0
 2020-08-31,Slovenia,#Global,2883.0,133.0,2296.0,454.0
+2020-08-31,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-31,Somalia,#Global,3310.0,98.0,2481.0,731.0
 2020-08-31,South Africa,#Global,627041.0,14149.0,540923.0,71969.0
 2020-08-31,South Sudan,#Global,2527.0,47.0,1290.0,1190.0
@@ -57914,6 +58137,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-01,Singapore,#Global,56852.0,27.0,55749.0,1076.0
 2020-09-01,Slovakia,#Global,3989.0,33.0,2478.0,1478.0
 2020-09-01,Slovenia,#Global,2924.0,133.0,2323.0,468.0
+2020-09-01,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-01,Somalia,#Global,3310.0,98.0,2481.0,731.0
 2020-09-01,South Africa,#Global,628259.0,14263.0,549993.0,64003.0
 2020-09-01,South Sudan,#Global,2527.0,47.0,1290.0,1190.0
@@ -58173,6 +58397,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-02,Singapore,#Global,56860.0,27.0,55891.0,942.0
 2020-09-02,Slovakia,#Global,4042.0,33.0,2523.0,1486.0
 2020-09-02,Slovenia,#Global,2979.0,134.0,2359.0,486.0
+2020-09-02,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-02,Somalia,#Global,3310.0,98.0,2481.0,731.0
 2020-09-02,South Africa,#Global,630595.0,14389.0,553456.0,62750.0
 2020-09-02,South Sudan,#Global,2532.0,47.0,1290.0,1195.0
@@ -58432,6 +58657,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-03,Singapore,#Global,56908.0,27.0,56028.0,853.0
 2020-09-03,Slovakia,#Global,4163.0,37.0,2617.0,1509.0
 2020-09-03,Slovenia,#Global,3032.0,134.0,2402.0,496.0
+2020-09-03,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-03,Somalia,#Global,3310.0,98.0,2481.0,731.0
 2020-09-03,South Africa,#Global,633015.0,14563.0,554887.0,63565.0
 2020-09-03,South Sudan,#Global,2533.0,47.0,1290.0,1196.0
@@ -58691,6 +58917,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-04,Singapore,#Global,56948.0,27.0,56174.0,747.0
 2020-09-04,Slovakia,#Global,4300.0,37.0,2693.0,1570.0
 2020-09-04,Slovenia,#Global,3079.0,134.0,2440.0,505.0
+2020-09-04,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-04,Somalia,#Global,3332.0,97.0,2696.0,539.0
 2020-09-04,South Africa,#Global,635078.0,14678.0,557818.0,62582.0
 2020-09-04,South Sudan,#Global,2536.0,47.0,1290.0,1199.0
@@ -58950,6 +59177,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-05,Singapore,#Global,56982.0,27.0,56267.0,688.0
 2020-09-05,Slovakia,#Global,4526.0,37.0,2797.0,1692.0
 2020-09-05,Slovenia,#Global,3122.0,135.0,2483.0,504.0
+2020-09-05,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-05,Somalia,#Global,3332.0,97.0,2696.0,539.0
 2020-09-05,South Africa,#Global,636884.0,14779.0,561204.0,60901.0
 2020-09-05,South Sudan,#Global,2544.0,48.0,1290.0,1206.0
@@ -59209,6 +59437,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-06,Singapore,#Global,57022.0,27.0,56333.0,662.0
 2020-09-06,Slovakia,#Global,4614.0,37.0,2802.0,1775.0
 2020-09-06,Slovenia,#Global,3165.0,135.0,2483.0,547.0
+2020-09-06,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-06,Somalia,#Global,3362.0,97.0,2696.0,569.0
 2020-09-06,South Africa,#Global,638517.0,14889.0,563891.0,59737.0
 2020-09-06,South Sudan,#Global,2544.0,48.0,1290.0,1206.0
@@ -59468,6 +59697,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-07,Singapore,#Global,57044.0,27.0,56408.0,609.0
 2020-09-07,Slovakia,#Global,4636.0,37.0,2836.0,1763.0
 2020-09-07,Slovenia,#Global,3190.0,135.0,2530.0,525.0
+2020-09-07,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-07,Somalia,#Global,3362.0,97.0,2696.0,569.0
 2020-09-07,South Africa,#Global,639362.0,15004.0,566555.0,57803.0
 2020-09-07,South Sudan,#Global,2545.0,48.0,1290.0,1207.0
@@ -59727,6 +59957,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-08,Singapore,#Global,57091.0,27.0,56461.0,603.0
 2020-09-08,Slovakia,#Global,4727.0,37.0,2913.0,1777.0
 2020-09-08,Slovenia,#Global,3232.0,135.0,2533.0,564.0
+2020-09-08,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-08,Somalia,#Global,3371.0,97.0,2738.0,536.0
 2020-09-08,South Africa,#Global,640441.0,15086.0,567729.0,57626.0
 2020-09-08,South Sudan,#Global,2552.0,49.0,1290.0,1213.0
@@ -59986,6 +60217,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-09,Singapore,#Global,57166.0,27.0,56492.0,647.0
 2020-09-09,Slovakia,#Global,4888.0,37.0,2947.0,1904.0
 2020-09-09,Slovenia,#Global,3312.0,135.0,2587.0,590.0
+2020-09-09,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-09,Somalia,#Global,3371.0,97.0,2738.0,536.0
 2020-09-09,South Africa,#Global,642431.0,15168.0,569935.0,57328.0
 2020-09-09,South Sudan,#Global,2555.0,49.0,1290.0,1216.0
@@ -60245,6 +60477,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-10,Singapore,#Global,57229.0,27.0,56558.0,644.0
 2020-09-10,Slovakia,#Global,5066.0,37.0,3001.0,2028.0
 2020-09-10,Slovenia,#Global,3389.0,135.0,2620.0,634.0
+2020-09-10,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-10,Somalia,#Global,3371.0,97.0,2738.0,536.0
 2020-09-10,South Africa,#Global,644438.0,15265.0,573003.0,56170.0
 2020-09-10,South Sudan,#Global,2555.0,49.0,1290.0,1216.0
@@ -60504,6 +60737,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-11,Singapore,#Global,57315.0,27.0,56607.0,681.0
 2020-09-11,Slovakia,#Global,5252.0,37.0,3081.0,2134.0
 2020-09-11,Slovenia,#Global,3497.0,135.0,2662.0,700.0
+2020-09-11,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-11,Somalia,#Global,3376.0,98.0,2791.0,487.0
 2020-09-11,South Africa,#Global,646398.0,15378.0,574587.0,56433.0
 2020-09-11,South Sudan,#Global,2568.0,49.0,1290.0,1229.0
@@ -60763,6 +60997,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-12,Singapore,#Global,57357.0,27.0,56699.0,631.0
 2020-09-12,Slovakia,#Global,5453.0,38.0,3114.0,2301.0
 2020-09-12,Slovenia,#Global,3603.0,135.0,2699.0,769.0
+2020-09-12,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-12,Somalia,#Global,3376.0,98.0,2791.0,487.0
 2020-09-12,South Africa,#Global,648214.0,15427.0,576423.0,56364.0
 2020-09-12,South Sudan,#Global,2578.0,49.0,1290.0,1239.0
@@ -61022,6 +61257,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-13,Singapore,#Global,57406.0,27.0,56764.0,615.0
 2020-09-13,Slovakia,#Global,5532.0,38.0,3124.0,2370.0
 2020-09-13,Slovenia,#Global,3702.0,135.0,2730.0,837.0
+2020-09-13,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-13,Somalia,#Global,3389.0,98.0,2803.0,488.0
 2020-09-13,South Africa,#Global,649793.0,15447.0,577906.0,56440.0
 2020-09-13,South Sudan,#Global,2578.0,49.0,1290.0,1239.0
@@ -61281,6 +61517,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-14,Singapore,#Global,57454.0,27.0,56802.0,625.0
 2020-09-14,Slovakia,#Global,5580.0,38.0,3129.0,2413.0
 2020-09-14,Slovenia,#Global,3749.0,135.0,2730.0,884.0
+2020-09-14,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-14,Somalia,#Global,3389.0,98.0,2803.0,488.0
 2020-09-14,South Africa,#Global,650749.0,15499.0,579289.0,55961.0
 2020-09-14,South Sudan,#Global,2587.0,49.0,1290.0,1248.0
@@ -61540,6 +61777,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-15,Singapore,#Global,57488.0,27.0,56884.0,577.0
 2020-09-15,Slovakia,#Global,5768.0,38.0,3214.0,2516.0
 2020-09-15,Slovenia,#Global,3831.0,135.0,2789.0,907.0
+2020-09-15,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-15,Somalia,#Global,3390.0,98.0,2812.0,480.0
 2020-09-15,South Africa,#Global,651521.0,15641.0,583126.0,52754.0
 2020-09-15,South Sudan,#Global,2592.0,49.0,1290.0,1253.0
@@ -61799,6 +62037,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-16,Singapore,#Global,57514.0,27.0,56955.0,532.0
 2020-09-16,Slovakia,#Global,5860.0,38.0,3220.0,2602.0
 2020-09-16,Slovenia,#Global,3954.0,135.0,2844.0,975.0
+2020-09-16,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-16,Somalia,#Global,3390.0,98.0,2812.0,480.0
 2020-09-16,South Africa,#Global,653444.0,15705.0,584195.0,53544.0
 2020-09-16,South Sudan,#Global,2594.0,49.0,1290.0,1255.0
@@ -62058,6 +62297,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-17,Singapore,#Global,57532.0,27.0,57039.0,466.0
 2020-09-17,Slovakia,#Global,6021.0,39.0,3288.0,2694.0
 2020-09-17,Slovenia,#Global,4058.0,136.0,2897.0,1025.0
+2020-09-17,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-17,Somalia,#Global,3390.0,98.0,2812.0,480.0
 2020-09-17,South Africa,#Global,655572.0,15772.0,585303.0,54497.0
 2020-09-17,South Sudan,#Global,2599.0,49.0,1290.0,1260.0
@@ -62317,6 +62557,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-18,Singapore,#Global,57543.0,27.0,57071.0,445.0
 2020-09-18,Slovakia,#Global,6256.0,39.0,3390.0,2827.0
 2020-09-18,Slovenia,#Global,4195.0,140.0,2939.0,1116.0
+2020-09-18,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-18,Somalia,#Global,3390.0,98.0,2812.0,480.0
 2020-09-18,South Africa,#Global,657627.0,15857.0,586844.0,54926.0
 2020-09-18,South Sudan,#Global,2609.0,49.0,1290.0,1270.0
@@ -62576,6 +62817,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-19,Singapore,#Global,57558.0,27.0,57142.0,389.0
 2020-09-19,Slovakia,#Global,6546.0,39.0,3519.0,2988.0
 2020-09-19,Slovenia,#Global,4309.0,141.0,2981.0,1187.0
+2020-09-19,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-19,Somalia,#Global,3401.0,98.0,2812.0,491.0
 2020-09-19,South Africa,#Global,659656.0,15940.0,589434.0,54282.0
 2020-09-19,South Sudan,#Global,2642.0,49.0,1290.0,1303.0
@@ -62835,6 +63077,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-20,Singapore,#Global,57576.0,27.0,57181.0,368.0
 2020-09-20,Slovakia,#Global,6677.0,39.0,3548.0,3090.0
 2020-09-20,Slovenia,#Global,4420.0,142.0,3023.0,1255.0
+2020-09-20,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-20,Somalia,#Global,3442.0,98.0,2877.0,467.0
 2020-09-20,South Africa,#Global,661211.0,15953.0,590071.0,55187.0
 2020-09-20,South Sudan,#Global,2642.0,49.0,1290.0,1303.0
@@ -63094,6 +63337,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-21,Singapore,#Global,57606.0,27.0,57241.0,338.0
 2020-09-21,Slovakia,#Global,6756.0,39.0,3571.0,3146.0
 2020-09-21,Slovenia,#Global,4470.0,142.0,3048.0,1280.0
+2020-09-21,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-21,Somalia,#Global,3465.0,98.0,2877.0,490.0
 2020-09-21,South Africa,#Global,661936.0,15992.0,591208.0,54736.0
 2020-09-21,South Sudan,#Global,2649.0,49.0,1290.0,1310.0
@@ -63353,6 +63597,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-22,Singapore,#Global,57627.0,27.0,57262.0,338.0
 2020-09-22,Slovakia,#Global,6931.0,40.0,3668.0,3223.0
 2020-09-22,Slovenia,#Global,4558.0,142.0,3048.0,1368.0
+2020-09-22,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-22,Somalia,#Global,3465.0,98.0,2877.0,490.0
 2020-09-22,South Africa,#Global,663282.0,16118.0,592904.0,54260.0
 2020-09-22,South Sudan,#Global,2660.0,49.0,1290.0,1321.0
@@ -63612,6 +63857,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-23,Singapore,#Global,57639.0,27.0,57291.0,321.0
 2020-09-23,Slovakia,#Global,7269.0,41.0,3888.0,3340.0
 2020-09-23,Slovenia,#Global,4694.0,143.0,3168.0,1383.0
+2020-09-23,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-23,Somalia,#Global,3465.0,98.0,2877.0,490.0
 2020-09-23,South Africa,#Global,665188.0,16206.0,594229.0,54753.0
 2020-09-23,South Sudan,#Global,2664.0,49.0,1290.0,1325.0
@@ -63871,6 +64117,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-24,Singapore,#Global,57654.0,27.0,57333.0,294.0
 2020-09-24,Slovakia,#Global,7629.0,41.0,3978.0,3610.0
 2020-09-24,Slovenia,#Global,4816.0,145.0,3245.0,1426.0
+2020-09-24,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-24,Somalia,#Global,3465.0,98.0,2877.0,490.0
 2020-09-24,South Africa,#Global,667049.0,16283.0,595916.0,54850.0
 2020-09-24,South Sudan,#Global,2669.0,49.0,1290.0,1330.0
@@ -64130,6 +64377,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-25,Singapore,#Global,57665.0,27.0,57341.0,297.0
 2020-09-25,Slovakia,#Global,8048.0,41.0,4036.0,3971.0
 2020-09-25,Slovenia,#Global,5007.0,145.0,3353.0,1509.0
+2020-09-25,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-25,Somalia,#Global,3465.0,98.0,2877.0,490.0
 2020-09-25,South Africa,#Global,668529.0,16312.0,599149.0,53068.0
 2020-09-25,South Sudan,#Global,2676.0,49.0,1290.0,1337.0
@@ -64389,6 +64637,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-26,Singapore,#Global,57685.0,27.0,57359.0,299.0
 2020-09-26,Slovakia,#Global,8600.0,44.0,4098.0,4458.0
 2020-09-26,Slovenia,#Global,5191.0,146.0,3457.0,1588.0
+2020-09-26,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-26,Somalia,#Global,3588.0,99.0,2943.0,546.0
 2020-09-26,South Africa,#Global,669498.0,16376.0,601818.0,51304.0
 2020-09-26,South Sudan,#Global,2676.0,49.0,1290.0,1337.0
@@ -64648,6 +64897,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-27,Singapore,#Global,57700.0,27.0,57367.0,306.0
 2020-09-27,Slovakia,#Global,9078.0,44.0,4178.0,4856.0
 2020-09-27,Slovenia,#Global,5350.0,147.0,3555.0,1648.0
+2020-09-27,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-27,Somalia,#Global,3588.0,99.0,2946.0,543.0
 2020-09-27,South Africa,#Global,670766.0,16398.0,603721.0,50647.0
 2020-09-27,South Sudan,#Global,2686.0,49.0,1290.0,1347.0
@@ -64907,6 +65157,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-28,Singapore,#Global,57715.0,27.0,57393.0,295.0
 2020-09-28,Slovakia,#Global,9343.0,44.0,4213.0,5086.0
 2020-09-28,Slovenia,#Global,5388.0,149.0,3600.0,1639.0
+2020-09-28,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-28,Somalia,#Global,3588.0,99.0,2946.0,543.0
 2020-09-28,South Africa,#Global,671669.0,16586.0,604478.0,50605.0
 2020-09-28,South Sudan,#Global,2692.0,49.0,1290.0,1353.0
@@ -65166,6 +65417,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-29,Singapore,#Global,57742.0,27.0,57466.0,249.0
 2020-09-29,Slovakia,#Global,9574.0,45.0,4329.0,5200.0
 2020-09-29,Slovenia,#Global,5487.0,149.0,3682.0,1656.0
+2020-09-29,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-29,Somalia,#Global,3588.0,99.0,2946.0,543.0
 2020-09-29,South Africa,#Global,672572.0,16667.0,606520.0,49385.0
 2020-09-29,South Sudan,#Global,2700.0,49.0,1290.0,1361.0
@@ -65425,6 +65677,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-30,Singapore,#Global,57765.0,27.0,57488.0,250.0
 2020-09-30,Slovakia,#Global,10141.0,48.0,4395.0,5698.0
 2020-09-30,Slovenia,#Global,5690.0,150.0,3804.0,1736.0
+2020-09-30,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-30,Somalia,#Global,3588.0,99.0,2946.0,543.0
 2020-09-30,South Africa,#Global,674339.0,16734.0,608112.0,49493.0
 2020-09-30,South Sudan,#Global,2704.0,49.0,1290.0,1365.0
@@ -65684,6 +65937,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-01,Singapore,#Global,57784.0,27.0,57512.0,245.0
 2020-10-01,Slovakia,#Global,10938.0,48.0,4620.0,6270.0
 2020-10-01,Slovenia,#Global,5865.0,152.0,3906.0,1807.0
+2020-10-01,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-01,Somalia,#Global,3593.0,99.0,3001.0,493.0
 2020-10-01,South Africa,#Global,676084.0,16866.0,609584.0,49634.0
 2020-10-01,South Sudan,#Global,2704.0,49.0,1290.0,1365.0
@@ -65943,6 +66197,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-02,Singapore,#Global,57794.0,27.0,57534.0,233.0
 2020-10-02,Slovakia,#Global,11617.0,54.0,4756.0,6807.0
 2020-10-02,Slovenia,#Global,6103.0,154.0,4041.0,1908.0
+2020-10-02,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-02,Somalia,#Global,3593.0,99.0,3001.0,493.0
 2020-10-02,South Africa,#Global,677833.0,16909.0,611044.0,49880.0
 2020-10-02,South Sudan,#Global,2715.0,50.0,1290.0,1375.0
@@ -66202,6 +66457,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-03,Singapore,#Global,57800.0,27.0,57562.0,211.0
 2020-10-03,Slovakia,#Global,12321.0,54.0,4793.0,7474.0
 2020-10-03,Slovenia,#Global,6330.0,155.0,4041.0,2134.0
+2020-10-03,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-03,Somalia,#Global,3593.0,99.0,3001.0,493.0
 2020-10-03,South Africa,#Global,679716.0,16938.0,612763.0,50015.0
 2020-10-03,South Sudan,#Global,2715.0,50.0,1290.0,1375.0
@@ -66461,6 +66717,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-04,Singapore,#Global,57812.0,27.0,57575.0,210.0
 2020-10-04,Slovakia,#Global,13139.0,55.0,4828.0,8256.0
 2020-10-04,Slovenia,#Global,6498.0,155.0,4265.0,2078.0
+2020-10-04,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-04,Somalia,#Global,3745.0,99.0,3010.0,636.0
 2020-10-04,South Africa,#Global,681289.0,16976.0,614781.0,49532.0
 2020-10-04,South Sudan,#Global,2726.0,50.0,1290.0,1386.0
@@ -66720,6 +66977,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-05,Singapore,#Global,57819.0,27.0,57597.0,195.0
 2020-10-05,Slovakia,#Global,13492.0,55.0,4865.0,8572.0
 2020-10-05,Slovenia,#Global,6673.0,156.0,4265.0,2252.0
+2020-10-05,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-05,Somalia,#Global,3745.0,99.0,3010.0,636.0
 2020-10-05,South Africa,#Global,682215.0,17016.0,615684.0,49515.0
 2020-10-05,South Sudan,#Global,2726.0,50.0,1290.0,1386.0
@@ -66979,6 +67237,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-06,Singapore,#Global,57830.0,27.0,57612.0,191.0
 2020-10-06,Slovakia,#Global,13812.0,55.0,5027.0,8730.0
 2020-10-06,Slovenia,#Global,6764.0,159.0,4399.0,2206.0
+2020-10-06,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-06,Somalia,#Global,3745.0,99.0,3010.0,636.0
 2020-10-06,South Africa,#Global,683242.0,17103.0,616857.0,49282.0
 2020-10-06,South Sudan,#Global,2734.0,50.0,1290.0,1394.0
@@ -67238,6 +67497,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-07,Singapore,#Global,57840.0,27.0,57624.0,189.0
 2020-10-07,Slovakia,#Global,14689.0,55.0,5200.0,9434.0
 2020-10-07,Slovenia,#Global,7120.0,159.0,4535.0,2426.0
+2020-10-07,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-07,Somalia,#Global,3745.0,99.0,3010.0,636.0
 2020-10-07,South Africa,#Global,685155.0,17248.0,618127.0,49780.0
 2020-10-07,South Sudan,#Global,2748.0,50.0,1290.0,1408.0
@@ -67497,6 +67757,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-08,Singapore,#Global,57849.0,27.0,57668.0,154.0
 2020-10-08,Slovakia,#Global,15726.0,57.0,5353.0,10316.0
 2020-10-08,Slovenia,#Global,7507.0,160.0,4655.0,2692.0
+2020-10-08,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-08,Somalia,#Global,3745.0,99.0,3010.0,636.0
 2020-10-08,South Africa,#Global,686891.0,17408.0,618771.0,50712.0
 2020-10-08,South Sudan,#Global,2749.0,53.0,1290.0,1406.0
@@ -67756,6 +68017,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-09,Singapore,#Global,57859.0,27.0,57675.0,157.0
 2020-10-09,Slovakia,#Global,16910.0,57.0,5452.0,11401.0
 2020-10-09,Slovenia,#Global,7872.0,165.0,4842.0,2865.0
+2020-10-09,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-09,Somalia,#Global,3745.0,99.0,3010.0,636.0
 2020-10-09,South Africa,#Global,688352.0,17547.0,620081.0,50724.0
 2020-10-09,South Sudan,#Global,2761.0,54.0,1290.0,1417.0
@@ -68015,6 +68277,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-10,Singapore,#Global,57866.0,27.0,57698.0,141.0
 2020-10-10,Slovakia,#Global,18797.0,61.0,5553.0,13183.0
 2020-10-10,Slovenia,#Global,8252.0,167.0,5024.0,3061.0
+2020-10-10,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-10,Somalia,#Global,3847.0,99.0,3079.0,669.0
 2020-10-10,South Africa,#Global,690896.0,17673.0,622153.0,51070.0
 2020-10-10,South Sudan,#Global,2761.0,54.0,1290.0,1417.0
@@ -68274,6 +68537,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-11,Singapore,#Global,57876.0,27.0,57705.0,144.0
 2020-10-11,Slovakia,#Global,19851.0,61.0,5631.0,14159.0
 2020-10-11,Slovenia,#Global,8663.0,167.0,5182.0,3314.0
+2020-10-11,Solomon Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-11,Somalia,#Global,3864.0,99.0,3089.0,676.0
 2020-10-11,South Africa,#Global,692471.0,17780.0,623765.0,50926.0
 2020-10-11,South Sudan,#Global,2777.0,55.0,1290.0,1432.0
@@ -68375,3 +68639,263 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-11,Isle of Man,United Kingdom,346.0,24.0,316.0,6.0
 2020-10-11,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-11,Turks and Caicos Islands,United Kingdom,696.0,6.0,672.0,18.0
+2020-10-12,#Worldwide,#Global,37616148.0,1071000.0,26118771.0,10426377.0
+2020-10-12,Afghanistan,#Global,39870.0,1479.0,33118.0,5273.0
+2020-10-12,Albania,#Global,15570.0,424.0,9585.0,5561.0
+2020-10-12,Algeria,#Global,53325.0,1809.0,37382.0,14134.0
+2020-10-12,Andorra,#Global,2995.0,57.0,1928.0,1010.0
+2020-10-12,Angola,#Global,6488.0,219.0,2744.0,3525.0
+2020-10-12,Antigua and Barbuda,#Global,111.0,3.0,97.0,11.0
+2020-10-12,Argentina,#Global,903730.0,24186.0,732582.0,146962.0
+2020-10-12,Armenia,#Global,56821.0,1026.0,45891.0,9904.0
+2020-10-12,Australia (total),#Global,27310.0,899.0,25029.0,1382.0
+2020-10-12,Austria,#Global,56298.0,855.0,44065.0,11378.0
+2020-10-12,Azerbaijan,#Global,42104.0,609.0,39404.0,2091.0
+2020-10-12,Bahamas,#Global,5163.0,108.0,2978.0,2077.0
+2020-10-12,Bahrain,#Global,75948.0,280.0,71687.0,3981.0
+2020-10-12,Bangladesh,#Global,379738.0,5555.0,294391.0,79792.0
+2020-10-12,Barbados,#Global,208.0,7.0,186.0,15.0
+2020-10-12,Belarus,#Global,83998.0,901.0,77423.0,5674.0
+2020-10-12,Belgium,#Global,165880.0,10211.0,20324.0,135345.0
+2020-10-12,Belize,#Global,2569.0,37.0,1566.0,966.0
+2020-10-12,Benin,#Global,2411.0,41.0,1973.0,397.0
+2020-10-12,Bhutan,#Global,309.0,0.0,291.0,18.0
+2020-10-12,Bolivia,#Global,138695.0,8326.0,101523.0,28846.0
+2020-10-12,Bosnia and Herzegovina,#Global,30837.0,936.0,23587.0,6314.0
+2020-10-12,Botswana,#Global,3515.0,20.0,853.0,2642.0
+2020-10-12,Brazil,#Global,5103408.0,150689.0,4526393.0,426326.0
+2020-10-12,Brunei,#Global,146.0,3.0,143.0,0.0
+2020-10-12,Bulgaria,#Global,24989.0,915.0,15975.0,8099.0
+2020-10-12,Burkina Faso,#Global,2294.0,63.0,1571.0,660.0
+2020-10-12,Burma,#Global,29314.0,664.0,10260.0,18390.0
+2020-10-12,Burundi,#Global,525.0,1.0,472.0,52.0
+2020-10-12,Cabo Verde,#Global,7155.0,75.0,6075.0,1005.0
+2020-10-12,Cambodia,#Global,283.0,0.0,278.0,5.0
+2020-10-12,Cameroon,#Global,21203.0,423.0,20117.0,663.0
+2020-10-12,Central African Republic,#Global,4854.0,62.0,1924.0,2868.0
+2020-10-12,Chad,#Global,1308.0,92.0,1117.0,99.0
+2020-10-12,Chile,#Global,482832.0,13376.0,454434.0,15022.0
+2020-10-12,China (total),#Global,90830.0,4739.0,85690.0,401.0
+2020-10-12,Colombia,#Global,919084.0,27985.0,798396.0,92703.0
+2020-10-12,Comoros,#Global,495.0,7.0,475.0,13.0
+2020-10-12,Congo (Brazzaville),#Global,5118.0,90.0,3887.0,1141.0
+2020-10-12,Congo (Kinshasa),#Global,10868.0,276.0,10249.0,343.0
+2020-10-12,Costa Rica,#Global,89223.0,1108.0,53247.0,34868.0
+2020-10-12,Cote d'Ivoire,#Global,20155.0,120.0,19831.0,204.0
+2020-10-12,Croatia,#Global,20621.0,327.0,17582.0,2712.0
+2020-10-12,Cuba,#Global,6000.0,123.0,5574.0,303.0
+2020-10-12,Cyprus,#Global,2047.0,25.0,1444.0,578.0
+2020-10-12,Czechia,#Global,121421.0,1051.0,58200.0,62170.0
+2020-10-12,Denmark,#Global,32811.0,671.0,26741.0,5399.0
+2020-10-12,Denmark (total),#Global,493.0,0.0,477.0,16.0
+2020-10-12,Diamond Princess,#Global,712.0,13.0,659.0,40.0
+2020-10-12,Djibouti,#Global,5426.0,61.0,5360.0,5.0
+2020-10-12,Dominica,#Global,32.0,0.0,24.0,8.0
+2020-10-12,Dominican Republic,#Global,118843.0,2179.0,94532.0,22132.0
+2020-10-12,Ecuador,#Global,147315.0,12218.0,128134.0,6963.0
+2020-10-12,Egypt,#Global,104648.0,6062.0,97743.0,843.0
+2020-10-12,El Salvador,#Global,30196.0,894.0,25438.0,3864.0
+2020-10-12,Equatorial Guinea,#Global,5066.0,83.0,4954.0,29.0
+2020-10-12,Eritrea,#Global,414.0,0.0,372.0,42.0
+2020-10-12,Estonia,#Global,3883.0,68.0,2967.0,848.0
+2020-10-12,Eswatini,#Global,5683.0,113.0,5322.0,248.0
+2020-10-12,Ethiopia,#Global,85136.0,1301.0,38904.0,44931.0
+2020-10-12,Fiji,#Global,32.0,2.0,28.0,2.0
+2020-10-12,Finland,#Global,12212.0,346.0,8500.0,3366.0
+2020-10-12,France,#Global,745104.0,32456.0,82402.0,630246.0
+2020-10-12,France (total),#Global,30993.0,247.0,21633.0,9113.0
+2020-10-12,Gabon,#Global,8860.0,54.0,8298.0,508.0
+2020-10-12,Gambia,#Global,3636.0,118.0,2593.0,925.0
+2020-10-12,Georgia,#Global,12272.0,93.0,6538.0,5641.0
+2020-10-12,Germany,#Global,332850.0,9640.0,278391.0,44819.0
+2020-10-12,Ghana,#Global,47030.0,308.0,46424.0,298.0
+2020-10-12,Greece,#Global,22652.0,456.0,1347.0,20849.0
+2020-10-12,Grenada,#Global,25.0,0.0,24.0,1.0
+2020-10-12,Guatemala,#Global,97826.0,3387.0,87016.0,7423.0
+2020-10-12,Guinea,#Global,11062.0,70.0,10337.0,655.0
+2020-10-12,Guinea-Bissau,#Global,2389.0,41.0,1782.0,566.0
+2020-10-12,Guyana,#Global,3521.0,104.0,2391.0,1026.0
+2020-10-12,Haiti,#Global,8882.0,230.0,7104.0,1548.0
+2020-10-12,Holy See,#Global,19.0,0.0,12.0,7.0
+2020-10-12,Honduras,#Global,84413.0,2521.0,32214.0,49678.0
+2020-10-12,Hungary,#Global,38837.0,968.0,11037.0,26832.0
+2020-10-12,Iceland,#Global,3582.0,10.0,2550.0,1022.0
+2020-10-12,India,#Global,7175880.0,109856.0,6227295.0,838729.0
+2020-10-12,Indonesia,#Global,336716.0,11935.0,258519.0,66262.0
+2020-10-12,Iran,#Global,504281.0,28816.0,409121.0,66344.0
+2020-10-12,Iraq,#Global,405437.0,9912.0,340050.0,55475.0
+2020-10-12,Ireland,#Global,43351.0,1827.0,23364.0,18160.0
+2020-10-12,Israel,#Global,294031.0,2021.0,238681.0,53329.0
+2020-10-12,Italy,#Global,359569.0,36205.0,240600.0,82764.0
+2020-10-12,Jamaica,#Global,7813.0,146.0,3237.0,4430.0
+2020-10-12,Japan,#Global,89652.0,1631.0,81552.0,6469.0
+2020-10-12,Jordan,#Global,26073.0,207.0,6219.0,19647.0
+2020-10-12,Kazakhstan,#Global,108901.0,1746.0,104203.0,2952.0
+2020-10-12,Kenya,#Global,41619.0,777.0,32000.0,8842.0
+2020-10-12,"Korea, South",#Global,24805.0,434.0,22863.0,1508.0
+2020-10-12,Kosovo,#Global,16247.0,648.0,14368.0,1231.0
+2020-10-12,Kuwait,#Global,111893.0,664.0,103802.0,7427.0
+2020-10-12,Kyrgyzstan,#Global,49528.0,1090.0,44522.0,3916.0
+2020-10-12,Laos,#Global,23.0,0.0,22.0,1.0
+2020-10-12,Latvia,#Global,2765.0,40.0,1325.0,1400.0
+2020-10-12,Lebanon,#Global,54624.0,466.0,23941.0,30217.0
+2020-10-12,Lesotho,#Global,1805.0,42.0,961.0,802.0
+2020-10-12,Liberia,#Global,1371.0,82.0,1250.0,39.0
+2020-10-12,Libya,#Global,43821.0,644.0,24466.0,18711.0
+2020-10-12,Liechtenstein,#Global,148.0,1.0,124.0,23.0
+2020-10-12,Lithuania,#Global,6248.0,103.0,2793.0,3352.0
+2020-10-12,Luxembourg,#Global,9119.0,128.0,7900.0,1091.0
+2020-10-12,MS Zaandam,#Global,9.0,2.0,0.0,7.0
+2020-10-12,Madagascar,#Global,16726.0,237.0,16081.0,408.0
+2020-10-12,Malawi,#Global,5824.0,180.0,4659.0,985.0
+2020-10-12,Malaysia,#Global,16220.0,159.0,11022.0,5039.0
+2020-10-12,Maldives,#Global,10943.0,35.0,9783.0,1125.0
+2020-10-12,Mali,#Global,3296.0,132.0,2533.0,631.0
+2020-10-12,Malta,#Global,3844.0,43.0,2981.0,820.0
+2020-10-12,Mauritania,#Global,7554.0,163.0,7297.0,94.0
+2020-10-12,Mauritius,#Global,404.0,10.0,359.0,35.0
+2020-10-12,Mexico,#Global,821045.0,83945.0,700826.0,36274.0
+2020-10-12,Moldova,#Global,62618.0,1478.0,44728.0,16412.0
+2020-10-12,Monaco,#Global,236.0,2.0,213.0,21.0
+2020-10-12,Mongolia,#Global,320.0,0.0,311.0,9.0
+2020-10-12,Montenegro,#Global,14050.0,211.0,9920.0,3919.0
+2020-10-12,Morocco,#Global,153761.0,2636.0,129498.0,21627.0
+2020-10-12,Mozambique,#Global,10088.0,72.0,7550.0,2466.0
+2020-10-12,Namibia,#Global,11989.0,129.0,9913.0,1947.0
+2020-10-12,Nepal,#Global,111802.0,645.0,77277.0,33880.0
+2020-10-12,Netherlands,#Global,181498.0,6596.0,0.0,174902.0
+2020-10-12,Netherlands (total),#Global,5640.0,58.0,4832.0,750.0
+2020-10-12,New Zealand,#Global,1872.0,25.0,1808.0,39.0
+2020-10-12,Nicaragua,#Global,5264.0,153.0,4225.0,886.0
+2020-10-12,Niger,#Global,1202.0,69.0,1124.0,9.0
+2020-10-12,Nigeria,#Global,60430.0,1115.0,51943.0,7372.0
+2020-10-12,North Macedonia,#Global,21113.0,797.0,16301.0,4015.0
+2020-10-12,Norway,#Global,15639.0,276.0,11863.0,3500.0
+2020-10-12,Oman,#Global,106575.0,1046.0,93222.0,12307.0
+2020-10-12,Pakistan,#Global,319848.0,6588.0,304609.0,8651.0
+2020-10-12,Panama,#Global,120802.0,2502.0,96675.0,21625.0
+2020-10-12,Papua New Guinea,#Global,565.0,7.0,537.0,21.0
+2020-10-12,Paraguay,#Global,50344.0,1096.0,32751.0,16497.0
+2020-10-12,Peru,#Global,851171.0,33357.0,743969.0,73845.0
+2020-10-12,Philippines,#Global,342816.0,6332.0,293152.0,43332.0
+2020-10-12,Poland,#Global,130210.0,3039.0,81201.0,45970.0
+2020-10-12,Portugal,#Global,87913.0,2094.0,53498.0,32321.0
+2020-10-12,Qatar,#Global,128191.0,220.0,125176.0,2795.0
+2020-10-12,Romania,#Global,157352.0,5467.0,118912.0,32973.0
+2020-10-12,Russia,#Global,1305093.0,22594.0,1019905.0,262594.0
+2020-10-12,Rwanda,#Global,4905.0,32.0,3877.0,996.0
+2020-10-12,Saint Kitts and Nevis,#Global,19.0,0.0,18.0,1.0
+2020-10-12,Saint Lucia,#Global,29.0,0.0,27.0,2.0
+2020-10-12,Saint Vincent and the Grenadines,#Global,64.0,0.0,64.0,0.0
+2020-10-12,San Marino,#Global,741.0,42.0,682.0,17.0
+2020-10-12,Sao Tome and Principe,#Global,929.0,15.0,895.0,19.0
+2020-10-12,Saudi Arabia,#Global,339615.0,5068.0,325839.0,8708.0
+2020-10-12,Senegal,#Global,15292.0,315.0,13390.0,1587.0
+2020-10-12,Serbia,#Global,34854.0,765.0,0.0,34089.0
+2020-10-12,Seychelles,#Global,148.0,0.0,144.0,4.0
+2020-10-12,Sierra Leone,#Global,2306.0,72.0,1736.0,498.0
+2020-10-12,Singapore,#Global,57880.0,28.0,57728.0,124.0
+2020-10-12,Slovakia,#Global,20355.0,61.0,6031.0,14263.0
+2020-10-12,Slovenia,#Global,8832.0,169.0,5219.0,3444.0
+2020-10-12,Solomon Islands,#Global,2.0,0.0,0.0,2.0
+2020-10-12,Somalia,#Global,3864.0,99.0,3089.0,676.0
+2020-10-12,South Africa,#Global,693359.0,17863.0,624659.0,50837.0
+2020-10-12,South Sudan,#Global,2787.0,55.0,1290.0,1442.0
+2020-10-12,Spain,#Global,888968.0,33124.0,150376.0,705468.0
+2020-10-12,Sri Lanka,#Global,4844.0,13.0,3317.0,1514.0
+2020-10-12,Sudan,#Global,13691.0,836.0,6764.0,6091.0
+2020-10-12,Suriname,#Global,5058.0,107.0,4862.0,89.0
+2020-10-12,Sweden,#Global,98451.0,5894.0,0.0,92557.0
+2020-10-12,Switzerland,#Global,64436.0,2096.0,49500.0,12840.0
+2020-10-12,Syria,#Global,4774.0,228.0,1331.0,3215.0
+2020-10-12,Taiwan*,#Global,529.0,7.0,489.0,33.0
+2020-10-12,Tajikistan,#Global,10260.0,79.0,9103.0,1078.0
+2020-10-12,Tanzania,#Global,509.0,21.0,183.0,305.0
+2020-10-12,Thailand,#Global,3643.0,59.0,3457.0,127.0
+2020-10-12,Timor-Leste,#Global,29.0,0.0,28.0,1.0
+2020-10-12,Togo,#Global,1949.0,49.0,1461.0,439.0
+2020-10-12,Trinidad and Tobago,#Global,5116.0,92.0,3303.0,1721.0
+2020-10-12,Tunisia,#Global,32556.0,478.0,5032.0,27046.0
+2020-10-12,Turkey,#Global,337147.0,8895.0,295658.0,32594.0
+2020-10-12,US,#Global,7804199.0,215085.0,3106728.0,4482386.0
+2020-10-12,Uganda,#Global,9864.0,94.0,6109.0,3661.0
+2020-10-12,Ukraine,#Global,272671.0,5143.0,118740.0,148788.0
+2020-10-12,United Arab Emirates,#Global,107293.0,446.0,98555.0,8292.0
+2020-10-12,United Kingdom,#Global,617688.0,42875.0,0.0,574813.0
+2020-10-12,United Kingdom (total),#Global,2770.0,90.0,2511.0,169.0
+2020-10-12,Uruguay,#Global,2313.0,51.0,1950.0,312.0
+2020-10-12,Uzbekistan,#Global,61319.0,509.0,58306.0,2504.0
+2020-10-12,Venezuela,#Global,83756.0,704.0,75400.0,7652.0
+2020-10-12,Vietnam,#Global,1110.0,35.0,1025.0,50.0
+2020-10-12,West Bank and Gaza,#Global,44684.0,387.0,38228.0,6069.0
+2020-10-12,Western Sahara,#Global,10.0,1.0,8.0,1.0
+2020-10-12,Yemen,#Global,2052.0,596.0,1329.0,127.0
+2020-10-12,Zambia,#Global,15549.0,345.0,14682.0,522.0
+2020-10-12,Zimbabwe,#Global,8021.0,230.0,7627.0,164.0
+2020-10-12,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
+2020-10-12,New South Wales,Australia,4295.0,53.0,3134.0,1108.0
+2020-10-12,Northern Territory,Australia,33.0,0.0,33.0,0.0
+2020-10-12,Queensland,Australia,1161.0,6.0,1154.0,1.0
+2020-10-12,South Australia,Australia,475.0,4.0,467.0,4.0
+2020-10-12,Tasmania,Australia,230.0,13.0,217.0,0.0
+2020-10-12,Victoria,Australia,20307.0,811.0,19243.0,253.0
+2020-10-12,Western Australia,Australia,696.0,9.0,671.0,16.0
+2020-10-12,Anhui,China,991.0,6.0,985.0,0.0
+2020-10-12,Beijing,China,937.0,9.0,927.0,1.0
+2020-10-12,Chongqing,China,585.0,6.0,578.0,1.0
+2020-10-12,Fujian,China,416.0,1.0,406.0,9.0
+2020-10-12,Gansu,China,170.0,2.0,168.0,0.0
+2020-10-12,Guangdong,China,1863.0,8.0,1825.0,30.0
+2020-10-12,Guangxi,China,260.0,2.0,256.0,2.0
+2020-10-12,Guizhou,China,147.0,2.0,145.0,0.0
+2020-10-12,Hainan,China,171.0,6.0,165.0,0.0
+2020-10-12,Hebei,China,367.0,6.0,358.0,3.0
+2020-10-12,Heilongjiang,China,948.0,13.0,935.0,0.0
+2020-10-12,Henan,China,1281.0,22.0,1255.0,4.0
+2020-10-12,Hong Kong,China,5193.0,105.0,4921.0,167.0
+2020-10-12,Hubei,China,68139.0,4512.0,63627.0,0.0
+2020-10-12,Hunan,China,1019.0,4.0,1015.0,0.0
+2020-10-12,Inner Mongolia,China,270.0,1.0,262.0,7.0
+2020-10-12,Jiangsu,China,667.0,0.0,664.0,3.0
+2020-10-12,Jiangxi,China,935.0,1.0,934.0,0.0
+2020-10-12,Jilin,China,157.0,2.0,155.0,0.0
+2020-10-12,Liaoning,China,280.0,2.0,269.0,9.0
+2020-10-12,Macau,China,46.0,0.0,46.0,0.0
+2020-10-12,Ningxia,China,75.0,0.0,75.0,0.0
+2020-10-12,Qinghai,China,18.0,0.0,18.0,0.0
+2020-10-12,Shaanxi,China,428.0,3.0,399.0,26.0
+2020-10-12,Shandong,China,838.0,7.0,824.0,7.0
+2020-10-12,Shanghai,China,1056.0,7.0,985.0,64.0
+2020-10-12,Shanxi,China,208.0,0.0,203.0,5.0
+2020-10-12,Sichuan,China,723.0,3.0,680.0,40.0
+2020-10-12,Tianjin,China,245.0,3.0,238.0,4.0
+2020-10-12,Tibet,China,1.0,0.0,1.0,0.0
+2020-10-12,Xinjiang,China,902.0,3.0,899.0,0.0
+2020-10-12,Yunnan,China,211.0,2.0,200.0,9.0
+2020-10-12,Zhejiang,China,1283.0,1.0,1272.0,10.0
+2020-10-12,Faroe Islands,Denmark,477.0,0.0,463.0,14.0
+2020-10-12,Greenland,Denmark,16.0,0.0,14.0,2.0
+2020-10-12,French Guiana,France,10180.0,69.0,9855.0,256.0
+2020-10-12,French Polynesia,France,3251.0,11.0,2138.0,1102.0
+2020-10-12,Guadeloupe,France,6483.0,77.0,2199.0,4207.0
+2020-10-12,Martinique,France,1851.0,22.0,98.0,1731.0
+2020-10-12,Mayotte,France,4030.0,43.0,2964.0,1023.0
+2020-10-12,New Caledonia,France,27.0,0.0,27.0,0.0
+2020-10-12,Reunion,France,4624.0,17.0,3994.0,613.0
+2020-10-12,Saint Barthelemy,France,65.0,0.0,37.0,28.0
+2020-10-12,Saint Pierre and Miquelon,France,16.0,0.0,12.0,4.0
+2020-10-12,St Martin,France,466.0,8.0,309.0,149.0
+2020-10-12,Aruba,Netherlands,4197.0,33.0,3790.0,374.0
+2020-10-12,"Bonaire, Sint Eustatius and Saba",Netherlands,148.0,2.0,78.0,68.0
+2020-10-12,Curacao,Netherlands,585.0,1.0,332.0,252.0
+2020-10-12,Sint Maarten,Netherlands,710.0,22.0,632.0,56.0
+2020-10-12,Anguilla,United Kingdom,3.0,0.0,3.0,0.0
+2020-10-12,Bermuda,United Kingdom,184.0,9.0,172.0,3.0
+2020-10-12,British Virgin Islands,United Kingdom,71.0,1.0,70.0,0.0
+2020-10-12,Cayman Islands,United Kingdom,221.0,1.0,211.0,9.0
+2020-10-12,Channel Islands,United Kingdom,737.0,48.0,623.0,66.0
+2020-10-12,Falkland Islands (Malvinas),United Kingdom,13.0,0.0,13.0,0.0
+2020-10-12,Gibraltar,United Kingdom,486.0,0.0,419.0,67.0
+2020-10-12,Isle of Man,United Kingdom,346.0,24.0,316.0,6.0
+2020-10-12,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
+2020-10-12,Turks and Caicos Islands,United Kingdom,696.0,6.0,672.0,18.0
