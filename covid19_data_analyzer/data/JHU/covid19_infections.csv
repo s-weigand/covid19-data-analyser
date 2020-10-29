@@ -112,6 +112,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-22,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Mali,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Malta,#Global,0.0,0.0,0.0,0.0
+2020-01-22,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -372,6 +373,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-23,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Mali,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Malta,#Global,0.0,0.0,0.0,0.0
+2020-01-23,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -632,6 +634,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-24,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Mali,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Malta,#Global,0.0,0.0,0.0,0.0
+2020-01-24,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -892,6 +895,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-25,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Mali,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Malta,#Global,0.0,0.0,0.0,0.0
+2020-01-25,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -1152,6 +1156,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-26,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Mali,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Malta,#Global,0.0,0.0,0.0,0.0
+2020-01-26,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -1412,6 +1417,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-27,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Mali,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Malta,#Global,0.0,0.0,0.0,0.0
+2020-01-27,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -1672,6 +1678,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-28,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Mali,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Malta,#Global,0.0,0.0,0.0,0.0
+2020-01-28,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -1932,6 +1939,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-29,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Mali,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Malta,#Global,0.0,0.0,0.0,0.0
+2020-01-29,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -2192,6 +2200,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-30,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Mali,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Malta,#Global,0.0,0.0,0.0,0.0
+2020-01-30,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -2452,6 +2461,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-31,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Mali,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Malta,#Global,0.0,0.0,0.0,0.0
+2020-01-31,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -2712,6 +2722,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-01,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-01,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -2972,6 +2983,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-02,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-02,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -3232,6 +3244,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-03,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-03,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -3492,6 +3505,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-04,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-04,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -3752,6 +3766,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-05,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-05,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -4012,6 +4027,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-06,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-06,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -4272,6 +4288,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-07,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-07,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -4532,6 +4549,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-08,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-08,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -4792,6 +4810,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-09,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-09,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -5052,6 +5071,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-10,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-10,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -5312,6 +5332,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-11,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-11,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -5572,6 +5593,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-12,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-12,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -5832,6 +5854,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-13,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-13,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -6092,6 +6115,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-14,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-14,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -6352,6 +6376,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-15,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-15,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -6612,6 +6637,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-16,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-16,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -6872,6 +6898,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-17,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-17,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -7132,6 +7159,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-18,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-18,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -7392,6 +7420,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-19,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-19,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -7652,6 +7681,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-20,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-20,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -7912,6 +7942,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-21,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-21,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -8172,6 +8203,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-22,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-22,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -8432,6 +8464,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-23,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-23,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -8692,6 +8725,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-24,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-24,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -8952,6 +8986,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-25,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-25,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -9212,6 +9247,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-26,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-26,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -9472,6 +9508,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-27,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-27,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Mexico,#Global,0.0,0.0,0.0,0.0
@@ -9732,6 +9769,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-28,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-28,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Mexico,#Global,1.0,0.0,0.0,1.0
@@ -9992,6 +10030,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-29,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Mali,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Malta,#Global,0.0,0.0,0.0,0.0
+2020-02-29,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Mexico,#Global,4.0,0.0,0.0,4.0
@@ -10252,6 +10291,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-01,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Malta,#Global,0.0,0.0,0.0,0.0
+2020-03-01,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Mexico,#Global,5.0,0.0,0.0,5.0
@@ -10512,6 +10552,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-02,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Malta,#Global,0.0,0.0,0.0,0.0
+2020-03-02,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Mexico,#Global,5.0,0.0,0.0,5.0
@@ -10772,6 +10813,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-03,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Malta,#Global,0.0,0.0,0.0,0.0
+2020-03-03,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Mexico,#Global,5.0,0.0,1.0,4.0
@@ -11032,6 +11074,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-04,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Malta,#Global,0.0,0.0,0.0,0.0
+2020-03-04,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Mexico,#Global,5.0,0.0,1.0,4.0
@@ -11292,6 +11335,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-05,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Malta,#Global,0.0,0.0,0.0,0.0
+2020-03-05,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Mexico,#Global,5.0,0.0,1.0,4.0
@@ -11552,6 +11596,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-06,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Malta,#Global,0.0,0.0,0.0,0.0
+2020-03-06,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Mexico,#Global,6.0,0.0,1.0,5.0
@@ -11812,6 +11857,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-07,Maldives,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Malta,#Global,3.0,0.0,0.0,3.0
+2020-03-07,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Mexico,#Global,6.0,0.0,1.0,5.0
@@ -12072,6 +12118,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-08,Maldives,#Global,4.0,0.0,0.0,4.0
 2020-03-08,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Malta,#Global,3.0,0.0,0.0,3.0
+2020-03-08,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Mexico,#Global,7.0,0.0,1.0,6.0
@@ -12332,6 +12379,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-09,Maldives,#Global,4.0,0.0,0.0,4.0
 2020-03-09,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Malta,#Global,3.0,0.0,0.0,3.0
+2020-03-09,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Mexico,#Global,7.0,0.0,1.0,6.0
@@ -12592,6 +12640,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-10,Maldives,#Global,6.0,0.0,0.0,6.0
 2020-03-10,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Malta,#Global,5.0,0.0,0.0,5.0
+2020-03-10,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Mexico,#Global,7.0,0.0,4.0,3.0
@@ -12852,6 +12901,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-11,Maldives,#Global,8.0,0.0,0.0,8.0
 2020-03-11,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Malta,#Global,6.0,0.0,0.0,6.0
+2020-03-11,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Mexico,#Global,8.0,0.0,4.0,4.0
@@ -13112,6 +13162,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-12,Maldives,#Global,8.0,0.0,0.0,8.0
 2020-03-12,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Malta,#Global,6.0,0.0,0.0,6.0
+2020-03-12,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Mexico,#Global,12.0,0.0,4.0,8.0
@@ -13372,6 +13423,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-13,Maldives,#Global,9.0,0.0,0.0,9.0
 2020-03-13,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Malta,#Global,12.0,0.0,1.0,11.0
+2020-03-13,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Mauritania,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Mexico,#Global,26.0,0.0,4.0,22.0
@@ -13632,6 +13684,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-14,Maldives,#Global,10.0,0.0,0.0,10.0
 2020-03-14,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Malta,#Global,18.0,0.0,1.0,17.0
+2020-03-14,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Mauritania,#Global,1.0,0.0,0.0,1.0
 2020-03-14,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Mexico,#Global,41.0,0.0,4.0,37.0
@@ -13892,6 +13945,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-15,Maldives,#Global,13.0,0.0,0.0,13.0
 2020-03-15,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Malta,#Global,21.0,0.0,1.0,20.0
+2020-03-15,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Mauritania,#Global,1.0,0.0,0.0,1.0
 2020-03-15,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Mexico,#Global,53.0,0.0,4.0,49.0
@@ -14152,6 +14206,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-16,Maldives,#Global,13.0,0.0,0.0,13.0
 2020-03-16,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Malta,#Global,30.0,0.0,2.0,28.0
+2020-03-16,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Mauritania,#Global,1.0,0.0,0.0,1.0
 2020-03-16,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Mexico,#Global,82.0,0.0,4.0,78.0
@@ -14412,6 +14467,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-17,Maldives,#Global,13.0,0.0,0.0,13.0
 2020-03-17,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Malta,#Global,38.0,0.0,2.0,36.0
+2020-03-17,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Mauritania,#Global,1.0,0.0,0.0,1.0
 2020-03-17,Mauritius,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Mexico,#Global,93.0,0.0,4.0,89.0
@@ -14672,6 +14728,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-18,Maldives,#Global,13.0,0.0,0.0,13.0
 2020-03-18,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Malta,#Global,38.0,0.0,2.0,36.0
+2020-03-18,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Mauritania,#Global,1.0,0.0,0.0,1.0
 2020-03-18,Mauritius,#Global,3.0,0.0,0.0,3.0
 2020-03-18,Mexico,#Global,118.0,0.0,4.0,114.0
@@ -14932,6 +14989,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-19,Maldives,#Global,13.0,0.0,0.0,13.0
 2020-03-19,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Malta,#Global,53.0,0.0,2.0,51.0
+2020-03-19,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-19,Mauritius,#Global,3.0,0.0,0.0,3.0
 2020-03-19,Mexico,#Global,164.0,1.0,4.0,159.0
@@ -15192,6 +15250,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-20,Maldives,#Global,13.0,0.0,0.0,13.0
 2020-03-20,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Malta,#Global,64.0,0.0,2.0,62.0
+2020-03-20,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-20,Mauritius,#Global,12.0,0.0,0.0,12.0
 2020-03-20,Mexico,#Global,203.0,2.0,4.0,197.0
@@ -15452,6 +15511,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-21,Maldives,#Global,13.0,0.0,0.0,13.0
 2020-03-21,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-21,Malta,#Global,73.0,0.0,2.0,71.0
+2020-03-21,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-21,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-21,Mauritius,#Global,14.0,1.0,0.0,13.0
 2020-03-21,Mexico,#Global,251.0,2.0,4.0,245.0
@@ -15712,6 +15772,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-22,Maldives,#Global,13.0,0.0,0.0,13.0
 2020-03-22,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-22,Malta,#Global,90.0,0.0,2.0,88.0
+2020-03-22,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-22,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-22,Mauritius,#Global,28.0,2.0,0.0,26.0
 2020-03-22,Mexico,#Global,316.0,3.0,4.0,309.0
@@ -15972,6 +16033,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-23,Maldives,#Global,13.0,0.0,0.0,13.0
 2020-03-23,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-23,Malta,#Global,107.0,0.0,2.0,105.0
+2020-03-23,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-23,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-23,Mauritius,#Global,36.0,2.0,0.0,34.0
 2020-03-23,Mexico,#Global,367.0,4.0,4.0,359.0
@@ -16232,6 +16294,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-24,Maldives,#Global,13.0,0.0,5.0,8.0
 2020-03-24,Mali,#Global,0.0,0.0,0.0,0.0
 2020-03-24,Malta,#Global,110.0,0.0,2.0,108.0
+2020-03-24,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-24,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-24,Mauritius,#Global,42.0,2.0,0.0,40.0
 2020-03-24,Mexico,#Global,405.0,5.0,4.0,396.0
@@ -16492,6 +16555,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-25,Maldives,#Global,13.0,0.0,8.0,5.0
 2020-03-25,Mali,#Global,2.0,0.0,0.0,2.0
 2020-03-25,Malta,#Global,129.0,0.0,2.0,127.0
+2020-03-25,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-25,Mauritania,#Global,2.0,0.0,0.0,2.0
 2020-03-25,Mauritius,#Global,48.0,2.0,0.0,46.0
 2020-03-25,Mexico,#Global,475.0,6.0,4.0,465.0
@@ -16752,6 +16816,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-26,Maldives,#Global,13.0,0.0,8.0,5.0
 2020-03-26,Mali,#Global,4.0,0.0,0.0,4.0
 2020-03-26,Malta,#Global,134.0,0.0,2.0,132.0
+2020-03-26,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-26,Mauritania,#Global,3.0,0.0,0.0,3.0
 2020-03-26,Mauritius,#Global,81.0,2.0,0.0,79.0
 2020-03-26,Mexico,#Global,585.0,8.0,4.0,573.0
@@ -17012,6 +17077,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-27,Maldives,#Global,16.0,0.0,9.0,7.0
 2020-03-27,Mali,#Global,11.0,0.0,0.0,11.0
 2020-03-27,Malta,#Global,139.0,0.0,2.0,137.0
+2020-03-27,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-27,Mauritania,#Global,3.0,0.0,0.0,3.0
 2020-03-27,Mauritius,#Global,94.0,2.0,0.0,92.0
 2020-03-27,Mexico,#Global,717.0,12.0,4.0,701.0
@@ -17272,6 +17338,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-28,Maldives,#Global,16.0,0.0,9.0,7.0
 2020-03-28,Mali,#Global,18.0,0.0,0.0,18.0
 2020-03-28,Malta,#Global,149.0,0.0,2.0,147.0
+2020-03-28,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-28,Mauritania,#Global,5.0,0.0,0.0,5.0
 2020-03-28,Mauritius,#Global,102.0,2.0,0.0,100.0
 2020-03-28,Mexico,#Global,848.0,16.0,4.0,828.0
@@ -17532,6 +17599,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-29,Maldives,#Global,17.0,0.0,13.0,4.0
 2020-03-29,Mali,#Global,18.0,1.0,0.0,17.0
 2020-03-29,Malta,#Global,151.0,0.0,2.0,149.0
+2020-03-29,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-29,Mauritania,#Global,5.0,0.0,2.0,3.0
 2020-03-29,Mauritius,#Global,107.0,3.0,0.0,104.0
 2020-03-29,Mexico,#Global,993.0,20.0,4.0,969.0
@@ -17792,6 +17860,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-30,Maldives,#Global,17.0,0.0,13.0,4.0
 2020-03-30,Mali,#Global,25.0,2.0,0.0,23.0
 2020-03-30,Malta,#Global,156.0,0.0,2.0,154.0
+2020-03-30,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-30,Mauritania,#Global,5.0,1.0,2.0,2.0
 2020-03-30,Mauritius,#Global,128.0,3.0,0.0,125.0
 2020-03-30,Mexico,#Global,1094.0,28.0,35.0,1031.0
@@ -18052,6 +18121,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-31,Maldives,#Global,18.0,0.0,13.0,5.0
 2020-03-31,Mali,#Global,28.0,2.0,0.0,26.0
 2020-03-31,Malta,#Global,169.0,0.0,2.0,167.0
+2020-03-31,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-03-31,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-03-31,Mauritius,#Global,143.0,5.0,0.0,138.0
 2020-03-31,Mexico,#Global,1215.0,29.0,35.0,1151.0
@@ -18312,6 +18382,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-01,Maldives,#Global,19.0,0.0,13.0,6.0
 2020-04-01,Mali,#Global,31.0,3.0,0.0,28.0
 2020-04-01,Malta,#Global,188.0,0.0,2.0,186.0
+2020-04-01,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-01,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-01,Mauritius,#Global,161.0,6.0,0.0,155.0
 2020-04-01,Mexico,#Global,1378.0,37.0,35.0,1306.0
@@ -18572,6 +18643,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-02,Maldives,#Global,19.0,0.0,13.0,6.0
 2020-04-02,Mali,#Global,36.0,3.0,0.0,33.0
 2020-04-02,Malta,#Global,196.0,0.0,2.0,194.0
+2020-04-02,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-02,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-02,Mauritius,#Global,169.0,7.0,0.0,162.0
 2020-04-02,Mexico,#Global,1510.0,50.0,35.0,1425.0
@@ -18832,6 +18904,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-03,Maldives,#Global,19.0,0.0,13.0,6.0
 2020-04-03,Mali,#Global,39.0,3.0,0.0,36.0
 2020-04-03,Malta,#Global,202.0,0.0,2.0,200.0
+2020-04-03,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-03,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-03,Mauritius,#Global,186.0,7.0,0.0,179.0
 2020-04-03,Mexico,#Global,1688.0,60.0,633.0,995.0
@@ -19092,6 +19165,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-04,Maldives,#Global,19.0,0.0,13.0,6.0
 2020-04-04,Mali,#Global,41.0,3.0,1.0,37.0
 2020-04-04,Malta,#Global,213.0,0.0,2.0,211.0
+2020-04-04,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-04,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-04,Mauritius,#Global,196.0,7.0,7.0,182.0
 2020-04-04,Mexico,#Global,1890.0,79.0,633.0,1178.0
@@ -19352,6 +19426,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-05,Maldives,#Global,19.0,0.0,13.0,6.0
 2020-04-05,Mali,#Global,45.0,5.0,1.0,39.0
 2020-04-05,Malta,#Global,227.0,0.0,5.0,222.0
+2020-04-05,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-05,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-05,Mauritius,#Global,227.0,7.0,7.0,213.0
 2020-04-05,Mexico,#Global,2143.0,94.0,633.0,1416.0
@@ -19612,6 +19687,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-06,Maldives,#Global,19.0,0.0,13.0,6.0
 2020-04-06,Mali,#Global,47.0,5.0,9.0,33.0
 2020-04-06,Malta,#Global,241.0,0.0,5.0,236.0
+2020-04-06,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-06,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-06,Mauritius,#Global,244.0,7.0,7.0,230.0
 2020-04-06,Mexico,#Global,2439.0,125.0,633.0,1681.0
@@ -19872,6 +19948,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-07,Maldives,#Global,19.0,0.0,13.0,6.0
 2020-04-07,Mali,#Global,56.0,5.0,12.0,39.0
 2020-04-07,Malta,#Global,293.0,0.0,5.0,288.0
+2020-04-07,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-07,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-07,Mauritius,#Global,268.0,7.0,8.0,253.0
 2020-04-07,Mexico,#Global,2785.0,141.0,633.0,2011.0
@@ -20132,6 +20209,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-08,Maldives,#Global,19.0,0.0,13.0,6.0
 2020-04-08,Mali,#Global,59.0,7.0,16.0,36.0
 2020-04-08,Malta,#Global,299.0,1.0,16.0,282.0
+2020-04-08,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-08,Mauritania,#Global,6.0,1.0,2.0,3.0
 2020-04-08,Mauritius,#Global,273.0,7.0,19.0,247.0
 2020-04-08,Mexico,#Global,3181.0,174.0,633.0,2374.0
@@ -20392,6 +20470,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-09,Maldives,#Global,19.0,0.0,13.0,6.0
 2020-04-09,Mali,#Global,74.0,7.0,22.0,45.0
 2020-04-09,Malta,#Global,337.0,2.0,16.0,319.0
+2020-04-09,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-09,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-09,Mauritius,#Global,314.0,7.0,23.0,284.0
 2020-04-09,Mexico,#Global,3441.0,194.0,633.0,2614.0
@@ -20652,6 +20731,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-10,Maldives,#Global,19.0,0.0,13.0,6.0
 2020-04-10,Mali,#Global,87.0,7.0,22.0,58.0
 2020-04-10,Malta,#Global,350.0,2.0,16.0,332.0
+2020-04-10,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-10,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-10,Mauritius,#Global,318.0,9.0,23.0,286.0
 2020-04-10,Mexico,#Global,3844.0,233.0,633.0,2978.0
@@ -20912,6 +20992,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-11,Maldives,#Global,19.0,0.0,13.0,6.0
 2020-04-11,Mali,#Global,87.0,7.0,22.0,58.0
 2020-04-11,Malta,#Global,370.0,3.0,16.0,351.0
+2020-04-11,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-11,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-11,Mauritius,#Global,319.0,9.0,28.0,282.0
 2020-04-11,Mexico,#Global,4219.0,273.0,633.0,3313.0
@@ -21172,6 +21253,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-12,Maldives,#Global,20.0,0.0,14.0,6.0
 2020-04-12,Mali,#Global,105.0,9.0,22.0,74.0
 2020-04-12,Malta,#Global,378.0,3.0,44.0,331.0
+2020-04-12,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-12,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-12,Mauritius,#Global,324.0,9.0,42.0,273.0
 2020-04-12,Mexico,#Global,4661.0,296.0,1772.0,2593.0
@@ -21432,6 +21514,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-13,Maldives,#Global,20.0,0.0,14.0,6.0
 2020-04-13,Mali,#Global,123.0,10.0,26.0,87.0
 2020-04-13,Malta,#Global,384.0,3.0,44.0,337.0
+2020-04-13,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-13,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-13,Mauritius,#Global,324.0,9.0,42.0,273.0
 2020-04-13,Mexico,#Global,5014.0,332.0,1843.0,2839.0
@@ -21692,6 +21775,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-14,Maldives,#Global,20.0,0.0,16.0,4.0
 2020-04-14,Mali,#Global,144.0,13.0,34.0,97.0
 2020-04-14,Malta,#Global,393.0,3.0,44.0,346.0
+2020-04-14,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-14,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-14,Mauritius,#Global,324.0,9.0,51.0,264.0
 2020-04-14,Mexico,#Global,5399.0,406.0,1964.0,3029.0
@@ -21952,6 +22036,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,Maldives,#Global,22.0,0.0,16.0,6.0
 2020-04-15,Mali,#Global,148.0,13.0,34.0,101.0
 2020-04-15,Malta,#Global,399.0,3.0,44.0,352.0
+2020-04-15,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-15,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-15,Mauritius,#Global,324.0,9.0,65.0,250.0
 2020-04-15,Mexico,#Global,5847.0,449.0,2125.0,3273.0
@@ -22212,6 +22297,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,Maldives,#Global,25.0,0.0,16.0,9.0
 2020-04-16,Mali,#Global,171.0,13.0,34.0,124.0
 2020-04-16,Malta,#Global,412.0,3.0,82.0,327.0
+2020-04-16,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-16,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-16,Mauritius,#Global,324.0,9.0,81.0,234.0
 2020-04-16,Mexico,#Global,6297.0,486.0,2125.0,3686.0
@@ -22472,6 +22558,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,Maldives,#Global,28.0,0.0,16.0,12.0
 2020-04-17,Mali,#Global,171.0,13.0,34.0,124.0
 2020-04-17,Malta,#Global,422.0,3.0,91.0,328.0
+2020-04-17,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-17,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-17,Mauritius,#Global,324.0,9.0,108.0,207.0
 2020-04-17,Mexico,#Global,6875.0,546.0,2125.0,4204.0
@@ -22732,6 +22819,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Maldives,#Global,35.0,0.0,16.0,19.0
 2020-04-18,Mali,#Global,216.0,13.0,41.0,162.0
 2020-04-18,Malta,#Global,426.0,3.0,99.0,324.0
+2020-04-18,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-18,Mauritania,#Global,7.0,1.0,2.0,4.0
 2020-04-18,Mauritius,#Global,325.0,9.0,180.0,136.0
 2020-04-18,Mexico,#Global,7497.0,650.0,2125.0,4722.0
@@ -22992,6 +23080,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Maldives,#Global,52.0,0.0,16.0,36.0
 2020-04-19,Mali,#Global,224.0,14.0,42.0,168.0
 2020-04-19,Malta,#Global,427.0,3.0,118.0,306.0
+2020-04-19,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-19,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-19,Mauritius,#Global,328.0,9.0,208.0,111.0
 2020-04-19,Mexico,#Global,8261.0,686.0,2627.0,4948.0
@@ -23252,6 +23341,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Maldives,#Global,69.0,0.0,16.0,53.0
 2020-04-20,Mali,#Global,246.0,14.0,56.0,176.0
 2020-04-20,Malta,#Global,431.0,3.0,126.0,302.0
+2020-04-20,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-20,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-20,Mauritius,#Global,328.0,9.0,224.0,95.0
 2020-04-20,Mexico,#Global,8772.0,712.0,2627.0,5433.0
@@ -23512,6 +23602,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Maldives,#Global,83.0,0.0,16.0,67.0
 2020-04-21,Mali,#Global,258.0,14.0,57.0,187.0
 2020-04-21,Malta,#Global,443.0,3.0,150.0,290.0
+2020-04-21,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-21,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-21,Mauritius,#Global,328.0,9.0,243.0,76.0
 2020-04-21,Mexico,#Global,9501.0,857.0,2627.0,6017.0
@@ -23772,6 +23863,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Maldives,#Global,86.0,0.0,16.0,70.0
 2020-04-22,Mali,#Global,293.0,17.0,73.0,203.0
 2020-04-22,Malta,#Global,444.0,3.0,165.0,276.0
+2020-04-22,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-22,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-22,Mauritius,#Global,329.0,9.0,261.0,59.0
 2020-04-22,Mexico,#Global,10544.0,970.0,2627.0,6947.0
@@ -24032,6 +24124,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,Maldives,#Global,108.0,0.0,16.0,92.0
 2020-04-23,Mali,#Global,309.0,21.0,77.0,211.0
 2020-04-23,Malta,#Global,445.0,3.0,204.0,238.0
+2020-04-23,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-23,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-23,Mauritius,#Global,331.0,9.0,266.0,56.0
 2020-04-23,Mexico,#Global,11633.0,1069.0,2627.0,7937.0
@@ -24292,6 +24385,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Maldives,#Global,129.0,0.0,16.0,113.0
 2020-04-24,Mali,#Global,325.0,21.0,87.0,217.0
 2020-04-24,Malta,#Global,447.0,3.0,223.0,221.0
+2020-04-24,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-24,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-24,Mauritius,#Global,331.0,9.0,285.0,37.0
 2020-04-24,Mexico,#Global,12872.0,1221.0,2627.0,9024.0
@@ -24552,6 +24646,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-25,Maldives,#Global,177.0,0.0,17.0,160.0
 2020-04-25,Mali,#Global,370.0,21.0,91.0,258.0
 2020-04-25,Malta,#Global,448.0,4.0,249.0,195.0
+2020-04-25,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-25,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-25,Mauritius,#Global,331.0,9.0,295.0,27.0
 2020-04-25,Mexico,#Global,13842.0,1305.0,7149.0,5388.0
@@ -24812,6 +24907,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-26,Maldives,#Global,214.0,0.0,17.0,197.0
 2020-04-26,Mali,#Global,389.0,23.0,112.0,254.0
 2020-04-26,Malta,#Global,448.0,4.0,282.0,162.0
+2020-04-26,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-26,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-26,Mauritius,#Global,332.0,9.0,299.0,24.0
 2020-04-26,Mexico,#Global,14677.0,1351.0,8354.0,4972.0
@@ -25072,6 +25168,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-27,Maldives,#Global,226.0,0.0,17.0,209.0
 2020-04-27,Mali,#Global,408.0,23.0,113.0,272.0
 2020-04-27,Malta,#Global,450.0,4.0,286.0,160.0
+2020-04-27,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-27,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-27,Mauritius,#Global,334.0,10.0,302.0,22.0
 2020-04-27,Mexico,#Global,15529.0,1434.0,9086.0,5009.0
@@ -25332,6 +25429,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-28,Maldives,#Global,250.0,0.0,17.0,233.0
 2020-04-28,Mali,#Global,424.0,24.0,122.0,278.0
 2020-04-28,Malta,#Global,458.0,4.0,303.0,151.0
+2020-04-28,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-28,Mauritania,#Global,7.0,1.0,6.0,0.0
 2020-04-28,Mauritius,#Global,334.0,10.0,303.0,21.0
 2020-04-28,Mexico,#Global,16752.0,1569.0,11423.0,3760.0
@@ -25592,6 +25690,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-29,Maldives,#Global,278.0,1.0,17.0,260.0
 2020-04-29,Mali,#Global,482.0,25.0,129.0,328.0
 2020-04-29,Malta,#Global,463.0,4.0,339.0,120.0
+2020-04-29,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-29,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-04-29,Mauritius,#Global,332.0,10.0,306.0,16.0
 2020-04-29,Mexico,#Global,17799.0,1732.0,11423.0,4644.0
@@ -25852,6 +25951,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-30,Maldives,#Global,468.0,1.0,17.0,450.0
 2020-04-30,Mali,#Global,490.0,26.0,135.0,329.0
 2020-04-30,Malta,#Global,465.0,4.0,351.0,110.0
+2020-04-30,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-04-30,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-04-30,Mauritius,#Global,332.0,10.0,310.0,12.0
 2020-04-30,Mexico,#Global,19224.0,1859.0,11423.0,5942.0
@@ -26112,6 +26212,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-01,Maldives,#Global,491.0,1.0,17.0,473.0
 2020-05-01,Mali,#Global,508.0,26.0,196.0,286.0
 2020-05-01,Malta,#Global,467.0,4.0,383.0,80.0
+2020-05-01,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-01,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-05-01,Mauritius,#Global,332.0,10.0,312.0,10.0
 2020-05-01,Mexico,#Global,20739.0,1972.0,12377.0,6390.0
@@ -26372,6 +26473,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-02,Maldives,#Global,519.0,1.0,18.0,500.0
 2020-05-02,Mali,#Global,544.0,26.0,206.0,312.0
 2020-05-02,Malta,#Global,468.0,4.0,379.0,85.0
+2020-05-02,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-02,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-05-02,Mauritius,#Global,332.0,10.0,314.0,8.0
 2020-05-02,Mexico,#Global,22088.0,2061.0,12377.0,7650.0
@@ -26632,6 +26734,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-03,Maldives,#Global,527.0,1.0,18.0,508.0
 2020-05-03,Mali,#Global,563.0,27.0,213.0,323.0
 2020-05-03,Malta,#Global,477.0,4.0,392.0,81.0
+2020-05-03,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-03,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-05-03,Mauritius,#Global,332.0,10.0,315.0,7.0
 2020-05-03,Mexico,#Global,23471.0,2154.0,13447.0,7870.0
@@ -26892,6 +26995,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-04,Maldives,#Global,541.0,1.0,18.0,522.0
 2020-05-04,Mali,#Global,580.0,29.0,223.0,328.0
 2020-05-04,Malta,#Global,480.0,4.0,399.0,77.0
+2020-05-04,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-04,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-05-04,Mauritius,#Global,332.0,10.0,316.0,6.0
 2020-05-04,Mexico,#Global,24905.0,2271.0,13447.0,9187.0
@@ -27152,6 +27256,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-05,Maldives,#Global,573.0,2.0,20.0,551.0
 2020-05-05,Mali,#Global,612.0,32.0,228.0,352.0
 2020-05-05,Malta,#Global,482.0,5.0,403.0,74.0
+2020-05-05,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-05,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-05-05,Mauritius,#Global,332.0,10.0,319.0,3.0
 2020-05-05,Mexico,#Global,26025.0,2507.0,16810.0,6708.0
@@ -27412,6 +27517,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-06,Maldives,#Global,617.0,2.0,20.0,595.0
 2020-05-06,Mali,#Global,631.0,32.0,261.0,338.0
 2020-05-06,Malta,#Global,484.0,5.0,407.0,72.0
+2020-05-06,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-06,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-05-06,Mauritius,#Global,332.0,10.0,320.0,2.0
 2020-05-06,Mexico,#Global,27634.0,2704.0,17781.0,7149.0
@@ -27672,6 +27778,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-07,Maldives,#Global,648.0,3.0,20.0,625.0
 2020-05-07,Mali,#Global,650.0,32.0,271.0,347.0
 2020-05-07,Malta,#Global,486.0,5.0,413.0,68.0
+2020-05-07,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-07,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-05-07,Mauritius,#Global,332.0,10.0,320.0,2.0
 2020-05-07,Mexico,#Global,29616.0,2961.0,17781.0,8874.0
@@ -27932,6 +28039,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-08,Maldives,#Global,744.0,3.0,20.0,721.0
 2020-05-08,Mali,#Global,668.0,35.0,285.0,348.0
 2020-05-08,Malta,#Global,489.0,5.0,419.0,65.0
+2020-05-08,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-08,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-05-08,Mauritius,#Global,332.0,10.0,320.0,2.0
 2020-05-08,Mexico,#Global,31522.0,3160.0,20314.0,8048.0
@@ -28192,6 +28300,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-09,Maldives,#Global,790.0,3.0,29.0,758.0
 2020-05-09,Mali,#Global,692.0,37.0,298.0,357.0
 2020-05-09,Malta,#Global,490.0,5.0,427.0,58.0
+2020-05-09,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-09,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-05-09,Mauritius,#Global,332.0,10.0,320.0,2.0
 2020-05-09,Mexico,#Global,33460.0,3353.0,21824.0,8283.0
@@ -28452,6 +28561,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-10,Maldives,#Global,835.0,3.0,29.0,803.0
 2020-05-10,Mali,#Global,704.0,38.0,351.0,315.0
 2020-05-10,Malta,#Global,496.0,5.0,433.0,58.0
+2020-05-10,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-10,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-05-10,Mauritius,#Global,332.0,10.0,320.0,2.0
 2020-05-10,Mexico,#Global,35022.0,3465.0,21824.0,9733.0
@@ -28712,6 +28822,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-11,Maldives,#Global,897.0,3.0,29.0,865.0
 2020-05-11,Mali,#Global,712.0,39.0,377.0,296.0
 2020-05-11,Malta,#Global,503.0,5.0,434.0,64.0
+2020-05-11,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-11,Mauritania,#Global,8.0,1.0,6.0,1.0
 2020-05-11,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-11,Mexico,#Global,36327.0,3573.0,23100.0,9654.0
@@ -28972,6 +29083,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-12,Maldives,#Global,904.0,3.0,29.0,872.0
 2020-05-12,Mali,#Global,730.0,40.0,398.0,292.0
 2020-05-12,Malta,#Global,506.0,5.0,434.0,67.0
+2020-05-12,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-12,Mauritania,#Global,9.0,1.0,6.0,2.0
 2020-05-12,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-12,Mexico,#Global,38324.0,3926.0,25935.0,8463.0
@@ -29232,6 +29344,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-13,Maldives,#Global,955.0,4.0,40.0,911.0
 2020-05-13,Mali,#Global,758.0,44.0,412.0,302.0
 2020-05-13,Malta,#Global,508.0,6.0,436.0,66.0
+2020-05-13,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-13,Mauritania,#Global,15.0,2.0,6.0,7.0
 2020-05-13,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-13,Mexico,#Global,40186.0,4220.0,26990.0,8976.0
@@ -29492,6 +29605,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-14,Maldives,#Global,982.0,4.0,45.0,933.0
 2020-05-14,Mali,#Global,779.0,46.0,436.0,297.0
 2020-05-14,Malta,#Global,522.0,6.0,443.0,73.0
+2020-05-14,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-14,Mauritania,#Global,20.0,2.0,7.0,11.0
 2020-05-14,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-14,Mexico,#Global,42595.0,4477.0,28475.0,9643.0
@@ -29752,6 +29866,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-15,Maldives,#Global,1031.0,4.0,49.0,978.0
 2020-05-15,Mali,#Global,806.0,46.0,455.0,305.0
 2020-05-15,Malta,#Global,532.0,6.0,458.0,68.0
+2020-05-15,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-15,Mauritania,#Global,29.0,3.0,7.0,19.0
 2020-05-15,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-15,Mexico,#Global,45032.0,4767.0,30451.0,9814.0
@@ -30012,6 +30127,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-16,Maldives,#Global,1078.0,4.0,58.0,1016.0
 2020-05-16,Mali,#Global,835.0,48.0,479.0,308.0
 2020-05-16,Malta,#Global,546.0,6.0,450.0,90.0
+2020-05-16,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-16,Mauritania,#Global,40.0,4.0,7.0,29.0
 2020-05-16,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-16,Mexico,#Global,47144.0,5045.0,31848.0,10251.0
@@ -30272,6 +30388,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-17,Maldives,#Global,1094.0,4.0,58.0,1032.0
 2020-05-17,Mali,#Global,860.0,52.0,494.0,314.0
 2020-05-17,Malta,#Global,553.0,6.0,454.0,93.0
+2020-05-17,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-17,Mauritania,#Global,62.0,4.0,7.0,51.0
 2020-05-17,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-17,Mexico,#Global,49219.0,5177.0,33329.0,10713.0
@@ -30532,6 +30649,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-18,Maldives,#Global,1106.0,4.0,58.0,1044.0
 2020-05-18,Mali,#Global,874.0,52.0,512.0,310.0
 2020-05-18,Malta,#Global,558.0,6.0,456.0,96.0
+2020-05-18,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-18,Mauritania,#Global,81.0,4.0,7.0,70.0
 2020-05-18,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-18,Mexico,#Global,51633.0,5332.0,35388.0,10913.0
@@ -30792,6 +30910,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-19,Maldives,#Global,1143.0,4.0,91.0,1048.0
 2020-05-19,Mali,#Global,901.0,53.0,529.0,319.0
 2020-05-19,Malta,#Global,569.0,6.0,460.0,103.0
+2020-05-19,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-19,Mauritania,#Global,131.0,4.0,7.0,120.0
 2020-05-19,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-19,Mexico,#Global,54346.0,5666.0,37325.0,11355.0
@@ -31052,6 +31171,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-20,Maldives,#Global,1186.0,4.0,91.0,1091.0
 2020-05-20,Mali,#Global,931.0,55.0,543.0,333.0
 2020-05-20,Malta,#Global,584.0,6.0,465.0,113.0
+2020-05-20,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-20,Mauritania,#Global,141.0,4.0,7.0,130.0
 2020-05-20,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-20,Mexico,#Global,56594.0,6090.0,38419.0,12085.0
@@ -31312,6 +31432,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-21,Maldives,#Global,1216.0,4.0,91.0,1121.0
 2020-05-21,Mali,#Global,947.0,60.0,558.0,329.0
 2020-05-21,Malta,#Global,599.0,6.0,468.0,125.0
+2020-05-21,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-21,Mauritania,#Global,173.0,5.0,7.0,161.0
 2020-05-21,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-21,Mexico,#Global,59567.0,6510.0,40152.0,12905.0
@@ -31572,6 +31693,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-22,Maldives,#Global,1274.0,4.0,109.0,1161.0
 2020-05-22,Mali,#Global,969.0,62.0,560.0,347.0
 2020-05-22,Malta,#Global,600.0,6.0,469.0,125.0
+2020-05-22,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-22,Mauritania,#Global,200.0,6.0,7.0,187.0
 2020-05-22,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-22,Mexico,#Global,62527.0,6989.0,42191.0,13347.0
@@ -31832,6 +31954,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-23,Maldives,#Global,1313.0,4.0,128.0,1181.0
 2020-05-23,Mali,#Global,1015.0,63.0,574.0,378.0
 2020-05-23,Malta,#Global,609.0,6.0,473.0,130.0
+2020-05-23,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-23,Mauritania,#Global,227.0,6.0,7.0,214.0
 2020-05-23,Mauritius,#Global,332.0,10.0,322.0,0.0
 2020-05-23,Mexico,#Global,65856.0,7179.0,44424.0,14253.0
@@ -32092,6 +32215,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-24,Maldives,#Global,1371.0,4.0,144.0,1223.0
 2020-05-24,Mali,#Global,1030.0,65.0,597.0,368.0
 2020-05-24,Malta,#Global,610.0,6.0,476.0,128.0
+2020-05-24,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-24,Mauritania,#Global,237.0,6.0,15.0,216.0
 2020-05-24,Mauritius,#Global,334.0,10.0,322.0,2.0
 2020-05-24,Mexico,#Global,68620.0,7394.0,46979.0,14247.0
@@ -32352,6 +32476,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-25,Maldives,#Global,1395.0,4.0,155.0,1236.0
 2020-05-25,Mali,#Global,1059.0,67.0,604.0,388.0
 2020-05-25,Malta,#Global,611.0,6.0,485.0,120.0
+2020-05-25,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-25,Mauritania,#Global,262.0,9.0,15.0,238.0
 2020-05-25,Mauritius,#Global,334.0,10.0,322.0,2.0
 2020-05-25,Mexico,#Global,71105.0,7633.0,49452.0,14020.0
@@ -32612,6 +32737,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-26,Maldives,#Global,1438.0,5.0,197.0,1236.0
 2020-05-26,Mali,#Global,1077.0,70.0,617.0,390.0
 2020-05-26,Malta,#Global,611.0,6.0,485.0,120.0
+2020-05-26,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-26,Mauritania,#Global,268.0,13.0,15.0,240.0
 2020-05-26,Mauritius,#Global,334.0,10.0,322.0,2.0
 2020-05-26,Mexico,#Global,74560.0,8134.0,51708.0,14718.0
@@ -32872,6 +32998,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-27,Maldives,#Global,1457.0,5.0,197.0,1255.0
 2020-05-27,Mali,#Global,1116.0,70.0,632.0,414.0
 2020-05-27,Malta,#Global,612.0,7.0,491.0,114.0
+2020-05-27,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-27,Mauritania,#Global,292.0,16.0,15.0,261.0
 2020-05-27,Mauritius,#Global,334.0,10.0,322.0,2.0
 2020-05-27,Mexico,#Global,78023.0,8597.0,53834.0,15592.0
@@ -33132,6 +33259,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-28,Maldives,#Global,1513.0,5.0,197.0,1311.0
 2020-05-28,Mali,#Global,1194.0,72.0,652.0,470.0
 2020-05-28,Malta,#Global,616.0,7.0,501.0,108.0
+2020-05-28,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-28,Mauritania,#Global,346.0,19.0,15.0,312.0
 2020-05-28,Mauritius,#Global,334.0,10.0,322.0,2.0
 2020-05-28,Mexico,#Global,81400.0,9044.0,56041.0,16315.0
@@ -33392,6 +33520,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-29,Maldives,#Global,1591.0,5.0,197.0,1389.0
 2020-05-29,Mali,#Global,1226.0,73.0,669.0,484.0
 2020-05-29,Malta,#Global,616.0,9.0,514.0,93.0
+2020-05-29,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-29,Mauritania,#Global,423.0,20.0,21.0,382.0
 2020-05-29,Mauritius,#Global,335.0,10.0,322.0,3.0
 2020-05-29,Mexico,#Global,84627.0,9415.0,59003.0,16209.0
@@ -33652,6 +33781,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-30,Maldives,#Global,1672.0,5.0,406.0,1261.0
 2020-05-30,Mali,#Global,1250.0,76.0,696.0,478.0
 2020-05-30,Malta,#Global,618.0,9.0,525.0,84.0
+2020-05-30,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-30,Mauritania,#Global,483.0,20.0,21.0,442.0
 2020-05-30,Mauritius,#Global,335.0,10.0,322.0,3.0
 2020-05-30,Mexico,#Global,87512.0,9779.0,61247.0,16486.0
@@ -33912,6 +34042,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-31,Maldives,#Global,1773.0,5.0,453.0,1315.0
 2020-05-31,Mali,#Global,1265.0,77.0,716.0,472.0
 2020-05-31,Malta,#Global,618.0,9.0,534.0,75.0
+2020-05-31,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-05-31,Mauritania,#Global,530.0,23.0,27.0,480.0
 2020-05-31,Mauritius,#Global,335.0,10.0,322.0,3.0
 2020-05-31,Mexico,#Global,90664.0,9930.0,63772.0,16962.0
@@ -34172,6 +34303,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-01,Maldives,#Global,1829.0,6.0,488.0,1335.0
 2020-06-01,Mali,#Global,1315.0,78.0,744.0,493.0
 2020-06-01,Malta,#Global,619.0,9.0,537.0,73.0
+2020-06-01,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-01,Mauritania,#Global,588.0,23.0,27.0,538.0
 2020-06-01,Mauritius,#Global,335.0,10.0,322.0,3.0
 2020-06-01,Mexico,#Global,93435.0,10167.0,66965.0,16303.0
@@ -34432,6 +34564,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-02,Maldives,#Global,1841.0,7.0,608.0,1226.0
 2020-06-02,Mali,#Global,1351.0,78.0,769.0,504.0
 2020-06-02,Malta,#Global,620.0,9.0,554.0,57.0
+2020-06-02,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-02,Mauritania,#Global,668.0,31.0,55.0,582.0
 2020-06-02,Mauritius,#Global,335.0,10.0,322.0,3.0
 2020-06-02,Mexico,#Global,97326.0,10637.0,69749.0,16940.0
@@ -34692,6 +34825,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-03,Maldives,#Global,1850.0,7.0,644.0,1199.0
 2020-06-03,Mali,#Global,1386.0,79.0,788.0,519.0
 2020-06-03,Malta,#Global,622.0,9.0,562.0,51.0
+2020-06-03,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-03,Mauritania,#Global,745.0,34.0,57.0,654.0
 2020-06-03,Mauritius,#Global,335.0,10.0,322.0,3.0
 2020-06-03,Mexico,#Global,101238.0,11729.0,72680.0,16829.0
@@ -34952,6 +35086,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-04,Maldives,#Global,1872.0,7.0,648.0,1217.0
 2020-06-04,Mali,#Global,1461.0,85.0,806.0,570.0
 2020-06-04,Malta,#Global,622.0,9.0,576.0,37.0
+2020-06-04,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-04,Mauritania,#Global,784.0,39.0,65.0,680.0
 2020-06-04,Mauritius,#Global,335.0,10.0,322.0,3.0
 2020-06-04,Mexico,#Global,105680.0,12545.0,74758.0,18377.0
@@ -35212,6 +35347,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-05,Maldives,#Global,1883.0,7.0,717.0,1159.0
 2020-06-05,Mali,#Global,1485.0,87.0,816.0,582.0
 2020-06-05,Malta,#Global,625.0,9.0,583.0,33.0
+2020-06-05,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-05,Mauritania,#Global,883.0,43.0,69.0,771.0
 2020-06-05,Mauritius,#Global,337.0,10.0,324.0,3.0
 2020-06-05,Mexico,#Global,110026.0,13170.0,77841.0,19015.0
@@ -35472,6 +35608,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-06,Maldives,#Global,1901.0,8.0,763.0,1130.0
 2020-06-06,Mali,#Global,1523.0,90.0,845.0,588.0
 2020-06-06,Malta,#Global,627.0,9.0,596.0,22.0
+2020-06-06,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-06,Mauritania,#Global,947.0,49.0,104.0,794.0
 2020-06-06,Mauritius,#Global,337.0,10.0,324.0,3.0
 2020-06-06,Mexico,#Global,113619.0,13511.0,80830.0,19278.0
@@ -35732,6 +35869,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-07,Maldives,#Global,1903.0,8.0,827.0,1068.0
 2020-06-07,Mali,#Global,1533.0,90.0,873.0,570.0
 2020-06-07,Malta,#Global,629.0,9.0,596.0,24.0
+2020-06-07,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-07,Mauritania,#Global,1049.0,55.0,108.0,886.0
 2020-06-07,Mauritius,#Global,337.0,10.0,324.0,3.0
 2020-06-07,Mexico,#Global,117103.0,13699.0,83775.0,19629.0
@@ -35992,6 +36130,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-08,Maldives,#Global,1916.0,8.0,925.0,983.0
 2020-06-08,Mali,#Global,1547.0,92.0,916.0,539.0
 2020-06-08,Malta,#Global,630.0,9.0,596.0,25.0
+2020-06-08,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-08,Mauritania,#Global,1104.0,59.0,119.0,926.0
 2020-06-08,Mauritius,#Global,337.0,10.0,324.0,3.0
 2020-06-08,Mexico,#Global,120102.0,14053.0,87633.0,18416.0
@@ -36252,6 +36391,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-09,Maldives,#Global,1942.0,8.0,1010.0,924.0
 2020-06-09,Mali,#Global,1586.0,94.0,931.0,561.0
 2020-06-09,Malta,#Global,632.0,9.0,597.0,26.0
+2020-06-09,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-09,Mauritania,#Global,1162.0,61.0,139.0,962.0
 2020-06-09,Mauritius,#Global,337.0,10.0,324.0,3.0
 2020-06-09,Mexico,#Global,124301.0,14649.0,90748.0,18904.0
@@ -36512,6 +36652,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-10,Maldives,#Global,1962.0,8.0,1121.0,833.0
 2020-06-10,Mali,#Global,1667.0,96.0,948.0,623.0
 2020-06-10,Malta,#Global,635.0,9.0,597.0,29.0
+2020-06-10,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-10,Mauritania,#Global,1283.0,71.0,142.0,1070.0
 2020-06-10,Mauritius,#Global,337.0,10.0,325.0,2.0
 2020-06-10,Mexico,#Global,129184.0,15357.0,93930.0,19897.0
@@ -36772,6 +36913,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-11,Maldives,#Global,1976.0,8.0,1153.0,815.0
 2020-06-11,Mali,#Global,1722.0,97.0,989.0,636.0
 2020-06-11,Malta,#Global,640.0,9.0,600.0,31.0
+2020-06-11,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-11,Mauritania,#Global,1439.0,74.0,250.0,1115.0
 2020-06-11,Mauritius,#Global,337.0,10.0,325.0,2.0
 2020-06-11,Mexico,#Global,133974.0,15944.0,97198.0,20832.0
@@ -37032,6 +37174,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-12,Maldives,#Global,2003.0,8.0,1193.0,802.0
 2020-06-12,Mali,#Global,1752.0,101.0,1023.0,628.0
 2020-06-12,Malta,#Global,645.0,9.0,600.0,36.0
+2020-06-12,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-12,Mauritania,#Global,1572.0,81.0,278.0,1213.0
 2020-06-12,Mauritius,#Global,337.0,10.0,325.0,2.0
 2020-06-12,Mexico,#Global,139196.0,16448.0,100876.0,21872.0
@@ -37292,6 +37435,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-13,Maldives,#Global,2013.0,8.0,1217.0,788.0
 2020-06-13,Mali,#Global,1776.0,104.0,1058.0,614.0
 2020-06-13,Malta,#Global,646.0,9.0,601.0,36.0
+2020-06-13,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-13,Mauritania,#Global,1682.0,83.0,311.0,1288.0
 2020-06-13,Mauritius,#Global,337.0,10.0,325.0,2.0
 2020-06-13,Mexico,#Global,142690.0,16872.0,104078.0,21740.0
@@ -37552,6 +37696,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-14,Maldives,#Global,2035.0,8.0,1311.0,716.0
 2020-06-14,Mali,#Global,1809.0,104.0,1088.0,617.0
 2020-06-14,Malta,#Global,649.0,9.0,603.0,37.0
+2020-06-14,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-14,Mauritania,#Global,1783.0,87.0,332.0,1364.0
 2020-06-14,Mauritius,#Global,337.0,10.0,325.0,2.0
 2020-06-14,Mexico,#Global,146837.0,17141.0,107298.0,22398.0
@@ -37812,6 +37957,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-15,Maldives,#Global,2065.0,8.0,1540.0,517.0
 2020-06-15,Mali,#Global,1860.0,104.0,1125.0,631.0
 2020-06-15,Malta,#Global,650.0,9.0,603.0,38.0
+2020-06-15,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-15,Mauritania,#Global,1887.0,91.0,360.0,1436.0
 2020-06-15,Mauritius,#Global,337.0,10.0,325.0,2.0
 2020-06-15,Mexico,#Global,150264.0,17580.0,112292.0,20392.0
@@ -38072,6 +38218,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-16,Maldives,#Global,2094.0,8.0,1670.0,416.0
 2020-06-16,Mali,#Global,1885.0,104.0,1145.0,636.0
 2020-06-16,Malta,#Global,656.0,9.0,608.0,39.0
+2020-06-16,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-16,Mauritania,#Global,2057.0,93.0,373.0,1591.0
 2020-06-16,Mauritius,#Global,337.0,10.0,325.0,2.0
 2020-06-16,Mexico,#Global,154863.0,18310.0,115394.0,21159.0
@@ -38332,6 +38479,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-17,Maldives,#Global,2120.0,8.0,1677.0,435.0
 2020-06-17,Mali,#Global,1890.0,107.0,1168.0,615.0
 2020-06-17,Malta,#Global,662.0,9.0,610.0,43.0
+2020-06-17,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-17,Mauritania,#Global,2223.0,95.0,427.0,1701.0
 2020-06-17,Mauritius,#Global,337.0,10.0,325.0,2.0
 2020-06-17,Mexico,#Global,159793.0,19080.0,118504.0,22209.0
@@ -38592,6 +38740,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-18,Maldives,#Global,2137.0,8.0,1677.0,452.0
 2020-06-18,Mali,#Global,1906.0,107.0,1192.0,607.0
 2020-06-18,Malta,#Global,663.0,9.0,610.0,44.0
+2020-06-18,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-18,Mauritania,#Global,2424.0,97.0,550.0,1777.0
 2020-06-18,Mauritius,#Global,337.0,10.0,325.0,2.0
 2020-06-18,Mexico,#Global,165455.0,19747.0,122180.0,23528.0
@@ -38852,6 +39001,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-19,Maldives,#Global,2150.0,8.0,1769.0,373.0
 2020-06-19,Mali,#Global,1923.0,108.0,1217.0,598.0
 2020-06-19,Malta,#Global,663.0,9.0,613.0,41.0
+2020-06-19,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-19,Mauritania,#Global,2621.0,102.0,653.0,1866.0
 2020-06-19,Mauritius,#Global,337.0,10.0,325.0,2.0
 2020-06-19,Mexico,#Global,170485.0,20394.0,126438.0,23653.0
@@ -39112,6 +39262,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-20,Maldives,#Global,2187.0,8.0,1788.0,391.0
 2020-06-20,Mali,#Global,1933.0,109.0,1255.0,569.0
 2020-06-20,Malta,#Global,664.0,9.0,616.0,39.0
+2020-06-20,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-20,Mauritania,#Global,2813.0,108.0,696.0,2009.0
 2020-06-20,Mauritius,#Global,337.0,10.0,326.0,1.0
 2020-06-20,Mexico,#Global,175202.0,20781.0,130854.0,23567.0
@@ -39372,6 +39523,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-21,Maldives,#Global,2203.0,8.0,1803.0,392.0
 2020-06-21,Mali,#Global,1933.0,109.0,1255.0,569.0
 2020-06-21,Malta,#Global,665.0,9.0,616.0,40.0
+2020-06-21,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-21,Mauritania,#Global,2984.0,111.0,811.0,2062.0
 2020-06-21,Mauritius,#Global,337.0,10.0,326.0,1.0
 2020-06-21,Mexico,#Global,180545.0,21825.0,134495.0,24225.0
@@ -39632,6 +39784,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-22,Maldives,#Global,2217.0,8.0,1813.0,396.0
 2020-06-22,Mali,#Global,1961.0,111.0,1266.0,584.0
 2020-06-22,Malta,#Global,665.0,9.0,617.0,39.0
+2020-06-22,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-22,Mauritania,#Global,3121.0,112.0,905.0,2104.0
 2020-06-22,Mauritius,#Global,340.0,10.0,326.0,4.0
 2020-06-22,Mexico,#Global,185122.0,22584.0,139383.0,23155.0
@@ -39892,6 +40045,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-23,Maldives,#Global,2238.0,8.0,1813.0,417.0
 2020-06-23,Mali,#Global,1978.0,111.0,1302.0,565.0
 2020-06-23,Malta,#Global,665.0,9.0,618.0,38.0
+2020-06-23,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-23,Mauritania,#Global,3292.0,114.0,963.0,2215.0
 2020-06-23,Mauritius,#Global,340.0,10.0,326.0,4.0
 2020-06-23,Mexico,#Global,191410.0,23377.0,143646.0,24387.0
@@ -40152,6 +40306,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-24,Maldives,#Global,2261.0,8.0,1839.0,414.0
 2020-06-24,Mali,#Global,2005.0,112.0,1354.0,539.0
 2020-06-24,Malta,#Global,665.0,9.0,624.0,32.0
+2020-06-24,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-24,Mauritania,#Global,3519.0,116.0,1074.0,2329.0
 2020-06-24,Mauritius,#Global,341.0,10.0,326.0,5.0
 2020-06-24,Mexico,#Global,196847.0,24324.0,148487.0,24036.0
@@ -40412,6 +40567,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-25,Maldives,#Global,2277.0,8.0,1848.0,421.0
 2020-06-25,Mali,#Global,2039.0,113.0,1383.0,543.0
 2020-06-25,Malta,#Global,668.0,9.0,627.0,32.0
+2020-06-25,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-25,Mauritania,#Global,3739.0,119.0,1225.0,2395.0
 2020-06-25,Mauritius,#Global,341.0,10.0,326.0,5.0
 2020-06-25,Mexico,#Global,202951.0,25060.0,152362.0,25529.0
@@ -40672,6 +40828,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-26,Maldives,#Global,2283.0,8.0,1863.0,412.0
 2020-06-26,Mali,#Global,2060.0,113.0,1387.0,560.0
 2020-06-26,Malta,#Global,670.0,9.0,632.0,29.0
+2020-06-26,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-26,Mauritania,#Global,3907.0,120.0,1280.0,2507.0
 2020-06-26,Mauritius,#Global,341.0,10.0,326.0,5.0
 2020-06-26,Mexico,#Global,208392.0,25779.0,156827.0,25786.0
@@ -40932,6 +41089,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-27,Maldives,#Global,2305.0,8.0,1875.0,422.0
 2020-06-27,Mali,#Global,2118.0,113.0,1398.0,607.0
 2020-06-27,Malta,#Global,670.0,9.0,635.0,26.0
+2020-06-27,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-27,Mauritania,#Global,4025.0,121.0,1344.0,2560.0
 2020-06-27,Mauritius,#Global,341.0,10.0,326.0,5.0
 2020-06-27,Mexico,#Global,212802.0,26381.0,160721.0,25700.0
@@ -41192,6 +41350,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-28,Maldives,#Global,2324.0,8.0,1911.0,405.0
 2020-06-28,Mali,#Global,2147.0,114.0,1432.0,601.0
 2020-06-28,Malta,#Global,670.0,9.0,636.0,25.0
+2020-06-28,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-28,Mauritania,#Global,4149.0,126.0,1419.0,2604.0
 2020-06-28,Mauritius,#Global,341.0,10.0,326.0,5.0
 2020-06-28,Mexico,#Global,216852.0,26648.0,164646.0,25558.0
@@ -41452,6 +41611,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-29,Maldives,#Global,2337.0,8.0,1927.0,402.0
 2020-06-29,Mali,#Global,2173.0,115.0,1447.0,611.0
 2020-06-29,Malta,#Global,670.0,9.0,639.0,22.0
+2020-06-29,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-29,Mauritania,#Global,4237.0,128.0,1497.0,2612.0
 2020-06-29,Mauritius,#Global,341.0,10.0,326.0,5.0
 2020-06-29,Mexico,#Global,220657.0,27121.0,170147.0,23389.0
@@ -41712,6 +41872,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-30,Maldives,#Global,2361.0,9.0,1944.0,408.0
 2020-06-30,Mali,#Global,2181.0,116.0,1474.0,591.0
 2020-06-30,Malta,#Global,670.0,9.0,640.0,21.0
+2020-06-30,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-06-30,Mauritania,#Global,4363.0,129.0,1622.0,2612.0
 2020-06-30,Mauritius,#Global,341.0,10.0,326.0,5.0
 2020-06-30,Mexico,#Global,226089.0,27769.0,174538.0,23782.0
@@ -41972,6 +42133,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-01,Maldives,#Global,2382.0,9.0,1954.0,419.0
 2020-07-01,Mali,#Global,2202.0,116.0,1483.0,603.0
 2020-07-01,Malta,#Global,671.0,9.0,647.0,15.0
+2020-07-01,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-01,Mauritania,#Global,4472.0,129.0,1677.0,2666.0
 2020-07-01,Mauritius,#Global,341.0,10.0,326.0,5.0
 2020-07-01,Mexico,#Global,231770.0,28510.0,178526.0,24734.0
@@ -42232,6 +42394,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-02,Maldives,#Global,2400.0,10.0,1969.0,421.0
 2020-07-02,Mali,#Global,2260.0,117.0,1502.0,641.0
 2020-07-02,Malta,#Global,671.0,9.0,649.0,13.0
+2020-07-02,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-02,Mauritania,#Global,4606.0,129.0,1727.0,2750.0
 2020-07-02,Mauritius,#Global,341.0,10.0,330.0,1.0
 2020-07-02,Mexico,#Global,238511.0,29189.0,183757.0,25565.0
@@ -42492,6 +42655,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-03,Maldives,#Global,2410.0,10.0,1976.0,424.0
 2020-07-03,Mali,#Global,2285.0,117.0,1507.0,661.0
 2020-07-03,Malta,#Global,672.0,9.0,650.0,13.0
+2020-07-03,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-03,Mauritania,#Global,4705.0,129.0,1765.0,2811.0
 2020-07-03,Mauritius,#Global,341.0,10.0,330.0,1.0
 2020-07-03,Mexico,#Global,245251.0,29843.0,189345.0,26063.0
@@ -42752,6 +42916,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-04,Maldives,#Global,2435.0,10.0,1976.0,449.0
 2020-07-04,Mali,#Global,2303.0,118.0,1516.0,669.0
 2020-07-04,Malta,#Global,672.0,9.0,651.0,12.0
+2020-07-04,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-04,Mauritania,#Global,4827.0,129.0,1805.0,2893.0
 2020-07-04,Mauritius,#Global,341.0,10.0,330.0,1.0
 2020-07-04,Mexico,#Global,252165.0,30366.0,195724.0,26075.0
@@ -43012,6 +43177,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-05,Maldives,#Global,2468.0,11.0,2049.0,408.0
 2020-07-05,Mali,#Global,2330.0,119.0,1527.0,684.0
 2020-07-05,Malta,#Global,672.0,9.0,652.0,11.0
+2020-07-05,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-05,Mauritania,#Global,4879.0,130.0,1844.0,2905.0
 2020-07-05,Mauritius,#Global,341.0,10.0,330.0,1.0
 2020-07-05,Mexico,#Global,256848.0,30639.0,199914.0,26295.0
@@ -43272,6 +43438,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-06,Maldives,#Global,2491.0,12.0,2113.0,366.0
 2020-07-06,Mali,#Global,2331.0,119.0,1547.0,665.0
 2020-07-06,Malta,#Global,672.0,9.0,652.0,11.0
+2020-07-06,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-06,Mauritania,#Global,4948.0,133.0,1896.0,2919.0
 2020-07-06,Mauritius,#Global,342.0,10.0,330.0,2.0
 2020-07-06,Mexico,#Global,261750.0,31119.0,204826.0,25805.0
@@ -43532,6 +43699,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-07,Maldives,#Global,2501.0,12.0,2158.0,331.0
 2020-07-07,Mali,#Global,2348.0,119.0,1556.0,673.0
 2020-07-07,Malta,#Global,673.0,9.0,653.0,11.0
+2020-07-07,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-07,Mauritania,#Global,5024.0,135.0,1944.0,2945.0
 2020-07-07,Mauritius,#Global,342.0,10.0,330.0,2.0
 2020-07-07,Mexico,#Global,268008.0,32014.0,209437.0,26557.0
@@ -43792,6 +43960,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-08,Maldives,#Global,2517.0,13.0,2180.0,324.0
 2020-07-08,Mali,#Global,2358.0,120.0,1597.0,641.0
 2020-07-08,Malta,#Global,673.0,9.0,654.0,10.0
+2020-07-08,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-08,Mauritania,#Global,5087.0,139.0,1994.0,2954.0
 2020-07-08,Mauritius,#Global,342.0,10.0,330.0,2.0
 2020-07-08,Mexico,#Global,275003.0,32796.0,214316.0,27891.0
@@ -44052,6 +44221,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-09,Maldives,#Global,2553.0,13.0,2227.0,313.0
 2020-07-09,Mali,#Global,2370.0,120.0,1621.0,629.0
 2020-07-09,Malta,#Global,674.0,9.0,656.0,9.0
+2020-07-09,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-09,Mauritania,#Global,5126.0,144.0,2026.0,2956.0
 2020-07-09,Mauritius,#Global,342.0,10.0,330.0,2.0
 2020-07-09,Mexico,#Global,282283.0,33526.0,219628.0,29129.0
@@ -44312,6 +44482,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-10,Maldives,#Global,2617.0,13.0,2238.0,366.0
 2020-07-10,Mali,#Global,2404.0,121.0,1650.0,633.0
 2020-07-10,Malta,#Global,674.0,9.0,658.0,7.0
+2020-07-10,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-10,Mauritania,#Global,5203.0,146.0,2111.0,2946.0
 2020-07-10,Mauritius,#Global,342.0,10.0,330.0,2.0
 2020-07-10,Mexico,#Global,289174.0,34191.0,225356.0,29627.0
@@ -44572,6 +44743,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-11,Maldives,#Global,2664.0,13.0,2268.0,383.0
 2020-07-11,Mali,#Global,2406.0,121.0,1683.0,602.0
 2020-07-11,Malta,#Global,674.0,9.0,658.0,7.0
+2020-07-11,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-11,Mauritania,#Global,5275.0,147.0,2160.0,2968.0
 2020-07-11,Mauritius,#Global,342.0,10.0,330.0,2.0
 2020-07-11,Mexico,#Global,295268.0,34730.0,229856.0,30682.0
@@ -44832,6 +45004,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-12,Maldives,#Global,2731.0,13.0,2284.0,434.0
 2020-07-12,Mali,#Global,2411.0,121.0,1694.0,596.0
 2020-07-12,Malta,#Global,674.0,9.0,660.0,5.0
+2020-07-12,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-12,Mauritania,#Global,5355.0,147.0,2363.0,2845.0
 2020-07-12,Mauritius,#Global,342.0,10.0,330.0,2.0
 2020-07-12,Mexico,#Global,299750.0,35006.0,234905.0,29839.0
@@ -45092,6 +45265,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-13,Maldives,#Global,2762.0,13.0,2290.0,459.0
 2020-07-13,Mali,#Global,2412.0,121.0,1730.0,561.0
 2020-07-13,Malta,#Global,674.0,9.0,660.0,5.0
+2020-07-13,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-13,Mauritania,#Global,5446.0,147.0,2501.0,2798.0
 2020-07-13,Mauritius,#Global,342.0,10.0,330.0,2.0
 2020-07-13,Mexico,#Global,304435.0,35491.0,240101.0,28843.0
@@ -45352,6 +45526,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-14,Maldives,#Global,2801.0,14.0,2302.0,485.0
 2020-07-14,Mali,#Global,2423.0,121.0,1748.0,554.0
 2020-07-14,Malta,#Global,674.0,9.0,660.0,5.0
+2020-07-14,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-14,Mauritania,#Global,5518.0,147.0,2664.0,2707.0
 2020-07-14,Mauritius,#Global,342.0,10.0,330.0,2.0
 2020-07-14,Mexico,#Global,311486.0,36327.0,245830.0,29329.0
@@ -45612,6 +45787,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-15,Maldives,#Global,2831.0,14.0,2321.0,496.0
 2020-07-15,Mali,#Global,2433.0,121.0,1764.0,548.0
 2020-07-15,Malta,#Global,674.0,9.0,661.0,4.0
+2020-07-15,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-15,Mauritania,#Global,5564.0,149.0,2830.0,2585.0
 2020-07-15,Mauritius,#Global,343.0,10.0,331.0,2.0
 2020-07-15,Mexico,#Global,317635.0,36906.0,252368.0,28361.0
@@ -45872,6 +46048,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-16,Maldives,#Global,2899.0,15.0,2339.0,545.0
 2020-07-16,Mali,#Global,2440.0,121.0,1777.0,542.0
 2020-07-16,Malta,#Global,674.0,9.0,661.0,4.0
+2020-07-16,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-16,Mauritania,#Global,5659.0,150.0,2993.0,2516.0
 2020-07-16,Mauritius,#Global,343.0,10.0,331.0,2.0
 2020-07-16,Mexico,#Global,324041.0,37574.0,257681.0,28786.0
@@ -46132,6 +46309,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-17,Maldives,#Global,2913.0,15.0,2340.0,558.0
 2020-07-17,Mali,#Global,2467.0,121.0,1791.0,555.0
 2020-07-17,Malta,#Global,674.0,9.0,662.0,3.0
+2020-07-17,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-17,Mauritania,#Global,5710.0,151.0,3153.0,2406.0
 2020-07-17,Mauritius,#Global,343.0,10.0,331.0,2.0
 2020-07-17,Mexico,#Global,331298.0,38310.0,264202.0,28786.0
@@ -46392,6 +46570,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-18,Maldives,#Global,2930.0,15.0,2354.0,561.0
 2020-07-18,Mali,#Global,2472.0,121.0,1809.0,542.0
 2020-07-18,Malta,#Global,675.0,9.0,662.0,4.0
+2020-07-18,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-18,Mauritania,#Global,5813.0,153.0,3279.0,2381.0
 2020-07-18,Mauritius,#Global,343.0,10.0,331.0,2.0
 2020-07-18,Mexico,#Global,338913.0,38888.0,271239.0,28786.0
@@ -46652,6 +46831,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-19,Maldives,#Global,2966.0,15.0,2362.0,589.0
 2020-07-19,Mali,#Global,2475.0,121.0,1828.0,526.0
 2020-07-19,Malta,#Global,677.0,9.0,662.0,6.0
+2020-07-19,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-19,Mauritania,#Global,5873.0,155.0,3436.0,2282.0
 2020-07-19,Mauritius,#Global,343.0,10.0,331.0,2.0
 2020-07-19,Mexico,#Global,344224.0,39184.0,254941.0,50099.0
@@ -46912,6 +47092,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-20,Maldives,#Global,2999.0,15.0,2369.0,615.0
 2020-07-20,Mali,#Global,2475.0,121.0,1851.0,503.0
 2020-07-20,Malta,#Global,677.0,9.0,664.0,4.0
+2020-07-20,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-20,Mauritania,#Global,5923.0,155.0,3632.0,2136.0
 2020-07-20,Mauritius,#Global,343.0,10.0,332.0,1.0
 2020-07-20,Mexico,#Global,349396.0,39485.0,263091.0,46820.0
@@ -47172,6 +47353,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-21,Maldives,#Global,3044.0,15.0,2397.0,632.0
 2020-07-21,Mali,#Global,2477.0,122.0,1856.0,499.0
 2020-07-21,Malta,#Global,677.0,9.0,664.0,4.0
+2020-07-21,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-21,Mauritania,#Global,5985.0,155.0,3826.0,2004.0
 2020-07-21,Mauritius,#Global,343.0,10.0,332.0,1.0
 2020-07-21,Mexico,#Global,356255.0,40400.0,267407.0,48448.0
@@ -47432,6 +47614,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-22,Maldives,#Global,3103.0,15.0,2397.0,691.0
 2020-07-22,Mali,#Global,2494.0,123.0,1869.0,502.0
 2020-07-22,Malta,#Global,679.0,9.0,665.0,5.0
+2020-07-22,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-22,Mauritania,#Global,6027.0,155.0,3977.0,1895.0
 2020-07-22,Mauritius,#Global,343.0,10.0,332.0,1.0
 2020-07-22,Mexico,#Global,362274.0,41190.0,270147.0,50937.0
@@ -47692,6 +47875,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-23,Maldives,#Global,3120.0,15.0,2428.0,677.0
 2020-07-23,Mali,#Global,2494.0,123.0,1889.0,482.0
 2020-07-23,Malta,#Global,680.0,9.0,665.0,6.0
+2020-07-23,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-23,Mauritania,#Global,6067.0,156.0,4086.0,1825.0
 2020-07-23,Mauritius,#Global,343.0,10.0,332.0,1.0
 2020-07-23,Mexico,#Global,370712.0,41908.0,275454.0,53350.0
@@ -47952,6 +48136,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-24,Maldives,#Global,3175.0,15.0,2498.0,662.0
 2020-07-24,Mali,#Global,2503.0,123.0,1901.0,479.0
 2020-07-24,Malta,#Global,686.0,9.0,665.0,12.0
+2020-07-24,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-24,Mauritania,#Global,6116.0,156.0,4206.0,1754.0
 2020-07-24,Mauritius,#Global,344.0,10.0,332.0,2.0
 2020-07-24,Mexico,#Global,378285.0,42645.0,283382.0,52258.0
@@ -48212,6 +48397,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-25,Maldives,#Global,3252.0,15.0,2498.0,739.0
 2020-07-25,Mali,#Global,2503.0,123.0,1907.0,473.0
 2020-07-25,Malta,#Global,686.0,9.0,665.0,12.0
+2020-07-25,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-25,Mauritania,#Global,6151.0,156.0,4299.0,1696.0
 2020-07-25,Mauritius,#Global,344.0,10.0,332.0,2.0
 2020-07-25,Mexico,#Global,385036.0,43374.0,288819.0,52843.0
@@ -48472,6 +48658,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-26,Maldives,#Global,3302.0,15.0,2528.0,759.0
 2020-07-26,Mali,#Global,2510.0,123.0,1911.0,476.0
 2020-07-26,Malta,#Global,700.0,9.0,665.0,26.0
+2020-07-26,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-26,Mauritania,#Global,6171.0,156.0,4430.0,1585.0
 2020-07-26,Mauritius,#Global,344.0,10.0,332.0,2.0
 2020-07-26,Mexico,#Global,390516.0,43680.0,295222.0,51614.0
@@ -48732,6 +48919,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-27,Maldives,#Global,3369.0,15.0,2547.0,807.0
 2020-07-27,Mali,#Global,2513.0,124.0,1913.0,476.0
 2020-07-27,Malta,#Global,701.0,9.0,665.0,27.0
+2020-07-27,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-27,Mauritania,#Global,6208.0,156.0,4653.0,1399.0
 2020-07-27,Mauritius,#Global,344.0,10.0,332.0,2.0
 2020-07-27,Mexico,#Global,395489.0,44022.0,303810.0,47657.0
@@ -48992,6 +49180,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-28,Maldives,#Global,3506.0,15.0,2547.0,944.0
 2020-07-28,Mali,#Global,2520.0,124.0,1919.0,477.0
 2020-07-28,Malta,#Global,708.0,9.0,665.0,34.0
+2020-07-28,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-28,Mauritania,#Global,6249.0,156.0,4683.0,1410.0
 2020-07-28,Mauritius,#Global,344.0,10.0,332.0,2.0
 2020-07-28,Mexico,#Global,402697.0,44876.0,308142.0,49679.0
@@ -49252,6 +49441,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-29,Maldives,#Global,3567.0,15.0,2554.0,998.0
 2020-07-29,Mali,#Global,2521.0,124.0,1927.0,470.0
 2020-07-29,Malta,#Global,720.0,9.0,665.0,46.0
+2020-07-29,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-29,Mauritania,#Global,6273.0,156.0,4776.0,1341.0
 2020-07-29,Mauritius,#Global,344.0,10.0,332.0,2.0
 2020-07-29,Mexico,#Global,408449.0,45361.0,314538.0,48550.0
@@ -49512,6 +49702,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-30,Maldives,#Global,3719.0,16.0,2568.0,1135.0
 2020-07-30,Mali,#Global,2522.0,124.0,1931.0,467.0
 2020-07-30,Malta,#Global,814.0,9.0,665.0,140.0
+2020-07-30,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-30,Mauritania,#Global,6295.0,157.0,4889.0,1249.0
 2020-07-30,Mauritius,#Global,344.0,10.0,332.0,2.0
 2020-07-30,Mexico,#Global,416179.0,46000.0,320100.0,50079.0
@@ -49772,6 +49963,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-31,Maldives,#Global,3793.0,16.0,2607.0,1170.0
 2020-07-31,Mali,#Global,2535.0,124.0,1937.0,474.0
 2020-07-31,Malta,#Global,824.0,9.0,665.0,150.0
+2020-07-31,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-07-31,Mauritania,#Global,6310.0,157.0,4962.0,1191.0
 2020-07-31,Mauritius,#Global,344.0,10.0,332.0,2.0
 2020-07-31,Mexico,#Global,424637.0,46688.0,327115.0,50834.0
@@ -50032,6 +50224,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-01,Maldives,#Global,3949.0,17.0,2613.0,1319.0
 2020-08-01,Mali,#Global,2535.0,124.0,1937.0,474.0
 2020-08-01,Malta,#Global,845.0,9.0,665.0,171.0
+2020-08-01,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-01,Mauritania,#Global,6319.0,157.0,5043.0,1119.0
 2020-08-01,Mauritius,#Global,344.0,10.0,332.0,2.0
 2020-08-01,Mexico,#Global,434193.0,47472.0,334867.0,51854.0
@@ -50292,6 +50485,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-02,Maldives,#Global,4164.0,18.0,2643.0,1503.0
 2020-08-02,Mali,#Global,2541.0,124.0,1943.0,474.0
 2020-08-02,Malta,#Global,860.0,9.0,666.0,185.0
+2020-08-02,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-02,Mauritania,#Global,6323.0,157.0,5115.0,1051.0
 2020-08-02,Mauritius,#Global,344.0,10.0,332.0,2.0
 2020-08-02,Mexico,#Global,439046.0,47746.0,342527.0,48773.0
@@ -50552,6 +50746,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-03,Maldives,#Global,4293.0,18.0,2670.0,1605.0
 2020-08-03,Mali,#Global,2543.0,124.0,1943.0,476.0
 2020-08-03,Malta,#Global,874.0,9.0,666.0,199.0
+2020-08-03,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-03,Mauritania,#Global,6382.0,157.0,5174.0,1051.0
 2020-08-03,Mauritius,#Global,344.0,10.0,334.0,0.0
 2020-08-03,Mexico,#Global,443813.0,48012.0,353442.0,42359.0
@@ -50812,6 +51007,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-04,Maldives,#Global,4446.0,19.0,2693.0,1734.0
 2020-08-04,Mali,#Global,2543.0,124.0,1946.0,473.0
 2020-08-04,Malta,#Global,890.0,9.0,666.0,215.0
+2020-08-04,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-04,Mauritania,#Global,6418.0,157.0,5209.0,1052.0
 2020-08-04,Mauritius,#Global,344.0,10.0,334.0,0.0
 2020-08-04,Mexico,#Global,449961.0,48869.0,357444.0,43648.0
@@ -51072,6 +51268,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-05,Maldives,#Global,4594.0,19.0,2703.0,1872.0
 2020-08-05,Mali,#Global,2546.0,124.0,1950.0,472.0
 2020-08-05,Malta,#Global,926.0,9.0,668.0,249.0
+2020-08-05,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-05,Mauritania,#Global,6444.0,157.0,5291.0,996.0
 2020-08-05,Mauritius,#Global,344.0,10.0,334.0,0.0
 2020-08-05,Mexico,#Global,456100.0,49698.0,361764.0,44638.0
@@ -51332,6 +51529,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-06,Maldives,#Global,4680.0,19.0,2725.0,1936.0
 2020-08-06,Mali,#Global,2552.0,124.0,1954.0,474.0
 2020-08-06,Malta,#Global,946.0,9.0,670.0,267.0
+2020-08-06,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-06,Mauritania,#Global,6444.0,157.0,5291.0,996.0
 2020-08-06,Mauritius,#Global,344.0,10.0,334.0,0.0
 2020-08-06,Mexico,#Global,462690.0,50517.0,365311.0,46862.0
@@ -51592,6 +51790,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-07,Maldives,#Global,4769.0,19.0,2754.0,1996.0
 2020-08-07,Mali,#Global,2561.0,125.0,1956.0,480.0
 2020-08-07,Malta,#Global,995.0,9.0,675.0,311.0
+2020-08-07,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-07,Mauritania,#Global,6498.0,157.0,5443.0,898.0
 2020-08-07,Mauritius,#Global,344.0,10.0,334.0,0.0
 2020-08-07,Mexico,#Global,469407.0,51311.0,370098.0,47998.0
@@ -51852,6 +52051,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-08,Maldives,#Global,4898.0,19.0,2791.0,2088.0
 2020-08-08,Mali,#Global,2565.0,125.0,1960.0,480.0
 2020-08-08,Malta,#Global,1035.0,9.0,675.0,351.0
+2020-08-08,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-08,Mauritania,#Global,6510.0,157.0,5527.0,826.0
 2020-08-08,Mauritius,#Global,344.0,10.0,334.0,0.0
 2020-08-08,Mexico,#Global,475902.0,52006.0,377125.0,46771.0
@@ -52112,6 +52312,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-09,Maldives,#Global,5041.0,19.0,2804.0,2218.0
 2020-08-09,Mali,#Global,2567.0,125.0,1962.0,480.0
 2020-08-09,Malta,#Global,1089.0,9.0,684.0,396.0
+2020-08-09,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-09,Mauritania,#Global,6523.0,157.0,5527.0,839.0
 2020-08-09,Mauritius,#Global,344.0,10.0,334.0,0.0
 2020-08-09,Mexico,#Global,480278.0,52298.0,384432.0,43548.0
@@ -52372,6 +52573,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-10,Maldives,#Global,5157.0,19.0,2835.0,2303.0
 2020-08-10,Mali,#Global,2573.0,125.0,1969.0,479.0
 2020-08-10,Malta,#Global,1112.0,9.0,688.0,415.0
+2020-08-10,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-10,Mauritania,#Global,6555.0,157.0,5570.0,828.0
 2020-08-10,Mauritius,#Global,344.0,10.0,334.0,0.0
 2020-08-10,Mexico,#Global,485836.0,53003.0,393160.0,39673.0
@@ -52632,6 +52834,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-11,Maldives,#Global,5223.0,20.0,2849.0,2354.0
 2020-08-11,Mali,#Global,2577.0,125.0,1973.0,479.0
 2020-08-11,Malta,#Global,1141.0,9.0,692.0,440.0
+2020-08-11,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-11,Mauritania,#Global,6598.0,157.0,5704.0,737.0
 2020-08-11,Mauritius,#Global,344.0,10.0,334.0,0.0
 2020-08-11,Mexico,#Global,492522.0,53929.0,397278.0,41315.0
@@ -52892,6 +53095,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-12,Maldives,#Global,5366.0,21.0,2884.0,2461.0
 2020-08-12,Mali,#Global,2582.0,125.0,1977.0,480.0
 2020-08-12,Malta,#Global,1190.0,9.0,695.0,486.0
+2020-08-12,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-12,Mauritania,#Global,6622.0,157.0,5741.0,724.0
 2020-08-12,Mauritius,#Global,344.0,10.0,334.0,0.0
 2020-08-12,Mexico,#Global,498380.0,54666.0,401182.0,42532.0
@@ -53152,6 +53356,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-13,Maldives,#Global,5494.0,21.0,2920.0,2553.0
 2020-08-13,Mali,#Global,2597.0,125.0,1979.0,493.0
 2020-08-13,Malta,#Global,1245.0,9.0,708.0,528.0
+2020-08-13,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-13,Mauritania,#Global,6653.0,157.0,5843.0,653.0
 2020-08-13,Mauritius,#Global,344.0,10.0,334.0,0.0
 2020-08-13,Mexico,#Global,505751.0,55293.0,406583.0,43875.0
@@ -53412,6 +53617,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-14,Maldives,#Global,5572.0,22.0,3010.0,2540.0
 2020-08-14,Mali,#Global,2597.0,125.0,1979.0,493.0
 2020-08-14,Malta,#Global,1276.0,9.0,762.0,505.0
+2020-08-14,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-14,Mauritania,#Global,6676.0,157.0,5889.0,630.0
 2020-08-14,Mauritius,#Global,345.0,10.0,334.0,1.0
 2020-08-14,Mexico,#Global,511369.0,55908.0,410479.0,44982.0
@@ -53672,6 +53878,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-15,Maldives,#Global,5679.0,22.0,3208.0,2449.0
 2020-08-15,Mali,#Global,2614.0,125.0,1986.0,503.0
 2020-08-15,Malta,#Global,1348.0,9.0,782.0,557.0
+2020-08-15,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-15,Mauritania,#Global,6693.0,157.0,5928.0,608.0
 2020-08-15,Mauritius,#Global,346.0,10.0,334.0,2.0
 2020-08-15,Mexico,#Global,517714.0,56543.0,418164.0,43007.0
@@ -53932,6 +54139,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-16,Maldives,#Global,5785.0,22.0,3349.0,2414.0
 2020-08-16,Mali,#Global,2640.0,125.0,1987.0,528.0
 2020-08-16,Malta,#Global,1306.0,9.0,749.0,548.0
+2020-08-16,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-16,Mauritania,#Global,6701.0,157.0,5985.0,559.0
 2020-08-16,Mauritius,#Global,346.0,10.0,334.0,2.0
 2020-08-16,Mexico,#Global,522162.0,56757.0,424298.0,41107.0
@@ -54192,6 +54400,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-17,Maldives,#Global,5909.0,23.0,3488.0,2398.0
 2020-08-17,Mali,#Global,2640.0,125.0,1987.0,528.0
 2020-08-17,Malta,#Global,1375.0,9.0,759.0,607.0
+2020-08-17,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-17,Mauritania,#Global,6762.0,157.0,6018.0,587.0
 2020-08-17,Mauritius,#Global,346.0,10.0,334.0,2.0
 2020-08-17,Mexico,#Global,525733.0,57023.0,430840.0,37870.0
@@ -54452,6 +54661,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-18,Maldives,#Global,6079.0,24.0,3648.0,2407.0
 2020-08-18,Mali,#Global,2666.0,125.0,1990.0,551.0
 2020-08-18,Malta,#Global,1423.0,9.0,766.0,648.0
+2020-08-18,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-18,Mauritania,#Global,6789.0,157.0,6051.0,581.0
 2020-08-18,Mauritius,#Global,346.0,10.0,334.0,2.0
 2020-08-18,Mexico,#Global,531239.0,57774.0,433809.0,39656.0
@@ -54712,6 +54922,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-19,Maldives,#Global,6225.0,24.0,3788.0,2413.0
 2020-08-19,Mali,#Global,2667.0,125.0,1993.0,549.0
 2020-08-19,Malta,#Global,1470.0,9.0,784.0,677.0
+2020-08-19,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-19,Mauritania,#Global,6829.0,158.0,6094.0,577.0
 2020-08-19,Mauritius,#Global,346.0,10.0,334.0,2.0
 2020-08-19,Mexico,#Global,537031.0,58481.0,438375.0,40175.0
@@ -54972,6 +55183,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-20,Maldives,#Global,6370.0,24.0,3915.0,2431.0
 2020-08-20,Mali,#Global,2667.0,125.0,1993.0,549.0
 2020-08-20,Malta,#Global,1510.0,9.0,802.0,699.0
+2020-08-20,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-20,Mauritania,#Global,6848.0,158.0,6123.0,567.0
 2020-08-20,Mauritius,#Global,346.0,10.0,334.0,2.0
 2020-08-20,Mexico,#Global,543806.0,59106.0,442782.0,41918.0
@@ -55232,6 +55444,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-21,Maldives,#Global,6564.0,26.0,4012.0,2526.0
 2020-08-21,Mali,#Global,2688.0,125.0,2007.0,556.0
 2020-08-21,Malta,#Global,1546.0,10.0,854.0,682.0
+2020-08-21,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-21,Mauritania,#Global,6885.0,158.0,6186.0,541.0
 2020-08-21,Mauritius,#Global,346.0,10.0,334.0,2.0
 2020-08-21,Mexico,#Global,549734.0,59610.0,448344.0,41780.0
@@ -55492,6 +55705,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-22,Maldives,#Global,6660.0,26.0,4113.0,2521.0
 2020-08-22,Mali,#Global,2699.0,125.0,2010.0,564.0
 2020-08-22,Malta,#Global,1577.0,10.0,901.0,666.0
+2020-08-22,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-22,Mauritania,#Global,6894.0,158.0,6203.0,533.0
 2020-08-22,Mauritius,#Global,346.0,10.0,334.0,2.0
 2020-08-22,Mexico,#Global,556216.0,60254.0,453104.0,42858.0
@@ -55752,6 +55966,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-23,Maldives,#Global,6779.0,26.0,4222.0,2531.0
 2020-08-23,Mali,#Global,2705.0,125.0,2018.0,562.0
 2020-08-23,Malta,#Global,1612.0,10.0,934.0,668.0
+2020-08-23,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-23,Mauritania,#Global,6905.0,158.0,6232.0,515.0
 2020-08-23,Mauritius,#Global,346.0,10.0,335.0,1.0
 2020-08-23,Mexico,#Global,560164.0,60480.0,458123.0,41561.0
@@ -56012,6 +56227,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-24,Maldives,#Global,6912.0,27.0,4297.0,2588.0
 2020-08-24,Mali,#Global,2708.0,125.0,2025.0,558.0
 2020-08-24,Malta,#Global,1667.0,10.0,977.0,680.0
+2020-08-24,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-24,Mauritania,#Global,6928.0,158.0,6282.0,488.0
 2020-08-24,Mauritius,#Global,347.0,10.0,335.0,2.0
 2020-08-24,Mexico,#Global,563705.0,60800.0,466209.0,36696.0
@@ -56272,6 +56488,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-25,Maldives,#Global,7047.0,28.0,4439.0,2580.0
 2020-08-25,Mali,#Global,2713.0,125.0,2041.0,547.0
 2020-08-25,Malta,#Global,1705.0,10.0,1029.0,666.0
+2020-08-25,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-25,Mauritania,#Global,6960.0,158.0,6321.0,481.0
 2020-08-25,Mauritius,#Global,348.0,10.0,335.0,3.0
 2020-08-25,Mexico,#Global,568621.0,61450.0,469206.0,37965.0
@@ -56532,6 +56749,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-26,Maldives,#Global,7225.0,28.0,4561.0,2636.0
 2020-08-26,Mali,#Global,2717.0,126.0,2052.0,539.0
 2020-08-26,Malta,#Global,1751.0,10.0,1077.0,664.0
+2020-08-26,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-26,Mauritania,#Global,6977.0,158.0,6356.0,463.0
 2020-08-26,Mauritius,#Global,348.0,10.0,335.0,3.0
 2020-08-26,Mexico,#Global,573888.0,62076.0,472197.0,39615.0
@@ -56792,6 +57010,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-27,Maldives,#Global,7329.0,28.0,4691.0,2610.0
 2020-08-27,Mali,#Global,2730.0,126.0,2054.0,550.0
 2020-08-27,Malta,#Global,1788.0,10.0,1121.0,657.0
+2020-08-27,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-27,Mauritania,#Global,6993.0,158.0,6381.0,454.0
 2020-08-27,Mauritius,#Global,355.0,10.0,335.0,10.0
 2020-08-27,Mexico,#Global,579914.0,62594.0,475532.0,41788.0
@@ -57052,6 +57271,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-28,Maldives,#Global,7469.0,28.0,4873.0,2568.0
 2020-08-28,Mali,#Global,2736.0,126.0,2055.0,555.0
 2020-08-28,Malta,#Global,1820.0,10.0,1186.0,624.0
+2020-08-28,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-28,Mauritania,#Global,7012.0,158.0,6407.0,447.0
 2020-08-28,Mauritius,#Global,355.0,10.0,335.0,10.0
 2020-08-28,Mexico,#Global,585738.0,63146.0,479770.0,42822.0
@@ -57312,6 +57532,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-29,Maldives,#Global,7578.0,28.0,4925.0,2625.0
 2020-08-29,Mali,#Global,2757.0,126.0,2121.0,510.0
 2020-08-29,Malta,#Global,1847.0,10.0,1244.0,593.0
+2020-08-29,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-29,Mauritania,#Global,7012.0,158.0,6407.0,447.0
 2020-08-29,Mauritius,#Global,355.0,10.0,335.0,10.0
 2020-08-29,Mexico,#Global,591712.0,63819.0,484283.0,43610.0
@@ -57572,6 +57793,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-30,Maldives,#Global,7667.0,28.0,5036.0,2603.0
 2020-08-30,Mali,#Global,2773.0,126.0,2169.0,478.0
 2020-08-30,Malta,#Global,1862.0,12.0,1313.0,537.0
+2020-08-30,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-30,Mauritania,#Global,7016.0,159.0,6430.0,427.0
 2020-08-30,Mauritius,#Global,355.0,10.0,335.0,10.0
 2020-08-30,Mexico,#Global,595841.0,64158.0,489724.0,41959.0
@@ -57832,6 +58054,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-31,Maldives,#Global,7804.0,28.0,5155.0,2621.0
 2020-08-31,Mali,#Global,2776.0,126.0,2169.0,481.0
 2020-08-31,Malta,#Global,1883.0,12.0,1400.0,471.0
+2020-08-31,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-08-31,Mauritania,#Global,7048.0,159.0,6464.0,425.0
 2020-08-31,Mauritius,#Global,356.0,10.0,335.0,11.0
 2020-08-31,Mexico,#Global,599560.0,64414.0,496222.0,38924.0
@@ -58092,6 +58315,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-01,Maldives,#Global,8003.0,29.0,5265.0,2709.0
 2020-09-01,Mali,#Global,2777.0,126.0,2178.0,473.0
 2020-09-01,Malta,#Global,1909.0,12.0,1453.0,444.0
+2020-09-01,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-01,Mauritania,#Global,7075.0,159.0,6464.0,452.0
 2020-09-01,Mauritius,#Global,356.0,10.0,335.0,11.0
 2020-09-01,Mexico,#Global,606036.0,65241.0,501722.0,39073.0
@@ -58352,6 +58576,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-02,Maldives,#Global,8140.0,29.0,5338.0,2773.0
 2020-09-02,Mali,#Global,2802.0,126.0,2185.0,491.0
 2020-09-02,Malta,#Global,1931.0,13.0,1490.0,428.0
+2020-09-02,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-02,Mauritania,#Global,7089.0,160.0,6548.0,381.0
 2020-09-02,Mauritius,#Global,356.0,10.0,335.0,11.0
 2020-09-02,Mexico,#Global,610957.0,65816.0,504541.0,40600.0
@@ -58612,6 +58837,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-03,Maldives,#Global,8281.0,29.0,5483.0,2769.0
 2020-09-03,Mali,#Global,2807.0,126.0,2203.0,478.0
 2020-09-03,Malta,#Global,1965.0,13.0,1528.0,424.0
+2020-09-03,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-03,Mauritania,#Global,7106.0,160.0,6588.0,358.0
 2020-09-03,Mauritius,#Global,356.0,10.0,335.0,11.0
 2020-09-03,Mexico,#Global,616894.0,66329.0,510626.0,39939.0
@@ -58872,6 +59098,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-04,Maldives,#Global,8361.0,29.0,5642.0,2690.0
 2020-09-04,Mali,#Global,2814.0,126.0,2220.0,468.0
 2020-09-04,Malta,#Global,1984.0,13.0,1565.0,406.0
+2020-09-04,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-04,Mauritania,#Global,7126.0,160.0,6623.0,343.0
 2020-09-04,Mauritius,#Global,356.0,10.0,335.0,11.0
 2020-09-04,Mexico,#Global,623090.0,66851.0,514663.0,41576.0
@@ -59132,6 +59359,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-05,Maldives,#Global,8486.0,29.0,5822.0,2635.0
 2020-09-05,Mali,#Global,2833.0,126.0,2233.0,474.0
 2020-09-05,Malta,#Global,2014.0,14.0,1601.0,399.0
+2020-09-05,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-05,Mauritania,#Global,7134.0,160.0,6658.0,316.0
 2020-09-05,Mauritius,#Global,356.0,10.0,335.0,11.0
 2020-09-05,Mexico,#Global,629409.0,67326.0,518844.0,43239.0
@@ -59392,6 +59620,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-06,Maldives,#Global,8584.0,29.0,5936.0,2619.0
 2020-09-06,Mali,#Global,2842.0,127.0,2238.0,477.0
 2020-09-06,Malta,#Global,2039.0,14.0,1627.0,398.0
+2020-09-06,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-06,Mauritania,#Global,7142.0,160.0,6669.0,313.0
 2020-09-06,Mauritius,#Global,356.0,10.0,335.0,11.0
 2020-09-06,Mexico,#Global,634023.0,67558.0,524669.0,41796.0
@@ -59652,6 +59881,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-07,Maldives,#Global,8667.0,29.0,6052.0,2586.0
 2020-09-07,Mali,#Global,2870.0,127.0,2246.0,497.0
 2020-09-07,Malta,#Global,2076.0,14.0,1690.0,372.0
+2020-09-07,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-07,Mauritania,#Global,7165.0,160.0,6681.0,324.0
 2020-09-07,Mauritius,#Global,356.0,10.0,335.0,11.0
 2020-09-07,Mexico,#Global,637509.0,67781.0,531334.0,38394.0
@@ -59912,6 +60142,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-08,Maldives,#Global,8741.0,29.0,6157.0,2555.0
 2020-09-08,Mali,#Global,2882.0,127.0,2258.0,497.0
 2020-09-08,Malta,#Global,2099.0,14.0,1729.0,356.0
+2020-09-08,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-08,Mauritania,#Global,7165.0,160.0,6681.0,324.0
 2020-09-08,Mauritius,#Global,361.0,10.0,335.0,16.0
 2020-09-08,Mexico,#Global,642860.0,68484.0,535141.0,39235.0
@@ -60172,6 +60403,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-09,Maldives,#Global,8834.0,31.0,6288.0,2515.0
 2020-09-09,Mali,#Global,2898.0,128.0,2267.0,503.0
 2020-09-09,Malta,#Global,2162.0,14.0,1760.0,388.0
+2020-09-09,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-09,Mauritania,#Global,7191.0,161.0,6701.0,329.0
 2020-09-09,Mauritius,#Global,361.0,10.0,335.0,16.0
 2020-09-09,Mexico,#Global,647321.0,69049.0,538514.0,39758.0
@@ -60432,6 +60664,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-10,Maldives,#Global,8900.0,31.0,6559.0,2310.0
 2020-09-10,Mali,#Global,2909.0,128.0,2269.0,512.0
 2020-09-10,Malta,#Global,2204.0,14.0,1803.0,387.0
+2020-09-10,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-10,Mauritania,#Global,7222.0,161.0,6758.0,303.0
 2020-09-10,Mauritius,#Global,361.0,10.0,335.0,16.0
 2020-09-10,Mexico,#Global,652364.0,69649.0,541804.0,40911.0
@@ -60692,6 +60925,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-11,Maldives,#Global,8990.0,31.0,6846.0,2113.0
 2020-09-11,Mali,#Global,2912.0,128.0,2271.0,513.0
 2020-09-11,Malta,#Global,2247.0,15.0,1833.0,399.0
+2020-09-11,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-11,Mauritania,#Global,7266.0,161.0,6786.0,319.0
 2020-09-11,Mauritius,#Global,361.0,10.0,335.0,16.0
 2020-09-11,Mexico,#Global,658299.0,70183.0,547088.0,41028.0
@@ -60952,6 +61186,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-12,Maldives,#Global,9052.0,31.0,7055.0,1966.0
 2020-09-12,Mali,#Global,2916.0,128.0,2276.0,512.0
 2020-09-12,Malta,#Global,2274.0,15.0,1850.0,409.0
+2020-09-12,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-12,Mauritania,#Global,7274.0,161.0,6804.0,309.0
 2020-09-12,Mauritius,#Global,361.0,10.0,335.0,16.0
 2020-09-12,Mexico,#Global,663973.0,70604.0,551113.0,42256.0
@@ -61212,6 +61447,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-13,Maldives,#Global,9173.0,32.0,7326.0,1815.0
 2020-09-13,Mali,#Global,2924.0,128.0,2285.0,511.0
 2020-09-13,Malta,#Global,2352.0,15.0,1872.0,465.0
+2020-09-13,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-13,Mauritania,#Global,7276.0,161.0,6825.0,290.0
 2020-09-13,Mauritius,#Global,361.0,10.0,335.0,16.0
 2020-09-13,Mexico,#Global,668381.0,70821.0,557381.0,40179.0
@@ -61472,6 +61708,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-14,Maldives,#Global,9243.0,33.0,7536.0,1674.0
 2020-09-14,Mali,#Global,2935.0,128.0,2289.0,518.0
 2020-09-14,Malta,#Global,2405.0,16.0,1890.0,499.0
+2020-09-14,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-14,Mauritania,#Global,7295.0,161.0,6835.0,299.0
 2020-09-14,Mauritius,#Global,361.0,10.0,335.0,16.0
 2020-09-14,Mexico,#Global,671716.0,71049.0,564053.0,36614.0
@@ -61732,6 +61969,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-15,Maldives,#Global,9328.0,33.0,7729.0,1566.0
 2020-09-15,Mali,#Global,2940.0,128.0,2302.0,510.0
 2020-09-15,Malta,#Global,2454.0,16.0,1931.0,507.0
+2020-09-15,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-15,Mauritania,#Global,7319.0,161.0,6839.0,319.0
 2020-09-15,Mauritius,#Global,365.0,10.0,338.0,17.0
 2020-09-15,Mexico,#Global,676487.0,71678.0,569546.0,35263.0
@@ -61992,6 +62230,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-16,Maldives,#Global,9427.0,33.0,7903.0,1491.0
 2020-09-16,Mali,#Global,2966.0,128.0,2311.0,527.0
 2020-09-16,Malta,#Global,2560.0,16.0,1953.0,591.0
+2020-09-16,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-16,Mauritania,#Global,7332.0,161.0,6844.0,327.0
 2020-09-16,Mauritius,#Global,365.0,10.0,338.0,17.0
 2020-09-16,Mexico,#Global,680931.0,71978.0,574203.0,34750.0
@@ -62252,6 +62491,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-17,Maldives,#Global,9494.0,33.0,8033.0,1428.0
 2020-09-17,Mali,#Global,2966.0,128.0,2311.0,527.0
 2020-09-17,Malta,#Global,2595.0,16.0,1978.0,601.0
+2020-09-17,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-17,Mauritania,#Global,7346.0,161.0,6865.0,320.0
 2020-09-17,Mauritius,#Global,366.0,10.0,338.0,18.0
 2020-09-17,Mexico,#Global,684113.0,72179.0,579145.0,32789.0
@@ -62512,6 +62752,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-18,Maldives,#Global,9568.0,33.0,8077.0,1458.0
 2020-09-18,Mali,#Global,2991.0,128.0,2332.0,531.0
 2020-09-18,Malta,#Global,2634.0,17.0,1996.0,621.0
+2020-09-18,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-18,Mauritania,#Global,7361.0,161.0,6882.0,318.0
 2020-09-18,Mauritius,#Global,366.0,10.0,338.0,18.0
 2020-09-18,Mexico,#Global,688954.0,72803.0,582109.0,34042.0
@@ -62772,6 +63013,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-19,Maldives,#Global,9649.0,33.0,8188.0,1428.0
 2020-09-19,Mali,#Global,3006.0,128.0,2349.0,529.0
 2020-09-19,Malta,#Global,2699.0,19.0,2017.0,663.0
+2020-09-19,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-19,Mauritania,#Global,7365.0,161.0,6927.0,277.0
 2020-09-19,Mauritius,#Global,366.0,10.0,338.0,18.0
 2020-09-19,Mexico,#Global,694121.0,73258.0,586154.0,34709.0
@@ -63032,6 +63274,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-20,Maldives,#Global,9724.0,33.0,8261.0,1430.0
 2020-09-20,Mali,#Global,3013.0,128.0,2372.0,513.0
 2020-09-20,Malta,#Global,2731.0,20.0,2047.0,664.0
+2020-09-20,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-20,Mauritania,#Global,7368.0,161.0,6951.0,256.0
 2020-09-20,Mauritius,#Global,366.0,10.0,338.0,18.0
 2020-09-20,Mexico,#Global,697663.0,73493.0,590459.0,33711.0
@@ -63292,6 +63535,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-21,Maldives,#Global,9770.0,34.0,8390.0,1346.0
 2020-09-21,Mali,#Global,3024.0,128.0,2377.0,519.0
 2020-09-21,Malta,#Global,2776.0,23.0,2079.0,674.0
+2020-09-21,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-21,Mauritania,#Global,7384.0,161.0,6977.0,246.0
 2020-09-21,Mauritius,#Global,366.0,10.0,338.0,18.0
 2020-09-21,Mexico,#Global,700580.0,73697.0,596317.0,30566.0
@@ -63552,6 +63796,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-22,Maldives,#Global,9818.0,34.0,8438.0,1346.0
 2020-09-22,Mali,#Global,3030.0,129.0,2380.0,521.0
 2020-09-22,Malta,#Global,2814.0,23.0,2113.0,678.0
+2020-09-22,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-22,Mauritania,#Global,7403.0,161.0,7011.0,231.0
 2020-09-22,Mauritius,#Global,367.0,10.0,339.0,18.0
 2020-09-22,Mexico,#Global,705263.0,74348.0,598953.0,31962.0
@@ -63812,6 +64057,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-23,Maldives,#Global,9885.0,34.0,8530.0,1321.0
 2020-09-23,Mali,#Global,3034.0,130.0,2382.0,522.0
 2020-09-23,Malta,#Global,2856.0,25.0,2173.0,658.0
+2020-09-23,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-23,Mauritania,#Global,7425.0,161.0,7028.0,236.0
 2020-09-23,Mauritius,#Global,367.0,10.0,339.0,18.0
 2020-09-23,Mexico,#Global,710049.0,74949.0,601611.0,33489.0
@@ -64072,6 +64318,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-24,Maldives,#Global,9939.0,34.0,8597.0,1308.0
 2020-09-24,Mali,#Global,3041.0,130.0,2391.0,520.0
 2020-09-24,Malta,#Global,2898.0,27.0,2191.0,680.0
+2020-09-24,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-24,Mauritania,#Global,7433.0,161.0,7052.0,220.0
 2020-09-24,Mauritius,#Global,367.0,10.0,343.0,14.0
 2020-09-24,Mexico,#Global,715457.0,75439.0,605796.0,34222.0
@@ -64332,6 +64579,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-25,Maldives,#Global,10014.0,34.0,8673.0,1307.0
 2020-09-25,Mali,#Global,3064.0,130.0,2402.0,532.0
 2020-09-25,Malta,#Global,2929.0,29.0,2261.0,639.0
+2020-09-25,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-25,Mauritania,#Global,7457.0,161.0,7070.0,226.0
 2020-09-25,Mauritius,#Global,367.0,10.0,343.0,14.0
 2020-09-25,Mexico,#Global,720858.0,75844.0,609041.0,35973.0
@@ -64592,6 +64840,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-26,Maldives,#Global,10045.0,34.0,8754.0,1257.0
 2020-09-26,Mali,#Global,3080.0,130.0,2410.0,540.0
 2020-09-26,Malta,#Global,2958.0,31.0,2304.0,623.0
+2020-09-26,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-26,Mauritania,#Global,7462.0,161.0,7070.0,231.0
 2020-09-26,Mauritius,#Global,367.0,10.0,343.0,14.0
 2020-09-26,Mexico,#Global,726431.0,76243.0,612361.0,37827.0
@@ -64852,6 +65101,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-27,Maldives,#Global,10098.0,34.0,8847.0,1217.0
 2020-09-27,Mali,#Global,3086.0,130.0,2420.0,536.0
 2020-09-27,Malta,#Global,2979.0,31.0,2358.0,590.0
+2020-09-27,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-27,Mauritania,#Global,7464.0,161.0,7070.0,233.0
 2020-09-27,Mauritius,#Global,367.0,10.0,343.0,14.0
 2020-09-27,Mexico,#Global,730317.0,76430.0,616696.0,37191.0
@@ -65112,6 +65362,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-28,Maldives,#Global,10157.0,34.0,8950.0,1173.0
 2020-09-28,Mali,#Global,3090.0,130.0,2439.0,521.0
 2020-09-28,Malta,#Global,3006.0,32.0,2399.0,575.0
+2020-09-28,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-28,Mauritania,#Global,7474.0,161.0,7091.0,222.0
 2020-09-28,Mauritius,#Global,367.0,10.0,343.0,14.0
 2020-09-28,Mexico,#Global,733717.0,76603.0,622398.0,34716.0
@@ -65372,6 +65623,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-29,Maldives,#Global,10194.0,34.0,9037.0,1123.0
 2020-09-29,Mali,#Global,3101.0,131.0,2443.0,527.0
 2020-09-29,Malta,#Global,3035.0,34.0,2484.0,517.0
+2020-09-29,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-29,Mauritania,#Global,7488.0,161.0,7111.0,216.0
 2020-09-29,Mauritius,#Global,367.0,10.0,343.0,14.0
 2020-09-29,Mexico,#Global,738163.0,77163.0,625512.0,35488.0
@@ -65632,6 +65884,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-30,Maldives,#Global,10291.0,34.0,9108.0,1149.0
 2020-09-30,Mali,#Global,3118.0,131.0,2453.0,534.0
 2020-09-30,Malta,#Global,3058.0,35.0,2562.0,461.0
+2020-09-30,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-09-30,Mauritania,#Global,7502.0,161.0,7120.0,221.0
 2020-09-30,Mauritius,#Global,381.0,10.0,344.0,27.0
 2020-09-30,Mexico,#Global,743216.0,77646.0,628007.0,37563.0
@@ -65892,6 +66145,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-01,Maldives,#Global,10354.0,34.0,9187.0,1133.0
 2020-10-01,Mali,#Global,3131.0,131.0,2460.0,540.0
 2020-10-01,Malta,#Global,3095.0,35.0,2605.0,455.0
+2020-10-01,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-01,Mauritania,#Global,7505.0,161.0,7138.0,206.0
 2020-10-01,Mauritius,#Global,381.0,10.0,344.0,27.0
 2020-10-01,Mexico,#Global,748315.0,78078.0,629630.0,40607.0
@@ -66152,6 +66406,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-02,Maldives,#Global,10398.0,34.0,9213.0,1151.0
 2020-10-02,Mali,#Global,3156.0,131.0,2467.0,558.0
 2020-10-02,Malta,#Global,3139.0,37.0,2668.0,434.0
+2020-10-02,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-02,Mauritania,#Global,7511.0,162.0,7163.0,186.0
 2020-10-02,Mauritius,#Global,385.0,10.0,344.0,31.0
 2020-10-02,Mexico,#Global,753090.0,78492.0,633806.0,40792.0
@@ -66412,6 +66667,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-03,Maldives,#Global,10465.0,34.0,9310.0,1121.0
 2020-10-03,Mali,#Global,3170.0,131.0,2476.0,563.0
 2020-10-03,Malta,#Global,3204.0,38.0,2711.0,455.0
+2020-10-03,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-03,Mauritania,#Global,7517.0,162.0,7174.0,181.0
 2020-10-03,Mauritius,#Global,385.0,10.0,357.0,18.0
 2020-10-03,Mexico,#Global,757953.0,78880.0,637993.0,41080.0
@@ -66672,6 +66928,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-04,Maldives,#Global,10530.0,34.0,9364.0,1132.0
 2020-10-04,Mali,#Global,3184.0,131.0,2479.0,574.0
 2020-10-04,Malta,#Global,3270.0,39.0,2758.0,473.0
+2020-10-04,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-04,Mauritania,#Global,7520.0,162.0,7188.0,170.0
 2020-10-04,Mauritius,#Global,385.0,10.0,357.0,18.0
 2020-10-04,Mexico,#Global,761665.0,79088.0,645123.0,37454.0
@@ -66932,6 +67189,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-05,Maldives,#Global,10567.0,34.0,9427.0,1106.0
 2020-10-05,Mali,#Global,3189.0,131.0,2482.0,576.0
 2020-10-05,Malta,#Global,3327.0,39.0,2770.0,518.0
+2020-10-05,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-05,Mauritania,#Global,7523.0,162.0,7204.0,157.0
 2020-10-05,Mauritius,#Global,387.0,10.0,357.0,20.0
 2020-10-05,Mexico,#Global,789780.0,81877.0,670034.0,37869.0
@@ -67192,6 +67450,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-06,Maldives,#Global,10621.0,34.0,9466.0,1121.0
 2020-10-06,Mali,#Global,3195.0,131.0,2494.0,570.0
 2020-10-06,Malta,#Global,3374.0,40.0,2812.0,522.0
+2020-10-06,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-06,Mauritania,#Global,7529.0,162.0,7208.0,159.0
 2020-10-06,Mauritius,#Global,395.0,10.0,357.0,28.0
 2020-10-06,Mexico,#Global,794608.0,82348.0,676923.0,35337.0
@@ -67452,6 +67711,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-07,Maldives,#Global,10656.0,34.0,9547.0,1075.0
 2020-10-07,Mali,#Global,3210.0,131.0,2502.0,577.0
 2020-10-07,Malta,#Global,3442.0,41.0,2865.0,536.0
+2020-10-07,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-07,Mauritania,#Global,7535.0,162.0,7212.0,161.0
 2020-10-07,Mauritius,#Global,395.0,10.0,358.0,27.0
 2020-10-07,Mexico,#Global,799188.0,82726.0,679693.0,36769.0
@@ -67712,6 +67972,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-08,Maldives,#Global,10742.0,34.0,9589.0,1119.0
 2020-10-08,Mali,#Global,3235.0,131.0,2506.0,598.0
 2020-10-08,Malta,#Global,3506.0,41.0,2884.0,581.0
+2020-10-08,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-08,Mauritania,#Global,7540.0,162.0,7227.0,151.0
 2020-10-08,Mauritius,#Global,395.0,10.0,358.0,27.0
 2020-10-08,Mexico,#Global,804488.0,83096.0,682604.0,38788.0
@@ -67972,6 +68233,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-09,Maldives,#Global,10808.0,34.0,9654.0,1120.0
 2020-10-09,Mali,#Global,3248.0,131.0,2514.0,603.0
 2020-10-09,Malta,#Global,3581.0,41.0,2915.0,625.0
+2020-10-09,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-09,Mauritania,#Global,7548.0,163.0,7245.0,140.0
 2020-10-09,Mauritius,#Global,395.0,10.0,358.0,27.0
 2020-10-09,Mexico,#Global,810020.0,83497.0,687123.0,39400.0
@@ -68232,6 +68494,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-10,Maldives,#Global,10859.0,34.0,9683.0,1142.0
 2020-10-10,Mali,#Global,3273.0,132.0,2525.0,616.0
 2020-10-10,Malta,#Global,3681.0,41.0,2937.0,703.0
+2020-10-10,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-10,Mauritania,#Global,7550.0,163.0,7266.0,121.0
 2020-10-10,Mauritius,#Global,395.0,10.0,358.0,27.0
 2020-10-10,Mexico,#Global,814328.0,83642.0,689377.0,41309.0
@@ -68492,6 +68755,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-11,Maldives,#Global,10894.0,35.0,9742.0,1117.0
 2020-10-11,Mali,#Global,3286.0,132.0,2527.0,627.0
 2020-10-11,Malta,#Global,3776.0,41.0,2967.0,768.0
+2020-10-11,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-11,Mauritania,#Global,7550.0,163.0,7274.0,113.0
 2020-10-11,Mauritius,#Global,395.0,10.0,358.0,27.0
 2020-10-11,Mexico,#Global,817503.0,83781.0,694214.0,39508.0
@@ -68752,6 +69016,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-12,Maldives,#Global,10943.0,35.0,9783.0,1125.0
 2020-10-12,Mali,#Global,3296.0,132.0,2533.0,631.0
 2020-10-12,Malta,#Global,3844.0,43.0,2981.0,820.0
+2020-10-12,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-12,Mauritania,#Global,7554.0,163.0,7297.0,94.0
 2020-10-12,Mauritius,#Global,404.0,10.0,359.0,35.0
 2020-10-12,Mexico,#Global,821045.0,83945.0,700826.0,36274.0
@@ -69012,6 +69277,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-13,Maldives,#Global,10993.0,35.0,9833.0,1125.0
 2020-10-13,Mali,#Global,3297.0,132.0,2544.0,621.0
 2020-10-13,Malta,#Global,3937.0,44.0,3012.0,881.0
+2020-10-13,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-13,Mauritania,#Global,7565.0,163.0,7301.0,101.0
 2020-10-13,Mauritius,#Global,407.0,10.0,361.0,36.0
 2020-10-13,Mexico,#Global,825340.0,84420.0,703457.0,37463.0
@@ -69272,6 +69538,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-14,Maldives,#Global,11062.0,35.0,9880.0,1147.0
 2020-10-14,Mali,#Global,3352.0,132.0,2550.0,670.0
 2020-10-14,Malta,#Global,4048.0,44.0,3064.0,940.0
+2020-10-14,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-14,Mauritania,#Global,7572.0,163.0,7314.0,95.0
 2020-10-14,Mauritius,#Global,407.0,10.0,361.0,36.0
 2020-10-14,Mexico,#Global,829396.0,84898.0,703489.0,41009.0
@@ -69532,6 +69799,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-15,Maldives,#Global,11113.0,35.0,9931.0,1147.0
 2020-10-15,Mali,#Global,3368.0,132.0,2559.0,677.0
 2020-10-15,Malta,#Global,4160.0,45.0,3106.0,1009.0
+2020-10-15,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-15,Mauritania,#Global,7585.0,163.0,7326.0,96.0
 2020-10-15,Mauritius,#Global,415.0,10.0,364.0,41.0
 2020-10-15,Mexico,#Global,834910.0,85285.0,707631.0,41994.0
@@ -69792,6 +70060,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-16,Maldives,#Global,11154.0,35.0,9995.0,1124.0
 2020-10-16,Mali,#Global,3378.0,132.0,2563.0,683.0
 2020-10-16,Malta,#Global,4282.0,45.0,3142.0,1095.0
+2020-10-16,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-16,Mauritania,#Global,7603.0,163.0,7339.0,101.0
 2020-10-16,Mauritius,#Global,417.0,10.0,364.0,43.0
 2020-10-16,Mexico,#Global,841661.0,85704.0,712250.0,43707.0
@@ -70052,6 +70321,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-17,Maldives,#Global,11178.0,36.0,10097.0,1045.0
 2020-10-17,Mali,#Global,3379.0,132.0,2570.0,677.0
 2020-10-17,Malta,#Global,4486.0,45.0,3184.0,1257.0
+2020-10-17,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-17,Mauritania,#Global,7607.0,163.0,7342.0,102.0
 2020-10-17,Mauritius,#Global,417.0,10.0,364.0,43.0
 2020-10-17,Mexico,#Global,847108.0,86059.0,715848.0,45201.0
@@ -70312,6 +70582,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-18,Maldives,#Global,11210.0,37.0,10164.0,1009.0
 2020-10-18,Mali,#Global,3388.0,132.0,2586.0,670.0
 2020-10-18,Malta,#Global,4628.0,45.0,3236.0,1347.0
+2020-10-18,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-18,Mauritania,#Global,7608.0,163.0,7347.0,98.0
 2020-10-18,Mauritius,#Global,417.0,10.0,364.0,43.0
 2020-10-18,Mexico,#Global,851227.0,86167.0,720973.0,44087.0
@@ -70572,6 +70843,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-19,Maldives,#Global,11232.0,37.0,10201.0,994.0
 2020-10-19,Mali,#Global,3407.0,132.0,2588.0,687.0
 2020-10-19,Malta,#Global,4737.0,45.0,3242.0,1450.0
+2020-10-19,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-19,Mauritania,#Global,7621.0,163.0,7355.0,103.0
 2020-10-19,Mauritius,#Global,419.0,10.0,379.0,30.0
 2020-10-19,Mexico,#Global,854926.0,86338.0,727759.0,40829.0
@@ -70832,6 +71104,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-20,Maldives,#Global,11271.0,37.0,10234.0,1000.0
 2020-10-20,Mali,#Global,3411.0,132.0,2593.0,686.0
 2020-10-20,Malta,#Global,4871.0,46.0,3282.0,1543.0
+2020-10-20,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-20,Mauritania,#Global,7634.0,163.0,7359.0,112.0
 2020-10-20,Mauritius,#Global,419.0,10.0,379.0,30.0
 2020-10-20,Mexico,#Global,860714.0,86893.0,730594.0,43227.0
@@ -71092,6 +71365,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-21,Maldives,#Global,11316.0,37.0,10284.0,995.0
 2020-10-21,Mali,#Global,3428.0,132.0,2599.0,697.0
 2020-10-21,Malta,#Global,5026.0,46.0,3331.0,1649.0
+2020-10-21,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-21,Mauritania,#Global,7638.0,163.0,7363.0,112.0
 2020-10-21,Mauritius,#Global,419.0,10.0,379.0,30.0
 2020-10-21,Mexico,#Global,867559.0,87415.0,733897.0,46247.0
@@ -71352,6 +71626,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-22,Maldives,#Global,11358.0,37.0,10383.0,938.0
 2020-10-22,Mali,#Global,3440.0,132.0,2608.0,700.0
 2020-10-22,Malta,#Global,5137.0,49.0,3384.0,1704.0
+2020-10-22,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-22,Mauritania,#Global,7650.0,163.0,7369.0,118.0
 2020-10-22,Mauritius,#Global,425.0,10.0,386.0,29.0
 2020-10-22,Mexico,#Global,874171.0,87415.0,737437.0,49319.0
@@ -71612,6 +71887,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-23,Maldives,#Global,11391.0,37.0,10428.0,926.0
 2020-10-23,Mali,#Global,3444.0,132.0,2620.0,692.0
 2020-10-23,Malta,#Global,5258.0,49.0,3439.0,1770.0
+2020-10-23,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-23,Mauritania,#Global,7662.0,163.0,7374.0,125.0
 2020-10-23,Mauritius,#Global,435.0,10.0,386.0,39.0
 2020-10-23,Mexico,#Global,880775.0,88312.0,740934.0,51529.0
@@ -71872,6 +72148,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-24,Maldives,#Global,11421.0,37.0,10472.0,912.0
 2020-10-24,Mali,#Global,3472.0,132.0,2636.0,704.0
 2020-10-24,Malta,#Global,5373.0,50.0,3478.0,1845.0
+2020-10-24,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-24,Mauritania,#Global,7663.0,163.0,7378.0,122.0
 2020-10-24,Mauritius,#Global,435.0,10.0,386.0,39.0
 2020-10-24,Mexico,#Global,886800.0,88743.0,746939.0,51118.0
@@ -72132,6 +72409,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-25,Maldives,#Global,11505.0,37.0,10524.0,944.0
 2020-10-25,Mali,#Global,3490.0,132.0,2661.0,697.0
 2020-10-25,Malta,#Global,5498.0,51.0,3567.0,1880.0
+2020-10-25,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-25,Mauritania,#Global,7664.0,163.0,7385.0,116.0
 2020-10-25,Mauritius,#Global,435.0,10.0,386.0,39.0
 2020-10-25,Mexico,#Global,891160.0,88924.0,752691.0,49545.0
@@ -72392,6 +72670,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-26,Maldives,#Global,11532.0,37.0,10563.0,932.0
 2020-10-26,Mali,#Global,3499.0,133.0,2664.0,702.0
 2020-10-26,Malta,#Global,5578.0,53.0,3630.0,1895.0
+2020-10-26,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-26,Mauritania,#Global,7677.0,163.0,7387.0,127.0
 2020-10-26,Mauritius,#Global,439.0,10.0,389.0,40.0
 2020-10-26,Mexico,#Global,895326.0,89171.0,760259.0,45896.0
@@ -72652,6 +72931,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-27,Maldives,#Global,11567.0,37.0,10652.0,878.0
 2020-10-27,Mali,#Global,3515.0,136.0,2665.0,714.0
 2020-10-27,Malta,#Global,5685.0,55.0,3715.0,1915.0
+2020-10-27,Marshall Islands,#Global,0.0,0.0,0.0,0.0
 2020-10-27,Mauritania,#Global,7680.0,163.0,7392.0,125.0
 2020-10-27,Mauritius,#Global,439.0,10.0,389.0,40.0
 2020-10-27,Mexico,#Global,901268.0,89814.0,763105.0,48349.0
@@ -72799,3 +73079,264 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-27,Isle of Man,United Kingdom,352.0,24.0,321.0,7.0
 2020-10-27,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-27,Turks and Caicos Islands,United Kingdom,703.0,6.0,689.0,8.0
+2020-10-28,#Worldwide,#Global,44253301.0,1133170.0,29860486.0,13259645.0
+2020-10-28,Afghanistan,#Global,41145.0,1529.0,34237.0,5379.0
+2020-10-28,Albania,#Global,20040.0,493.0,10893.0,8654.0
+2020-10-28,Algeria,#Global,57026.0,1941.0,39635.0,15450.0
+2020-10-28,Andorra,#Global,4517.0,72.0,3144.0,1301.0
+2020-10-28,Angola,#Global,10074.0,275.0,3693.0,6106.0
+2020-10-28,Antigua and Barbuda,#Global,124.0,3.0,115.0,6.0
+2020-10-28,Argentina,#Global,1130533.0,30071.0,931147.0,169315.0
+2020-10-28,Armenia,#Global,82651.0,1243.0,52508.0,28900.0
+2020-10-28,Australia (total),#Global,27565.0,907.0,25231.0,1427.0
+2020-10-28,Austria,#Global,89496.0,1027.0,61684.0,26785.0
+2020-10-28,Azerbaijan,#Global,52137.0,699.0,42033.0,9405.0
+2020-10-28,Bahamas,#Global,6549.0,136.0,4182.0,2231.0
+2020-10-28,Bahrain,#Global,81022.0,317.0,77697.0,3008.0
+2020-10-28,Bangladesh,#Global,403079.0,5861.0,319733.0,77485.0
+2020-10-28,Barbados,#Global,234.0,7.0,217.0,10.0
+2020-10-28,Belarus,#Global,95545.0,969.0,84690.0,9886.0
+2020-10-28,Belgium,#Global,368337.0,11170.0,23969.0,333198.0
+2020-10-28,Belize,#Global,3261.0,52.0,2076.0,1133.0
+2020-10-28,Benin,#Global,2643.0,41.0,2330.0,272.0
+2020-10-28,Bhutan,#Global,346.0,0.0,315.0,31.0
+2020-10-28,Bolivia,#Global,141321.0,8694.0,110303.0,22324.0
+2020-10-28,Bosnia and Herzegovina,#Global,44737.0,1161.0,27087.0,16489.0
+2020-10-28,Botswana,#Global,6283.0,21.0,4438.0,1824.0
+2020-10-28,Brazil,#Global,5468270.0,158456.0,4947777.0,362037.0
+2020-10-28,Brunei,#Global,148.0,3.0,143.0,2.0
+2020-10-28,Bulgaria,#Global,45461.0,1197.0,19159.0,25105.0
+2020-10-28,Burkina Faso,#Global,2466.0,67.0,2181.0,218.0
+2020-10-28,Burma,#Global,49072.0,1172.0,28636.0,19264.0
+2020-10-28,Burundi,#Global,559.0,1.0,511.0,47.0
+2020-10-28,Cabo Verde,#Global,8548.0,94.0,7701.0,753.0
+2020-10-28,Cambodia,#Global,290.0,0.0,283.0,7.0
+2020-10-28,Cameroon,#Global,21793.0,426.0,20117.0,1250.0
+2020-10-28,Central African Republic,#Global,4863.0,62.0,1924.0,2877.0
+2020-10-28,Chad,#Global,1468.0,97.0,1306.0,65.0
+2020-10-28,Chile,#Global,505530.0,14032.0,482906.0,8592.0
+2020-10-28,China (total),#Global,91271.0,4739.0,86049.0,483.0
+2020-10-28,Colombia,#Global,1041936.0,,941874.0,100062.0
+2020-10-28,Comoros,#Global,517.0,7.0,494.0,16.0
+2020-10-28,Congo (Brazzaville),#Global,5253.0,92.0,3887.0,1274.0
+2020-10-28,Congo (Kinshasa),#Global,11211.0,305.0,10509.0,397.0
+2020-10-28,Costa Rica,#Global,106553.0,1340.0,64996.0,40217.0
+2020-10-28,Cote d'Ivoire,#Global,20555.0,124.0,20241.0,190.0
+2020-10-28,Croatia,#Global,40999.0,493.0,27770.0,12736.0
+2020-10-28,Cuba,#Global,6727.0,128.0,6107.0,492.0
+2020-10-28,Cyprus,#Global,3930.0,25.0,1882.0,2023.0
+2020-10-28,Czechia,#Global,297013.0,2675.0,119373.0,174965.0
+2020-10-28,Denmark,#Global,43174.0,715.0,33126.0,9333.0
+2020-10-28,Denmark (total),#Global,511.0,0.0,494.0,17.0
+2020-10-28,Diamond Princess,#Global,712.0,13.0,659.0,40.0
+2020-10-28,Djibouti,#Global,5555.0,61.0,5427.0,67.0
+2020-10-28,Dominica,#Global,38.0,0.0,29.0,9.0
+2020-10-28,Dominican Republic,#Global,125570.0,2232.0,103412.0,19926.0
+2020-10-28,Ecuador,#Global,164908.0,12608.0,141759.0,10541.0
+2020-10-28,Egypt,#Global,107030.0,6234.0,99174.0,1622.0
+2020-10-28,El Salvador,#Global,32925.0,962.0,28582.0,3381.0
+2020-10-28,Equatorial Guinea,#Global,5083.0,83.0,4964.0,36.0
+2020-10-28,Eritrea,#Global,461.0,0.0,405.0,56.0
+2020-10-28,Estonia,#Global,4590.0,73.0,3626.0,891.0
+2020-10-28,Eswatini,#Global,5886.0,116.0,5542.0,228.0
+2020-10-28,Ethiopia,#Global,94820.0,1451.0,49886.0,43483.0
+2020-10-28,Fiji,#Global,33.0,2.0,31.0,0.0
+2020-10-28,Finland,#Global,15378.0,354.0,11300.0,3724.0
+2020-10-28,France,#Global,1240862.0,35493.0,94048.0,1111321.0
+2020-10-28,France (total),#Global,39353.0,330.0,25365.0,13658.0
+2020-10-28,Gabon,#Global,8957.0,55.0,8619.0,283.0
+2020-10-28,Gambia,#Global,3666.0,119.0,2666.0,881.0
+2020-10-28,Georgia,#Global,33858.0,253.0,14829.0,18776.0
+2020-10-28,Germany,#Global,486972.0,10259.0,336764.0,139949.0
+2020-10-28,Ghana,#Global,47775.0,316.0,46971.0,488.0
+2020-10-28,Greece,#Global,34299.0,603.0,1347.0,32349.0
+2020-10-28,Grenada,#Global,28.0,0.0,24.0,4.0
+2020-10-28,Guatemala,#Global,106320.0,3682.0,95752.0,6886.0
+2020-10-28,Guinea,#Global,11819.0,71.0,10505.0,1243.0
+2020-10-28,Guinea-Bissau,#Global,2403.0,41.0,1818.0,544.0
+2020-10-28,Guyana,#Global,4074.0,123.0,3083.0,868.0
+2020-10-28,Haiti,#Global,9046.0,232.0,7422.0,1392.0
+2020-10-28,Holy See,#Global,27.0,0.0,15.0,12.0
+2020-10-28,Honduras,#Global,95199.0,2652.0,39126.0,53421.0
+2020-10-28,Hungary,#Global,65933.0,1578.0,17098.0,47257.0
+2020-10-28,Iceland,#Global,4671.0,12.0,3598.0,1061.0
+2020-10-28,India,#Global,8040203.0,120527.0,7315989.0,603687.0
+2020-10-28,Indonesia,#Global,400483.0,13612.0,325793.0,61078.0
+2020-10-28,Iran,#Global,588648.0,33714.0,467917.0,87017.0
+2020-10-28,Iraq,#Global,463951.0,10770.0,391010.0,62171.0
+2020-10-28,Ireland,#Global,59434.0,1896.0,23364.0,34174.0
+2020-10-28,Israel,#Global,312550.0,2494.0,298043.0,12013.0
+2020-10-28,Italy,#Global,589766.0,37905.0,275404.0,276457.0
+2020-10-28,Jamaica,#Global,8851.0,198.0,4379.0,4274.0
+2020-10-28,Japan,#Global,98877.0,1731.0,90118.0,7028.0
+2020-10-28,Jordan,#Global,61942.0,700.0,7508.0,53734.0
+2020-10-28,Kazakhstan,#Global,111100.0,1825.0,106059.0,3216.0
+2020-10-28,Kenya,#Global,51851.0,934.0,35258.0,15659.0
+2020-10-28,"Korea, South",#Global,26271.0,462.0,24168.0,1641.0
+2020-10-28,Kosovo,#Global,18626.0,673.0,15290.0,2663.0
+2020-10-28,Kuwait,#Global,123906.0,763.0,114923.0,8220.0
+2020-10-28,Kyrgyzstan,#Global,57276.0,1138.0,48637.0,7501.0
+2020-10-28,Laos,#Global,24.0,0.0,22.0,2.0
+2020-10-28,Latvia,#Global,5144.0,63.0,1382.0,3699.0
+2020-10-28,Lebanon,#Global,75845.0,602.0,37787.0,37456.0
+2020-10-28,Lesotho,#Global,1947.0,43.0,975.0,929.0
+2020-10-28,Liberia,#Global,1419.0,82.0,1278.0,59.0
+2020-10-28,Libya,#Global,58874.0,823.0,32962.0,25089.0
+2020-10-28,Liechtenstein,#Global,450.0,1.0,228.0,221.0
+2020-10-28,Lithuania,#Global,12138.0,144.0,4502.0,7492.0
+2020-10-28,Luxembourg,#Global,15659.0,147.0,9681.0,5831.0
+2020-10-28,MS Zaandam,#Global,9.0,2.0,0.0,7.0
+2020-10-28,Madagascar,#Global,16968.0,244.0,16301.0,423.0
+2020-10-28,Malawi,#Global,5904.0,184.0,5300.0,420.0
+2020-10-28,Malaysia,#Global,29441.0,246.0,19072.0,10123.0
+2020-10-28,Maldives,#Global,11591.0,37.0,10685.0,869.0
+2020-10-28,Mali,#Global,3530.0,136.0,2667.0,727.0
+2020-10-28,Malta,#Global,5760.0,56.0,3789.0,1915.0
+2020-10-28,Marshall Islands,#Global,2.0,0.0,0.0,2.0
+2020-10-28,Mauritania,#Global,7688.0,163.0,7401.0,124.0
+2020-10-28,Mauritius,#Global,439.0,10.0,389.0,40.0
+2020-10-28,Mexico,#Global,906863.0,90309.0,765128.0,51426.0
+2020-10-28,Moldova,#Global,73321.0,1729.0,53816.0,17776.0
+2020-10-28,Monaco,#Global,337.0,2.0,256.0,79.0
+2020-10-28,Mongolia,#Global,340.0,0.0,312.0,28.0
+2020-10-28,Montenegro,#Global,17392.0,282.0,13485.0,3625.0
+2020-10-28,Morocco,#Global,207718.0,3506.0,171591.0,32621.0
+2020-10-28,Mozambique,#Global,12415.0,91.0,9785.0,2539.0
+2020-10-28,Namibia,#Global,12806.0,133.0,10929.0,1744.0
+2020-10-28,Nepal,#Global,162354.0,887.0,121824.0,39643.0
+2020-10-28,Netherlands,#Global,319991.0,7202.0,0.0,312789.0
+2020-10-28,Netherlands (total),#Global,6317.0,63.0,5738.0,516.0
+2020-10-28,New Zealand,#Global,1949.0,25.0,1854.0,70.0
+2020-10-28,Nicaragua,#Global,5514.0,156.0,4225.0,1133.0
+2020-10-28,Niger,#Global,1218.0,69.0,1132.0,17.0
+2020-10-28,Nigeria,#Global,62371.0,1139.0,58095.0,3137.0
+2020-10-28,North Macedonia,#Global,28697.0,963.0,19771.0,7963.0
+2020-10-28,Norway,#Global,19069.0,280.0,11863.0,6926.0
+2020-10-28,Oman,#Global,114434.0,1208.0,103060.0,10166.0
+2020-10-28,Pakistan,#Global,331108.0,6775.0,312638.0,11695.0
+2020-10-28,Panama,#Global,131247.0,2663.0,107391.0,21193.0
+2020-10-28,Papua New Guinea,#Global,588.0,7.0,546.0,35.0
+2020-10-28,Paraguay,#Global,61290.0,1359.0,41288.0,18643.0
+2020-10-28,Peru,#Global,892497.0,34257.0,816688.0,41552.0
+2020-10-28,Philippines,#Global,375180.0,7114.0,329111.0,38955.0
+2020-10-28,Poland,#Global,299049.0,4849.0,123504.0,170696.0
+2020-10-28,Portugal,#Global,128392.0,2395.0,74001.0,51996.0
+2020-10-28,Qatar,#Global,131939.0,230.0,128884.0,2825.0
+2020-10-28,Romania,#Global,222559.0,6681.0,159855.0,56023.0
+2020-10-28,Russia,#Global,1553028.0,26752.0,1164915.0,361361.0
+2020-10-28,Rwanda,#Global,5129.0,35.0,4851.0,243.0
+2020-10-28,Saint Kitts and Nevis,#Global,19.0,0.0,19.0,0.0
+2020-10-28,Saint Lucia,#Global,67.0,0.0,27.0,40.0
+2020-10-28,Saint Vincent and the Grenadines,#Global,74.0,0.0,69.0,5.0
+2020-10-28,San Marino,#Global,852.0,42.0,716.0,94.0
+2020-10-28,Sao Tome and Principe,#Global,943.0,15.0,903.0,25.0
+2020-10-28,Saudi Arabia,#Global,346047.0,5348.0,332550.0,8149.0
+2020-10-28,Senegal,#Global,15582.0,322.0,14565.0,695.0
+2020-10-28,Serbia,#Global,42208.0,803.0,0.0,41405.0
+2020-10-28,Seychelles,#Global,153.0,0.0,149.0,4.0
+2020-10-28,Sierra Leone,#Global,2354.0,74.0,1792.0,488.0
+2020-10-28,Singapore,#Global,57987.0,28.0,57890.0,69.0
+2020-10-28,Slovakia,#Global,48943.0,184.0,11799.0,36960.0
+2020-10-28,Slovenia,#Global,28215.0,278.0,9667.0,18270.0
+2020-10-28,Solomon Islands,#Global,8.0,0.0,4.0,4.0
+2020-10-28,Somalia,#Global,3941.0,104.0,3185.0,652.0
+2020-10-28,South Africa,#Global,719714.0,19111.0,648654.0,51949.0
+2020-10-28,South Sudan,#Global,2890.0,56.0,1290.0,1544.0
+2020-10-28,Spain,#Global,1136503.0,35466.0,150376.0,950661.0
+2020-10-28,Sri Lanka,#Global,9205.0,19.0,4075.0,5111.0
+2020-10-28,Sudan,#Global,13765.0,837.0,6764.0,6164.0
+2020-10-28,Suriname,#Global,5192.0,111.0,5046.0,35.0
+2020-10-28,Sweden,#Global,117913.0,5927.0,0.0,111986.0
+2020-10-28,Switzerland,#Global,135658.0,2158.0,65100.0,68400.0
+2020-10-28,Syria,#Global,5580.0,278.0,1861.0,3441.0
+2020-10-28,Taiwan*,#Global,550.0,7.0,508.0,35.0
+2020-10-28,Tajikistan,#Global,10900.0,82.0,10070.0,748.0
+2020-10-28,Tanzania,#Global,509.0,21.0,183.0,305.0
+2020-10-28,Thailand,#Global,3763.0,59.0,3570.0,134.0
+2020-10-28,Timor-Leste,#Global,30.0,0.0,29.0,1.0
+2020-10-28,Togo,#Global,2238.0,54.0,1620.0,564.0
+2020-10-28,Trinidad and Tobago,#Global,5594.0,107.0,4246.0,1241.0
+2020-10-28,Tunisia,#Global,54278.0,1153.0,5032.0,48093.0
+2020-10-28,Turkey,#Global,368513.0,10027.0,319181.0,39305.0
+2020-10-28,US,#Global,8856413.0,227685.0,3518140.0,5110588.0
+2020-10-28,Uganda,#Global,11767.0,106.0,7461.0,4200.0
+2020-10-28,Ukraine,#Global,374023.0,6938.0,155028.0,212057.0
+2020-10-28,United Arab Emirates,#Global,129024.0,485.0,124647.0,3892.0
+2020-10-28,United Kingdom,#Global,942275.0,45675.0,0.0,896600.0
+2020-10-28,United Kingdom (total),#Global,3103.0,90.0,2773.0,240.0
+2020-10-28,Uruguay,#Global,2981.0,55.0,2481.0,445.0
+2020-10-28,Uzbekistan,#Global,66141.0,558.0,63323.0,2260.0
+2020-10-28,Venezuela,#Global,90876.0,784.0,85402.0,4690.0
+2020-10-28,Vietnam,#Global,1173.0,35.0,1062.0,76.0
+2020-10-28,West Bank and Gaza,#Global,51948.0,465.0,44985.0,6498.0
+2020-10-28,Western Sahara,#Global,10.0,1.0,8.0,1.0
+2020-10-28,Yemen,#Global,2061.0,599.0,1366.0,96.0
+2020-10-28,Zambia,#Global,16285.0,348.0,15559.0,378.0
+2020-10-28,Zimbabwe,#Global,8320.0,242.0,7845.0,233.0
+2020-10-28,Australian Capital Territory,Australia,114.0,3.0,110.0,1.0
+2020-10-28,New South Wales,Australia,4411.0,53.0,3147.0,1211.0
+2020-10-28,Northern Territory,Australia,37.0,0.0,33.0,4.0
+2020-10-28,Queensland,Australia,1169.0,6.0,1157.0,6.0
+2020-10-28,South Australia,Australia,495.0,4.0,479.0,12.0
+2020-10-28,Tasmania,Australia,230.0,13.0,217.0,0.0
+2020-10-28,Victoria,Australia,20344.0,819.0,19382.0,143.0
+2020-10-28,Western Australia,Australia,765.0,9.0,706.0,50.0
+2020-10-28,Anhui,China,991.0,6.0,985.0,0.0
+2020-10-28,Beijing,China,942.0,9.0,928.0,5.0
+2020-10-28,Chongqing,China,589.0,6.0,579.0,4.0
+2020-10-28,Fujian,China,432.0,1.0,410.0,21.0
+2020-10-28,Gansu,China,170.0,2.0,168.0,0.0
+2020-10-28,Guangdong,China,1914.0,8.0,1870.0,36.0
+2020-10-28,Guangxi,China,260.0,2.0,258.0,0.0
+2020-10-28,Guizhou,China,147.0,2.0,145.0,0.0
+2020-10-28,Hainan,China,171.0,6.0,165.0,0.0
+2020-10-28,Hebei,China,372.0,6.0,359.0,7.0
+2020-10-28,Heilongjiang,China,949.0,13.0,935.0,1.0
+2020-10-28,Henan,China,1284.0,22.0,1257.0,5.0
+2020-10-28,Hong Kong,China,5310.0,105.0,5063.0,142.0
+2020-10-28,Hubei,China,68139.0,4512.0,63627.0,0.0
+2020-10-28,Hunan,China,1019.0,4.0,1015.0,0.0
+2020-10-28,Inner Mongolia,China,287.0,1.0,268.0,18.0
+2020-10-28,Jiangsu,China,672.0,0.0,666.0,6.0
+2020-10-28,Jiangxi,China,935.0,1.0,934.0,0.0
+2020-10-28,Jilin,China,157.0,2.0,155.0,0.0
+2020-10-28,Liaoning,China,283.0,2.0,276.0,5.0
+2020-10-28,Macau,China,46.0,0.0,46.0,0.0
+2020-10-28,Ningxia,China,75.0,0.0,75.0,0.0
+2020-10-28,Qinghai,China,18.0,0.0,18.0,0.0
+2020-10-28,Shaanxi,China,454.0,3.0,421.0,30.0
+2020-10-28,Shandong,China,846.0,7.0,831.0,8.0
+2020-10-28,Shanghai,China,1155.0,7.0,1049.0,99.0
+2020-10-28,Shanxi,China,212.0,0.0,206.0,6.0
+2020-10-28,Sichuan,China,737.0,3.0,708.0,26.0
+2020-10-28,Tianjin,China,263.0,3.0,247.0,13.0
+2020-10-28,Tibet,China,1.0,0.0,1.0,0.0
+2020-10-28,Xinjiang,China,947.0,3.0,899.0,45.0
+2020-10-28,Yunnan,China,211.0,2.0,206.0,3.0
+2020-10-28,Zhejiang,China,1283.0,1.0,1279.0,3.0
+2020-10-28,Faroe Islands,Denmark,494.0,0.0,478.0,16.0
+2020-10-28,Greenland,Denmark,17.0,0.0,16.0,1.0
+2020-10-28,French Guiana,France,10404.0,70.0,9995.0,339.0
+2020-10-28,French Polynesia,France,7262.0,29.0,4842.0,2391.0
+2020-10-28,Guadeloupe,France,7605.0,126.0,2242.0,5237.0
+2020-10-28,Martinique,France,3552.0,30.0,98.0,3424.0
+2020-10-28,Mayotte,France,4366.0,44.0,2964.0,1358.0
+2020-10-28,New Caledonia,France,27.0,0.0,27.0,0.0
+2020-10-28,Reunion,France,5472.0,22.0,4630.0,820.0
+2020-10-28,Saint Barthelemy,France,83.0,0.0,67.0,16.0
+2020-10-28,Saint Pierre and Miquelon,France,16.0,0.0,12.0,4.0
+2020-10-28,St Martin,France,566.0,9.0,488.0,69.0
+2020-10-28,Aruba,Netherlands,4455.0,37.0,4265.0,153.0
+2020-10-28,"Bonaire, Sint Eustatius and Saba",Netherlands,150.0,3.0,126.0,21.0
+2020-10-28,Curacao,Netherlands,907.0,1.0,623.0,283.0
+2020-10-28,Sint Maarten,Netherlands,805.0,22.0,724.0,59.0
+2020-10-28,Anguilla,United Kingdom,3.0,0.0,3.0,0.0
+2020-10-28,Bermuda,United Kingdom,194.0,9.0,175.0,10.0
+2020-10-28,British Virgin Islands,United Kingdom,71.0,1.0,70.0,0.0
+2020-10-28,Cayman Islands,United Kingdom,239.0,1.0,218.0,20.0
+2020-10-28,Channel Islands,United Kingdom,833.0,48.0,710.0,75.0
+2020-10-28,Falkland Islands (Malvinas),United Kingdom,13.0,0.0,13.0,0.0
+2020-10-28,Gibraltar,United Kingdom,682.0,0.0,562.0,120.0
+2020-10-28,Isle of Man,United Kingdom,352.0,24.0,321.0,7.0
+2020-10-28,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
+2020-10-28,Turks and Caicos Islands,United Kingdom,703.0,6.0,689.0,8.0
