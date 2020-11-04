@@ -193,6 +193,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-22,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-01-22,,#Global,0.0,0.0,0.0,0.0
 2020-01-22,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-01-22,New South Wales,Australia,0.0,0.0,0.0,0.0
 2020-01-22,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -454,6 +455,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-23,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-01-23,,#Global,0.0,0.0,0.0,0.0
 2020-01-23,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-01-23,New South Wales,Australia,0.0,0.0,0.0,0.0
 2020-01-23,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -715,6 +717,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-24,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-01-24,,#Global,0.0,0.0,0.0,0.0
 2020-01-24,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-01-24,New South Wales,Australia,0.0,0.0,0.0,0.0
 2020-01-24,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -976,6 +979,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-25,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-01-25,,#Global,0.0,0.0,0.0,0.0
 2020-01-25,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-01-25,New South Wales,Australia,0.0,0.0,0.0,0.0
 2020-01-25,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -1237,6 +1241,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-26,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-01-26,,#Global,0.0,0.0,0.0,0.0
 2020-01-26,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-01-26,New South Wales,Australia,3.0,0.0,0.0,3.0
 2020-01-26,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -1498,6 +1503,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-27,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-01-27,,#Global,0.0,0.0,0.0,0.0
 2020-01-27,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-01-27,New South Wales,Australia,4.0,0.0,0.0,4.0
 2020-01-27,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -1759,6 +1765,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-28,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-01-28,,#Global,0.0,0.0,0.0,0.0
 2020-01-28,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-01-28,New South Wales,Australia,4.0,0.0,0.0,4.0
 2020-01-28,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -2020,6 +2027,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-29,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-01-29,,#Global,0.0,0.0,0.0,0.0
 2020-01-29,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-01-29,New South Wales,Australia,4.0,0.0,0.0,4.0
 2020-01-29,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -2281,6 +2289,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-30,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-01-30,,#Global,0.0,0.0,0.0,0.0
 2020-01-30,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-01-30,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-01-30,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -2542,6 +2551,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-01-31,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-01-31,,#Global,0.0,0.0,0.0,0.0
 2020-01-31,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-01-31,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-01-31,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -2803,6 +2813,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-01,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-01,,#Global,0.0,0.0,0.0,0.0
 2020-02-01,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-01,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-01,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -3064,6 +3075,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-02,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-02,,#Global,0.0,0.0,0.0,0.0
 2020-02-02,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-02,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-02,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -3325,6 +3337,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-03,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-03,,#Global,0.0,0.0,0.0,0.0
 2020-02-03,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-03,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-03,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -3586,6 +3599,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-04,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-04,,#Global,0.0,0.0,0.0,0.0
 2020-02-04,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-04,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-04,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -3847,6 +3861,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-05,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-05,,#Global,0.0,0.0,0.0,0.0
 2020-02-05,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-05,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-05,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -4108,6 +4123,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-06,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-06,,#Global,0.0,0.0,0.0,0.0
 2020-02-06,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-06,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-06,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -4369,6 +4385,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-07,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-07,,#Global,0.0,0.0,0.0,0.0
 2020-02-07,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-07,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-07,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -4630,6 +4647,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-08,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-08,,#Global,0.0,0.0,0.0,0.0
 2020-02-08,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-08,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-08,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -4891,6 +4909,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-09,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-09,,#Global,0.0,0.0,0.0,0.0
 2020-02-09,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-09,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-09,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -5152,6 +5171,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-10,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-10,,#Global,0.0,0.0,0.0,0.0
 2020-02-10,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-10,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-10,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -5413,6 +5433,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-11,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-11,,#Global,0.0,0.0,0.0,0.0
 2020-02-11,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-11,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-11,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -5674,6 +5695,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-12,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-12,,#Global,0.0,0.0,0.0,0.0
 2020-02-12,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-12,New South Wales,Australia,4.0,0.0,2.0,2.0
 2020-02-12,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -5935,6 +5957,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-13,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-13,,#Global,0.0,0.0,0.0,0.0
 2020-02-13,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-13,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-13,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -6196,6 +6219,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-14,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-14,,#Global,0.0,0.0,0.0,0.0
 2020-02-14,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-14,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-14,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -6457,6 +6481,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-15,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-15,,#Global,0.0,0.0,0.0,0.0
 2020-02-15,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-15,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-15,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -6718,6 +6743,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-16,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-16,,#Global,0.0,0.0,0.0,0.0
 2020-02-16,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-16,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-16,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -6979,6 +7005,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-17,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-17,,#Global,0.0,0.0,0.0,0.0
 2020-02-17,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-17,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-17,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -7240,6 +7267,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-18,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-18,,#Global,0.0,0.0,0.0,0.0
 2020-02-18,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-18,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-18,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -7501,6 +7529,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-19,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-19,,#Global,0.0,0.0,0.0,0.0
 2020-02-19,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-19,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-19,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -7762,6 +7791,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-20,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-20,,#Global,0.0,0.0,0.0,0.0
 2020-02-20,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-20,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-20,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -8023,6 +8053,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-21,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-21,,#Global,0.0,0.0,0.0,0.0
 2020-02-21,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-21,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-21,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -8284,6 +8315,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-22,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-22,,#Global,0.0,0.0,0.0,0.0
 2020-02-22,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-22,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-22,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -8545,6 +8577,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-23,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-23,,#Global,0.0,0.0,0.0,0.0
 2020-02-23,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-23,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-23,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -8806,6 +8839,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-24,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-24,,#Global,0.0,0.0,0.0,0.0
 2020-02-24,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-24,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-24,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -9067,6 +9101,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-25,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-25,,#Global,0.0,0.0,0.0,0.0
 2020-02-25,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-25,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-25,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -9328,6 +9363,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-26,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-26,,#Global,0.0,0.0,0.0,0.0
 2020-02-26,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-26,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-26,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -9589,6 +9625,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-27,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-27,,#Global,0.0,0.0,0.0,0.0
 2020-02-27,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-27,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-27,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -9850,6 +9887,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-28,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-28,,#Global,0.0,0.0,0.0,0.0
 2020-02-28,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-28,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-28,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -10111,6 +10149,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-02-29,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-02-29,,#Global,0.0,0.0,0.0,0.0
 2020-02-29,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-02-29,New South Wales,Australia,4.0,0.0,4.0,0.0
 2020-02-29,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -10372,6 +10411,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-01,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-01,,#Global,0.0,0.0,0.0,0.0
 2020-03-01,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-01,New South Wales,Australia,6.0,0.0,4.0,2.0
 2020-03-01,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -10633,6 +10673,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-02,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-02,,#Global,0.0,0.0,0.0,0.0
 2020-03-02,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-02,New South Wales,Australia,6.0,0.0,4.0,2.0
 2020-03-02,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -10894,6 +10935,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-03,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-03,,#Global,0.0,0.0,0.0,0.0
 2020-03-03,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-03,New South Wales,Australia,13.0,0.0,4.0,9.0
 2020-03-03,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -11155,6 +11197,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-04,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-04,,#Global,0.0,0.0,0.0,0.0
 2020-03-04,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-04,New South Wales,Australia,22.0,1.0,4.0,17.0
 2020-03-04,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -11416,6 +11459,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-05,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-05,,#Global,0.0,0.0,0.0,0.0
 2020-03-05,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-05,New South Wales,Australia,22.0,1.0,4.0,17.0
 2020-03-05,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -11677,6 +11721,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-06,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-06,,#Global,0.0,0.0,0.0,0.0
 2020-03-06,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-06,New South Wales,Australia,26.0,1.0,4.0,21.0
 2020-03-06,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -11938,6 +11983,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-07,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-07,,#Global,0.0,0.0,0.0,0.0
 2020-03-07,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-07,New South Wales,Australia,28.0,1.0,4.0,23.0
 2020-03-07,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -12199,6 +12245,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-08,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-08,,#Global,0.0,0.0,0.0,0.0
 2020-03-08,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-08,New South Wales,Australia,38.0,2.0,4.0,32.0
 2020-03-08,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -12460,6 +12507,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-09,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-09,,#Global,0.0,0.0,0.0,0.0
 2020-03-09,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-09,New South Wales,Australia,48.0,2.0,4.0,42.0
 2020-03-09,Northern Territory,Australia,0.0,0.0,0.0,0.0
@@ -12721,6 +12769,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-10,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-10,,#Global,0.0,0.0,0.0,0.0
 2020-03-10,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-10,New South Wales,Australia,55.0,2.0,4.0,49.0
 2020-03-10,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -12982,6 +13031,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-11,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-11,,#Global,0.0,0.0,0.0,0.0
 2020-03-11,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-11,New South Wales,Australia,65.0,2.0,4.0,59.0
 2020-03-11,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -13243,6 +13293,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-12,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-12,,#Global,0.0,0.0,0.0,0.0
 2020-03-12,Australian Capital Territory,Australia,0.0,0.0,0.0,0.0
 2020-03-12,New South Wales,Australia,65.0,2.0,4.0,59.0
 2020-03-12,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -13504,6 +13555,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-13,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-13,,#Global,0.0,0.0,0.0,0.0
 2020-03-13,Australian Capital Territory,Australia,1.0,0.0,0.0,1.0
 2020-03-13,New South Wales,Australia,92.0,2.0,4.0,86.0
 2020-03-13,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -13765,6 +13817,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-14,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-14,,#Global,0.0,0.0,0.0,0.0
 2020-03-14,Australian Capital Territory,Australia,1.0,0.0,0.0,1.0
 2020-03-14,New South Wales,Australia,112.0,2.0,4.0,106.0
 2020-03-14,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -14026,6 +14079,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-15,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-15,,#Global,0.0,0.0,0.0,0.0
 2020-03-15,Australian Capital Territory,Australia,1.0,0.0,0.0,1.0
 2020-03-15,New South Wales,Australia,134.0,2.0,4.0,128.0
 2020-03-15,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -14287,6 +14341,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-16,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-16,,#Global,0.0,0.0,0.0,0.0
 2020-03-16,Australian Capital Territory,Australia,2.0,0.0,0.0,2.0
 2020-03-16,New South Wales,Australia,171.0,2.0,4.0,165.0
 2020-03-16,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -14548,6 +14603,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-17,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Zambia,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-17,,#Global,0.0,0.0,0.0,0.0
 2020-03-17,Australian Capital Territory,Australia,2.0,0.0,0.0,2.0
 2020-03-17,New South Wales,Australia,210.0,4.0,4.0,202.0
 2020-03-17,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -14809,6 +14865,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-18,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Zambia,#Global,2.0,0.0,0.0,2.0
 2020-03-18,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-18,,#Global,0.0,0.0,0.0,0.0
 2020-03-18,Australian Capital Territory,Australia,3.0,0.0,0.0,3.0
 2020-03-18,New South Wales,Australia,267.0,5.0,4.0,258.0
 2020-03-18,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -15070,6 +15127,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-19,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Zambia,#Global,2.0,0.0,0.0,2.0
 2020-03-19,Zimbabwe,#Global,0.0,0.0,0.0,0.0
+2020-03-19,,#Global,0.0,0.0,0.0,0.0
 2020-03-19,Australian Capital Territory,Australia,4.0,0.0,0.0,4.0
 2020-03-19,New South Wales,Australia,307.0,5.0,4.0,298.0
 2020-03-19,Northern Territory,Australia,1.0,0.0,0.0,1.0
@@ -15331,6 +15389,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-20,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Zambia,#Global,2.0,0.0,0.0,2.0
 2020-03-20,Zimbabwe,#Global,1.0,0.0,0.0,1.0
+2020-03-20,,#Global,0.0,0.0,0.0,0.0
 2020-03-20,Australian Capital Territory,Australia,6.0,0.0,0.0,6.0
 2020-03-20,New South Wales,Australia,353.0,6.0,4.0,343.0
 2020-03-20,Northern Territory,Australia,3.0,0.0,0.0,3.0
@@ -15592,6 +15651,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-21,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-21,Zambia,#Global,2.0,0.0,0.0,2.0
 2020-03-21,Zimbabwe,#Global,3.0,0.0,0.0,3.0
+2020-03-21,,#Global,0.0,0.0,0.0,0.0
 2020-03-21,Australian Capital Territory,Australia,9.0,0.0,0.0,9.0
 2020-03-21,New South Wales,Australia,436.0,6.0,4.0,426.0
 2020-03-21,Northern Territory,Australia,3.0,0.0,0.0,3.0
@@ -15853,6 +15913,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-22,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-22,Zambia,#Global,3.0,0.0,0.0,3.0
 2020-03-22,Zimbabwe,#Global,3.0,0.0,0.0,3.0
+2020-03-22,,#Global,0.0,0.0,0.0,0.0
 2020-03-22,Australian Capital Territory,Australia,19.0,0.0,0.0,19.0
 2020-03-22,New South Wales,Australia,669.0,6.0,4.0,659.0
 2020-03-22,Northern Territory,Australia,5.0,0.0,0.0,5.0
@@ -16114,6 +16175,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-23,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-23,Zambia,#Global,3.0,0.0,0.0,3.0
 2020-03-23,Zimbabwe,#Global,3.0,1.0,0.0,2.0
+2020-03-23,,#Global,0.0,0.0,0.0,0.0
 2020-03-23,Australian Capital Territory,Australia,32.0,0.0,0.0,32.0
 2020-03-23,New South Wales,Australia,669.0,6.0,4.0,659.0
 2020-03-23,Northern Territory,Australia,5.0,0.0,0.0,5.0
@@ -16375,6 +16437,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-24,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-24,Zambia,#Global,3.0,0.0,0.0,3.0
 2020-03-24,Zimbabwe,#Global,3.0,1.0,0.0,2.0
+2020-03-24,,#Global,0.0,0.0,0.0,0.0
 2020-03-24,Australian Capital Territory,Australia,39.0,0.0,0.0,39.0
 2020-03-24,New South Wales,Australia,818.0,7.0,4.0,807.0
 2020-03-24,Northern Territory,Australia,6.0,0.0,0.0,6.0
@@ -16636,6 +16699,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-25,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-25,Zambia,#Global,12.0,0.0,0.0,12.0
 2020-03-25,Zimbabwe,#Global,3.0,1.0,0.0,2.0
+2020-03-25,,#Global,0.0,0.0,0.0,0.0
 2020-03-25,Australian Capital Territory,Australia,39.0,0.0,0.0,39.0
 2020-03-25,New South Wales,Australia,1029.0,7.0,4.0,1018.0
 2020-03-25,Northern Territory,Australia,6.0,0.0,0.0,6.0
@@ -16897,6 +16961,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-26,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-26,Zambia,#Global,16.0,0.0,0.0,16.0
 2020-03-26,Zimbabwe,#Global,3.0,1.0,0.0,2.0
+2020-03-26,,#Global,0.0,0.0,0.0,0.0
 2020-03-26,Australian Capital Territory,Australia,53.0,0.0,1.0,52.0
 2020-03-26,New South Wales,Australia,1219.0,7.0,4.0,1208.0
 2020-03-26,Northern Territory,Australia,12.0,0.0,0.0,12.0
@@ -17158,6 +17223,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-27,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-27,Zambia,#Global,22.0,0.0,0.0,22.0
 2020-03-27,Zimbabwe,#Global,5.0,1.0,0.0,4.0
+2020-03-27,,#Global,0.0,0.0,0.0,0.0
 2020-03-27,Australian Capital Territory,Australia,62.0,0.0,1.0,61.0
 2020-03-27,New South Wales,Australia,1405.0,7.0,4.0,1394.0
 2020-03-27,Northern Territory,Australia,12.0,0.0,0.0,12.0
@@ -17419,6 +17485,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-28,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-28,Zambia,#Global,28.0,0.0,0.0,28.0
 2020-03-28,Zimbabwe,#Global,7.0,1.0,0.0,6.0
+2020-03-28,,#Global,0.0,0.0,0.0,0.0
 2020-03-28,Australian Capital Territory,Australia,71.0,0.0,2.0,69.0
 2020-03-28,New South Wales,Australia,1617.0,8.0,4.0,1605.0
 2020-03-28,Northern Territory,Australia,15.0,0.0,0.0,15.0
@@ -17680,6 +17747,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-29,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-29,Zambia,#Global,29.0,0.0,0.0,29.0
 2020-03-29,Zimbabwe,#Global,7.0,1.0,0.0,6.0
+2020-03-29,,#Global,0.0,0.0,0.0,0.0
 2020-03-29,Australian Capital Territory,Australia,77.0,0.0,2.0,75.0
 2020-03-29,New South Wales,Australia,1791.0,8.0,4.0,1779.0
 2020-03-29,Northern Territory,Australia,15.0,0.0,0.0,15.0
@@ -17941,6 +18009,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-30,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-30,Zambia,#Global,35.0,0.0,0.0,35.0
 2020-03-30,Zimbabwe,#Global,7.0,1.0,0.0,6.0
+2020-03-30,,#Global,0.0,0.0,0.0,0.0
 2020-03-30,Australian Capital Territory,Australia,78.0,1.0,2.0,75.0
 2020-03-30,New South Wales,Australia,2032.0,8.0,4.0,2020.0
 2020-03-30,Northern Territory,Australia,15.0,0.0,0.0,15.0
@@ -18202,6 +18271,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-03-31,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-03-31,Zambia,#Global,35.0,0.0,0.0,35.0
 2020-03-31,Zimbabwe,#Global,8.0,1.0,0.0,7.0
+2020-03-31,,#Global,0.0,0.0,0.0,0.0
 2020-03-31,Australian Capital Territory,Australia,80.0,1.0,3.0,76.0
 2020-03-31,New South Wales,Australia,2032.0,8.0,4.0,2020.0
 2020-03-31,Northern Territory,Australia,17.0,0.0,0.0,17.0
@@ -18463,6 +18533,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-01,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-04-01,Zambia,#Global,36.0,0.0,0.0,36.0
 2020-04-01,Zimbabwe,#Global,8.0,1.0,0.0,7.0
+2020-04-01,,#Global,0.0,0.0,0.0,0.0
 2020-04-01,Australian Capital Territory,Australia,84.0,1.0,8.0,75.0
 2020-04-01,New South Wales,Australia,2182.0,9.0,4.0,2169.0
 2020-04-01,Northern Territory,Australia,19.0,0.0,0.0,19.0
@@ -18724,6 +18795,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-02,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-04-02,Zambia,#Global,39.0,1.0,0.0,38.0
 2020-04-02,Zimbabwe,#Global,9.0,1.0,0.0,8.0
+2020-04-02,,#Global,0.0,0.0,0.0,0.0
 2020-04-02,Australian Capital Territory,Australia,87.0,1.0,11.0,75.0
 2020-04-02,New South Wales,Australia,2298.0,10.0,4.0,2284.0
 2020-04-02,Northern Territory,Australia,21.0,0.0,0.0,21.0
@@ -18985,6 +19057,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-03,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-04-03,Zambia,#Global,39.0,1.0,2.0,36.0
 2020-04-03,Zimbabwe,#Global,9.0,1.0,0.0,8.0
+2020-04-03,,#Global,0.0,0.0,0.0,0.0
 2020-04-03,Australian Capital Territory,Australia,91.0,1.0,18.0,72.0
 2020-04-03,New South Wales,Australia,2389.0,12.0,4.0,2373.0
 2020-04-03,Northern Territory,Australia,22.0,0.0,0.0,22.0
@@ -19246,6 +19319,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-04,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-04-04,Zambia,#Global,39.0,1.0,2.0,36.0
 2020-04-04,Zimbabwe,#Global,9.0,1.0,0.0,8.0
+2020-04-04,,#Global,0.0,0.0,0.0,0.0
 2020-04-04,Australian Capital Territory,Australia,93.0,2.0,18.0,73.0
 2020-04-04,New South Wales,Australia,2493.0,12.0,4.0,2477.0
 2020-04-04,Northern Territory,Australia,26.0,0.0,1.0,25.0
@@ -19507,6 +19581,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-05,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-04-05,Zambia,#Global,39.0,1.0,3.0,35.0
 2020-04-05,Zimbabwe,#Global,9.0,1.0,0.0,8.0
+2020-04-05,,#Global,0.0,0.0,0.0,0.0
 2020-04-05,Australian Capital Territory,Australia,96.0,2.0,28.0,66.0
 2020-04-05,New South Wales,Australia,2580.0,16.0,4.0,2560.0
 2020-04-05,Northern Territory,Australia,27.0,0.0,1.0,26.0
@@ -19768,6 +19843,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-06,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-04-06,Zambia,#Global,39.0,1.0,5.0,33.0
 2020-04-06,Zimbabwe,#Global,10.0,1.0,0.0,9.0
+2020-04-06,,#Global,0.0,0.0,0.0,0.0
 2020-04-06,Australian Capital Territory,Australia,96.0,2.0,40.0,54.0
 2020-04-06,New South Wales,Australia,2637.0,18.0,4.0,2615.0
 2020-04-06,Northern Territory,Australia,28.0,0.0,2.0,26.0
@@ -20029,6 +20105,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-07,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-04-07,Zambia,#Global,39.0,1.0,7.0,31.0
 2020-04-07,Zimbabwe,#Global,11.0,2.0,0.0,9.0
+2020-04-07,,#Global,0.0,0.0,0.0,0.0
 2020-04-07,Australian Capital Territory,Australia,96.0,2.0,40.0,54.0
 2020-04-07,New South Wales,Australia,2686.0,21.0,4.0,2661.0
 2020-04-07,Northern Territory,Australia,28.0,0.0,2.0,26.0
@@ -20290,6 +20367,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-08,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-04-08,Zambia,#Global,39.0,1.0,7.0,31.0
 2020-04-08,Zimbabwe,#Global,11.0,3.0,0.0,8.0
+2020-04-08,,#Global,0.0,0.0,0.0,0.0
 2020-04-08,Australian Capital Territory,Australia,99.0,2.0,40.0,57.0
 2020-04-08,New South Wales,Australia,2734.0,21.0,4.0,2709.0
 2020-04-08,Northern Territory,Australia,28.0,0.0,2.0,26.0
@@ -20551,6 +20629,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-09,Yemen,#Global,0.0,0.0,0.0,0.0
 2020-04-09,Zambia,#Global,39.0,1.0,24.0,14.0
 2020-04-09,Zimbabwe,#Global,11.0,3.0,0.0,8.0
+2020-04-09,,#Global,0.0,0.0,0.0,0.0
 2020-04-09,Australian Capital Territory,Australia,100.0,2.0,47.0,51.0
 2020-04-09,New South Wales,Australia,2773.0,21.0,4.0,2748.0
 2020-04-09,Northern Territory,Australia,28.0,0.0,2.0,26.0
@@ -20812,6 +20891,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-10,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-10,Zambia,#Global,40.0,2.0,25.0,13.0
 2020-04-10,Zimbabwe,#Global,13.0,3.0,0.0,10.0
+2020-04-10,,#Global,0.0,0.0,0.0,0.0
 2020-04-10,Australian Capital Territory,Australia,103.0,2.0,59.0,42.0
 2020-04-10,New South Wales,Australia,2822.0,22.0,4.0,2796.0
 2020-04-10,Northern Territory,Australia,28.0,0.0,2.0,26.0
@@ -21073,6 +21153,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-11,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-11,Zambia,#Global,40.0,2.0,28.0,10.0
 2020-04-11,Zimbabwe,#Global,14.0,3.0,0.0,11.0
+2020-04-11,,#Global,0.0,0.0,0.0,0.0
 2020-04-11,Australian Capital Territory,Australia,103.0,2.0,59.0,42.0
 2020-04-11,New South Wales,Australia,2857.0,23.0,4.0,2830.0
 2020-04-11,Northern Territory,Australia,28.0,0.0,2.0,26.0
@@ -21334,6 +21415,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-12,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-12,Zambia,#Global,43.0,2.0,30.0,11.0
 2020-04-12,Zimbabwe,#Global,14.0,3.0,0.0,11.0
+2020-04-12,,#Global,0.0,0.0,0.0,0.0
 2020-04-12,Australian Capital Territory,Australia,103.0,2.0,59.0,42.0
 2020-04-12,New South Wales,Australia,2857.0,24.0,4.0,2829.0
 2020-04-12,Northern Territory,Australia,28.0,0.0,2.0,26.0
@@ -21595,6 +21677,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-13,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-13,Zambia,#Global,45.0,2.0,30.0,13.0
 2020-04-13,Zimbabwe,#Global,17.0,3.0,0.0,14.0
+2020-04-13,,#Global,0.0,0.0,0.0,0.0
 2020-04-13,Australian Capital Territory,Australia,102.0,2.0,59.0,41.0
 2020-04-13,New South Wales,Australia,2863.0,25.0,4.0,2834.0
 2020-04-13,Northern Territory,Australia,28.0,0.0,2.0,26.0
@@ -21856,6 +21939,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-14,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-14,Zambia,#Global,45.0,2.0,30.0,13.0
 2020-04-14,Zimbabwe,#Global,17.0,3.0,0.0,14.0
+2020-04-14,,#Global,0.0,0.0,0.0,0.0
 2020-04-14,Australian Capital Territory,Australia,103.0,2.0,72.0,29.0
 2020-04-14,New South Wales,Australia,2870.0,25.0,4.0,2841.0
 2020-04-14,Northern Territory,Australia,28.0,0.0,6.0,22.0
@@ -22117,6 +22201,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-15,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-15,Zambia,#Global,48.0,2.0,30.0,16.0
 2020-04-15,Zimbabwe,#Global,23.0,3.0,1.0,19.0
+2020-04-15,,#Global,0.0,0.0,0.0,0.0
 2020-04-15,Australian Capital Territory,Australia,103.0,3.0,72.0,28.0
 2020-04-15,New South Wales,Australia,2886.0,25.0,4.0,2857.0
 2020-04-15,Northern Territory,Australia,28.0,0.0,6.0,22.0
@@ -22378,6 +22463,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-16,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-16,Zambia,#Global,48.0,2.0,30.0,16.0
 2020-04-16,Zimbabwe,#Global,23.0,3.0,1.0,19.0
+2020-04-16,,#Global,0.0,0.0,0.0,0.0
 2020-04-16,Australian Capital Territory,Australia,103.0,3.0,82.0,18.0
 2020-04-16,New South Wales,Australia,2897.0,25.0,4.0,2868.0
 2020-04-16,Northern Territory,Australia,28.0,0.0,6.0,22.0
@@ -22639,6 +22725,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-17,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-17,Zambia,#Global,52.0,2.0,30.0,20.0
 2020-04-17,Zimbabwe,#Global,24.0,3.0,2.0,19.0
+2020-04-17,,#Global,0.0,0.0,0.0,0.0
 2020-04-17,Australian Capital Territory,Australia,103.0,3.0,81.0,19.0
 2020-04-17,New South Wales,Australia,2926.0,26.0,1379.0,1521.0
 2020-04-17,Northern Territory,Australia,28.0,0.0,9.0,19.0
@@ -22900,6 +22987,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-18,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-18,Zambia,#Global,57.0,2.0,33.0,22.0
 2020-04-18,Zimbabwe,#Global,25.0,3.0,2.0,20.0
+2020-04-18,,#Global,0.0,0.0,0.0,0.0
 2020-04-18,Australian Capital Territory,Australia,103.0,3.0,88.0,12.0
 2020-04-18,New South Wales,Australia,2936.0,26.0,1379.0,1531.0
 2020-04-18,Northern Territory,Australia,28.0,0.0,9.0,19.0
@@ -23161,6 +23249,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-19,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-19,Zambia,#Global,61.0,3.0,33.0,25.0
 2020-04-19,Zimbabwe,#Global,25.0,3.0,2.0,20.0
+2020-04-19,,#Global,0.0,0.0,0.0,0.0
 2020-04-19,Australian Capital Territory,Australia,103.0,3.0,88.0,12.0
 2020-04-19,New South Wales,Australia,2957.0,26.0,1379.0,1552.0
 2020-04-19,Northern Territory,Australia,28.0,0.0,9.0,19.0
@@ -23422,6 +23511,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-20,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-20,Zambia,#Global,65.0,3.0,35.0,27.0
 2020-04-20,Zimbabwe,#Global,25.0,3.0,2.0,20.0
+2020-04-20,,#Global,0.0,0.0,0.0,0.0
 2020-04-20,Australian Capital Territory,Australia,104.0,3.0,91.0,10.0
 2020-04-20,New South Wales,Australia,2963.0,26.0,1379.0,1558.0
 2020-04-20,Northern Territory,Australia,28.0,0.0,12.0,16.0
@@ -23683,6 +23773,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-21,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-21,Zambia,#Global,70.0,3.0,35.0,32.0
 2020-04-21,Zimbabwe,#Global,28.0,3.0,2.0,23.0
+2020-04-21,,#Global,0.0,0.0,0.0,0.0
 2020-04-21,Australian Capital Territory,Australia,104.0,3.0,92.0,9.0
 2020-04-21,New South Wales,Australia,2969.0,26.0,1755.0,1188.0
 2020-04-21,Northern Territory,Australia,28.0,0.0,15.0,13.0
@@ -23944,6 +24035,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-22,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-22,Zambia,#Global,74.0,3.0,35.0,36.0
 2020-04-22,Zimbabwe,#Global,28.0,4.0,2.0,22.0
+2020-04-22,,#Global,0.0,0.0,0.0,0.0
 2020-04-22,Australian Capital Territory,Australia,104.0,3.0,93.0,8.0
 2020-04-22,New South Wales,Australia,2971.0,26.0,1926.0,1019.0
 2020-04-22,Northern Territory,Australia,28.0,0.0,16.0,12.0
@@ -24205,6 +24297,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-23,Yemen,#Global,1.0,0.0,0.0,1.0
 2020-04-23,Zambia,#Global,76.0,3.0,37.0,36.0
 2020-04-23,Zimbabwe,#Global,28.0,4.0,2.0,22.0
+2020-04-23,,#Global,0.0,0.0,0.0,0.0
 2020-04-23,Australian Capital Territory,Australia,104.0,3.0,93.0,8.0
 2020-04-23,New South Wales,Australia,2976.0,31.0,2006.0,939.0
 2020-04-23,Northern Territory,Australia,28.0,0.0,16.0,12.0
@@ -24466,6 +24559,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-24,Yemen,#Global,1.0,0.0,1.0,0.0
 2020-04-24,Zambia,#Global,84.0,3.0,37.0,44.0
 2020-04-24,Zimbabwe,#Global,29.0,4.0,2.0,23.0
+2020-04-24,,#Global,0.0,0.0,0.0,0.0
 2020-04-24,Australian Capital Territory,Australia,105.0,3.0,97.0,5.0
 2020-04-24,New South Wales,Australia,2982.0,33.0,2056.0,893.0
 2020-04-24,Northern Territory,Australia,28.0,0.0,20.0,8.0
@@ -24727,6 +24821,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-25,Yemen,#Global,1.0,0.0,1.0,0.0
 2020-04-25,Zambia,#Global,84.0,3.0,37.0,44.0
 2020-04-25,Zimbabwe,#Global,31.0,4.0,2.0,25.0
+2020-04-25,,#Global,0.0,0.0,0.0,0.0
 2020-04-25,Australian Capital Territory,Australia,106.0,3.0,98.0,5.0
 2020-04-25,New South Wales,Australia,2994.0,33.0,2193.0,768.0
 2020-04-25,Northern Territory,Australia,28.0,0.0,23.0,5.0
@@ -24988,6 +25083,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-26,Yemen,#Global,1.0,0.0,1.0,0.0
 2020-04-26,Zambia,#Global,88.0,3.0,42.0,43.0
 2020-04-26,Zimbabwe,#Global,31.0,4.0,2.0,25.0
+2020-04-26,,#Global,0.0,0.0,0.0,0.0
 2020-04-26,Australian Capital Territory,Australia,106.0,3.0,99.0,4.0
 2020-04-26,New South Wales,Australia,3002.0,34.0,2208.0,760.0
 2020-04-26,Northern Territory,Australia,28.0,0.0,23.0,5.0
@@ -25249,6 +25345,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-27,Yemen,#Global,1.0,0.0,1.0,0.0
 2020-04-27,Zambia,#Global,88.0,3.0,42.0,43.0
 2020-04-27,Zimbabwe,#Global,32.0,4.0,5.0,23.0
+2020-04-27,,#Global,0.0,0.0,0.0,0.0
 2020-04-27,Australian Capital Territory,Australia,106.0,3.0,100.0,3.0
 2020-04-27,New South Wales,Australia,3004.0,34.0,2227.0,743.0
 2020-04-27,Northern Territory,Australia,28.0,0.0,23.0,5.0
@@ -25510,6 +25607,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-28,Yemen,#Global,1.0,0.0,1.0,0.0
 2020-04-28,Zambia,#Global,95.0,3.0,42.0,50.0
 2020-04-28,Zimbabwe,#Global,32.0,4.0,5.0,23.0
+2020-04-28,,#Global,0.0,0.0,0.0,0.0
 2020-04-28,Australian Capital Territory,Australia,106.0,3.0,101.0,2.0
 2020-04-28,New South Wales,Australia,3016.0,39.0,2266.0,711.0
 2020-04-28,Northern Territory,Australia,28.0,0.0,25.0,3.0
@@ -25771,6 +25869,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-29,Yemen,#Global,6.0,0.0,1.0,5.0
 2020-04-29,Zambia,#Global,97.0,3.0,54.0,40.0
 2020-04-29,Zimbabwe,#Global,32.0,4.0,5.0,23.0
+2020-04-29,,#Global,0.0,0.0,0.0,0.0
 2020-04-29,Australian Capital Territory,Australia,106.0,3.0,101.0,2.0
 2020-04-29,New South Wales,Australia,3016.0,40.0,2284.0,692.0
 2020-04-29,Northern Territory,Australia,28.0,0.0,25.0,3.0
@@ -26032,6 +26131,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-04-30,Yemen,#Global,6.0,2.0,1.0,3.0
 2020-04-30,Zambia,#Global,106.0,3.0,55.0,48.0
 2020-04-30,Zimbabwe,#Global,40.0,4.0,5.0,31.0
+2020-04-30,,#Global,0.0,0.0,0.0,0.0
 2020-04-30,Australian Capital Territory,Australia,106.0,3.0,103.0,0.0
 2020-04-30,New South Wales,Australia,3025.0,41.0,2293.0,691.0
 2020-04-30,Northern Territory,Australia,28.0,0.0,25.0,3.0
@@ -26293,6 +26393,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-01,Yemen,#Global,7.0,2.0,1.0,4.0
 2020-05-01,Zambia,#Global,109.0,3.0,74.0,32.0
 2020-05-01,Zimbabwe,#Global,40.0,4.0,5.0,31.0
+2020-05-01,,#Global,0.0,0.0,0.0,0.0
 2020-05-01,Australian Capital Territory,Australia,106.0,3.0,103.0,0.0
 2020-05-01,New South Wales,Australia,3030.0,41.0,2293.0,696.0
 2020-05-01,Northern Territory,Australia,27.0,0.0,24.0,3.0
@@ -26554,6 +26655,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-02,Yemen,#Global,10.0,2.0,1.0,7.0
 2020-05-02,Zambia,#Global,119.0,3.0,75.0,41.0
 2020-05-02,Zimbabwe,#Global,34.0,4.0,5.0,25.0
+2020-05-02,,#Global,0.0,0.0,0.0,0.0
 2020-05-02,Australian Capital Territory,Australia,106.0,3.0,103.0,0.0
 2020-05-02,New South Wales,Australia,3035.0,42.0,2306.0,687.0
 2020-05-02,Northern Territory,Australia,29.0,0.0,24.0,5.0
@@ -26815,6 +26917,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-03,Yemen,#Global,10.0,2.0,1.0,7.0
 2020-05-03,Zambia,#Global,124.0,3.0,78.0,43.0
 2020-05-03,Zimbabwe,#Global,34.0,4.0,5.0,25.0
+2020-05-03,,#Global,0.0,0.0,0.0,0.0
 2020-05-03,Australian Capital Territory,Australia,106.0,3.0,103.0,0.0
 2020-05-03,New South Wales,Australia,3033.0,42.0,2328.0,663.0
 2020-05-03,Northern Territory,Australia,29.0,0.0,24.0,5.0
@@ -27076,6 +27179,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-04,Yemen,#Global,12.0,2.0,1.0,9.0
 2020-05-04,Zambia,#Global,137.0,3.0,78.0,56.0
 2020-05-04,Zimbabwe,#Global,34.0,4.0,5.0,25.0
+2020-05-04,,#Global,0.0,0.0,0.0,0.0
 2020-05-04,Australian Capital Territory,Australia,107.0,3.0,103.0,1.0
 2020-05-04,New South Wales,Australia,3035.0,43.0,2349.0,643.0
 2020-05-04,Northern Territory,Australia,29.0,0.0,24.0,5.0
@@ -27337,6 +27441,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-05,Yemen,#Global,22.0,4.0,1.0,17.0
 2020-05-05,Zambia,#Global,138.0,3.0,92.0,43.0
 2020-05-05,Zimbabwe,#Global,34.0,4.0,5.0,25.0
+2020-05-05,,#Global,0.0,0.0,0.0,0.0
 2020-05-05,Australian Capital Territory,Australia,107.0,3.0,103.0,1.0
 2020-05-05,New South Wales,Australia,3042.0,44.0,2418.0,580.0
 2020-05-05,Northern Territory,Australia,29.0,0.0,26.0,3.0
@@ -27598,6 +27703,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-06,Yemen,#Global,25.0,5.0,1.0,19.0
 2020-05-06,Zambia,#Global,146.0,4.0,101.0,41.0
 2020-05-06,Zimbabwe,#Global,34.0,4.0,5.0,25.0
+2020-05-06,,#Global,0.0,0.0,0.0,0.0
 2020-05-06,Australian Capital Territory,Australia,107.0,3.0,103.0,1.0
 2020-05-06,New South Wales,Australia,3044.0,44.0,2463.0,537.0
 2020-05-06,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -27859,6 +27965,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-07,Yemen,#Global,25.0,5.0,1.0,19.0
 2020-05-07,Zambia,#Global,153.0,4.0,103.0,46.0
 2020-05-07,Zimbabwe,#Global,34.0,4.0,5.0,25.0
+2020-05-07,,#Global,0.0,0.0,0.0,0.0
 2020-05-07,Australian Capital Territory,Australia,107.0,3.0,103.0,1.0
 2020-05-07,New South Wales,Australia,3047.0,44.0,2486.0,517.0
 2020-05-07,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -28120,6 +28227,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-08,Yemen,#Global,34.0,7.0,1.0,26.0
 2020-05-08,Zambia,#Global,167.0,4.0,111.0,52.0
 2020-05-08,Zimbabwe,#Global,34.0,4.0,9.0,21.0
+2020-05-08,,#Global,0.0,0.0,0.0,0.0
 2020-05-08,Australian Capital Territory,Australia,107.0,3.0,103.0,1.0
 2020-05-08,New South Wales,Australia,3051.0,44.0,2504.0,503.0
 2020-05-08,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -28381,6 +28489,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-09,Yemen,#Global,34.0,7.0,1.0,26.0
 2020-05-09,Zambia,#Global,252.0,7.0,112.0,133.0
 2020-05-09,Zimbabwe,#Global,35.0,4.0,9.0,22.0
+2020-05-09,,#Global,0.0,0.0,0.0,0.0
 2020-05-09,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-09,New South Wales,Australia,3053.0,44.0,2504.0,505.0
 2020-05-09,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -28642,6 +28751,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-10,Yemen,#Global,51.0,8.0,1.0,42.0
 2020-05-10,Zambia,#Global,267.0,7.0,117.0,143.0
 2020-05-10,Zimbabwe,#Global,36.0,4.0,9.0,23.0
+2020-05-10,,#Global,0.0,0.0,0.0,0.0
 2020-05-10,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-10,New South Wales,Australia,3053.0,44.0,2517.0,492.0
 2020-05-10,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -28903,6 +29013,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-11,Yemen,#Global,56.0,9.0,1.0,46.0
 2020-05-11,Zambia,#Global,267.0,7.0,117.0,143.0
 2020-05-11,Zimbabwe,#Global,36.0,4.0,9.0,23.0
+2020-05-11,,#Global,0.0,0.0,0.0,0.0
 2020-05-11,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-11,New South Wales,Australia,3053.0,44.0,2543.0,466.0
 2020-05-11,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -29164,6 +29275,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-12,Yemen,#Global,65.0,10.0,1.0,54.0
 2020-05-12,Zambia,#Global,441.0,7.0,117.0,317.0
 2020-05-12,Zimbabwe,#Global,36.0,4.0,9.0,23.0
+2020-05-12,,#Global,0.0,0.0,0.0,0.0
 2020-05-12,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-12,New South Wales,Australia,3059.0,45.0,2571.0,443.0
 2020-05-12,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -29425,6 +29537,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-13,Yemen,#Global,70.0,12.0,1.0,57.0
 2020-05-13,Zambia,#Global,446.0,7.0,124.0,315.0
 2020-05-13,Zimbabwe,#Global,37.0,4.0,12.0,21.0
+2020-05-13,,#Global,0.0,0.0,0.0,0.0
 2020-05-13,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-13,New South Wales,Australia,3063.0,45.0,2595.0,423.0
 2020-05-13,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -29686,6 +29799,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-14,Yemen,#Global,85.0,12.0,1.0,72.0
 2020-05-14,Zambia,#Global,654.0,7.0,124.0,523.0
 2020-05-14,Zimbabwe,#Global,37.0,4.0,13.0,20.0
+2020-05-14,,#Global,0.0,0.0,0.0,0.0
 2020-05-14,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-14,New South Wales,Australia,3071.0,45.0,2605.0,421.0
 2020-05-14,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -29947,6 +30061,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-15,Yemen,#Global,106.0,15.0,1.0,90.0
 2020-05-15,Zambia,#Global,654.0,7.0,124.0,523.0
 2020-05-15,Zimbabwe,#Global,42.0,4.0,13.0,25.0
+2020-05-15,,#Global,0.0,0.0,0.0,0.0
 2020-05-15,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-15,New South Wales,Australia,3074.0,45.0,2611.0,418.0
 2020-05-15,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -30208,6 +30323,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-16,Yemen,#Global,122.0,18.0,1.0,103.0
 2020-05-16,Zambia,#Global,679.0,7.0,183.0,489.0
 2020-05-16,Zimbabwe,#Global,42.0,4.0,13.0,25.0
+2020-05-16,,#Global,0.0,0.0,0.0,0.0
 2020-05-16,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-16,New South Wales,Australia,3075.0,45.0,2611.0,419.0
 2020-05-16,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -30469,6 +30585,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-17,Yemen,#Global,128.0,20.0,1.0,107.0
 2020-05-17,Zambia,#Global,753.0,7.0,188.0,558.0
 2020-05-17,Zimbabwe,#Global,44.0,4.0,17.0,23.0
+2020-05-17,,#Global,0.0,0.0,0.0,0.0
 2020-05-17,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-17,New South Wales,Australia,3076.0,46.0,2612.0,418.0
 2020-05-17,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -30730,6 +30847,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-18,Yemen,#Global,130.0,20.0,1.0,109.0
 2020-05-18,Zambia,#Global,761.0,7.0,192.0,562.0
 2020-05-18,Zimbabwe,#Global,46.0,4.0,18.0,24.0
+2020-05-18,,#Global,0.0,0.0,0.0,0.0
 2020-05-18,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-18,New South Wales,Australia,3078.0,46.0,2614.0,418.0
 2020-05-18,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -30991,6 +31109,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-19,Yemen,#Global,167.0,28.0,5.0,134.0
 2020-05-19,Zambia,#Global,772.0,7.0,192.0,573.0
 2020-05-19,Zimbabwe,#Global,46.0,4.0,18.0,24.0
+2020-05-19,,#Global,0.0,0.0,0.0,0.0
 2020-05-19,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-19,New South Wales,Australia,3081.0,47.0,2631.0,403.0
 2020-05-19,Northern Territory,Australia,29.0,0.0,27.0,2.0
@@ -31252,6 +31371,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-20,Yemen,#Global,184.0,30.0,5.0,149.0
 2020-05-20,Zambia,#Global,832.0,7.0,197.0,628.0
 2020-05-20,Zimbabwe,#Global,48.0,4.0,18.0,26.0
+2020-05-20,,#Global,0.0,0.0,0.0,0.0
 2020-05-20,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-20,New South Wales,Australia,3082.0,47.0,2648.0,387.0
 2020-05-20,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -31513,6 +31633,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-21,Yemen,#Global,197.0,33.0,5.0,159.0
 2020-05-21,Zambia,#Global,866.0,7.0,302.0,557.0
 2020-05-21,Zimbabwe,#Global,51.0,4.0,18.0,29.0
+2020-05-21,,#Global,0.0,0.0,0.0,0.0
 2020-05-21,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-21,New South Wales,Australia,3084.0,48.0,2648.0,388.0
 2020-05-21,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -31774,6 +31895,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-22,Yemen,#Global,209.0,33.0,11.0,165.0
 2020-05-22,Zambia,#Global,920.0,7.0,336.0,577.0
 2020-05-22,Zimbabwe,#Global,51.0,4.0,18.0,29.0
+2020-05-22,,#Global,0.0,0.0,0.0,0.0
 2020-05-22,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-22,New South Wales,Australia,3086.0,48.0,2653.0,385.0
 2020-05-22,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -32035,6 +32157,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-23,Yemen,#Global,212.0,39.0,11.0,162.0
 2020-05-23,Zambia,#Global,920.0,7.0,336.0,577.0
 2020-05-23,Zimbabwe,#Global,56.0,4.0,18.0,34.0
+2020-05-23,,#Global,0.0,0.0,0.0,0.0
 2020-05-23,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-23,New South Wales,Australia,3087.0,48.0,2653.0,386.0
 2020-05-23,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -32296,6 +32419,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-24,Yemen,#Global,222.0,42.0,10.0,170.0
 2020-05-24,Zambia,#Global,920.0,7.0,336.0,577.0
 2020-05-24,Zimbabwe,#Global,56.0,4.0,25.0,27.0
+2020-05-24,,#Global,0.0,0.0,0.0,0.0
 2020-05-24,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-24,New South Wales,Australia,3090.0,48.0,2656.0,386.0
 2020-05-24,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -32557,6 +32681,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-25,Yemen,#Global,233.0,44.0,10.0,179.0
 2020-05-25,Zambia,#Global,920.0,7.0,336.0,577.0
 2020-05-25,Zimbabwe,#Global,56.0,4.0,25.0,27.0
+2020-05-25,,#Global,0.0,0.0,0.0,0.0
 2020-05-25,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-25,New South Wales,Australia,3092.0,48.0,2661.0,383.0
 2020-05-25,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -32818,6 +32943,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-26,Yemen,#Global,249.0,49.0,10.0,190.0
 2020-05-26,Zambia,#Global,920.0,7.0,336.0,577.0
 2020-05-26,Zimbabwe,#Global,56.0,4.0,25.0,27.0
+2020-05-26,,#Global,0.0,0.0,0.0,0.0
 2020-05-26,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-26,New South Wales,Australia,3089.0,48.0,2663.0,378.0
 2020-05-26,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -33079,6 +33205,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-27,Yemen,#Global,256.0,53.0,10.0,193.0
 2020-05-27,Zambia,#Global,1057.0,7.0,779.0,271.0
 2020-05-27,Zimbabwe,#Global,132.0,4.0,25.0,103.0
+2020-05-27,,#Global,0.0,0.0,0.0,0.0
 2020-05-27,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-27,New South Wales,Australia,3090.0,48.0,2670.0,372.0
 2020-05-27,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -33340,6 +33467,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-28,Yemen,#Global,278.0,57.0,11.0,210.0
 2020-05-28,Zambia,#Global,1057.0,7.0,779.0,271.0
 2020-05-28,Zimbabwe,#Global,149.0,4.0,28.0,117.0
+2020-05-28,,#Global,0.0,0.0,0.0,0.0
 2020-05-28,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-28,New South Wales,Australia,3092.0,48.0,2666.0,378.0
 2020-05-28,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -33601,6 +33729,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-29,Yemen,#Global,283.0,65.0,11.0,207.0
 2020-05-29,Zambia,#Global,1057.0,7.0,779.0,271.0
 2020-05-29,Zimbabwe,#Global,149.0,4.0,28.0,117.0
+2020-05-29,,#Global,0.0,0.0,0.0,0.0
 2020-05-29,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-29,New South Wales,Australia,3092.0,48.0,2683.0,361.0
 2020-05-29,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -33862,6 +33991,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-30,Yemen,#Global,310.0,77.0,13.0,220.0
 2020-05-30,Zambia,#Global,1057.0,7.0,779.0,271.0
 2020-05-30,Zimbabwe,#Global,174.0,4.0,29.0,141.0
+2020-05-30,,#Global,0.0,0.0,0.0,0.0
 2020-05-30,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-30,New South Wales,Australia,3095.0,48.0,2685.0,362.0
 2020-05-30,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -34123,6 +34253,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-05-31,Yemen,#Global,323.0,80.0,14.0,229.0
 2020-05-31,Zambia,#Global,1057.0,7.0,779.0,271.0
 2020-05-31,Zimbabwe,#Global,178.0,4.0,29.0,145.0
+2020-05-31,,#Global,0.0,0.0,0.0,0.0
 2020-05-31,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-05-31,New South Wales,Australia,3098.0,48.0,2685.0,365.0
 2020-05-31,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -34384,6 +34515,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-01,Yemen,#Global,354.0,84.0,14.0,256.0
 2020-06-01,Zambia,#Global,1089.0,7.0,912.0,170.0
 2020-06-01,Zimbabwe,#Global,203.0,4.0,29.0,170.0
+2020-06-01,,#Global,0.0,0.0,0.0,0.0
 2020-06-01,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-06-01,New South Wales,Australia,3104.0,48.0,2687.0,369.0
 2020-06-01,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -34645,6 +34777,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-02,Yemen,#Global,399.0,87.0,15.0,297.0
 2020-06-02,Zambia,#Global,1089.0,7.0,912.0,170.0
 2020-06-02,Zimbabwe,#Global,206.0,4.0,29.0,173.0
+2020-06-02,,#Global,0.0,0.0,0.0,0.0
 2020-06-02,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-06-02,New South Wales,Australia,3104.0,48.0,2691.0,365.0
 2020-06-02,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -34906,6 +35039,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-03,Yemen,#Global,419.0,95.0,17.0,307.0
 2020-06-03,Zambia,#Global,1089.0,7.0,912.0,170.0
 2020-06-03,Zimbabwe,#Global,222.0,4.0,29.0,189.0
+2020-06-03,,#Global,0.0,0.0,0.0,0.0
 2020-06-03,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-06-03,New South Wales,Australia,3106.0,48.0,2700.0,358.0
 2020-06-03,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -35167,6 +35301,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-04,Yemen,#Global,453.0,103.0,17.0,333.0
 2020-06-04,Zambia,#Global,1089.0,7.0,912.0,170.0
 2020-06-04,Zimbabwe,#Global,237.0,4.0,31.0,202.0
+2020-06-04,,#Global,0.0,0.0,0.0,0.0
 2020-06-04,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-06-04,New South Wales,Australia,3110.0,48.0,2714.0,348.0
 2020-06-04,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -35428,6 +35563,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-05,Yemen,#Global,469.0,111.0,23.0,335.0
 2020-06-05,Zambia,#Global,1089.0,7.0,912.0,170.0
 2020-06-05,Zimbabwe,#Global,265.0,4.0,33.0,228.0
+2020-06-05,,#Global,0.0,0.0,0.0,0.0
 2020-06-05,Australian Capital Territory,Australia,107.0,3.0,104.0,0.0
 2020-06-05,New South Wales,Australia,3110.0,48.0,2719.0,343.0
 2020-06-05,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -35689,6 +35825,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-06,Yemen,#Global,482.0,111.0,23.0,348.0
 2020-06-06,Zambia,#Global,1089.0,7.0,912.0,170.0
 2020-06-06,Zimbabwe,#Global,279.0,4.0,33.0,242.0
+2020-06-06,,#Global,0.0,0.0,0.0,0.0
 2020-06-06,Australian Capital Territory,Australia,108.0,3.0,104.0,1.0
 2020-06-06,New South Wales,Australia,3109.0,48.0,2723.0,338.0
 2020-06-06,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -35950,6 +36087,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-07,Yemen,#Global,484.0,112.0,23.0,349.0
 2020-06-07,Zambia,#Global,1089.0,7.0,912.0,170.0
 2020-06-07,Zimbabwe,#Global,282.0,4.0,34.0,244.0
+2020-06-07,,#Global,0.0,0.0,0.0,0.0
 2020-06-07,Australian Capital Territory,Australia,108.0,3.0,104.0,1.0
 2020-06-07,New South Wales,Australia,3112.0,48.0,2724.0,340.0
 2020-06-07,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -36211,6 +36349,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-08,Yemen,#Global,496.0,112.0,23.0,361.0
 2020-06-08,Zambia,#Global,1200.0,10.0,912.0,278.0
 2020-06-08,Zimbabwe,#Global,287.0,4.0,46.0,237.0
+2020-06-08,,#Global,0.0,0.0,0.0,0.0
 2020-06-08,Australian Capital Territory,Australia,108.0,3.0,104.0,1.0
 2020-06-08,New South Wales,Australia,3114.0,48.0,2729.0,337.0
 2020-06-08,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -36472,6 +36611,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-09,Yemen,#Global,524.0,127.0,23.0,374.0
 2020-06-09,Zambia,#Global,1200.0,10.0,912.0,278.0
 2020-06-09,Zimbabwe,#Global,314.0,4.0,46.0,264.0
+2020-06-09,,#Global,0.0,0.0,0.0,0.0
 2020-06-09,Australian Capital Territory,Australia,108.0,3.0,104.0,1.0
 2020-06-09,New South Wales,Australia,3117.0,48.0,2735.0,334.0
 2020-06-09,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -36733,6 +36873,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-10,Yemen,#Global,560.0,129.0,23.0,408.0
 2020-06-10,Zambia,#Global,1200.0,10.0,912.0,278.0
 2020-06-10,Zimbabwe,#Global,320.0,4.0,49.0,267.0
+2020-06-10,,#Global,0.0,0.0,0.0,0.0
 2020-06-10,Australian Capital Territory,Australia,108.0,3.0,104.0,1.0
 2020-06-10,New South Wales,Australia,3117.0,48.0,2738.0,331.0
 2020-06-10,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -36994,6 +37135,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-11,Yemen,#Global,591.0,136.0,23.0,432.0
 2020-06-11,Zambia,#Global,1200.0,10.0,912.0,278.0
 2020-06-11,Zimbabwe,#Global,332.0,4.0,51.0,277.0
+2020-06-11,,#Global,0.0,0.0,0.0,0.0
 2020-06-11,Australian Capital Territory,Australia,108.0,3.0,104.0,1.0
 2020-06-11,New South Wales,Australia,3115.0,48.0,2743.0,324.0
 2020-06-11,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -37255,6 +37397,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-12,Yemen,#Global,632.0,139.0,28.0,465.0
 2020-06-12,Zambia,#Global,1321.0,10.0,1104.0,207.0
 2020-06-12,Zimbabwe,#Global,343.0,4.0,51.0,288.0
+2020-06-12,,#Global,0.0,0.0,0.0,0.0
 2020-06-12,Australian Capital Territory,Australia,108.0,3.0,104.0,1.0
 2020-06-12,New South Wales,Australia,3119.0,48.0,2763.0,308.0
 2020-06-12,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -37516,6 +37659,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-13,Yemen,#Global,705.0,160.0,39.0,506.0
 2020-06-13,Zambia,#Global,1357.0,10.0,1104.0,243.0
 2020-06-13,Zimbabwe,#Global,356.0,4.0,54.0,298.0
+2020-06-13,,#Global,0.0,0.0,0.0,0.0
 2020-06-13,Australian Capital Territory,Australia,108.0,3.0,104.0,1.0
 2020-06-13,New South Wales,Australia,3128.0,48.0,2766.0,314.0
 2020-06-13,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -37777,6 +37921,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-14,Yemen,#Global,728.0,164.0,53.0,511.0
 2020-06-14,Zambia,#Global,1358.0,11.0,1122.0,225.0
 2020-06-14,Zimbabwe,#Global,383.0,4.0,54.0,325.0
+2020-06-14,,#Global,0.0,0.0,0.0,0.0
 2020-06-14,Australian Capital Territory,Australia,108.0,3.0,104.0,1.0
 2020-06-14,New South Wales,Australia,3131.0,48.0,2766.0,317.0
 2020-06-14,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -38038,6 +38183,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-15,Yemen,#Global,844.0,208.0,79.0,557.0
 2020-06-15,Zambia,#Global,1382.0,11.0,1142.0,229.0
 2020-06-15,Zimbabwe,#Global,387.0,4.0,54.0,329.0
+2020-06-15,,#Global,0.0,0.0,0.0,0.0
 2020-06-15,Australian Capital Territory,Australia,108.0,3.0,104.0,1.0
 2020-06-15,New South Wales,Australia,3134.0,48.0,2768.0,318.0
 2020-06-15,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -38299,6 +38445,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-16,Yemen,#Global,885.0,214.0,91.0,580.0
 2020-06-16,Zambia,#Global,1405.0,11.0,1142.0,252.0
 2020-06-16,Zimbabwe,#Global,391.0,4.0,62.0,325.0
+2020-06-16,,#Global,0.0,0.0,0.0,0.0
 2020-06-16,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-16,New South Wales,Australia,3135.0,48.0,2770.0,317.0
 2020-06-16,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -38560,6 +38707,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-17,Yemen,#Global,902.0,244.0,271.0,387.0
 2020-06-17,Zambia,#Global,1412.0,11.0,1142.0,259.0
 2020-06-17,Zimbabwe,#Global,401.0,4.0,63.0,334.0
+2020-06-17,,#Global,0.0,0.0,0.0,0.0
 2020-06-17,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-17,New South Wales,Australia,3137.0,48.0,2770.0,319.0
 2020-06-17,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -38821,6 +38969,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-18,Yemen,#Global,909.0,248.0,273.0,388.0
 2020-06-18,Zambia,#Global,1416.0,11.0,1144.0,261.0
 2020-06-18,Zimbabwe,#Global,463.0,4.0,63.0,396.0
+2020-06-18,,#Global,0.0,0.0,0.0,0.0
 2020-06-18,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-18,New South Wales,Australia,3143.0,48.0,2770.0,325.0
 2020-06-18,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -39082,6 +39231,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-19,Yemen,#Global,919.0,251.0,288.0,380.0
 2020-06-19,Zambia,#Global,1430.0,11.0,1194.0,225.0
 2020-06-19,Zimbabwe,#Global,479.0,4.0,63.0,412.0
+2020-06-19,,#Global,0.0,0.0,0.0,0.0
 2020-06-19,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-19,New South Wales,Australia,3144.0,48.0,2771.0,325.0
 2020-06-19,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -39343,6 +39493,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-20,Yemen,#Global,922.0,254.0,328.0,340.0
 2020-06-20,Zambia,#Global,1430.0,11.0,1194.0,225.0
 2020-06-20,Zimbabwe,#Global,479.0,4.0,63.0,412.0
+2020-06-20,,#Global,0.0,0.0,0.0,0.0
 2020-06-20,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-20,New South Wales,Australia,3149.0,48.0,2771.0,330.0
 2020-06-20,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -39604,6 +39755,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-21,Yemen,#Global,941.0,256.0,347.0,338.0
 2020-06-21,Zambia,#Global,1430.0,11.0,1194.0,225.0
 2020-06-21,Zimbabwe,#Global,489.0,6.0,64.0,419.0
+2020-06-21,,#Global,0.0,0.0,0.0,0.0
 2020-06-21,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-21,New South Wales,Australia,3151.0,48.0,2771.0,332.0
 2020-06-21,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -39865,6 +40017,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-22,Yemen,#Global,967.0,257.0,350.0,360.0
 2020-06-22,Zambia,#Global,1430.0,11.0,1194.0,225.0
 2020-06-22,Zimbabwe,#Global,512.0,6.0,64.0,442.0
+2020-06-22,,#Global,0.0,0.0,0.0,0.0
 2020-06-22,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-22,New South Wales,Australia,3150.0,48.0,2771.0,331.0
 2020-06-22,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -40126,6 +40279,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-23,Yemen,#Global,992.0,261.0,356.0,375.0
 2020-06-23,Zambia,#Global,1477.0,18.0,1213.0,246.0
 2020-06-23,Zimbabwe,#Global,525.0,6.0,64.0,455.0
+2020-06-23,,#Global,0.0,0.0,0.0,0.0
 2020-06-23,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-23,New South Wales,Australia,3159.0,48.0,2771.0,340.0
 2020-06-23,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -40387,6 +40541,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-24,Yemen,#Global,1015.0,274.0,379.0,362.0
 2020-06-24,Zambia,#Global,1489.0,18.0,1223.0,248.0
 2020-06-24,Zimbabwe,#Global,530.0,6.0,123.0,401.0
+2020-06-24,,#Global,0.0,0.0,0.0,0.0
 2020-06-24,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-24,New South Wales,Australia,3162.0,49.0,2776.0,337.0
 2020-06-24,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -40648,6 +40803,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-25,Yemen,#Global,1076.0,288.0,386.0,402.0
 2020-06-25,Zambia,#Global,1497.0,18.0,1223.0,256.0
 2020-06-25,Zimbabwe,#Global,551.0,6.0,128.0,417.0
+2020-06-25,,#Global,0.0,0.0,0.0,0.0
 2020-06-25,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-25,New South Wales,Australia,3168.0,49.0,2782.0,337.0
 2020-06-25,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -40909,6 +41065,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-26,Yemen,#Global,1089.0,293.0,402.0,394.0
 2020-06-26,Zambia,#Global,1531.0,21.0,1233.0,277.0
 2020-06-26,Zimbabwe,#Global,561.0,6.0,135.0,420.0
+2020-06-26,,#Global,0.0,0.0,0.0,0.0
 2020-06-26,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-26,New South Wales,Australia,3174.0,49.0,2784.0,341.0
 2020-06-26,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -41170,6 +41327,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-27,Yemen,#Global,1103.0,296.0,417.0,390.0
 2020-06-27,Zambia,#Global,1531.0,21.0,1233.0,277.0
 2020-06-27,Zimbabwe,#Global,567.0,6.0,142.0,419.0
+2020-06-27,,#Global,0.0,0.0,0.0,0.0
 2020-06-27,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-27,New South Wales,Australia,3177.0,49.0,2784.0,344.0
 2020-06-27,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -41431,6 +41589,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-28,Yemen,#Global,1118.0,302.0,430.0,386.0
 2020-06-28,Zambia,#Global,1557.0,22.0,1311.0,224.0
 2020-06-28,Zimbabwe,#Global,567.0,6.0,142.0,419.0
+2020-06-28,,#Global,0.0,0.0,0.0,0.0
 2020-06-28,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-28,New South Wales,Australia,3184.0,49.0,2784.0,351.0
 2020-06-28,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -41692,6 +41851,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-29,Yemen,#Global,1128.0,304.0,432.0,392.0
 2020-06-29,Zambia,#Global,1568.0,22.0,1311.0,235.0
 2020-06-29,Zimbabwe,#Global,574.0,7.0,152.0,415.0
+2020-06-29,,#Global,0.0,0.0,0.0,0.0
 2020-06-29,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-29,New South Wales,Australia,3189.0,49.0,2784.0,356.0
 2020-06-29,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -41953,6 +42113,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-06-30,Yemen,#Global,1158.0,312.0,488.0,358.0
 2020-06-30,Zambia,#Global,1594.0,24.0,1329.0,241.0
 2020-06-30,Zimbabwe,#Global,591.0,7.0,162.0,422.0
+2020-06-30,,#Global,0.0,0.0,0.0,0.0
 2020-06-30,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-06-30,New South Wales,Australia,3203.0,49.0,2787.0,367.0
 2020-06-30,Northern Territory,Australia,29.0,0.0,29.0,0.0
@@ -42214,6 +42375,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-01,Yemen,#Global,1190.0,318.0,504.0,368.0
 2020-07-01,Zambia,#Global,1632.0,30.0,1348.0,254.0
 2020-07-01,Zimbabwe,#Global,605.0,7.0,166.0,432.0
+2020-07-01,,#Global,0.0,0.0,0.0,0.0
 2020-07-01,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-07-01,New South Wales,Australia,3211.0,49.0,2787.0,375.0
 2020-07-01,Northern Territory,Australia,30.0,0.0,29.0,1.0
@@ -42475,6 +42637,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-02,Yemen,#Global,1221.0,325.0,513.0,383.0
 2020-07-02,Zambia,#Global,1632.0,30.0,1348.0,254.0
 2020-07-02,Zimbabwe,#Global,617.0,7.0,173.0,437.0
+2020-07-02,,#Global,0.0,0.0,0.0,0.0
 2020-07-02,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-07-02,New South Wales,Australia,3211.0,49.0,2789.0,373.0
 2020-07-02,Northern Territory,Australia,30.0,0.0,29.0,1.0
@@ -42736,6 +42899,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-03,Yemen,#Global,1240.0,335.0,536.0,369.0
 2020-07-03,Zambia,#Global,1632.0,30.0,1348.0,254.0
 2020-07-03,Zimbabwe,#Global,625.0,7.0,176.0,442.0
+2020-07-03,,#Global,0.0,0.0,0.0,0.0
 2020-07-03,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-07-03,New South Wales,Australia,3405.0,49.0,2977.0,379.0
 2020-07-03,Northern Territory,Australia,30.0,0.0,29.0,1.0
@@ -42997,6 +43161,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-04,Yemen,#Global,1248.0,337.0,537.0,374.0
 2020-07-04,Zambia,#Global,1632.0,30.0,1348.0,254.0
 2020-07-04,Zimbabwe,#Global,698.0,8.0,181.0,509.0
+2020-07-04,,#Global,0.0,0.0,0.0,0.0
 2020-07-04,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-07-04,New South Wales,Australia,3419.0,49.0,2988.0,382.0
 2020-07-04,Northern Territory,Australia,30.0,0.0,29.0,1.0
@@ -43258,6 +43423,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-05,Yemen,#Global,1265.0,338.0,552.0,375.0
 2020-07-05,Zambia,#Global,1632.0,30.0,1348.0,254.0
 2020-07-05,Zimbabwe,#Global,716.0,8.0,181.0,527.0
+2020-07-05,,#Global,0.0,0.0,0.0,0.0
 2020-07-05,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-07-05,New South Wales,Australia,3429.0,49.0,2988.0,392.0
 2020-07-05,Northern Territory,Australia,30.0,0.0,29.0,1.0
@@ -43519,6 +43685,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-06,Yemen,#Global,1284.0,345.0,575.0,364.0
 2020-07-06,Zambia,#Global,1632.0,30.0,1348.0,254.0
 2020-07-06,Zimbabwe,#Global,734.0,9.0,197.0,528.0
+2020-07-06,,#Global,0.0,0.0,0.0,0.0
 2020-07-06,Australian Capital Territory,Australia,108.0,3.0,105.0,0.0
 2020-07-06,New South Wales,Australia,3433.0,49.0,2987.0,397.0
 2020-07-06,Northern Territory,Australia,30.0,0.0,29.0,1.0
@@ -43780,6 +43947,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-07,Yemen,#Global,1297.0,348.0,591.0,358.0
 2020-07-07,Zambia,#Global,1895.0,42.0,1348.0,505.0
 2020-07-07,Zimbabwe,#Global,787.0,9.0,201.0,577.0
+2020-07-07,,#Global,0.0,0.0,0.0,0.0
 2020-07-07,Australian Capital Territory,Australia,111.0,3.0,105.0,3.0
 2020-07-07,New South Wales,Australia,3440.0,49.0,2986.0,405.0
 2020-07-07,Northern Territory,Australia,30.0,0.0,29.0,1.0
@@ -44041,6 +44209,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-08,Yemen,#Global,1318.0,351.0,595.0,372.0
 2020-07-08,Zambia,#Global,1895.0,42.0,1348.0,505.0
 2020-07-08,Zimbabwe,#Global,885.0,9.0,206.0,670.0
+2020-07-08,,#Global,0.0,0.0,0.0,0.0
 2020-07-08,Australian Capital Territory,Australia,112.0,3.0,105.0,4.0
 2020-07-08,New South Wales,Australia,3453.0,49.0,2986.0,418.0
 2020-07-08,Northern Territory,Australia,30.0,0.0,29.0,1.0
@@ -44302,6 +44471,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-09,Yemen,#Global,1356.0,361.0,619.0,376.0
 2020-07-09,Zambia,#Global,1895.0,42.0,1348.0,505.0
 2020-07-09,Zimbabwe,#Global,885.0,9.0,206.0,670.0
+2020-07-09,,#Global,0.0,0.0,0.0,0.0
 2020-07-09,Australian Capital Territory,Australia,113.0,3.0,105.0,5.0
 2020-07-09,New South Wales,Australia,3467.0,49.0,2987.0,431.0
 2020-07-09,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -44563,6 +44733,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-10,Yemen,#Global,1380.0,364.0,630.0,386.0
 2020-07-10,Zambia,#Global,1895.0,42.0,1348.0,505.0
 2020-07-10,Zimbabwe,#Global,942.0,13.0,320.0,609.0
+2020-07-10,,#Global,0.0,0.0,0.0,0.0
 2020-07-10,Australian Capital Territory,Australia,113.0,3.0,105.0,5.0
 2020-07-10,New South Wales,Australia,3474.0,49.0,2997.0,428.0
 2020-07-10,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -44824,6 +44995,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-11,Yemen,#Global,1389.0,365.0,642.0,382.0
 2020-07-11,Zambia,#Global,1895.0,42.0,1348.0,505.0
 2020-07-11,Zimbabwe,#Global,982.0,18.0,320.0,644.0
+2020-07-11,,#Global,0.0,0.0,0.0,0.0
 2020-07-11,Australian Capital Territory,Australia,113.0,3.0,105.0,5.0
 2020-07-11,New South Wales,Australia,3478.0,49.0,2988.0,441.0
 2020-07-11,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -45085,6 +45257,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-12,Yemen,#Global,1465.0,417.0,659.0,389.0
 2020-07-12,Zambia,#Global,1895.0,42.0,1412.0,441.0
 2020-07-12,Zimbabwe,#Global,985.0,18.0,328.0,639.0
+2020-07-12,,#Global,0.0,0.0,0.0,0.0
 2020-07-12,Australian Capital Territory,Australia,113.0,3.0,105.0,5.0
 2020-07-12,New South Wales,Australia,3492.0,49.0,2988.0,455.0
 2020-07-12,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -45346,6 +45519,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-13,Yemen,#Global,1498.0,424.0,675.0,399.0
 2020-07-13,Zambia,#Global,1895.0,42.0,1412.0,441.0
 2020-07-13,Zimbabwe,#Global,1034.0,19.0,343.0,672.0
+2020-07-13,,#Global,0.0,0.0,0.0,0.0
 2020-07-13,Australian Capital Territory,Australia,113.0,3.0,105.0,5.0
 2020-07-13,New South Wales,Australia,3505.0,49.0,2988.0,468.0
 2020-07-13,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -45607,6 +45781,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-14,Yemen,#Global,1516.0,429.0,685.0,402.0
 2020-07-14,Zambia,#Global,1895.0,42.0,1412.0,441.0
 2020-07-14,Zimbabwe,#Global,1064.0,20.0,343.0,701.0
+2020-07-14,,#Global,0.0,0.0,0.0,0.0
 2020-07-14,Australian Capital Territory,Australia,113.0,3.0,105.0,5.0
 2020-07-14,New South Wales,Australia,3517.0,49.0,2988.0,480.0
 2020-07-14,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -45868,6 +46043,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-15,Yemen,#Global,1526.0,433.0,694.0,399.0
 2020-07-15,Zambia,#Global,1895.0,42.0,1412.0,441.0
 2020-07-15,Zimbabwe,#Global,1089.0,20.0,395.0,674.0
+2020-07-15,,#Global,0.0,0.0,0.0,0.0
 2020-07-15,Australian Capital Territory,Australia,113.0,3.0,105.0,5.0
 2020-07-15,New South Wales,Australia,3527.0,49.0,2988.0,490.0
 2020-07-15,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -46129,6 +46305,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-16,Yemen,#Global,1552.0,438.0,695.0,419.0
 2020-07-16,Zambia,#Global,1895.0,42.0,1412.0,441.0
 2020-07-16,Zimbabwe,#Global,1362.0,23.0,425.0,914.0
+2020-07-16,,#Global,0.0,0.0,0.0,0.0
 2020-07-16,Australian Capital Territory,Australia,113.0,3.0,105.0,5.0
 2020-07-16,New South Wales,Australia,3535.0,49.0,2988.0,498.0
 2020-07-16,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -46390,6 +46567,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-17,Yemen,#Global,1576.0,440.0,695.0,441.0
 2020-07-17,Zambia,#Global,2810.0,109.0,1450.0,1251.0
 2020-07-17,Zimbabwe,#Global,1420.0,24.0,438.0,958.0
+2020-07-17,,#Global,0.0,0.0,0.0,0.0
 2020-07-17,Australian Capital Territory,Australia,113.0,3.0,105.0,5.0
 2020-07-17,New South Wales,Australia,3550.0,49.0,2988.0,513.0
 2020-07-17,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -46651,6 +46829,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-18,Yemen,#Global,1581.0,443.0,701.0,437.0
 2020-07-18,Zambia,#Global,2980.0,120.0,1462.0,1398.0
 2020-07-18,Zimbabwe,#Global,1478.0,25.0,439.0,1014.0
+2020-07-18,,#Global,0.0,0.0,0.0,0.0
 2020-07-18,Australian Capital Territory,Australia,113.0,3.0,105.0,5.0
 2020-07-18,New South Wales,Australia,3568.0,49.0,2988.0,531.0
 2020-07-18,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -46912,6 +47091,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-19,Yemen,#Global,1606.0,445.0,712.0,449.0
 2020-07-19,Zambia,#Global,2980.0,120.0,1462.0,1398.0
 2020-07-19,Zimbabwe,#Global,1611.0,25.0,472.0,1114.0
+2020-07-19,,#Global,0.0,0.0,0.0,0.0
 2020-07-19,Australian Capital Territory,Australia,113.0,3.0,107.0,3.0
 2020-07-19,New South Wales,Australia,3588.0,49.0,2988.0,551.0
 2020-07-19,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -47173,6 +47353,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-20,Yemen,#Global,1619.0,447.0,714.0,458.0
 2020-07-20,Zambia,#Global,3326.0,128.0,1620.0,1578.0
 2020-07-20,Zimbabwe,#Global,1713.0,26.0,472.0,1215.0
+2020-07-20,,#Global,0.0,0.0,0.0,0.0
 2020-07-20,Australian Capital Territory,Australia,113.0,3.0,107.0,3.0
 2020-07-20,New South Wales,Australia,3599.0,49.0,2988.0,562.0
 2020-07-20,Northern Territory,Australia,31.0,0.0,29.0,2.0
@@ -47434,6 +47615,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-21,Yemen,#Global,1629.0,456.0,741.0,432.0
 2020-07-21,Zambia,#Global,3386.0,128.0,1620.0,1638.0
 2020-07-21,Zimbabwe,#Global,1820.0,26.0,488.0,1306.0
+2020-07-21,,#Global,0.0,0.0,0.0,0.0
 2020-07-21,Australian Capital Territory,Australia,113.0,3.0,107.0,3.0
 2020-07-21,New South Wales,Australia,3614.0,49.0,2988.0,577.0
 2020-07-21,Northern Territory,Australia,31.0,0.0,30.0,1.0
@@ -47695,6 +47877,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-22,Yemen,#Global,1640.0,458.0,751.0,431.0
 2020-07-22,Zambia,#Global,3583.0,128.0,1677.0,1778.0
 2020-07-22,Zimbabwe,#Global,2034.0,26.0,510.0,1498.0
+2020-07-22,,#Global,0.0,0.0,0.0,0.0
 2020-07-22,Australian Capital Territory,Australia,113.0,3.0,109.0,1.0
 2020-07-22,New South Wales,Australia,3633.0,49.0,2988.0,596.0
 2020-07-22,Northern Territory,Australia,31.0,0.0,30.0,1.0
@@ -47956,6 +48139,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-23,Yemen,#Global,1654.0,461.0,762.0,431.0
 2020-07-23,Zambia,#Global,3789.0,134.0,1677.0,1978.0
 2020-07-23,Zimbabwe,#Global,2124.0,28.0,510.0,1586.0
+2020-07-23,,#Global,0.0,0.0,0.0,0.0
 2020-07-23,Australian Capital Territory,Australia,113.0,3.0,109.0,1.0
 2020-07-23,New South Wales,Australia,3640.0,49.0,2988.0,603.0
 2020-07-23,Northern Territory,Australia,31.0,0.0,30.0,1.0
@@ -48217,6 +48401,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-24,Yemen,#Global,1674.0,469.0,779.0,426.0
 2020-07-24,Zambia,#Global,3856.0,136.0,1677.0,2043.0
 2020-07-24,Zimbabwe,#Global,2296.0,32.0,514.0,1750.0
+2020-07-24,,#Global,0.0,0.0,0.0,0.0
 2020-07-24,Australian Capital Territory,Australia,113.0,3.0,109.0,1.0
 2020-07-24,New South Wales,Australia,3654.0,49.0,2988.0,617.0
 2020-07-24,Northern Territory,Australia,31.0,0.0,30.0,1.0
@@ -48478,6 +48663,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-25,Yemen,#Global,1674.0,474.0,780.0,420.0
 2020-07-25,Zambia,#Global,4328.0,139.0,1953.0,2236.0
 2020-07-25,Zimbabwe,#Global,2434.0,34.0,518.0,1882.0
+2020-07-25,,#Global,0.0,0.0,0.0,0.0
 2020-07-25,Australian Capital Territory,Australia,113.0,3.0,109.0,1.0
 2020-07-25,New South Wales,Australia,3668.0,49.0,2988.0,631.0
 2020-07-25,Northern Territory,Australia,31.0,0.0,30.0,1.0
@@ -48739,6 +48925,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-26,Yemen,#Global,1681.0,479.0,797.0,405.0
 2020-07-26,Zambia,#Global,4481.0,139.0,2350.0,1992.0
 2020-07-26,Zimbabwe,#Global,2512.0,34.0,518.0,1960.0
+2020-07-26,,#Global,0.0,0.0,0.0,0.0
 2020-07-26,Australian Capital Territory,Australia,113.0,3.0,109.0,1.0
 2020-07-26,New South Wales,Australia,3685.0,49.0,2989.0,647.0
 2020-07-26,Northern Territory,Australia,31.0,0.0,30.0,1.0
@@ -49000,6 +49187,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-27,Yemen,#Global,1691.0,483.0,833.0,375.0
 2020-07-27,Zambia,#Global,4552.0,140.0,2815.0,1597.0
 2020-07-27,Zimbabwe,#Global,2704.0,36.0,542.0,2126.0
+2020-07-27,,#Global,0.0,0.0,0.0,0.0
 2020-07-27,Australian Capital Territory,Australia,113.0,3.0,109.0,1.0
 2020-07-27,New South Wales,Australia,3699.0,49.0,2989.0,661.0
 2020-07-27,Northern Territory,Australia,31.0,0.0,30.0,1.0
@@ -49261,6 +49449,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-28,Yemen,#Global,1703.0,484.0,840.0,379.0
 2020-07-28,Zambia,#Global,5002.0,142.0,3195.0,1665.0
 2020-07-28,Zimbabwe,#Global,2817.0,40.0,604.0,2173.0
+2020-07-28,,#Global,0.0,0.0,0.0,0.0
 2020-07-28,Australian Capital Territory,Australia,113.0,3.0,109.0,1.0
 2020-07-28,New South Wales,Australia,3718.0,49.0,2989.0,680.0
 2020-07-28,Northern Territory,Australia,31.0,0.0,30.0,1.0
@@ -49522,6 +49711,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-29,Yemen,#Global,1711.0,485.0,849.0,377.0
 2020-07-29,Zambia,#Global,5249.0,146.0,3285.0,1818.0
 2020-07-29,Zimbabwe,#Global,2879.0,41.0,887.0,1951.0
+2020-07-29,,#Global,0.0,0.0,0.0,0.0
 2020-07-29,Australian Capital Territory,Australia,113.0,3.0,109.0,1.0
 2020-07-29,New South Wales,Australia,3736.0,49.0,2989.0,698.0
 2020-07-29,Northern Territory,Australia,31.0,0.0,30.0,1.0
@@ -49783,6 +49973,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-30,Yemen,#Global,1726.0,487.0,856.0,383.0
 2020-07-30,Zambia,#Global,5555.0,149.0,3289.0,2117.0
 2020-07-30,Zimbabwe,#Global,3092.0,53.0,924.0,2115.0
+2020-07-30,,#Global,0.0,0.0,0.0,0.0
 2020-07-30,Australian Capital Territory,Australia,113.0,3.0,109.0,1.0
 2020-07-30,New South Wales,Australia,3756.0,49.0,2989.0,718.0
 2020-07-30,Northern Territory,Australia,31.0,0.0,30.0,1.0
@@ -50044,6 +50235,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-07-31,Yemen,#Global,1728.0,493.0,862.0,373.0
 2020-07-31,Zambia,#Global,5963.0,151.0,3803.0,2009.0
 2020-07-31,Zimbabwe,#Global,3169.0,67.0,1004.0,2098.0
+2020-07-31,,#Global,0.0,0.0,0.0,0.0
 2020-07-31,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-07-31,New South Wales,Australia,3773.0,50.0,2989.0,734.0
 2020-07-31,Northern Territory,Australia,33.0,0.0,30.0,3.0
@@ -50305,6 +50497,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-01,Yemen,#Global,1730.0,494.0,862.0,374.0
 2020-08-01,Zambia,#Global,6228.0,165.0,4130.0,1933.0
 2020-08-01,Zimbabwe,#Global,3659.0,69.0,1011.0,2579.0
+2020-08-01,,#Global,0.0,0.0,0.0,0.0
 2020-08-01,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-01,New South Wales,Australia,3784.0,50.0,2991.0,743.0
 2020-08-01,Northern Territory,Australia,33.0,0.0,30.0,3.0
@@ -50566,6 +50759,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-02,Yemen,#Global,1734.0,497.0,862.0,375.0
 2020-08-02,Zambia,#Global,6347.0,170.0,4493.0,1684.0
 2020-08-02,Zimbabwe,#Global,3921.0,70.0,1016.0,2835.0
+2020-08-02,,#Global,0.0,0.0,0.0,0.0
 2020-08-02,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-02,New South Wales,Australia,3797.0,50.0,2991.0,756.0
 2020-08-02,Northern Territory,Australia,33.0,0.0,30.0,3.0
@@ -50827,6 +51021,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-03,Yemen,#Global,1734.0,499.0,863.0,372.0
 2020-08-03,Zambia,#Global,6580.0,171.0,4701.0,1708.0
 2020-08-03,Zimbabwe,#Global,4075.0,80.0,1057.0,2938.0
+2020-08-03,,#Global,0.0,0.0,0.0,0.0
 2020-08-03,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-03,New South Wales,Australia,3809.0,50.0,2992.0,767.0
 2020-08-03,Northern Territory,Australia,33.0,0.0,30.0,3.0
@@ -51088,6 +51283,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-04,Yemen,#Global,1760.0,506.0,863.0,391.0
 2020-08-04,Zambia,#Global,6793.0,173.0,5109.0,1511.0
 2020-08-04,Zimbabwe,#Global,4221.0,81.0,1238.0,2902.0
+2020-08-04,,#Global,0.0,0.0,0.0,0.0
 2020-08-04,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-04,New South Wales,Australia,3820.0,50.0,2994.0,776.0
 2020-08-04,Northern Territory,Australia,33.0,0.0,30.0,3.0
@@ -51349,6 +51545,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-05,Yemen,#Global,1763.0,508.0,894.0,361.0
 2020-08-05,Zambia,#Global,7022.0,176.0,5667.0,1179.0
 2020-08-05,Zimbabwe,#Global,4221.0,81.0,1238.0,2902.0
+2020-08-05,,#Global,0.0,0.0,0.0,0.0
 2020-08-05,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-05,New South Wales,Australia,3832.0,50.0,2994.0,788.0
 2020-08-05,Northern Territory,Australia,33.0,0.0,30.0,3.0
@@ -51610,6 +51807,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-06,Yemen,#Global,1768.0,508.0,898.0,362.0
 2020-08-06,Zambia,#Global,7164.0,199.0,5786.0,1179.0
 2020-08-06,Zimbabwe,#Global,4339.0,84.0,1264.0,2991.0
+2020-08-06,,#Global,0.0,0.0,0.0,0.0
 2020-08-06,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-06,New South Wales,Australia,3842.0,50.0,2994.0,798.0
 2020-08-06,Northern Territory,Australia,33.0,0.0,30.0,3.0
@@ -51871,6 +52069,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-07,Yemen,#Global,1796.0,512.0,907.0,377.0
 2020-08-07,Zambia,#Global,7486.0,200.0,6264.0,1022.0
 2020-08-07,Zimbabwe,#Global,4451.0,102.0,1345.0,3004.0
+2020-08-07,,#Global,0.0,0.0,0.0,0.0
 2020-08-07,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-07,New South Wales,Australia,3851.0,50.0,2994.0,807.0
 2020-08-07,Northern Territory,Australia,33.0,0.0,30.0,3.0
@@ -52132,6 +52331,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-08,Yemen,#Global,1797.0,512.0,910.0,375.0
 2020-08-08,Zambia,#Global,7903.0,203.0,6431.0,1269.0
 2020-08-08,Zimbabwe,#Global,4575.0,102.0,1416.0,3057.0
+2020-08-08,,#Global,0.0,0.0,0.0,0.0
 2020-08-08,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-08,New South Wales,Australia,3861.0,50.0,2994.0,817.0
 2020-08-08,Northern Territory,Australia,33.0,0.0,30.0,3.0
@@ -52393,6 +52593,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-09,Yemen,#Global,1804.0,515.0,913.0,376.0
 2020-08-09,Zambia,#Global,8085.0,235.0,6698.0,1152.0
 2020-08-09,Zimbabwe,#Global,4649.0,104.0,1437.0,3108.0
+2020-08-09,,#Global,0.0,0.0,0.0,0.0
 2020-08-09,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-09,New South Wales,Australia,3875.0,50.0,2994.0,831.0
 2020-08-09,Northern Territory,Australia,33.0,0.0,30.0,3.0
@@ -52654,6 +52855,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-10,Yemen,#Global,1832.0,518.0,915.0,399.0
 2020-08-10,Zambia,#Global,8210.0,241.0,6802.0,1167.0
 2020-08-10,Zimbabwe,#Global,4748.0,104.0,1524.0,3120.0
+2020-08-10,,#Global,0.0,0.0,0.0,0.0
 2020-08-10,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-10,New South Wales,Australia,3897.0,50.0,2994.0,853.0
 2020-08-10,Northern Territory,Australia,33.0,0.0,30.0,3.0
@@ -52915,6 +53117,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-11,Yemen,#Global,1831.0,523.0,915.0,393.0
 2020-08-11,Zambia,#Global,8275.0,241.0,7004.0,1030.0
 2020-08-11,Zimbabwe,#Global,4818.0,104.0,1524.0,3190.0
+2020-08-11,,#Global,0.0,0.0,0.0,0.0
 2020-08-11,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-11,New South Wales,Australia,3915.0,50.0,2994.0,871.0
 2020-08-11,Northern Territory,Australia,33.0,0.0,31.0,2.0
@@ -53176,6 +53379,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-12,Yemen,#Global,1841.0,528.0,937.0,376.0
 2020-08-12,Zambia,#Global,8501.0,246.0,7233.0,1022.0
 2020-08-12,Zimbabwe,#Global,4893.0,122.0,1620.0,3151.0
+2020-08-12,,#Global,0.0,0.0,0.0,0.0
 2020-08-12,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-12,New South Wales,Australia,3927.0,51.0,2994.0,882.0
 2020-08-12,Northern Territory,Australia,33.0,0.0,31.0,2.0
@@ -53437,6 +53641,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-13,Yemen,#Global,1847.0,528.0,949.0,370.0
 2020-08-13,Zambia,#Global,8663.0,246.0,7401.0,1016.0
 2020-08-13,Zimbabwe,#Global,4990.0,128.0,1927.0,2935.0
+2020-08-13,,#Global,0.0,0.0,0.0,0.0
 2020-08-13,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-13,New South Wales,Australia,3936.0,51.0,2994.0,891.0
 2020-08-13,Northern Territory,Australia,33.0,0.0,31.0,2.0
@@ -53698,6 +53903,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-14,Yemen,#Global,1858.0,528.0,1009.0,321.0
 2020-08-14,Zambia,#Global,9021.0,256.0,7586.0,1179.0
 2020-08-14,Zimbabwe,#Global,5072.0,128.0,1998.0,2946.0
+2020-08-14,,#Global,0.0,0.0,0.0,0.0
 2020-08-14,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-14,New South Wales,Australia,3945.0,51.0,2994.0,900.0
 2020-08-14,Northern Territory,Australia,33.0,0.0,31.0,2.0
@@ -53959,6 +54165,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-15,Yemen,#Global,1858.0,528.0,1013.0,317.0
 2020-08-15,Zambia,#Global,9186.0,260.0,8065.0,861.0
 2020-08-15,Zimbabwe,#Global,5176.0,130.0,2047.0,2999.0
+2020-08-15,,#Global,0.0,0.0,0.0,0.0
 2020-08-15,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-15,New South Wales,Australia,3950.0,52.0,2994.0,904.0
 2020-08-15,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -54220,6 +54427,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-16,Yemen,#Global,1869.0,530.0,1013.0,326.0
 2020-08-16,Zambia,#Global,9343.0,260.0,8412.0,671.0
 2020-08-16,Zimbabwe,#Global,5261.0,132.0,2092.0,3037.0
+2020-08-16,,#Global,0.0,0.0,0.0,0.0
 2020-08-16,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-16,New South Wales,Australia,3957.0,52.0,2994.0,911.0
 2020-08-16,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -54481,6 +54689,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-17,Yemen,#Global,1882.0,535.0,1045.0,302.0
 2020-08-17,Zambia,#Global,9839.0,264.0,8575.0,1000.0
 2020-08-17,Zimbabwe,#Global,5308.0,135.0,3848.0,1325.0
+2020-08-17,,#Global,0.0,0.0,0.0,0.0
 2020-08-17,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-17,New South Wales,Australia,3959.0,52.0,2994.0,913.0
 2020-08-17,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -54742,6 +54951,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-18,Yemen,#Global,1889.0,537.0,1052.0,300.0
 2020-08-18,Zambia,#Global,9981.0,264.0,8776.0,941.0
 2020-08-18,Zimbabwe,#Global,5378.0,141.0,4105.0,1132.0
+2020-08-18,,#Global,0.0,0.0,0.0,0.0
 2020-08-18,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-18,New South Wales,Australia,3966.0,52.0,2994.0,920.0
 2020-08-18,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -55003,6 +55213,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-19,Yemen,#Global,1892.0,539.0,1055.0,298.0
 2020-08-19,Zambia,#Global,10218.0,269.0,9126.0,823.0
 2020-08-19,Zimbabwe,#Global,5643.0,150.0,4442.0,1051.0
+2020-08-19,,#Global,0.0,0.0,0.0,0.0
 2020-08-19,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-19,New South Wales,Australia,3971.0,52.0,2995.0,924.0
 2020-08-19,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -55264,6 +55475,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-20,Yemen,#Global,1899.0,541.0,1058.0,300.0
 2020-08-20,Zambia,#Global,10372.0,274.0,9126.0,972.0
 2020-08-20,Zimbabwe,#Global,5745.0,151.0,4525.0,1069.0
+2020-08-20,,#Global,0.0,0.0,0.0,0.0
 2020-08-20,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-20,New South Wales,Australia,3972.0,52.0,2994.0,926.0
 2020-08-20,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -55525,6 +55737,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-21,Yemen,#Global,1906.0,542.0,1058.0,306.0
 2020-08-21,Zambia,#Global,10627.0,277.0,9126.0,1224.0
 2020-08-21,Zimbabwe,#Global,5815.0,152.0,4587.0,1076.0
+2020-08-21,,#Global,0.0,0.0,0.0,0.0
 2020-08-21,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-21,New South Wales,Australia,3981.0,52.0,2994.0,935.0
 2020-08-21,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -55786,6 +55999,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-22,Yemen,#Global,1907.0,546.0,1066.0,295.0
 2020-08-22,Zambia,#Global,10831.0,279.0,9942.0,610.0
 2020-08-22,Zimbabwe,#Global,5893.0,153.0,4629.0,1111.0
+2020-08-22,,#Global,0.0,0.0,0.0,0.0
 2020-08-22,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-22,New South Wales,Australia,3985.0,52.0,2994.0,939.0
 2020-08-22,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -56047,6 +56261,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-23,Yemen,#Global,1911.0,553.0,1086.0,272.0
 2020-08-23,Zambia,#Global,11082.0,280.0,9942.0,860.0
 2020-08-23,Zimbabwe,#Global,5930.0,155.0,4872.0,903.0
+2020-08-23,,#Global,0.0,0.0,0.0,0.0
 2020-08-23,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-23,New South Wales,Australia,3988.0,52.0,2994.0,942.0
 2020-08-23,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -56308,6 +56523,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-24,Yemen,#Global,1916.0,555.0,1090.0,271.0
 2020-08-24,Zambia,#Global,11148.0,280.0,10208.0,660.0
 2020-08-24,Zimbabwe,#Global,6070.0,155.0,4950.0,965.0
+2020-08-24,,#Global,0.0,0.0,0.0,0.0
 2020-08-24,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-24,New South Wales,Australia,3991.0,52.0,2994.0,945.0
 2020-08-24,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -56569,6 +56785,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-25,Yemen,#Global,1924.0,557.0,1091.0,276.0
 2020-08-25,Zambia,#Global,11285.0,282.0,10400.0,603.0
 2020-08-25,Zimbabwe,#Global,6196.0,166.0,4961.0,1069.0
+2020-08-25,,#Global,0.0,0.0,0.0,0.0
 2020-08-25,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-25,New South Wales,Australia,3997.0,52.0,2994.0,951.0
 2020-08-25,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -56830,6 +57047,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-26,Yemen,#Global,1930.0,560.0,1097.0,273.0
 2020-08-26,Zambia,#Global,11376.0,282.0,10693.0,401.0
 2020-08-26,Zimbabwe,#Global,6251.0,179.0,5001.0,1071.0
+2020-08-26,,#Global,0.0,0.0,0.0,0.0
 2020-08-26,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-26,New South Wales,Australia,4006.0,52.0,2994.0,960.0
 2020-08-26,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -57091,6 +57309,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-27,Yemen,#Global,1933.0,562.0,1098.0,273.0
 2020-08-27,Zambia,#Global,11601.0,282.0,10840.0,479.0
 2020-08-27,Zimbabwe,#Global,6292.0,189.0,5010.0,1093.0
+2020-08-27,,#Global,0.0,0.0,0.0,0.0
 2020-08-27,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-27,New South Wales,Australia,4019.0,52.0,2994.0,973.0
 2020-08-27,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -57352,6 +57571,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-28,Yemen,#Global,1943.0,563.0,1107.0,273.0
 2020-08-28,Zambia,#Global,11779.0,283.0,10945.0,551.0
 2020-08-28,Zimbabwe,#Global,6388.0,195.0,5043.0,1150.0
+2020-08-28,,#Global,0.0,0.0,0.0,0.0
 2020-08-28,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-28,New South Wales,Australia,4033.0,52.0,2994.0,987.0
 2020-08-28,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -57613,6 +57833,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-29,Yemen,#Global,1946.0,563.0,1113.0,270.0
 2020-08-29,Zambia,#Global,11902.0,284.0,11092.0,526.0
 2020-08-29,Zimbabwe,#Global,6406.0,196.0,5056.0,1154.0
+2020-08-29,,#Global,0.0,0.0,0.0,0.0
 2020-08-29,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-29,New South Wales,Australia,4040.0,52.0,2994.0,994.0
 2020-08-29,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -57874,6 +58095,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-30,Yemen,#Global,1953.0,564.0,1123.0,266.0
 2020-08-30,Zambia,#Global,12025.0,287.0,11454.0,284.0
 2020-08-30,Zimbabwe,#Global,6412.0,196.0,5061.0,1155.0
+2020-08-30,,#Global,0.0,0.0,0.0,0.0
 2020-08-30,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-30,New South Wales,Australia,4050.0,52.0,2994.0,1004.0
 2020-08-30,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -58135,6 +58357,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-08-31,Yemen,#Global,1958.0,566.0,1131.0,261.0
 2020-08-31,Zambia,#Global,12097.0,288.0,11469.0,340.0
 2020-08-31,Zimbabwe,#Global,6497.0,202.0,5221.0,1074.0
+2020-08-31,,#Global,0.0,0.0,0.0,0.0
 2020-08-31,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-08-31,New South Wales,Australia,4063.0,52.0,2994.0,1017.0
 2020-08-31,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -58396,6 +58619,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-01,Yemen,#Global,1962.0,570.0,1160.0,232.0
 2020-09-01,Zambia,#Global,12381.0,290.0,11479.0,612.0
 2020-09-01,Zimbabwe,#Global,6559.0,203.0,5241.0,1115.0
+2020-09-01,,#Global,0.0,0.0,0.0,0.0
 2020-09-01,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-01,New South Wales,Australia,4079.0,52.0,2994.0,1033.0
 2020-09-01,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -58657,6 +58881,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-02,Yemen,#Global,1976.0,571.0,1175.0,230.0
 2020-09-02,Zambia,#Global,12415.0,292.0,11494.0,629.0
 2020-09-02,Zimbabwe,#Global,6638.0,206.0,5250.0,1182.0
+2020-09-02,,#Global,0.0,0.0,0.0,0.0
 2020-09-02,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-02,New South Wales,Australia,4091.0,52.0,2994.0,1045.0
 2020-09-02,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -58918,6 +59143,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-03,Yemen,#Global,1979.0,571.0,1180.0,228.0
 2020-09-03,Zambia,#Global,12523.0,292.0,11562.0,669.0
 2020-09-03,Zimbabwe,#Global,6678.0,206.0,5263.0,1209.0
+2020-09-03,,#Global,0.0,0.0,0.0,0.0
 2020-09-03,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-03,New South Wales,Australia,4099.0,52.0,2994.0,1053.0
 2020-09-03,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -59179,6 +59405,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-04,Yemen,#Global,1983.0,572.0,1194.0,217.0
 2020-09-04,Zambia,#Global,12639.0,292.0,11572.0,775.0
 2020-09-04,Zimbabwe,#Global,6837.0,206.0,5345.0,1286.0
+2020-09-04,,#Global,0.0,0.0,0.0,0.0
 2020-09-04,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-04,New South Wales,Australia,4104.0,52.0,2994.0,1058.0
 2020-09-04,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -59440,6 +59667,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-05,Yemen,#Global,1983.0,572.0,1197.0,214.0
 2020-09-05,Zambia,#Global,12709.0,292.0,11668.0,749.0
 2020-09-05,Zimbabwe,#Global,6837.0,206.0,5345.0,1286.0
+2020-09-05,,#Global,0.0,0.0,0.0,0.0
 2020-09-05,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-05,New South Wales,Australia,4114.0,52.0,2994.0,1068.0
 2020-09-05,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -59701,6 +59929,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-06,Yemen,#Global,1987.0,572.0,1200.0,215.0
 2020-09-06,Zambia,#Global,12776.0,295.0,11674.0,807.0
 2020-09-06,Zimbabwe,#Global,6837.0,206.0,5345.0,1286.0
+2020-09-06,,#Global,0.0,0.0,0.0,0.0
 2020-09-06,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-06,New South Wales,Australia,4118.0,52.0,2994.0,1072.0
 2020-09-06,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -59962,6 +60191,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-07,Yemen,#Global,1989.0,573.0,1201.0,215.0
 2020-09-07,Zambia,#Global,12836.0,295.0,11748.0,793.0
 2020-09-07,Zimbabwe,#Global,7298.0,210.0,5455.0,1633.0
+2020-09-07,,#Global,0.0,0.0,0.0,0.0
 2020-09-07,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-07,New South Wales,Australia,4126.0,52.0,2994.0,1080.0
 2020-09-07,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -60223,6 +60453,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-08,Yemen,#Global,1994.0,576.0,1203.0,215.0
 2020-09-08,Zambia,#Global,12952.0,297.0,11787.0,868.0
 2020-09-08,Zimbabwe,#Global,7388.0,218.0,5477.0,1693.0
+2020-09-08,,#Global,0.0,0.0,0.0,0.0
 2020-09-08,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-08,New South Wales,Australia,4135.0,52.0,2994.0,1089.0
 2020-09-08,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -60484,6 +60715,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-09,Yemen,#Global,1999.0,576.0,1209.0,214.0
 2020-09-09,Zambia,#Global,13112.0,300.0,11839.0,973.0
 2020-09-09,Zimbabwe,#Global,7429.0,222.0,5542.0,1665.0
+2020-09-09,,#Global,0.0,0.0,0.0,0.0
 2020-09-09,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-09,New South Wales,Australia,4142.0,52.0,2994.0,1096.0
 2020-09-09,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -60745,6 +60977,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-10,Yemen,#Global,2003.0,580.0,1211.0,212.0
 2020-09-10,Zambia,#Global,13214.0,300.0,11899.0,1015.0
 2020-09-10,Zimbabwe,#Global,7453.0,222.0,5635.0,1596.0
+2020-09-10,,#Global,0.0,0.0,0.0,0.0
 2020-09-10,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-10,New South Wales,Australia,4152.0,52.0,2994.0,1106.0
 2020-09-10,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -61006,6 +61239,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-11,Yemen,#Global,2007.0,582.0,1211.0,214.0
 2020-09-11,Zambia,#Global,13323.0,306.0,11899.0,1118.0
 2020-09-11,Zimbabwe,#Global,7479.0,224.0,5660.0,1595.0
+2020-09-11,,#Global,0.0,0.0,0.0,0.0
 2020-09-11,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-11,New South Wales,Australia,4157.0,52.0,2994.0,1111.0
 2020-09-11,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -61267,6 +61501,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-12,Yemen,#Global,2009.0,582.0,1211.0,216.0
 2020-09-12,Zambia,#Global,13466.0,312.0,12007.0,1147.0
 2020-09-12,Zimbabwe,#Global,7508.0,224.0,5675.0,1609.0
+2020-09-12,,#Global,0.0,0.0,0.0,0.0
 2020-09-12,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-12,New South Wales,Australia,4166.0,52.0,2994.0,1120.0
 2020-09-12,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -61528,6 +61763,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-13,Yemen,#Global,2011.0,583.0,1212.0,216.0
 2020-09-13,Zambia,#Global,13539.0,312.0,12260.0,967.0
 2020-09-13,Zimbabwe,#Global,7526.0,224.0,5678.0,1624.0
+2020-09-13,,#Global,0.0,0.0,0.0,0.0
 2020-09-13,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-13,New South Wales,Australia,4170.0,52.0,2994.0,1124.0
 2020-09-13,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -61789,6 +62025,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-14,Yemen,#Global,2013.0,583.0,1215.0,215.0
 2020-09-14,Zambia,#Global,13720.0,320.0,12380.0,1020.0
 2020-09-14,Zimbabwe,#Global,7531.0,224.0,5690.0,1617.0
+2020-09-14,,#Global,0.0,0.0,0.0,0.0
 2020-09-14,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-14,New South Wales,Australia,4177.0,52.0,2994.0,1131.0
 2020-09-14,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -62050,6 +62287,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-15,Yemen,#Global,2016.0,583.0,1219.0,214.0
 2020-09-15,Zambia,#Global,13819.0,324.0,12590.0,905.0
 2020-09-15,Zimbabwe,#Global,7576.0,224.0,5783.0,1569.0
+2020-09-15,,#Global,0.0,0.0,0.0,0.0
 2020-09-15,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-15,New South Wales,Australia,4185.0,52.0,2994.0,1139.0
 2020-09-15,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -62311,6 +62549,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-16,Yemen,#Global,2019.0,583.0,1221.0,215.0
 2020-09-16,Zambia,#Global,13887.0,326.0,12869.0,692.0
 2020-09-16,Zimbabwe,#Global,7598.0,224.0,5823.0,1551.0
+2020-09-16,,#Global,0.0,0.0,0.0,0.0
 2020-09-16,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-16,New South Wales,Australia,4190.0,52.0,2994.0,1144.0
 2020-09-16,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -62572,6 +62811,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-17,Yemen,#Global,2022.0,585.0,1221.0,216.0
 2020-09-17,Zambia,#Global,13928.0,326.0,13029.0,573.0
 2020-09-17,Zimbabwe,#Global,7633.0,224.0,5841.0,1568.0
+2020-09-17,,#Global,0.0,0.0,0.0,0.0
 2020-09-17,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-17,New South Wales,Australia,4196.0,52.0,2994.0,1150.0
 2020-09-17,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -62833,6 +63073,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-18,Yemen,#Global,2024.0,585.0,1221.0,218.0
 2020-09-18,Zambia,#Global,14022.0,329.0,13207.0,486.0
 2020-09-18,Zimbabwe,#Global,7647.0,224.0,5883.0,1540.0
+2020-09-18,,#Global,0.0,0.0,0.0,0.0
 2020-09-18,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-18,New South Wales,Australia,4198.0,52.0,2994.0,1152.0
 2020-09-18,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -63094,6 +63335,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-19,Yemen,#Global,2026.0,585.0,1221.0,220.0
 2020-09-19,Zambia,#Global,14070.0,330.0,13365.0,375.0
 2020-09-19,Zimbabwe,#Global,7672.0,225.0,5914.0,1533.0
+2020-09-19,,#Global,0.0,0.0,0.0,0.0
 2020-09-19,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-19,New South Wales,Australia,4200.0,53.0,2994.0,1153.0
 2020-09-19,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -63355,6 +63597,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-20,Yemen,#Global,2026.0,586.0,1227.0,213.0
 2020-09-20,Zambia,#Global,14131.0,330.0,13365.0,436.0
 2020-09-20,Zimbabwe,#Global,7683.0,225.0,5924.0,1534.0
+2020-09-20,,#Global,0.0,0.0,0.0,0.0
 2020-09-20,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-20,New South Wales,Australia,4204.0,53.0,2994.0,1157.0
 2020-09-20,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -63616,6 +63859,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-21,Yemen,#Global,2028.0,586.0,1235.0,207.0
 2020-09-21,Zambia,#Global,14175.0,331.0,13629.0,215.0
 2020-09-21,Zimbabwe,#Global,7683.0,225.0,5924.0,1534.0
+2020-09-21,,#Global,0.0,0.0,0.0,0.0
 2020-09-21,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-21,New South Wales,Australia,4206.0,53.0,2994.0,1159.0
 2020-09-21,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -63877,6 +64121,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-22,Yemen,#Global,2028.0,586.0,1240.0,202.0
 2020-09-22,Zambia,#Global,14389.0,331.0,13629.0,429.0
 2020-09-22,Zimbabwe,#Global,7711.0,226.0,5979.0,1506.0
+2020-09-22,,#Global,0.0,0.0,0.0,0.0
 2020-09-22,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-22,New South Wales,Australia,4212.0,53.0,3107.0,1052.0
 2020-09-22,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -64138,6 +64383,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-23,Yemen,#Global,2029.0,586.0,1245.0,198.0
 2020-09-23,Zambia,#Global,14443.0,332.0,13629.0,482.0
 2020-09-23,Zimbabwe,#Global,7725.0,227.0,6007.0,1491.0
+2020-09-23,,#Global,0.0,0.0,0.0,0.0
 2020-09-23,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-23,New South Wales,Australia,4213.0,53.0,3113.0,1047.0
 2020-09-23,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -64399,6 +64645,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-24,Yemen,#Global,2029.0,586.0,1250.0,193.0
 2020-09-24,Zambia,#Global,14491.0,332.0,13643.0,516.0
 2020-09-24,Zimbabwe,#Global,7752.0,227.0,6043.0,1482.0
+2020-09-24,,#Global,0.0,0.0,0.0,0.0
 2020-09-24,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-24,New South Wales,Australia,4217.0,53.0,3116.0,1048.0
 2020-09-24,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -64660,6 +64907,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-25,Yemen,#Global,2029.0,587.0,1255.0,187.0
 2020-09-25,Zambia,#Global,14515.0,332.0,13643.0,540.0
 2020-09-25,Zimbabwe,#Global,7787.0,227.0,6057.0,1503.0
+2020-09-25,,#Global,0.0,0.0,0.0,0.0
 2020-09-25,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-25,New South Wales,Australia,4218.0,53.0,3116.0,1049.0
 2020-09-25,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -64921,6 +65169,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-26,Yemen,#Global,2030.0,587.0,1260.0,183.0
 2020-09-26,Zambia,#Global,14612.0,332.0,13727.0,553.0
 2020-09-26,Zimbabwe,#Global,7803.0,227.0,6067.0,1509.0
+2020-09-26,,#Global,0.0,0.0,0.0,0.0
 2020-09-26,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-26,New South Wales,Australia,4218.0,53.0,3117.0,1048.0
 2020-09-26,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -65182,6 +65431,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-27,Yemen,#Global,2030.0,587.0,1266.0,177.0
 2020-09-27,Zambia,#Global,14641.0,332.0,13784.0,525.0
 2020-09-27,Zimbabwe,#Global,7812.0,227.0,6106.0,1479.0
+2020-09-27,,#Global,0.0,0.0,0.0,0.0
 2020-09-27,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-27,New South Wales,Australia,4218.0,53.0,3118.0,1047.0
 2020-09-27,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -65443,6 +65693,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-28,Yemen,#Global,2031.0,587.0,1266.0,178.0
 2020-09-28,Zambia,#Global,14660.0,332.0,13821.0,507.0
 2020-09-28,Zimbabwe,#Global,7816.0,228.0,6112.0,1476.0
+2020-09-28,,#Global,0.0,0.0,0.0,0.0
 2020-09-28,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-28,New South Wales,Australia,4220.0,53.0,3123.0,1044.0
 2020-09-28,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -65704,6 +65955,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-29,Yemen,#Global,2031.0,587.0,1275.0,169.0
 2020-09-29,Zambia,#Global,14715.0,332.0,13937.0,446.0
 2020-09-29,Zimbabwe,#Global,7837.0,228.0,6122.0,1487.0
+2020-09-29,,#Global,0.0,0.0,0.0,0.0
 2020-09-29,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-29,New South Wales,Australia,4224.0,53.0,3129.0,1042.0
 2020-09-29,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -65965,6 +66217,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-30,Yemen,#Global,2034.0,587.0,1286.0,161.0
 2020-09-30,Zambia,#Global,14759.0,332.0,13959.0,468.0
 2020-09-30,Zimbabwe,#Global,7838.0,228.0,6303.0,1307.0
+2020-09-30,,#Global,0.0,0.0,0.0,0.0
 2020-09-30,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-09-30,New South Wales,Australia,4227.0,53.0,3129.0,1045.0
 2020-09-30,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -66226,6 +66479,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-01,Yemen,#Global,2039.0,587.0,1297.0,155.0
 2020-10-01,Zambia,#Global,14802.0,333.0,13961.0,508.0
 2020-10-01,Zimbabwe,#Global,7850.0,228.0,6312.0,1310.0
+2020-10-01,,#Global,0.0,0.0,0.0,0.0
 2020-10-01,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-01,New South Wales,Australia,4231.0,53.0,3129.0,1049.0
 2020-10-01,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -66487,6 +66741,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-02,Yemen,#Global,2040.0,589.0,1307.0,144.0
 2020-10-02,Zambia,#Global,14830.0,333.0,13980.0,517.0
 2020-10-02,Zimbabwe,#Global,7858.0,228.0,6322.0,1308.0
+2020-10-02,,#Global,0.0,0.0,0.0,0.0
 2020-10-02,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-02,New South Wales,Australia,4232.0,53.0,3131.0,1048.0
 2020-10-02,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -66748,6 +67003,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-03,Yemen,#Global,2041.0,589.0,1320.0,132.0
 2020-10-03,Zambia,#Global,14974.0,333.0,14094.0,547.0
 2020-10-03,Zimbabwe,#Global,7885.0,228.0,6327.0,1330.0
+2020-10-03,,#Global,0.0,0.0,0.0,0.0
 2020-10-03,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-03,New South Wales,Australia,4234.0,53.0,3131.0,1050.0
 2020-10-03,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -67009,6 +67265,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-04,Yemen,#Global,2041.0,591.0,1320.0,130.0
 2020-10-04,Zambia,#Global,15052.0,333.0,14187.0,532.0
 2020-10-04,Zimbabwe,#Global,7888.0,228.0,6359.0,1301.0
+2020-10-04,,#Global,0.0,0.0,0.0,0.0
 2020-10-04,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-04,New South Wales,Australia,4235.0,53.0,3131.0,1051.0
 2020-10-04,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -67270,6 +67527,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-05,Yemen,#Global,2041.0,592.0,1323.0,126.0
 2020-10-05,Zambia,#Global,15089.0,334.0,14306.0,449.0
 2020-10-05,Zimbabwe,#Global,7898.0,228.0,6424.0,1246.0
+2020-10-05,,#Global,0.0,0.0,0.0,0.0
 2020-10-05,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-05,New South Wales,Australia,4246.0,53.0,3131.0,1062.0
 2020-10-05,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -67531,6 +67789,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-06,Yemen,#Global,2047.0,593.0,1327.0,127.0
 2020-10-06,Zambia,#Global,15170.0,335.0,14313.0,522.0
 2020-10-06,Zimbabwe,#Global,7915.0,229.0,6440.0,1246.0
+2020-10-06,,#Global,0.0,0.0,0.0,0.0
 2020-10-06,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-06,New South Wales,Australia,4249.0,53.0,3131.0,1065.0
 2020-10-06,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -67792,6 +68051,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-07,Yemen,#Global,2049.0,593.0,1328.0,128.0
 2020-10-07,Zambia,#Global,15224.0,335.0,14342.0,547.0
 2020-10-07,Zimbabwe,#Global,7919.0,229.0,6441.0,1249.0
+2020-10-07,,#Global,0.0,0.0,0.0,0.0
 2020-10-07,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-07,New South Wales,Australia,4261.0,53.0,3133.0,1075.0
 2020-10-07,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -68053,6 +68313,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-08,Yemen,#Global,2050.0,593.0,1329.0,128.0
 2020-10-08,Zambia,#Global,15301.0,335.0,14365.0,601.0
 2020-10-08,Zimbabwe,#Global,7951.0,229.0,6446.0,1276.0
+2020-10-08,,#Global,0.0,0.0,0.0,0.0
 2020-10-08,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-08,New South Wales,Australia,4271.0,53.0,3132.0,1086.0
 2020-10-08,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -68314,6 +68575,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-09,Yemen,#Global,2051.0,593.0,1329.0,129.0
 2020-10-09,Zambia,#Global,15339.0,336.0,14439.0,564.0
 2020-10-09,Zimbabwe,#Global,7994.0,229.0,6474.0,1291.0
+2020-10-09,,#Global,0.0,0.0,0.0,0.0
 2020-10-09,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-09,New South Wales,Australia,4273.0,53.0,3132.0,1088.0
 2020-10-09,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -68575,6 +68837,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-10,Yemen,#Global,2051.0,595.0,1329.0,127.0
 2020-10-10,Zambia,#Global,15415.0,337.0,14541.0,537.0
 2020-10-10,Zimbabwe,#Global,8010.0,230.0,6492.0,1288.0
+2020-10-10,,#Global,0.0,0.0,0.0,0.0
 2020-10-10,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-10,New South Wales,Australia,4278.0,53.0,3132.0,1093.0
 2020-10-10,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -68836,6 +69099,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-11,Yemen,#Global,2052.0,595.0,1329.0,128.0
 2020-10-11,Zambia,#Global,15458.0,337.0,14599.0,522.0
 2020-10-11,Zimbabwe,#Global,8011.0,230.0,6504.0,1277.0
+2020-10-11,,#Global,0.0,0.0,0.0,0.0
 2020-10-11,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-11,New South Wales,Australia,4284.0,53.0,3134.0,1097.0
 2020-10-11,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -69097,6 +69361,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-12,Yemen,#Global,2052.0,596.0,1329.0,127.0
 2020-10-12,Zambia,#Global,15549.0,345.0,14682.0,522.0
 2020-10-12,Zimbabwe,#Global,8021.0,230.0,7627.0,164.0
+2020-10-12,,#Global,0.0,0.0,0.0,0.0
 2020-10-12,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-12,New South Wales,Australia,4295.0,53.0,3134.0,1108.0
 2020-10-12,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -69358,6 +69623,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-13,Yemen,#Global,2053.0,596.0,1329.0,128.0
 2020-10-13,Zambia,#Global,15587.0,345.0,14783.0,459.0
 2020-10-13,Zimbabwe,#Global,8036.0,230.0,7632.0,174.0
+2020-10-13,,#Global,0.0,0.0,0.0,0.0
 2020-10-13,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-13,New South Wales,Australia,4310.0,53.0,3140.0,1117.0
 2020-10-13,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -69619,6 +69885,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-14,Yemen,#Global,2053.0,596.0,1329.0,128.0
 2020-10-14,Zambia,#Global,15616.0,345.0,14850.0,421.0
 2020-10-14,Zimbabwe,#Global,8055.0,231.0,7640.0,184.0
+2020-10-14,,#Global,0.0,0.0,0.0,0.0
 2020-10-14,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-14,New South Wales,Australia,4321.0,53.0,3140.0,1128.0
 2020-10-14,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -69880,6 +70147,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-15,Yemen,#Global,2053.0,596.0,1329.0,128.0
 2020-10-15,Zambia,#Global,15659.0,346.0,14899.0,414.0
 2020-10-15,Zimbabwe,#Global,8075.0,231.0,7669.0,175.0
+2020-10-15,,#Global,0.0,0.0,0.0,0.0
 2020-10-15,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-15,New South Wales,Australia,4326.0,53.0,3142.0,1131.0
 2020-10-15,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -70141,6 +70409,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-16,Yemen,#Global,2055.0,596.0,1335.0,124.0
 2020-10-16,Zambia,#Global,15659.0,346.0,14899.0,414.0
 2020-10-16,Zimbabwe,#Global,8099.0,231.0,7673.0,195.0
+2020-10-16,,#Global,0.0,0.0,0.0,0.0
 2020-10-16,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-16,New South Wales,Australia,4333.0,53.0,3142.0,1138.0
 2020-10-16,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -70402,6 +70671,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-17,Yemen,#Global,2055.0,596.0,1336.0,123.0
 2020-10-17,Zambia,#Global,15789.0,346.0,14927.0,516.0
 2020-10-17,Zimbabwe,#Global,8110.0,231.0,7673.0,206.0
+2020-10-17,,#Global,0.0,0.0,0.0,0.0
 2020-10-17,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-17,New South Wales,Australia,4338.0,53.0,3142.0,1143.0
 2020-10-17,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -70663,6 +70933,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-18,Yemen,#Global,2056.0,597.0,1338.0,121.0
 2020-10-18,Zambia,#Global,15853.0,346.0,15005.0,502.0
 2020-10-18,Zimbabwe,#Global,8147.0,231.0,7678.0,238.0
+2020-10-18,,#Global,0.0,0.0,0.0,0.0
 2020-10-18,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-18,New South Wales,Australia,4342.0,53.0,3142.0,1147.0
 2020-10-18,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -70924,6 +71195,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-19,Yemen,#Global,2056.0,597.0,1338.0,121.0
 2020-10-19,Zambia,#Global,15897.0,346.0,15031.0,520.0
 2020-10-19,Zimbabwe,#Global,8159.0,232.0,7683.0,244.0
+2020-10-19,,#Global,0.0,0.0,0.0,0.0
 2020-10-19,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-19,New South Wales,Australia,4347.0,53.0,3142.0,1152.0
 2020-10-19,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -71185,6 +71457,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-20,Yemen,#Global,2057.0,597.0,1338.0,122.0
 2020-10-20,Zambia,#Global,15982.0,346.0,15038.0,598.0
 2020-10-20,Zimbabwe,#Global,8187.0,233.0,7692.0,262.0
+2020-10-20,,#Global,0.0,0.0,0.0,0.0
 2020-10-20,Australian Capital Territory,Australia,113.0,3.0,110.0,0.0
 2020-10-20,New South Wales,Australia,4357.0,53.0,3141.0,1163.0
 2020-10-20,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -71446,6 +71719,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-21,Yemen,#Global,2057.0,597.0,1344.0,116.0
 2020-10-21,Zambia,#Global,16000.0,346.0,15168.0,486.0
 2020-10-21,Zimbabwe,#Global,8215.0,236.0,7725.0,254.0
+2020-10-21,,#Global,0.0,0.0,0.0,0.0
 2020-10-21,Australian Capital Territory,Australia,114.0,3.0,110.0,1.0
 2020-10-21,New South Wales,Australia,4363.0,53.0,3141.0,1169.0
 2020-10-21,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -71707,6 +71981,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-22,Yemen,#Global,2057.0,597.0,1344.0,116.0
 2020-10-22,Zambia,#Global,16035.0,346.0,15168.0,521.0
 2020-10-22,Zimbabwe,#Global,8242.0,236.0,7742.0,264.0
+2020-10-22,,#Global,0.0,0.0,0.0,0.0
 2020-10-22,Australian Capital Territory,Australia,114.0,3.0,110.0,1.0
 2020-10-22,New South Wales,Australia,4370.0,53.0,3143.0,1174.0
 2020-10-22,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -71968,6 +72243,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-23,Yemen,#Global,2060.0,599.0,1354.0,107.0
 2020-10-23,Zambia,#Global,16095.0,346.0,15179.0,570.0
 2020-10-23,Zimbabwe,#Global,8257.0,236.0,7771.0,250.0
+2020-10-23,,#Global,0.0,0.0,0.0,0.0
 2020-10-23,Australian Capital Territory,Australia,114.0,3.0,110.0,1.0
 2020-10-23,New South Wales,Australia,4375.0,53.0,3145.0,1177.0
 2020-10-23,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -72229,6 +72505,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-24,Yemen,#Global,2060.0,599.0,1360.0,101.0
 2020-10-24,Zambia,#Global,16117.0,348.0,15179.0,590.0
 2020-10-24,Zimbabwe,#Global,8269.0,236.0,7785.0,248.0
+2020-10-24,,#Global,0.0,0.0,0.0,0.0
 2020-10-24,Australian Capital Territory,Australia,114.0,3.0,110.0,1.0
 2020-10-24,New South Wales,Australia,4382.0,53.0,3145.0,1184.0
 2020-10-24,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -72490,6 +72767,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-25,Yemen,#Global,2060.0,599.0,1360.0,101.0
 2020-10-25,Zambia,#Global,16117.0,348.0,15179.0,590.0
 2020-10-25,Zimbabwe,#Global,8276.0,237.0,7797.0,242.0
+2020-10-25,,#Global,0.0,0.0,0.0,0.0
 2020-10-25,Australian Capital Territory,Australia,114.0,3.0,110.0,1.0
 2020-10-25,New South Wales,Australia,4386.0,53.0,3145.0,1188.0
 2020-10-25,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -72751,6 +73029,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-26,Yemen,#Global,2060.0,599.0,1360.0,101.0
 2020-10-26,Zambia,#Global,16200.0,348.0,15445.0,407.0
 2020-10-26,Zimbabwe,#Global,8303.0,242.0,7797.0,264.0
+2020-10-26,,#Global,0.0,0.0,0.0,0.0
 2020-10-26,Australian Capital Territory,Australia,114.0,3.0,110.0,1.0
 2020-10-26,New South Wales,Australia,4398.0,53.0,3147.0,1198.0
 2020-10-26,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -73012,6 +73291,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-27,Yemen,#Global,2060.0,599.0,1364.0,97.0
 2020-10-27,Zambia,#Global,16243.0,348.0,15481.0,414.0
 2020-10-27,Zimbabwe,#Global,8315.0,242.0,7804.0,269.0
+2020-10-27,,#Global,0.0,0.0,0.0,0.0
 2020-10-27,Australian Capital Territory,Australia,114.0,3.0,110.0,1.0
 2020-10-27,New South Wales,Australia,4406.0,53.0,3147.0,1206.0
 2020-10-27,Northern Territory,Australia,33.0,0.0,33.0,0.0
@@ -73273,6 +73553,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-28,Yemen,#Global,2061.0,599.0,1366.0,96.0
 2020-10-28,Zambia,#Global,16285.0,348.0,15559.0,378.0
 2020-10-28,Zimbabwe,#Global,8320.0,242.0,7845.0,233.0
+2020-10-28,,#Global,0.0,0.0,0.0,0.0
 2020-10-28,Australian Capital Territory,Australia,114.0,3.0,110.0,1.0
 2020-10-28,New South Wales,Australia,4411.0,53.0,3147.0,1211.0
 2020-10-28,Northern Territory,Australia,37.0,0.0,33.0,4.0
@@ -73534,6 +73815,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-29,Yemen,#Global,2062.0,599.0,1366.0,97.0
 2020-10-29,Zambia,#Global,16325.0,348.0,15585.0,392.0
 2020-10-29,Zimbabwe,#Global,8349.0,242.0,7864.0,243.0
+2020-10-29,,#Global,0.0,0.0,0.0,0.0
 2020-10-29,Australian Capital Territory,Australia,114.0,3.0,111.0,0.0
 2020-10-29,New South Wales,Australia,4417.0,53.0,3148.0,1216.0
 2020-10-29,Northern Territory,Australia,37.0,0.0,33.0,4.0
@@ -73795,6 +74077,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-30,Yemen,#Global,2062.0,599.0,1366.0,97.0
 2020-10-30,Zambia,#Global,16415.0,349.0,15600.0,466.0
 2020-10-30,Zimbabwe,#Global,8362.0,242.0,7884.0,236.0
+2020-10-30,,#Global,0.0,0.0,0.0,0.0
 2020-10-30,Australian Capital Territory,Australia,114.0,3.0,111.0,0.0
 2020-10-30,New South Wales,Australia,4421.0,53.0,3148.0,1220.0
 2020-10-30,Northern Territory,Australia,38.0,0.0,33.0,5.0
@@ -74056,6 +74339,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-31,Yemen,#Global,2063.0,599.0,1366.0,98.0
 2020-10-31,Zambia,#Global,16432.0,349.0,15680.0,403.0
 2020-10-31,Zimbabwe,#Global,8367.0,243.0,7894.0,230.0
+2020-10-31,,#Global,0.0,0.0,0.0,0.0
 2020-10-31,Australian Capital Territory,Australia,114.0,3.0,111.0,0.0
 2020-10-31,New South Wales,Australia,4425.0,53.0,3148.0,1224.0
 2020-10-31,Northern Territory,Australia,38.0,0.0,33.0,5.0
@@ -74317,6 +74601,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-01,Yemen,#Global,2063.0,600.0,1366.0,97.0
 2020-11-01,Zambia,#Global,16480.0,349.0,15733.0,398.0
 2020-11-01,Zimbabwe,#Global,8374.0,243.0,7927.0,204.0
+2020-11-01,,#Global,0.0,0.0,0.0,0.0
 2020-11-01,Australian Capital Territory,Australia,114.0,3.0,111.0,0.0
 2020-11-01,New South Wales,Australia,4432.0,53.0,3148.0,1231.0
 2020-11-01,Northern Territory,Australia,38.0,0.0,33.0,5.0
@@ -74578,6 +74863,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-02,Yemen,#Global,2063.0,601.0,1375.0,87.0
 2020-11-02,Zambia,#Global,16543.0,349.0,15733.0,461.0
 2020-11-02,Zimbabwe,#Global,8389.0,245.0,7939.0,205.0
+2020-11-02,,#Global,0.0,0.0,0.0,0.0
 2020-11-02,Australian Capital Territory,Australia,114.0,3.0,111.0,0.0
 2020-11-02,New South Wales,Australia,4435.0,53.0,3148.0,1234.0
 2020-11-02,Northern Territory,Australia,38.0,0.0,33.0,5.0
@@ -74645,3 +74931,265 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-02,Isle of Man,United Kingdom,355.0,24.0,324.0,7.0
 2020-11-02,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-11-02,Turks and Caicos Islands,United Kingdom,704.0,6.0,689.0,9.0
+2020-11-03,#Worldwide,#Global,47157479.0,1203401.0,31402551.0,14551527.0
+2020-11-03,Afghanistan,#Global,41728.0,1544.0,34355.0,5829.0
+2020-11-03,Albania,#Global,21904.0,532.0,11473.0,9899.0
+2020-11-03,Algeria,#Global,58979.0,1980.0,40577.0,16422.0
+2020-11-03,Andorra,#Global,4910.0,75.0,3627.0,1208.0
+2020-11-03,Angola,#Global,11577.0,291.0,5230.0,6056.0
+2020-11-03,Antigua and Barbuda,#Global,128.0,3.0,117.0,8.0
+2020-11-03,Argentina,#Global,1195276.0,32052.0,1009278.0,153946.0
+2020-11-03,Armenia,#Global,94776.0,1413.0,57599.0,35764.0
+2020-11-03,Australia (total),#Global,27622.0,907.0,25407.0,1308.0
+2020-11-03,Austria,#Global,118198.0,1192.0,74292.0,42714.0
+2020-11-03,Azerbaijan,#Global,58282.0,768.0,45030.0,12484.0
+2020-11-03,Bahamas,#Global,6790.0,149.0,4632.0,2009.0
+2020-11-03,Bahrain,#Global,82363.0,324.0,79680.0,2359.0
+2020-11-03,Bangladesh,#Global,412647.0,5983.0,329787.0,76877.0
+2020-11-03,Barbados,#Global,238.0,7.0,222.0,9.0
+2020-11-03,Belarus,#Global,101329.0,992.0,87985.0,12352.0
+2020-11-03,Belgium,#Global,452541.0,12126.0,26661.0,413754.0
+2020-11-03,Belize,#Global,3790.0,61.0,2262.0,1467.0
+2020-11-03,Benin,#Global,2683.0,41.0,2455.0,187.0
+2020-11-03,Bhutan,#Global,358.0,0.0,327.0,31.0
+2020-11-03,Bolivia,#Global,141936.0,8751.0,112526.0,20659.0
+2020-11-03,Bosnia and Herzegovina,#Global,53822.0,1317.0,29156.0,23349.0
+2020-11-03,Botswana,#Global,6642.0,24.0,4676.0,1942.0
+2020-11-03,Brazil,#Global,5566049.0,160496.0,5060697.0,344856.0
+2020-11-03,Brunei,#Global,148.0,3.0,143.0,2.0
+2020-11-03,Bulgaria,#Global,60537.0,1412.0,21544.0,37581.0
+2020-11-03,Burkina Faso,#Global,2530.0,67.0,2298.0,165.0
+2020-11-03,Burma,#Global,55804.0,1307.0,39063.0,15434.0
+2020-11-03,Burundi,#Global,597.0,1.0,511.0,85.0
+2020-11-03,Cabo Verde,#Global,8944.0,95.0,8155.0,694.0
+2020-11-03,Cambodia,#Global,292.0,0.0,283.0,9.0
+2020-11-03,Cameroon,#Global,22103.0,429.0,21151.0,523.0
+2020-11-03,Central African Republic,#Global,4866.0,62.0,1924.0,2880.0
+2020-11-03,Chad,#Global,1513.0,98.0,1331.0,84.0
+2020-11-03,Chile,#Global,514202.0,14319.0,490820.0,9063.0
+2020-11-03,China (total),#Global,91478.0,4739.0,86212.0,527.0
+2020-11-03,Colombia,#Global,1099392.0,31847.0,993877.0,73668.0
+2020-11-03,Comoros,#Global,545.0,7.0,498.0,40.0
+2020-11-03,Congo (Brazzaville),#Global,5348.0,92.0,3887.0,1369.0
+2020-11-03,Congo (Kinshasa),#Global,11427.0,315.0,10783.0,329.0
+2020-11-03,Costa Rica,#Global,112120.0,1419.0,68604.0,42097.0
+2020-11-03,Cote d'Ivoire,#Global,20765.0,126.0,20427.0,212.0
+2020-11-03,Croatia,#Global,54087.0,628.0,39380.0,14079.0
+2020-11-03,Cuba,#Global,7035.0,129.0,6374.0,532.0
+2020-11-03,Cyprus,#Global,4934.0,27.0,1882.0,3025.0
+2020-11-03,Czechia,#Global,362985.0,3913.0,185180.0,173892.0
+2020-11-03,Denmark,#Global,49594.0,728.0,36111.0,12755.0
+2020-11-03,Denmark (total),#Global,512.0,0.0,506.0,6.0
+2020-11-03,Diamond Princess,#Global,712.0,13.0,659.0,40.0
+2020-11-03,Djibouti,#Global,5575.0,61.0,5467.0,47.0
+2020-11-03,Dominica,#Global,50.0,0.0,33.0,17.0
+2020-11-03,Dominican Republic,#Global,127848.0,2252.0,105982.0,19614.0
+2020-11-03,Ecuador,#Global,170110.0,12698.0,149048.0,8364.0
+2020-11-03,Egypt,#Global,108122.0,6305.0,99765.0,2052.0
+2020-11-03,El Salvador,#Global,34015.0,987.0,29788.0,3240.0
+2020-11-03,Equatorial Guinea,#Global,5089.0,83.0,4965.0,41.0
+2020-11-03,Eritrea,#Global,480.0,0.0,426.0,54.0
+2020-11-03,Estonia,#Global,5125.0,73.0,3904.0,1148.0
+2020-11-03,Eswatini,#Global,5942.0,117.0,5669.0,156.0
+2020-11-03,Ethiopia,#Global,97502.0,1494.0,55254.0,40754.0
+2020-11-03,Fiji,#Global,34.0,2.0,31.0,1.0
+2020-11-03,Finland,#Global,16637.0,359.0,11300.0,4978.0
+2020-11-03,France,#Global,1419295.0,37141.0,98044.0,1284110.0
+2020-11-03,France (total),#Global,42096.0,351.0,25620.0,16125.0
+2020-11-03,Gabon,#Global,8984.0,55.0,8779.0,150.0
+2020-11-03,Gambia,#Global,3679.0,120.0,3494.0,65.0
+2020-11-03,Georgia,#Global,44522.0,362.0,28633.0,15527.0
+2020-11-03,Germany,#Global,577131.0,10717.0,373391.0,193023.0
+2020-11-03,Ghana,#Global,48200.0,320.0,47260.0,620.0
+2020-11-03,Greece,#Global,44246.0,655.0,23074.0,20517.0
+2020-11-03,Grenada,#Global,29.0,0.0,27.0,2.0
+2020-11-03,Guatemala,#Global,108483.0,3748.0,98658.0,6077.0
+2020-11-03,Guinea,#Global,12213.0,73.0,10600.0,1540.0
+2020-11-03,Guinea-Bissau,#Global,2413.0,41.0,1818.0,554.0
+2020-11-03,Guyana,#Global,4245.0,128.0,3320.0,797.0
+2020-11-03,Haiti,#Global,9057.0,232.0,7429.0,1396.0
+2020-11-03,Holy See,#Global,27.0,0.0,15.0,12.0
+2020-11-03,Honduras,#Global,98688.0,2706.0,41848.0,54134.0
+2020-11-03,Hungary,#Global,86769.0,1973.0,20856.0,63940.0
+2020-11-03,Iceland,#Global,4957.0,17.0,4081.0,859.0
+2020-11-03,India,#Global,8313876.0,123611.0,7656478.0,533787.0
+2020-11-03,Indonesia,#Global,418375.0,14146.0,349497.0,54732.0
+2020-11-03,Iran,#Global,637712.0,36160.0,495473.0,106079.0
+2020-11-03,Iraq,#Global,482296.0,11068.0,408756.0,62472.0
+2020-11-03,Ireland,#Global,63048.0,1922.0,23364.0,37762.0
+2020-11-03,Israel,#Global,316528.0,2592.0,304069.0,9867.0
+2020-11-03,Italy,#Global,759829.0,39412.0,302275.0,418142.0
+2020-11-03,Jamaica,#Global,9296.0,214.0,4666.0,4416.0
+2020-11-03,Japan,#Global,103309.0,1794.0,93133.0,8382.0
+2020-11-03,Jordan,#Global,86576.0,967.0,7993.0,77616.0
+2020-11-03,Kazakhstan,#Global,113741.0,1857.0,106893.0,4991.0
+2020-11-03,Kenya,#Global,57093.0,1039.0,37846.0,18208.0
+2020-11-03,"Korea, South",#Global,26925.0,474.0,24616.0,1835.0
+2020-11-03,Kosovo,#Global,20999.0,705.0,15722.0,4572.0
+2020-11-03,Kuwait,#Global,128080.0,789.0,119080.0,8211.0
+2020-11-03,Kyrgyzstan,#Global,60774.0,1163.0,51815.0,7796.0
+2020-11-03,Laos,#Global,24.0,0.0,23.0,1.0
+2020-11-03,Latvia,#Global,6439.0,79.0,1444.0,4916.0
+2020-11-03,Lebanon,#Global,85209.0,667.0,43885.0,40657.0
+2020-11-03,Lesotho,#Global,1961.0,44.0,988.0,929.0
+2020-11-03,Liberia,#Global,1436.0,82.0,1294.0,60.0
+2020-11-03,Libya,#Global,63688.0,893.0,36995.0,25800.0
+2020-11-03,Liechtenstein,#Global,631.0,3.0,379.0,249.0
+2020-11-03,Lithuania,#Global,17453.0,175.0,4934.0,12344.0
+2020-11-03,Luxembourg,#Global,19634.0,167.0,10825.0,8642.0
+2020-11-03,MS Zaandam,#Global,9.0,2.0,0.0,7.0
+2020-11-03,Madagascar,#Global,17111.0,244.0,16409.0,458.0
+2020-11-03,Malawi,#Global,5934.0,184.0,5333.0,417.0
+2020-11-03,Malaysia,#Global,34393.0,263.0,23995.0,10135.0
+2020-11-03,Maldives,#Global,11796.0,38.0,10962.0,796.0
+2020-11-03,Mali,#Global,3584.0,136.0,2775.0,673.0
+2020-11-03,Malta,#Global,6506.0,64.0,4505.0,1937.0
+2020-11-03,Marshall Islands,#Global,2.0,0.0,0.0,2.0
+2020-11-03,Mauritania,#Global,7724.0,164.0,7437.0,123.0
+2020-11-03,Mauritius,#Global,451.0,10.0,413.0,28.0
+2020-11-03,Mexico,#Global,938405.0,92593.0,803086.0,42726.0
+2020-11-03,Moldova,#Global,77487.0,1838.0,57402.0,18247.0
+2020-11-03,Monaco,#Global,397.0,2.0,293.0,102.0
+2020-11-03,Mongolia,#Global,352.0,0.0,314.0,38.0
+2020-11-03,Montenegro,#Global,19977.0,322.0,14635.0,5020.0
+2020-11-03,Morocco,#Global,229565.0,3900.0,189909.0,35756.0
+2020-11-03,Mozambique,#Global,13202.0,95.0,10695.0,2412.0
+2020-11-03,Namibia,#Global,13030.0,133.0,11304.0,1593.0
+2020-11-03,Nepal,#Global,179614.0,1004.0,141134.0,37476.0
+2020-11-03,Netherlands,#Global,375890.0,7576.0,0.0,368314.0
+2020-11-03,Netherlands (total),#Global,6550.0,64.0,5975.0,511.0
+2020-11-03,New Zealand,#Global,1971.0,25.0,1873.0,73.0
+2020-11-03,Nicaragua,#Global,5514.0,156.0,4225.0,1133.0
+2020-11-03,Niger,#Global,1222.0,69.0,1141.0,12.0
+2020-11-03,Nigeria,#Global,63173.0,1151.0,59634.0,2388.0
+2020-11-03,North Macedonia,#Global,33908.0,1049.0,21665.0,11194.0
+2020-11-03,Norway,#Global,21956.0,282.0,11863.0,9811.0
+2020-11-03,Oman,#Global,116528.0,1264.0,106540.0,8724.0
+2020-11-03,Pakistan,#Global,337573.0,6867.0,316060.0,14646.0
+2020-11-03,Panama,#Global,135592.0,2731.0,113379.0,19482.0
+2020-11-03,Papua New Guinea,#Global,597.0,7.0,580.0,10.0
+2020-11-03,Paraguay,#Global,64628.0,1441.0,44523.0,18664.0
+2020-11-03,Peru,#Global,902503.0,34476.0,830612.0,37415.0
+2020-11-03,Philippines,#Global,387161.0,7318.0,348967.0,30876.0
+2020-11-03,Poland,#Global,414844.0,6102.0,159986.0,248756.0
+2020-11-03,Portugal,#Global,149443.0,2635.0,86589.0,60219.0
+2020-11-03,Qatar,#Global,133143.0,232.0,130202.0,2709.0
+2020-11-03,Romania,#Global,258437.0,7273.0,181175.0,69989.0
+2020-11-03,Russia,#Global,1661096.0,28611.0,1244012.0,388473.0
+2020-11-03,Rwanda,#Global,5162.0,35.0,4930.0,197.0
+2020-11-03,Saint Kitts and Nevis,#Global,19.0,0.0,19.0,0.0
+2020-11-03,Saint Lucia,#Global,97.0,0.0,32.0,65.0
+2020-11-03,Saint Vincent and the Grenadines,#Global,75.0,0.0,71.0,4.0
+2020-11-03,San Marino,#Global,994.0,42.0,730.0,222.0
+2020-11-03,Sao Tome and Principe,#Global,954.0,16.0,907.0,31.0
+2020-11-03,Saudi Arabia,#Global,348510.0,5456.0,335153.0,7901.0
+2020-11-03,Senegal,#Global,15640.0,326.0,15149.0,165.0
+2020-11-03,Serbia,#Global,51083.0,844.0,0.0,50239.0
+2020-11-03,Seychelles,#Global,157.0,0.0,151.0,6.0
+2020-11-03,Sierra Leone,#Global,2368.0,74.0,1803.0,491.0
+2020-11-03,Singapore,#Global,58029.0,28.0,57937.0,64.0
+2020-11-03,Slovakia,#Global,63556.0,235.0,14257.0,49064.0
+2020-11-03,Slovenia,#Global,37382.0,412.0,14074.0,22896.0
+2020-11-03,Solomon Islands,#Global,13.0,0.0,4.0,9.0
+2020-11-03,Somalia,#Global,4229.0,107.0,3247.0,875.0
+2020-11-03,South Africa,#Global,728836.0,19539.0,659259.0,50038.0
+2020-11-03,South Sudan,#Global,2940.0,59.0,1290.0,1591.0
+2020-11-03,Spain,#Global,1259366.0,36495.0,150376.0,1072495.0
+2020-11-03,Sri Lanka,#Global,11744.0,23.0,5581.0,6140.0
+2020-11-03,Sudan,#Global,13905.0,837.0,6764.0,6304.0
+2020-11-03,Suriname,#Global,5218.0,111.0,5087.0,20.0
+2020-11-03,Sweden,#Global,134532.0,5969.0,0.0,128563.0
+2020-11-03,Switzerland,#Global,182303.0,2471.0,83400.0,96432.0
+2020-11-03,Syria,#Global,5888.0,298.0,2100.0,3490.0
+2020-11-03,Taiwan*,#Global,567.0,7.0,521.0,39.0
+2020-11-03,Tajikistan,#Global,11139.0,83.0,10389.0,667.0
+2020-11-03,Tanzania,#Global,509.0,21.0,183.0,305.0
+2020-11-03,Thailand,#Global,3804.0,59.0,3612.0,133.0
+2020-11-03,Timor-Leste,#Global,30.0,0.0,29.0,1.0
+2020-11-03,Togo,#Global,2381.0,57.0,1691.0,633.0
+2020-11-03,Trinidad and Tobago,#Global,5754.0,110.0,4929.0,715.0
+2020-11-03,Tunisia,#Global,63126.0,1483.0,5032.0,56611.0
+2020-11-03,Turkey,#Global,382118.0,10481.0,328824.0,42813.0
+2020-11-03,US,#Global,9382617.0,232620.0,3705130.0,5444867.0
+2020-11-03,Uganda,#Global,13099.0,115.0,7612.0,5372.0
+2020-11-03,Ukraine,#Global,423683.0,7749.0,176220.0,239714.0
+2020-11-03,United Arab Emirates,#Global,136149.0,503.0,133490.0,2156.0
+2020-11-03,United Kingdom,#Global,1073882.0,47250.0,0.0,1026632.0
+2020-11-03,United Kingdom (total),#Global,3217.0,90.0,2906.0,221.0
+2020-11-03,Uruguay,#Global,3196.0,61.0,2727.0,408.0
+2020-11-03,Uzbekistan,#Global,67553.0,574.0,64815.0,2164.0
+2020-11-03,Venezuela,#Global,93100.0,810.0,87941.0,4349.0
+2020-11-03,Vietnam,#Global,1202.0,35.0,1069.0,98.0
+2020-11-03,West Bank and Gaza,#Global,55408.0,501.0,47744.0,7163.0
+2020-11-03,Western Sahara,#Global,10.0,1.0,8.0,1.0
+2020-11-03,Yemen,#Global,2063.0,601.0,1375.0,87.0
+2020-11-03,Zambia,#Global,16661.0,349.0,15763.0,549.0
+2020-11-03,Zimbabwe,#Global,8410.0,246.0,7942.0,222.0
+2020-11-03,,#Global,0.0,0.0,0.0,0.0
+2020-11-03,Australian Capital Territory,Australia,114.0,3.0,111.0,0.0
+2020-11-03,New South Wales,Australia,4443.0,53.0,3150.0,1240.0
+2020-11-03,Northern Territory,Australia,38.0,0.0,33.0,5.0
+2020-11-03,Queensland,Australia,1177.0,6.0,1165.0,6.0
+2020-11-03,South Australia,Australia,504.0,4.0,487.0,13.0
+2020-11-03,Tasmania,Australia,230.0,13.0,217.0,0.0
+2020-11-03,Victoria,Australia,20345.0,819.0,19496.0,30.0
+2020-11-03,Western Australia,Australia,771.0,9.0,748.0,14.0
+2020-11-03,Anhui,China,991.0,6.0,985.0,0.0
+2020-11-03,Beijing,China,944.0,9.0,929.0,6.0
+2020-11-03,Chongqing,China,589.0,6.0,580.0,3.0
+2020-11-03,Fujian,China,443.0,1.0,413.0,29.0
+2020-11-03,Gansu,China,180.0,2.0,168.0,10.0
+2020-11-03,Guangdong,China,1938.0,8.0,1892.0,38.0
+2020-11-03,Guangxi,China,260.0,2.0,258.0,0.0
+2020-11-03,Guizhou,China,147.0,2.0,145.0,0.0
+2020-11-03,Hainan,China,171.0,6.0,165.0,0.0
+2020-11-03,Hebei,China,373.0,6.0,360.0,7.0
+2020-11-03,Heilongjiang,China,949.0,13.0,935.0,1.0
+2020-11-03,Henan,China,1284.0,22.0,1258.0,4.0
+2020-11-03,Hong Kong,China,5345.0,105.0,5109.0,131.0
+2020-11-03,Hubei,China,68143.0,4512.0,63627.0,4.0
+2020-11-03,Hunan,China,1020.0,4.0,1015.0,1.0
+2020-11-03,Inner Mongolia,China,297.0,1.0,270.0,26.0
+2020-11-03,Jiangsu,China,674.0,0.0,666.0,8.0
+2020-11-03,Jiangxi,China,935.0,1.0,934.0,0.0
+2020-11-03,Jilin,China,157.0,2.0,155.0,0.0
+2020-11-03,Liaoning,China,283.0,2.0,278.0,3.0
+2020-11-03,Macau,China,46.0,0.0,46.0,0.0
+2020-11-03,Ningxia,China,75.0,0.0,75.0,0.0
+2020-11-03,Qinghai,China,18.0,0.0,18.0,0.0
+2020-11-03,Shaanxi,China,456.0,3.0,427.0,26.0
+2020-11-03,Shandong,China,848.0,7.0,836.0,5.0
+2020-11-03,Shanghai,China,1200.0,7.0,1101.0,92.0
+2020-11-03,Shanxi,China,215.0,0.0,210.0,5.0
+2020-11-03,Sichuan,China,757.0,3.0,715.0,39.0
+2020-11-03,Tianjin,China,273.0,3.0,255.0,15.0
+2020-11-03,Tibet,China,1.0,0.0,1.0,0.0
+2020-11-03,Xinjiang,China,966.0,3.0,899.0,64.0
+2020-11-03,Yunnan,China,213.0,2.0,208.0,3.0
+2020-11-03,Zhejiang,China,1287.0,1.0,1279.0,7.0
+2020-11-03,Faroe Islands,Denmark,495.0,0.0,490.0,5.0
+2020-11-03,Greenland,Denmark,17.0,0.0,16.0,1.0
+2020-11-03,French Guiana,France,10577.0,70.0,9995.0,512.0
+2020-11-03,French Polynesia,France,8949.0,38.0,4842.0,4069.0
+2020-11-03,Guadeloupe,France,7903.0,133.0,2242.0,5528.0
+2020-11-03,Martinique,France,3552.0,30.0,98.0,3424.0
+2020-11-03,Mayotte,France,4524.0,45.0,2964.0,1515.0
+2020-11-03,New Caledonia,France,28.0,0.0,28.0,0.0
+2020-11-03,Reunion,France,5898.0,26.0,4884.0,988.0
+2020-11-03,Saint Barthelemy,France,83.0,0.0,67.0,16.0
+2020-11-03,Saint Pierre and Miquelon,France,16.0,0.0,12.0,4.0
+2020-11-03,St Martin,France,566.0,9.0,488.0,69.0
+2020-11-03,Aruba,Netherlands,4538.0,38.0,4340.0,160.0
+2020-11-03,"Bonaire, Sint Eustatius and Saba",Netherlands,153.0,3.0,145.0,5.0
+2020-11-03,Curacao,Netherlands,1000.0,1.0,722.0,277.0
+2020-11-03,Sint Maarten,Netherlands,859.0,22.0,768.0,69.0
+2020-11-03,Anguilla,United Kingdom,3.0,0.0,3.0,0.0
+2020-11-03,Bermuda,United Kingdom,206.0,9.0,176.0,21.0
+2020-11-03,British Virgin Islands,United Kingdom,71.0,1.0,70.0,0.0
+2020-11-03,Cayman Islands,United Kingdom,242.0,1.0,232.0,9.0
+2020-11-03,Channel Islands,United Kingdom,879.0,48.0,749.0,82.0
+2020-11-03,Falkland Islands (Malvinas),United Kingdom,13.0,0.0,13.0,0.0
+2020-11-03,Gibraltar,United Kingdom,730.0,0.0,638.0,92.0
+2020-11-03,Isle of Man,United Kingdom,356.0,24.0,324.0,8.0
+2020-11-03,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
+2020-11-03,Turks and Caicos Islands,United Kingdom,704.0,6.0,689.0,9.0
