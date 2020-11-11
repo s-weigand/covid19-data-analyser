@@ -63683,7 +63683,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-21,Isle of Man,United Kingdom,340.0,24.0,312.0,4.0
 2020-09-21,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-21,Turks and Caicos Islands,United Kingdom,668.0,5.0,572.0,91.0
-2020-09-22,#Worldwide,#Global,31440850.0,961536.0,21598413.0,8880901.0
+2020-09-22,#Worldwide,#Global,31440850.0,961642.0,21598413.0,8880795.0
 2020-09-22,Afghanistan,#Global,39096.0,1445.0,32576.0,5075.0
 2020-09-22,Albania,#Global,12666.0,367.0,7042.0,5257.0
 2020-09-22,Algeria,#Global,50214.0,1689.0,35307.0,13218.0
@@ -63862,7 +63862,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-22,Trinidad and Tobago,#Global,4026.0,65.0,1871.0,2090.0
 2020-09-22,Tunisia,#Global,11260.0,164.0,2386.0,8710.0
 2020-09-22,Turkey,#Global,306302.0,7639.0,269696.0,28967.0
-2020-09-22,US,#Global,6882964.0,200855.0,2646959.0,4035150.0
+2020-09-22,US,#Global,6882964.0,200961.0,2646959.0,4035044.0
 2020-09-22,Uganda,#Global,6712.0,64.0,2778.0,3870.0
 2020-09-22,Ukraine,#Global,185890.0,3716.0,82927.0,99247.0
 2020-09-22,United Arab Emirates,#Global,86447.0,405.0,76025.0,10017.0
@@ -63944,7 +63944,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-22,Isle of Man,United Kingdom,340.0,24.0,312.0,4.0
 2020-09-22,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-22,Turks and Caicos Islands,United Kingdom,672.0,5.0,581.0,86.0
-2020-09-23,#Worldwide,#Global,31706313.0,967138.0,21861174.0,8878001.0
+2020-09-23,#Worldwide,#Global,31706313.0,967244.0,21861174.0,8877895.0
 2020-09-23,Afghanistan,#Global,39145.0,1446.0,32610.0,5089.0
 2020-09-23,Albania,#Global,12787.0,370.0,7139.0,5278.0
 2020-09-23,Algeria,#Global,50400.0,1698.0,35428.0,13274.0
@@ -64123,7 +64123,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-23,Trinidad and Tobago,#Global,4136.0,67.0,1960.0,2109.0
 2020-09-23,Tunisia,#Global,12479.0,174.0,2386.0,9919.0
 2020-09-23,Turkey,#Global,308069.0,7711.0,270723.0,29635.0
-2020-09-23,US,#Global,6920870.0,201955.0,2670256.0,4048659.0
+2020-09-23,US,#Global,6920870.0,202061.0,2670256.0,4048553.0
 2020-09-23,Uganda,#Global,6879.0,69.0,2961.0,3849.0
 2020-09-23,Ukraine,#Global,189488.0,3784.0,84767.0,100937.0
 2020-09-23,United Arab Emirates,#Global,87530.0,406.0,76995.0,10129.0
@@ -64205,7 +64205,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-23,Isle of Man,United Kingdom,340.0,24.0,312.0,4.0
 2020-09-23,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-23,Turks and Caicos Islands,United Kingdom,676.0,5.0,588.0,83.0
-2020-09-24,#Worldwide,#Global,32066429.0,973850.0,22115199.0,8977380.0
+2020-09-24,#Worldwide,#Global,32066429.0,973956.0,22115199.0,8977274.0
 2020-09-24,Afghanistan,#Global,39170.0,1451.0,32619.0,5100.0
 2020-09-24,Albania,#Global,12921.0,370.0,7239.0,5312.0
 2020-09-24,Algeria,#Global,50579.0,1703.0,35544.0,13332.0
@@ -64384,7 +64384,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-24,Trinidad and Tobago,#Global,4235.0,67.0,2047.0,2121.0
 2020-09-24,Tunisia,#Global,13305.0,180.0,5032.0,8093.0
 2020-09-24,Turkey,#Global,309790.0,7785.0,271964.0,30041.0
-2020-09-24,US,#Global,6965247.0,202868.0,2710183.0,4052196.0
+2020-09-24,US,#Global,6965247.0,202974.0,2710183.0,4052090.0
 2020-09-24,Uganda,#Global,7064.0,70.0,3226.0,3768.0
 2020-09-24,Ukraine,#Global,192966.0,3838.0,86624.0,102504.0
 2020-09-24,United Arab Emirates,#Global,88532.0,407.0,77937.0,10188.0
@@ -64466,7 +64466,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-24,Isle of Man,United Kingdom,340.0,24.0,312.0,4.0
 2020-09-24,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-24,Turks and Caicos Islands,United Kingdom,679.0,5.0,602.0,72.0
-2020-09-25,#Worldwide,#Global,32394087.0,979744.0,22353793.0,9060550.0
+2020-09-25,#Worldwide,#Global,32394087.0,979850.0,22353793.0,9060444.0
 2020-09-25,Afghanistan,#Global,39186.0,1451.0,32619.0,5116.0
 2020-09-25,Albania,#Global,13045.0,373.0,7309.0,5363.0
 2020-09-25,Algeria,#Global,50754.0,1707.0,35654.0,13393.0
@@ -64645,7 +64645,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-25,Trinidad and Tobago,#Global,4277.0,70.0,2122.0,2085.0
 2020-09-25,Tunisia,#Global,14392.0,191.0,5032.0,9169.0
 2020-09-25,Turkey,#Global,311455.0,7858.0,273282.0,30315.0
-2020-09-25,US,#Global,7014745.0,203807.0,2727335.0,4083603.0
+2020-09-25,US,#Global,7014745.0,203913.0,2727335.0,4083497.0
 2020-09-25,Uganda,#Global,7218.0,71.0,3611.0,3536.0
 2020-09-25,Ukraine,#Global,196631.0,3910.0,88324.0,104397.0
 2020-09-25,United Arab Emirates,#Global,89540.0,409.0,78819.0,10312.0
@@ -64727,7 +64727,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-25,Isle of Man,United Kingdom,340.0,24.0,314.0,2.0
 2020-09-25,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-25,Turks and Caicos Islands,United Kingdom,680.0,5.0,617.0,58.0
-2020-09-26,#Worldwide,#Global,32670084.0,985018.0,22596600.0,9088466.0
+2020-09-26,#Worldwide,#Global,32670084.0,985124.0,22596600.0,9088360.0
 2020-09-26,Afghanistan,#Global,39192.0,1453.0,32635.0,5104.0
 2020-09-26,Albania,#Global,13153.0,375.0,7397.0,5381.0
 2020-09-26,Algeria,#Global,50914.0,1711.0,35756.0,13447.0
@@ -64906,7 +64906,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-26,Trinidad and Tobago,#Global,4312.0,70.0,2185.0,2057.0
 2020-09-26,Tunisia,#Global,14392.0,191.0,5032.0,9169.0
 2020-09-26,Turkey,#Global,312966.0,7929.0,274514.0,30523.0
-2020-09-26,US,#Global,7059189.0,204547.0,2750459.0,4104183.0
+2020-09-26,US,#Global,7059189.0,204653.0,2750459.0,4104077.0
 2020-09-26,Uganda,#Global,7364.0,71.0,3647.0,3646.0
 2020-09-26,Ukraine,#Global,200566.0,3988.0,90142.0,106436.0
 2020-09-26,United Arab Emirates,#Global,90618.0,411.0,79676.0,10531.0
@@ -64988,7 +64988,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-26,Isle of Man,United Kingdom,340.0,24.0,314.0,2.0
 2020-09-26,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-26,Turks and Caicos Islands,United Kingdom,681.0,5.0,620.0,56.0
-2020-09-27,#Worldwide,#Global,32909595.0,988616.0,22806049.0,9114930.0
+2020-09-27,#Worldwide,#Global,32909595.0,988722.0,22806049.0,9114824.0
 2020-09-27,Afghanistan,#Global,39227.0,1453.0,32642.0,5132.0
 2020-09-27,Albania,#Global,13259.0,377.0,7397.0,5485.0
 2020-09-27,Algeria,#Global,51067.0,1714.0,35860.0,13493.0
@@ -65167,7 +65167,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-27,Trinidad and Tobago,#Global,4362.0,71.0,2234.0,2057.0
 2020-09-27,Tunisia,#Global,16114.0,214.0,5032.0,10868.0
 2020-09-27,Turkey,#Global,314433.0,7997.0,275630.0,30806.0
-2020-09-27,US,#Global,7096523.0,204814.0,2766280.0,4125429.0
+2020-09-27,US,#Global,7096523.0,204920.0,2766280.0,4125323.0
 2020-09-27,Uganda,#Global,7530.0,73.0,3647.0,3810.0
 2020-09-27,Ukraine,#Global,203799.0,4044.0,91179.0,108576.0
 2020-09-27,United Arab Emirates,#Global,91469.0,412.0,80544.0,10513.0
@@ -65249,7 +65249,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-27,Isle of Man,United Kingdom,340.0,24.0,314.0,2.0
 2020-09-27,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-27,Turks and Caicos Islands,United Kingdom,682.0,5.0,620.0,57.0
-2020-09-28,#Worldwide,#Global,33183687.0,992527.0,23030258.0,9160902.0
+2020-09-28,#Worldwide,#Global,33183687.0,992633.0,23030258.0,9160796.0
 2020-09-28,Afghanistan,#Global,39233.0,1455.0,32642.0,5136.0
 2020-09-28,Albania,#Global,13391.0,380.0,7629.0,5382.0
 2020-09-28,Algeria,#Global,51213.0,1719.0,35962.0,13532.0
@@ -65428,7 +65428,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-28,Trinidad and Tobago,#Global,4386.0,72.0,2275.0,2039.0
 2020-09-28,Tunisia,#Global,16114.0,214.0,5032.0,10868.0
 2020-09-28,Turkey,#Global,315845.0,8062.0,277052.0,30731.0
-2020-09-28,US,#Global,7128630.0,205130.0,2794608.0,4128892.0
+2020-09-28,US,#Global,7128630.0,205236.0,2794608.0,4128786.0
 2020-09-28,Uganda,#Global,7777.0,75.0,4033.0,3669.0
 2020-09-28,Ukraine,#Global,206579.0,4082.0,91754.0,110743.0
 2020-09-28,United Arab Emirates,#Global,92095.0,413.0,81462.0,10220.0
@@ -65510,7 +65510,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-28,Isle of Man,United Kingdom,340.0,24.0,315.0,1.0
 2020-09-28,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-28,Turks and Caicos Islands,United Kingdom,682.0,5.0,631.0,46.0
-2020-09-29,#Worldwide,#Global,33465964.0,998613.0,23266970.0,9200381.0
+2020-09-29,#Worldwide,#Global,33465964.0,998720.0,23266970.0,9200274.0
 2020-09-29,Afghanistan,#Global,39254.0,1458.0,32746.0,5050.0
 2020-09-29,Albania,#Global,13518.0,384.0,7732.0,5402.0
 2020-09-29,Algeria,#Global,51368.0,1726.0,36063.0,13579.0
@@ -65689,7 +65689,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-29,Trinidad and Tobago,#Global,4463.0,74.0,2454.0,1935.0
 2020-09-29,Tunisia,#Global,17405.0,246.0,5032.0,12127.0
 2020-09-29,Turkey,#Global,317272.0,8130.0,278504.0,30638.0
-2020-09-29,US,#Global,7170741.0,206047.0,2813305.0,4151389.0
+2020-09-29,US,#Global,7170741.0,206154.0,2813305.0,4151282.0
 2020-09-29,Uganda,#Global,8017.0,75.0,4033.0,3909.0
 2020-09-29,Ukraine,#Global,210309.0,4154.0,93664.0,112491.0
 2020-09-29,United Arab Emirates,#Global,93090.0,416.0,82538.0,10136.0
@@ -65771,7 +65771,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-29,Isle of Man,United Kingdom,340.0,24.0,315.0,1.0
 2020-09-29,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-29,Turks and Caicos Islands,United Kingdom,686.0,6.0,642.0,38.0
-2020-09-30,#Worldwide,#Global,33790368.0,1005019.0,23515090.0,9270259.0
+2020-09-30,#Worldwide,#Global,33790368.0,1005126.0,23515090.0,9270152.0
 2020-09-30,Afghanistan,#Global,39268.0,1458.0,32789.0,5021.0
 2020-09-30,Albania,#Global,13649.0,387.0,7847.0,5415.0
 2020-09-30,Algeria,#Global,51530.0,1736.0,36174.0,13620.0
@@ -65950,7 +65950,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-30,Trinidad and Tobago,#Global,4531.0,76.0,2560.0,1895.0
 2020-09-30,Tunisia,#Global,18413.0,265.0,5032.0,13116.0
 2020-09-30,Turkey,#Global,318663.0,8195.0,279749.0,30719.0
-2020-09-30,US,#Global,7211643.0,206999.0,2840688.0,4163956.0
+2020-09-30,US,#Global,7211643.0,207106.0,2840688.0,4163849.0
 2020-09-30,Uganda,#Global,8129.0,75.0,4260.0,3794.0
 2020-09-30,Ukraine,#Global,214446.0,4221.0,95829.0,114396.0
 2020-09-30,United Arab Emirates,#Global,94190.0,419.0,83724.0,10047.0
@@ -66032,7 +66032,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-09-30,Isle of Man,United Kingdom,340.0,24.0,315.0,1.0
 2020-09-30,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-09-30,Turks and Caicos Islands,United Kingdom,689.0,6.0,645.0,38.0
-2020-10-01,#Worldwide,#Global,34106527.0,1013699.0,23734338.0,9358490.0
+2020-10-01,#Worldwide,#Global,34106527.0,1013806.0,23734338.0,9358383.0
 2020-10-01,Afghanistan,#Global,39285.0,1458.0,32842.0,4985.0
 2020-10-01,Albania,#Global,13806.0,388.0,8077.0,5341.0
 2020-10-01,Algeria,#Global,51690.0,1741.0,36282.0,13667.0
@@ -66211,7 +66211,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-01,Trinidad and Tobago,#Global,4570.0,76.0,2629.0,1865.0
 2020-10-01,Tunisia,#Global,18413.0,265.0,5032.0,13116.0
 2020-10-01,Turkey,#Global,320070.0,8262.0,281151.0,30657.0
-2020-10-01,US,#Global,7256997.0,207859.0,2860650.0,4188488.0
+2020-10-01,US,#Global,7256997.0,207966.0,2860650.0,4188381.0
 2020-10-01,Uganda,#Global,8287.0,75.0,4430.0,3782.0
 2020-10-01,Ukraine,#Global,218625.0,4288.0,97956.0,116381.0
 2020-10-01,United Arab Emirates,#Global,95348.0,421.0,84903.0,10024.0
@@ -66293,7 +66293,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-01,Isle of Man,United Kingdom,340.0,24.0,315.0,1.0
 2020-10-01,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-01,Turks and Caicos Islands,United Kingdom,690.0,6.0,648.0,36.0
-2020-10-02,#Worldwide,#Global,34398828.0,1018569.0,23904966.0,9475293.0
+2020-10-02,#Worldwide,#Global,34398828.0,1018676.0,23904966.0,9475186.0
 2020-10-02,Afghanistan,#Global,39290.0,1458.0,32842.0,4990.0
 2020-10-02,Albania,#Global,13965.0,389.0,8342.0,5234.0
 2020-10-02,Algeria,#Global,51847.0,1749.0,36385.0,13713.0
@@ -66472,7 +66472,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-02,Trinidad and Tobago,#Global,4629.0,76.0,2729.0,1824.0
 2020-10-02,Tunisia,#Global,19721.0,271.0,5032.0,14418.0
 2020-10-02,Turkey,#Global,321512.0,8325.0,282657.0,30530.0
-2020-10-02,US,#Global,7310459.0,208766.0,2873369.0,4228324.0
+2020-10-02,US,#Global,7310459.0,208873.0,2873369.0,4228217.0
 2020-10-02,Uganda,#Global,8491.0,79.0,4470.0,3942.0
 2020-10-02,Ukraine,#Global,223376.0,4357.0,100163.0,118856.0
 2020-10-02,United Arab Emirates,#Global,96529.0,424.0,86071.0,10034.0
@@ -66554,7 +66554,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-02,Isle of Man,United Kingdom,341.0,24.0,315.0,2.0
 2020-10-02,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-02,Turks and Caicos Islands,United Kingdom,695.0,6.0,651.0,38.0
-2020-10-03,#Worldwide,#Global,34716993.0,1023905.0,24162258.0,9530830.0
+2020-10-03,#Worldwide,#Global,34716993.0,1024012.0,24162258.0,9530723.0
 2020-10-03,Afghanistan,#Global,39297.0,1462.0,32842.0,4993.0
 2020-10-03,Albania,#Global,14117.0,392.0,8536.0,5189.0
 2020-10-03,Algeria,#Global,51995.0,1756.0,36482.0,13757.0
@@ -66733,7 +66733,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-03,Trinidad and Tobago,#Global,4715.0,79.0,2802.0,1834.0
 2020-10-03,Tunisia,#Global,20944.0,276.0,5032.0,15636.0
 2020-10-03,Turkey,#Global,323014.0,8384.0,283868.0,30762.0
-2020-10-03,US,#Global,7359972.0,209458.0,2897322.0,4253192.0
+2020-10-03,US,#Global,7359972.0,209565.0,2897322.0,4253085.0
 2020-10-03,Uganda,#Global,8662.0,79.0,4546.0,4037.0
 2020-10-03,Ukraine,#Global,228161.0,4451.0,102347.0,121363.0
 2020-10-03,United Arab Emirates,#Global,97760.0,426.0,87122.0,10212.0
@@ -66815,7 +66815,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-03,Isle of Man,United Kingdom,342.0,24.0,315.0,3.0
 2020-10-03,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-03,Turks and Caicos Islands,United Kingdom,695.0,6.0,651.0,38.0
-2020-10-04,#Worldwide,#Global,34963548.0,1027630.0,24378668.0,9557250.0
+2020-10-04,#Worldwide,#Global,34963548.0,1027737.0,24378668.0,9557143.0
 2020-10-04,Afghanistan,#Global,39341.0,1462.0,32852.0,5027.0
 2020-10-04,Albania,#Global,14266.0,396.0,8675.0,5195.0
 2020-10-04,Algeria,#Global,52136.0,1760.0,36578.0,13798.0
@@ -66994,7 +66994,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-04,Trinidad and Tobago,#Global,4763.0,81.0,2843.0,1839.0
 2020-10-04,Tunisia,#Global,22230.0,321.0,5032.0,16877.0
 2020-10-04,Turkey,#Global,324443.0,8441.0,285050.0,30952.0
-2020-10-04,US,#Global,7396295.0,209801.0,2911699.0,4274795.0
+2020-10-04,US,#Global,7396295.0,209908.0,2911699.0,4274688.0
 2020-10-04,Uganda,#Global,8808.0,81.0,4736.0,3991.0
 2020-10-04,Ukraine,#Global,232424.0,4495.0,103762.0,124167.0
 2020-10-04,United Arab Emirates,#Global,98801.0,426.0,88123.0,10252.0
@@ -67076,7 +67076,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-04,Isle of Man,United Kingdom,342.0,24.0,315.0,3.0
 2020-10-04,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-04,Turks and Caicos Islands,United Kingdom,695.0,6.0,656.0,33.0
-2020-10-05,#Worldwide,#Global,35289781.0,1034614.0,24615404.0,9639763.0
+2020-10-05,#Worldwide,#Global,35289781.0,1034721.0,24615404.0,9639656.0
 2020-10-05,Afghanistan,#Global,39422.0,1466.0,32879.0,5077.0
 2020-10-05,Albania,#Global,14410.0,400.0,8825.0,5185.0
 2020-10-05,Algeria,#Global,52270.0,1768.0,36672.0,13830.0
@@ -67255,7 +67255,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-05,Trinidad and Tobago,#Global,4767.0,82.0,2884.0,1801.0
 2020-10-05,Tunisia,#Global,22230.0,321.0,5032.0,16877.0
 2020-10-05,Turkey,#Global,326046.0,8498.0,286370.0,31178.0
-2020-10-05,US,#Global,7434937.0,210265.0,2935142.0,4289530.0
+2020-10-05,US,#Global,7434937.0,210372.0,2935142.0,4289423.0
 2020-10-05,Uganda,#Global,8965.0,82.0,5078.0,3805.0
 2020-10-05,Ukraine,#Global,236329.0,4530.0,104966.0,126833.0
 2020-10-05,United Arab Emirates,#Global,99733.0,429.0,89410.0,9894.0
@@ -67337,7 +67337,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-05,Isle of Man,United Kingdom,344.0,24.0,316.0,4.0
 2020-10-05,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-05,Turks and Caicos Islands,United Kingdom,695.0,6.0,656.0,33.0
-2020-10-06,#Worldwide,#Global,35611284.0,1040379.0,24846720.0,9724185.0
+2020-10-06,#Worldwide,#Global,35611284.0,1040486.0,24846720.0,9724078.0
 2020-10-06,Afghanistan,#Global,39486.0,1467.0,32977.0,5042.0
 2020-10-06,Albania,#Global,14568.0,403.0,8965.0,5200.0
 2020-10-06,Algeria,#Global,52399.0,1768.0,36763.0,13868.0
@@ -67516,7 +67516,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-06,Trinidad and Tobago,#Global,4846.0,83.0,2951.0,1812.0
 2020-10-06,Tunisia,#Global,22230.0,321.0,5032.0,16877.0
 2020-10-06,Turkey,#Global,327557.0,8553.0,287599.0,31405.0
-2020-10-06,US,#Global,7477409.0,210972.0,2952390.0,4314047.0
+2020-10-06,US,#Global,7477409.0,211079.0,2952390.0,4313940.0
 2020-10-06,Uganda,#Global,9082.0,84.0,5457.0,3541.0
 2020-10-06,Ukraine,#Global,240811.0,4624.0,107210.0,128977.0
 2020-10-06,United Arab Emirates,#Global,100794.0,435.0,90556.0,9803.0
@@ -67598,7 +67598,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-06,Isle of Man,United Kingdom,345.0,24.0,316.0,5.0
 2020-10-06,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-06,Turks and Caicos Islands,United Kingdom,695.0,6.0,656.0,33.0
-2020-10-07,#Worldwide,#Global,35958382.0,1046181.0,25100735.0,9811466.0
+2020-10-07,#Worldwide,#Global,35958382.0,1046288.0,25100735.0,9811359.0
 2020-10-07,Afghanistan,#Global,39548.0,1469.0,33045.0,5034.0
 2020-10-07,Albania,#Global,14730.0,407.0,9115.0,5208.0
 2020-10-07,Algeria,#Global,52520.0,1771.0,36857.0,13892.0
@@ -67777,7 +67777,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-07,Trinidad and Tobago,#Global,4887.0,84.0,3010.0,1793.0
 2020-10-07,Tunisia,#Global,24542.0,364.0,5032.0,19146.0
 2020-10-07,Turkey,#Global,329138.0,8609.0,288954.0,31575.0
-2020-10-07,US,#Global,7527218.0,211892.0,2999895.0,4315431.0
+2020-10-07,US,#Global,7527218.0,211999.0,2999895.0,4315324.0
 2020-10-07,Uganda,#Global,9260.0,85.0,5588.0,3587.0
 2020-10-07,Ukraine,#Global,245698.0,4707.0,109968.0,131023.0
 2020-10-07,United Arab Emirates,#Global,101840.0,436.0,91710.0,9694.0
@@ -67859,7 +67859,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-07,Isle of Man,United Kingdom,345.0,24.0,316.0,5.0
 2020-10-07,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-07,Turks and Caicos Islands,United Kingdom,695.0,6.0,656.0,33.0
-2020-10-08,#Worldwide,#Global,36316496.0,1052416.0,25318349.0,9945731.0
+2020-10-08,#Worldwide,#Global,36316496.0,1052523.0,25318349.0,9945624.0
 2020-10-08,Afghanistan,#Global,39616.0,1470.0,33058.0,5088.0
 2020-10-08,Albania,#Global,14899.0,411.0,9215.0,5273.0
 2020-10-08,Algeria,#Global,52658.0,1783.0,36958.0,13917.0
@@ -68038,7 +68038,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-08,Trinidad and Tobago,#Global,4963.0,86.0,3076.0,1801.0
 2020-10-08,Tunisia,#Global,26899.0,409.0,5032.0,21458.0
 2020-10-08,Turkey,#Global,330753.0,8667.0,290352.0,31734.0
-2020-10-08,US,#Global,7584403.0,212860.0,3021252.0,4350291.0
+2020-10-08,US,#Global,7584403.0,212967.0,3021252.0,4350184.0
 2020-10-08,Uganda,#Global,9442.0,85.0,5781.0,3576.0
 2020-10-08,Ukraine,#Global,251243.0,4807.0,112365.0,134071.0
 2020-10-08,United Arab Emirates,#Global,102929.0,438.0,93479.0,9012.0
@@ -68120,7 +68120,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-08,Isle of Man,United Kingdom,345.0,24.0,316.0,5.0
 2020-10-08,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-08,Turks and Caicos Islands,United Kingdom,695.0,6.0,671.0,18.0
-2020-10-09,#Worldwide,#Global,36673272.0,1058474.0,25521292.0,10093506.0
+2020-10-09,#Worldwide,#Global,36673272.0,1058581.0,25521292.0,10093399.0
 2020-10-09,Afghanistan,#Global,39693.0,1472.0,33058.0,5163.0
 2020-10-09,Albania,#Global,15066.0,413.0,9304.0,5349.0
 2020-10-09,Algeria,#Global,52804.0,1789.0,37067.0,13948.0
@@ -68299,7 +68299,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-09,Trinidad and Tobago,#Global,5021.0,89.0,3150.0,1782.0
 2020-10-09,Tunisia,#Global,26899.0,409.0,5032.0,21458.0
 2020-10-09,Turkey,#Global,332382.0,8722.0,291754.0,31906.0
-2020-10-09,US,#Global,7640622.0,213819.0,3039089.0,4387714.0
+2020-10-09,US,#Global,7640622.0,213926.0,3039089.0,4387607.0
 2020-10-09,Uganda,#Global,9538.0,86.0,5857.0,3595.0
 2020-10-09,Ukraine,#Global,257204.0,4899.0,114872.0,137433.0
 2020-10-09,United Arab Emirates,#Global,104004.0,442.0,94903.0,8659.0
@@ -68381,7 +68381,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-09,Isle of Man,United Kingdom,345.0,24.0,316.0,5.0
 2020-10-09,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-09,Turks and Caicos Islands,United Kingdom,695.0,6.0,672.0,17.0
-2020-10-10,#Worldwide,#Global,37001535.0,1063276.0,25711527.0,10226732.0
+2020-10-10,#Worldwide,#Global,37001535.0,1063383.0,25711527.0,10226625.0
 2020-10-10,Afghanistan,#Global,39703.0,1473.0,33064.0,5166.0
 2020-10-10,Albania,#Global,15231.0,416.0,9406.0,5409.0
 2020-10-10,Algeria,#Global,52940.0,1795.0,37170.0,13975.0
@@ -68560,7 +68560,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-10,Trinidad and Tobago,#Global,5043.0,90.0,3221.0,1732.0
 2020-10-10,Tunisia,#Global,31259.0,456.0,5032.0,25771.0
 2020-10-10,Turkey,#Global,334031.0,8778.0,293145.0,32108.0
-2020-10-10,US,#Global,7694782.0,214439.0,3062983.0,4417360.0
+2020-10-10,US,#Global,7694782.0,214546.0,3062983.0,4417253.0
 2020-10-10,Uganda,#Global,9701.0,93.0,6022.0,3586.0
 2020-10-10,Ukraine,#Global,263105.0,5010.0,116861.0,141234.0
 2020-10-10,United Arab Emirates,#Global,105133.0,443.0,95973.0,8717.0
@@ -68642,7 +68642,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-10,Isle of Man,United Kingdom,345.0,24.0,316.0,5.0
 2020-10-10,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-10,Turks and Caicos Islands,United Kingdom,696.0,6.0,672.0,18.0
-2020-10-11,#Worldwide,#Global,37269653.0,1067167.0,25927309.0,10275177.0
+2020-10-11,#Worldwide,#Global,37269653.0,1067274.0,25927309.0,10275070.0
 2020-10-11,Afghanistan,#Global,39799.0,1477.0,33114.0,5208.0
 2020-10-11,Albania,#Global,15399.0,420.0,9500.0,5479.0
 2020-10-11,Algeria,#Global,53072.0,1801.0,37170.0,14101.0
@@ -68821,7 +68821,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-11,Trinidad and Tobago,#Global,5043.0,90.0,3221.0,1732.0
 2020-10-11,Tunisia,#Global,32556.0,478.0,5032.0,27046.0
 2020-10-11,Turkey,#Global,335533.0,8837.0,294357.0,32339.0
-2020-10-11,US,#Global,7740674.0,214839.0,3075077.0,4450758.0
+2020-10-11,US,#Global,7740674.0,214946.0,3075077.0,4450651.0
 2020-10-11,Uganda,#Global,9801.0,93.0,6109.0,3599.0
 2020-10-11,Ukraine,#Global,268065.0,5098.0,117829.0,145138.0
 2020-10-11,United Arab Emirates,#Global,106229.0,445.0,97284.0,8500.0
@@ -68903,7 +68903,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-11,Isle of Man,United Kingdom,346.0,24.0,316.0,6.0
 2020-10-11,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-11,Turks and Caicos Islands,United Kingdom,696.0,6.0,672.0,18.0
-2020-10-12,#Worldwide,#Global,37593797.0,1071082.0,26130623.0,10392092.0
+2020-10-12,#Worldwide,#Global,37593797.0,1071189.0,26130623.0,10391985.0
 2020-10-12,Afghanistan,#Global,39870.0,1479.0,33118.0,5273.0
 2020-10-12,Albania,#Global,15570.0,424.0,9585.0,5561.0
 2020-10-12,Algeria,#Global,53325.0,1809.0,37382.0,14134.0
@@ -69082,7 +69082,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-12,Trinidad and Tobago,#Global,5116.0,92.0,3303.0,1721.0
 2020-10-12,Tunisia,#Global,32556.0,478.0,5032.0,27046.0
 2020-10-12,Turkey,#Global,337147.0,8895.0,295658.0,32594.0
-2020-10-12,US,#Global,7781236.0,215162.0,3106728.0,4459346.0
+2020-10-12,US,#Global,7781236.0,215269.0,3106728.0,4459239.0
 2020-10-12,Uganda,#Global,9864.0,94.0,6109.0,3661.0
 2020-10-12,Ukraine,#Global,272671.0,5143.0,118740.0,148788.0
 2020-10-12,United Arab Emirates,#Global,107293.0,446.0,98555.0,8292.0
@@ -69164,7 +69164,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-12,Isle of Man,United Kingdom,346.0,24.0,316.0,6.0
 2020-10-12,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-12,Turks and Caicos Islands,United Kingdom,696.0,6.0,672.0,18.0
-2020-10-13,#Worldwide,#Global,37918690.0,1076519.0,26321023.0,10521148.0
+2020-10-13,#Worldwide,#Global,37918690.0,1076626.0,26321023.0,10521041.0
 2020-10-13,Afghanistan,#Global,39928.0,1480.0,33308.0,5140.0
 2020-10-13,Albania,#Global,15752.0,429.0,9675.0,5648.0
 2020-10-13,Algeria,#Global,53399.0,1818.0,37492.0,14089.0
@@ -69343,7 +69343,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-13,Trinidad and Tobago,#Global,5127.0,93.0,3367.0,1667.0
 2020-10-13,Tunisia,#Global,32556.0,478.0,5032.0,27046.0
 2020-10-13,Turkey,#Global,338779.0,8957.0,296972.0,32850.0
-2020-10-13,US,#Global,7834257.0,215967.0,3124593.0,4493697.0
+2020-10-13,US,#Global,7834257.0,216074.0,3124593.0,4493590.0
 2020-10-13,Uganda,#Global,9945.0,95.0,6347.0,3503.0
 2020-10-13,Ukraine,#Global,277982.0,5254.0,120999.0,151729.0
 2020-10-13,United Arab Emirates,#Global,108608.0,448.0,100007.0,8153.0
@@ -69425,7 +69425,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-13,Isle of Man,United Kingdom,346.0,24.0,317.0,5.0
 2020-10-13,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-13,Turks and Caicos Islands,United Kingdom,696.0,6.0,673.0,17.0
-2020-10-14,#Worldwide,#Global,38295607.0,1082510.0,26531131.0,10681966.0
+2020-10-14,#Worldwide,#Global,38295607.0,1082617.0,26531131.0,10681859.0
 2020-10-14,Afghanistan,#Global,39994.0,1481.0,33354.0,5159.0
 2020-10-14,Albania,#Global,15955.0,434.0,9762.0,5759.0
 2020-10-14,Algeria,#Global,53584.0,1827.0,37603.0,14154.0
@@ -69604,7 +69604,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-14,Trinidad and Tobago,#Global,5154.0,93.0,3452.0,1609.0
 2020-10-14,Tunisia,#Global,34790.0,512.0,5032.0,29246.0
 2020-10-14,Turkey,#Global,340450.0,9014.0,298368.0,33068.0
-2020-10-14,US,#Global,7892627.0,216952.0,3155794.0,4519881.0
+2020-10-14,US,#Global,7892627.0,217059.0,3155794.0,4519774.0
 2020-10-14,Uganda,#Global,10069.0,95.0,6531.0,3443.0
 2020-10-14,Ukraine,#Global,283762.0,5365.0,123263.0,155134.0
 2020-10-14,United Arab Emirates,#Global,110039.0,450.0,101659.0,7930.0
@@ -69686,7 +69686,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-14,Isle of Man,United Kingdom,348.0,24.0,319.0,5.0
 2020-10-14,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-14,Turks and Caicos Islands,United Kingdom,696.0,6.0,673.0,17.0
-2020-10-15,#Worldwide,#Global,38700580.0,1088581.0,26736222.0,10875777.0
+2020-10-15,#Worldwide,#Global,38700580.0,1088688.0,26736222.0,10875670.0
 2020-10-15,Afghanistan,#Global,40026.0,1481.0,33447.0,5098.0
 2020-10-15,Albania,#Global,16212.0,439.0,9864.0,5909.0
 2020-10-15,Algeria,#Global,53777.0,1827.0,37603.0,14347.0
@@ -69865,7 +69865,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-15,Trinidad and Tobago,#Global,5194.0,93.0,3502.0,1599.0
 2020-10-15,Tunisia,#Global,34790.0,512.0,5032.0,29246.0
 2020-10-15,Turkey,#Global,342143.0,9080.0,299679.0,33384.0
-2020-10-15,US,#Global,7956848.0,217775.0,3177397.0,4561676.0
+2020-10-15,US,#Global,7956848.0,217882.0,3177397.0,4561569.0
 2020-10-15,Uganda,#Global,10117.0,96.0,6725.0,3296.0
 2020-10-15,Ukraine,#Global,289022.0,5443.0,124316.0,159263.0
 2020-10-15,United Arab Emirates,#Global,111437.0,452.0,103325.0,7660.0
@@ -69947,7 +69947,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-15,Isle of Man,United Kingdom,348.0,24.0,319.0,5.0
 2020-10-15,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-15,Turks and Caicos Islands,United Kingdom,696.0,6.0,673.0,17.0
-2020-10-16,#Worldwide,#Global,39108457.0,1094665.0,26938717.0,11075075.0
+2020-10-16,#Worldwide,#Global,39108457.0,1094772.0,26938717.0,11074968.0
 2020-10-16,Afghanistan,#Global,40073.0,1485.0,33516.0,5072.0
 2020-10-16,Albania,#Global,16501.0,443.0,9957.0,6101.0
 2020-10-16,Algeria,#Global,53998.0,1841.0,37856.0,14301.0
@@ -70126,7 +70126,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-16,Trinidad and Tobago,#Global,5241.0,95.0,3545.0,1601.0
 2020-10-16,Tunisia,#Global,34790.0,512.0,5032.0,29246.0
 2020-10-16,Turkey,#Global,343955.0,9153.0,301098.0,33704.0
-2020-10-16,US,#Global,8025110.0,218667.0,3197539.0,4608904.0
+2020-10-16,US,#Global,8025110.0,218774.0,3197539.0,4608797.0
 2020-10-16,Uganda,#Global,10334.0,96.0,6901.0,3337.0
 2020-10-16,Ukraine,#Global,295227.0,5551.0,126721.0,162955.0
 2020-10-16,United Arab Emirates,#Global,112849.0,455.0,104943.0,7451.0
@@ -70208,7 +70208,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-16,Isle of Man,United Kingdom,348.0,24.0,319.0,5.0
 2020-10-16,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-16,Turks and Caicos Islands,United Kingdom,697.0,6.0,674.0,17.0
-2020-10-17,#Worldwide,#Global,39449560.0,1100146.0,27137266.0,11212148.0
+2020-10-17,#Worldwide,#Global,39449560.0,1100254.0,27137266.0,11212040.0
 2020-10-17,Afghanistan,#Global,40141.0,1488.0,33561.0,5092.0
 2020-10-17,Albania,#Global,16774.0,448.0,10001.0,6325.0
 2020-10-17,Algeria,#Global,54203.0,1846.0,37971.0,14386.0
@@ -70387,7 +70387,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-17,Trinidad and Tobago,#Global,5281.0,95.0,3584.0,1602.0
 2020-10-17,Tunisia,#Global,40542.0,626.0,5032.0,34884.0
 2020-10-17,Turkey,#Global,345678.0,9224.0,302499.0,33955.0
-2020-10-17,US,#Global,8082183.0,219381.0,3220573.0,4642229.0
+2020-10-17,US,#Global,8082183.0,219489.0,3220573.0,4642121.0
 2020-10-17,Uganda,#Global,10455.0,96.0,6901.0,3458.0
 2020-10-17,Ukraine,#Global,301856.0,5669.0,129033.0,167154.0
 2020-10-17,United Arab Emirates,#Global,114387.0,459.0,106354.0,7574.0
@@ -70469,7 +70469,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-17,Isle of Man,United Kingdom,348.0,24.0,319.0,5.0
 2020-10-17,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-17,Turks and Caicos Islands,United Kingdom,698.0,6.0,673.0,19.0
-2020-10-18,#Worldwide,#Global,39731761.0,1103459.0,27332955.0,11295347.0
+2020-10-18,#Worldwide,#Global,39731761.0,1103567.0,27332955.0,11295239.0
 2020-10-18,Afghanistan,#Global,40200.0,1492.0,33614.0,5094.0
 2020-10-18,Albania,#Global,17055.0,451.0,10071.0,6533.0
 2020-10-18,Algeria,#Global,54402.0,1856.0,38088.0,14458.0
@@ -70648,7 +70648,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-18,Trinidad and Tobago,#Global,5297.0,96.0,3652.0,1549.0
 2020-10-18,Tunisia,#Global,40542.0,626.0,5032.0,34884.0
 2020-10-18,Turkey,#Global,347493.0,9296.0,304003.0,34194.0
-2020-10-18,US,#Global,8131522.0,219771.0,3234138.0,4677613.0
+2020-10-18,US,#Global,8131522.0,219879.0,3234138.0,4677505.0
 2020-10-18,Uganda,#Global,10590.0,97.0,6992.0,3501.0
 2020-10-18,Ukraine,#Global,307301.0,5762.0,130338.0,171201.0
 2020-10-18,United Arab Emirates,#Global,115602.0,463.0,107516.0,7623.0
@@ -70730,7 +70730,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-18,Isle of Man,United Kingdom,348.0,24.0,319.0,5.0
 2020-10-18,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-18,Turks and Caicos Islands,United Kingdom,698.0,6.0,684.0,8.0
-2020-10-19,#Worldwide,#Global,40176540.0,1108430.0,27540602.0,11527508.0
+2020-10-19,#Worldwide,#Global,40176540.0,1108539.0,27540602.0,11527399.0
 2020-10-19,Afghanistan,#Global,40287.0,1497.0,33760.0,5030.0
 2020-10-19,Albania,#Global,17350.0,454.0,10167.0,6729.0
 2020-10-19,Algeria,#Global,54616.0,1865.0,38215.0,14536.0
@@ -70909,7 +70909,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-19,Trinidad and Tobago,#Global,5298.0,97.0,3696.0,1505.0
 2020-10-19,Tunisia,#Global,42727.0,687.0,5032.0,37008.0
 2020-10-19,Turkey,#Global,349519.0,9371.0,305427.0,34721.0
-2020-10-19,US,#Global,8198105.0,220222.0,3272603.0,4705280.0
+2020-10-19,US,#Global,8198105.0,220331.0,3272603.0,4705171.0
 2020-10-19,Uganda,#Global,10691.0,97.0,6992.0,3602.0
 2020-10-19,Ukraine,#Global,312287.0,5834.0,131473.0,174980.0
 2020-10-19,United Arab Emirates,#Global,116517.0,466.0,108811.0,7240.0
@@ -70991,7 +70991,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-19,Isle of Man,United Kingdom,348.0,24.0,321.0,3.0
 2020-10-19,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-19,Turks and Caicos Islands,United Kingdom,698.0,6.0,689.0,3.0
-2020-10-20,#Worldwide,#Global,40562824.0,1115005.0,27752221.0,11695598.0
+2020-10-20,#Worldwide,#Global,40562824.0,1115115.0,27752221.0,11695488.0
 2020-10-20,Afghanistan,#Global,40357.0,1499.0,33790.0,5068.0
 2020-10-20,Albania,#Global,17651.0,458.0,10225.0,6968.0
 2020-10-20,Algeria,#Global,54829.0,1873.0,38346.0,14610.0
@@ -71170,7 +71170,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-20,Trinidad and Tobago,#Global,5333.0,98.0,3758.0,1477.0
 2020-10-20,Tunisia,#Global,44450.0,711.0,5032.0,38707.0
 2020-10-20,Turkey,#Global,351413.0,9445.0,306939.0,35029.0
-2020-10-20,US,#Global,8259044.0,221161.0,3295148.0,4742735.0
+2020-10-20,US,#Global,8259044.0,221271.0,3295148.0,4742625.0
 2020-10-20,Uganda,#Global,10788.0,97.0,7066.0,3625.0
 2020-10-20,Ukraine,#Global,317967.0,5948.0,134680.0,177339.0
 2020-10-20,United Arab Emirates,#Global,117594.0,470.0,110313.0,6811.0
@@ -71252,7 +71252,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-20,Isle of Man,United Kingdom,348.0,24.0,321.0,3.0
 2020-10-20,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-20,Turks and Caicos Islands,United Kingdom,698.0,6.0,689.0,3.0
-2020-10-21,#Worldwide,#Global,41003142.0,1121537.0,27966468.0,11915137.0
+2020-10-21,#Worldwide,#Global,41003142.0,1121647.0,27966468.0,11915027.0
 2020-10-21,Afghanistan,#Global,40510.0,1501.0,33824.0,5185.0
 2020-10-21,Albania,#Global,17948.0,462.0,10341.0,7145.0
 2020-10-21,Algeria,#Global,55081.0,1880.0,38482.0,14719.0
@@ -71431,7 +71431,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-21,Trinidad and Tobago,#Global,5392.0,101.0,3822.0,1469.0
 2020-10-21,Tunisia,#Global,45892.0,740.0,5032.0,40120.0
 2020-10-21,Turkey,#Global,353426.0,9513.0,308446.0,35467.0
-2020-10-21,US,#Global,8321033.0,222288.0,3323354.0,4775391.0
+2020-10-21,US,#Global,8321033.0,222398.0,3323354.0,4775281.0
 2020-10-21,Uganda,#Global,10933.0,98.0,7154.0,3681.0
 2020-10-21,Ukraine,#Global,324942.0,6093.0,137515.0,181334.0
 2020-10-21,United Arab Emirates,#Global,119132.0,472.0,111814.0,6846.0
@@ -71513,7 +71513,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-21,Isle of Man,United Kingdom,348.0,24.0,321.0,3.0
 2020-10-21,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-21,Turks and Caicos Islands,United Kingdom,698.0,6.0,689.0,3.0
-2020-10-22,#Worldwide,#Global,41470206.0,1127389.0,28190978.0,12151839.0
+2020-10-22,#Worldwide,#Global,41470206.0,1127499.0,28190978.0,12151729.0
 2020-10-22,Afghanistan,#Global,40626.0,1505.0,33831.0,5290.0
 2020-10-22,Albania,#Global,18250.0,465.0,10395.0,7390.0
 2020-10-22,Algeria,#Global,55357.0,1888.0,38618.0,14851.0
@@ -71692,7 +71692,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-22,Trinidad and Tobago,#Global,5446.0,103.0,3876.0,1467.0
 2020-10-22,Tunisia,#Global,45892.0,740.0,5032.0,40120.0
 2020-10-22,Turkey,#Global,355528.0,9584.0,310027.0,35917.0
-2020-10-22,US,#Global,8393691.0,223144.0,3353056.0,4817491.0
+2020-10-22,US,#Global,8393691.0,223254.0,3353056.0,4817381.0
 2020-10-22,Uganda,#Global,11041.0,98.0,7210.0,3733.0
 2020-10-22,Ukraine,#Global,332262.0,6213.0,140322.0,185727.0
 2020-10-22,United Arab Emirates,#Global,120710.0,474.0,113364.0,6872.0
@@ -71774,7 +71774,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-22,Isle of Man,United Kingdom,348.0,24.0,321.0,3.0
 2020-10-22,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-22,Turks and Caicos Islands,United Kingdom,698.0,6.0,689.0,3.0
-2020-10-23,#Worldwide,#Global,41964058.0,1134282.0,28389774.0,12440002.0
+2020-10-23,#Worldwide,#Global,41964058.0,1134392.0,28389774.0,12439892.0
 2020-10-23,Afghanistan,#Global,40687.0,1507.0,34010.0,5170.0
 2020-10-23,Albania,#Global,18556.0,469.0,10466.0,7621.0
 2020-10-23,Algeria,#Global,55630.0,1897.0,38788.0,14945.0
@@ -71953,7 +71953,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-23,Trinidad and Tobago,#Global,5487.0,104.0,3945.0,1438.0
 2020-10-23,Tunisia,#Global,47214.0,784.0,5032.0,41398.0
 2020-10-23,Turkey,#Global,357693.0,9658.0,311520.0,36515.0
-2020-10-23,US,#Global,8476223.0,224080.0,3375427.0,4876716.0
+2020-10-23,US,#Global,8476223.0,224190.0,3375427.0,4876606.0
 2020-10-23,Uganda,#Global,11163.0,99.0,7269.0,3795.0
 2020-10-23,Ukraine,#Global,340042.0,6336.0,143093.0,190613.0
 2020-10-23,United Arab Emirates,#Global,122273.0,475.0,115068.0,6730.0
@@ -72035,7 +72035,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-23,Isle of Man,United Kingdom,348.0,24.0,321.0,3.0
 2020-10-23,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-23,Turks and Caicos Islands,United Kingdom,699.0,6.0,689.0,4.0
-2020-10-24,#Worldwide,#Global,42375359.0,1139929.0,28599693.0,12635737.0
+2020-10-24,#Worldwide,#Global,42375359.0,1140040.0,28599693.0,12635626.0
 2020-10-24,Afghanistan,#Global,40768.0,1511.0,34023.0,5234.0
 2020-10-24,Albania,#Global,18858.0,473.0,10548.0,7837.0
 2020-10-24,Algeria,#Global,55880.0,1907.0,38932.0,15041.0
@@ -72214,7 +72214,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-24,Trinidad and Tobago,#Global,5503.0,105.0,4018.0,1380.0
 2020-10-24,Tunisia,#Global,48799.0,819.0,5032.0,42948.0
 2020-10-24,Turkey,#Global,359784.0,9727.0,313093.0,36964.0
-2020-10-24,US,#Global,8560099.0,225002.0,3406656.0,4928441.0
+2020-10-24,US,#Global,8560099.0,225113.0,3406656.0,4928330.0
 2020-10-24,Uganda,#Global,11297.0,99.0,7281.0,3917.0
 2020-10-24,Ukraine,#Global,347317.0,6463.0,145418.0,195436.0
 2020-10-24,United Arab Emirates,#Global,123764.0,475.0,116894.0,6395.0
@@ -72296,7 +72296,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-24,Isle of Man,United Kingdom,348.0,24.0,321.0,3.0
 2020-10-24,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-24,Turks and Caicos Islands,United Kingdom,701.0,6.0,689.0,6.0
-2020-10-25,#Worldwide,#Global,42726014.0,1144009.0,28793828.0,12788177.0
+2020-10-25,#Worldwide,#Global,42726014.0,1144120.0,28793828.0,12788066.0
 2020-10-25,Afghanistan,#Global,40833.0,1514.0,34129.0,5190.0
 2020-10-25,Albania,#Global,19157.0,477.0,10654.0,8026.0
 2020-10-25,Algeria,#Global,56143.0,1914.0,39095.0,15134.0
@@ -72475,7 +72475,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-25,Trinidad and Tobago,#Global,5511.0,105.0,4085.0,1321.0
 2020-10-25,Tunisia,#Global,48799.0,819.0,5032.0,42948.0
 2020-10-25,Turkey,#Global,361801.0,9799.0,314390.0,37612.0
-2020-10-25,US,#Global,8622046.0,225346.0,3422878.0,4973822.0
+2020-10-25,US,#Global,8622046.0,225457.0,3422878.0,4973711.0
 2020-10-25,Uganda,#Global,11443.0,101.0,7351.0,3991.0
 2020-10-25,Ukraine,#Global,353723.0,6566.0,147240.0,199917.0
 2020-10-25,United Arab Emirates,#Global,125123.0,477.0,118931.0,5715.0
@@ -72557,7 +72557,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-25,Isle of Man,United Kingdom,348.0,24.0,321.0,3.0
 2020-10-25,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-25,Turks and Caicos Islands,United Kingdom,701.0,6.0,689.0,6.0
-2020-10-26,#Worldwide,#Global,43258978.0,1149601.0,29030348.0,13079029.0
+2020-10-26,#Worldwide,#Global,43258978.0,1149712.0,29030348.0,13078918.0
 2020-10-26,Afghanistan,#Global,40937.0,1518.0,34150.0,5269.0
 2020-10-26,Albania,#Global,19445.0,480.0,10705.0,8260.0
 2020-10-26,Algeria,#Global,56419.0,1922.0,39273.0,15224.0
@@ -72736,7 +72736,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-26,Trinidad and Tobago,#Global,5535.0,106.0,4126.0,1303.0
 2020-10-26,Tunisia,#Global,52399.0,983.0,5032.0,46384.0
 2020-10-26,Turkey,#Global,363999.0,9874.0,316008.0,38117.0
-2020-10-26,US,#Global,8688041.0,225829.0,3460455.0,5001757.0
+2020-10-26,US,#Global,8688041.0,225940.0,3460455.0,5001646.0
 2020-10-26,Uganda,#Global,11557.0,101.0,7351.0,4105.0
 2020-10-26,Ukraine,#Global,359348.0,6641.0,148300.0,204407.0
 2020-10-26,United Arab Emirates,#Global,126234.0,480.0,120750.0,5004.0
@@ -72818,7 +72818,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-26,Isle of Man,United Kingdom,351.0,24.0,321.0,6.0
 2020-10-26,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-26,Turks and Caicos Islands,United Kingdom,701.0,6.0,689.0,6.0
-2020-10-27,#Worldwide,#Global,43725156.0,1157006.0,29618619.0,12949531.0
+2020-10-27,#Worldwide,#Global,43725156.0,1157118.0,29618619.0,12949419.0
 2020-10-27,Afghanistan,#Global,41032.0,1523.0,34217.0,5292.0
 2020-10-27,Albania,#Global,19729.0,487.0,10808.0,8434.0
 2020-10-27,Algeria,#Global,56706.0,1931.0,39444.0,15331.0
@@ -72997,7 +72997,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-27,Trinidad and Tobago,#Global,5568.0,106.0,4186.0,1276.0
 2020-10-27,Tunisia,#Global,52399.0,983.0,5032.0,46384.0
 2020-10-27,Turkey,#Global,366208.0,9950.0,317519.0,38739.0
-2020-10-27,US,#Global,8763634.0,226821.0,3487666.0,5049147.0
+2020-10-27,US,#Global,8763634.0,226933.0,3487666.0,5049035.0
 2020-10-27,Uganda,#Global,11621.0,103.0,7400.0,4118.0
 2020-10-27,Ukraine,#Global,366233.0,6770.0,151428.0,208035.0
 2020-10-27,United Arab Emirates,#Global,127624.0,482.0,122458.0,4684.0
@@ -73079,7 +73079,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-27,Isle of Man,United Kingdom,352.0,24.0,321.0,7.0
 2020-10-27,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-27,Turks and Caicos Islands,United Kingdom,703.0,6.0,689.0,8.0
-2020-10-28,#Worldwide,#Global,44230782.0,1164050.0,29882213.0,13184519.0
+2020-10-28,#Worldwide,#Global,44230782.0,1164162.0,29882213.0,13184407.0
 2020-10-28,Afghanistan,#Global,41145.0,1529.0,34237.0,5379.0
 2020-10-28,Albania,#Global,20040.0,493.0,10893.0,8654.0
 2020-10-28,Algeria,#Global,57026.0,1941.0,39635.0,15450.0
@@ -73258,7 +73258,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-28,Trinidad and Tobago,#Global,5594.0,107.0,4246.0,1241.0
 2020-10-28,Tunisia,#Global,54278.0,1153.0,5032.0,48093.0
 2020-10-28,Turkey,#Global,368513.0,10027.0,319181.0,39305.0
-2020-10-28,US,#Global,8841246.0,227817.0,3518140.0,5095289.0
+2020-10-28,US,#Global,8841246.0,227929.0,3518140.0,5095177.0
 2020-10-28,Uganda,#Global,11767.0,106.0,7461.0,4200.0
 2020-10-28,Ukraine,#Global,374023.0,6938.0,155028.0,212057.0
 2020-10-28,United Arab Emirates,#Global,129024.0,485.0,124647.0,3892.0
@@ -73340,7 +73340,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-28,Isle of Man,United Kingdom,352.0,24.0,321.0,7.0
 2020-10-28,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-28,Turks and Caicos Islands,United Kingdom,703.0,6.0,689.0,8.0
-2020-10-29,#Worldwide,#Global,44778553.0,1171074.0,30126378.0,13481101.0
+2020-10-29,#Worldwide,#Global,44778553.0,1171186.0,30126378.0,13480989.0
 2020-10-29,Afghanistan,#Global,41268.0,1532.0,34239.0,5497.0
 2020-10-29,Albania,#Global,20315.0,499.0,11007.0,8809.0
 2020-10-29,Algeria,#Global,57332.0,1949.0,39635.0,15748.0
@@ -73519,7 +73519,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-29,Trinidad and Tobago,#Global,5636.0,107.0,4293.0,1236.0
 2020-10-29,Tunisia,#Global,54278.0,1153.0,5032.0,48093.0
 2020-10-29,Turkey,#Global,370832.0,10099.0,320762.0,39971.0
-2020-10-29,US,#Global,8931449.0,228798.0,3554336.0,5148315.0
+2020-10-29,US,#Global,8931449.0,228910.0,3554336.0,5148203.0
 2020-10-29,Uganda,#Global,12201.0,108.0,7461.0,4632.0
 2020-10-29,Ukraine,#Global,381664.0,7058.0,158208.0,216398.0
 2020-10-29,United Arab Emirates,#Global,130336.0,488.0,126147.0,3701.0
@@ -73601,7 +73601,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-29,Isle of Man,United Kingdom,352.0,24.0,324.0,4.0
 2020-10-29,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-29,Turks and Caicos Islands,United Kingdom,703.0,6.0,689.0,8.0
-2020-10-30,#Worldwide,#Global,45344223.0,1178561.0,30378574.0,13787088.0
+2020-10-30,#Worldwide,#Global,45344223.0,1178673.0,30378574.0,13786976.0
 2020-10-30,Afghanistan,#Global,41334.0,1533.0,34258.0,5543.0
 2020-10-30,Albania,#Global,20634.0,502.0,11097.0,9035.0
 2020-10-30,Algeria,#Global,57651.0,1956.0,40014.0,15681.0
@@ -73780,7 +73780,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-30,Trinidad and Tobago,#Global,5668.0,107.0,4455.0,1106.0
 2020-10-30,Tunisia,#Global,58029.0,1253.0,5032.0,51744.0
 2020-10-30,Turkey,#Global,373154.0,10177.0,322465.0,40512.0
-2020-10-30,US,#Global,9029237.0,229796.0,3578452.0,5220989.0
+2020-10-30,US,#Global,9029237.0,229908.0,3578452.0,5220877.0
 2020-10-30,Uganda,#Global,12410.0,110.0,7503.0,4797.0
 2020-10-30,Ukraine,#Global,390272.0,7235.0,161719.0,221318.0
 2020-10-30,United Arab Emirates,#Global,131508.0,490.0,127607.0,3411.0
@@ -73862,7 +73862,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-30,Isle of Man,United Kingdom,353.0,24.0,324.0,5.0
 2020-10-30,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-30,Turks and Caicos Islands,United Kingdom,703.0,6.0,689.0,8.0
-2020-10-31,#Worldwide,#Global,45818179.0,1185101.0,30621574.0,14011504.0
+2020-10-31,#Worldwide,#Global,45818179.0,1185213.0,30621574.0,14011392.0
 2020-10-31,Afghanistan,#Global,41425.0,1536.0,34321.0,5568.0
 2020-10-31,Albania,#Global,20875.0,509.0,11189.0,9177.0
 2020-10-31,Algeria,#Global,57942.0,1964.0,40201.0,15777.0
@@ -74041,7 +74041,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-31,Trinidad and Tobago,#Global,5692.0,108.0,4610.0,974.0
 2020-10-31,Tunisia,#Global,59813.0,1317.0,5032.0,53464.0
 2020-10-31,Turkey,#Global,375367.0,10252.0,323971.0,41144.0
-2020-10-31,US,#Global,9118074.0,230705.0,3612478.0,5274891.0
+2020-10-31,US,#Global,9118074.0,230817.0,3612478.0,5274779.0
 2020-10-31,Uganda,#Global,12495.0,111.0,7503.0,4881.0
 2020-10-31,Ukraine,#Global,399330.0,7399.0,165902.0,226029.0
 2020-10-31,United Arab Emirates,#Global,132629.0,495.0,128902.0,3232.0
@@ -74123,7 +74123,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-10-31,Isle of Man,United Kingdom,353.0,24.0,324.0,5.0
 2020-10-31,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-10-31,Turks and Caicos Islands,United Kingdom,703.0,6.0,689.0,8.0
-2020-11-01,#Worldwide,#Global,46249978.0,1189973.0,30877492.0,14182513.0
+2020-11-01,#Worldwide,#Global,46249978.0,1190085.0,30877492.0,14182401.0
 2020-11-01,Afghanistan,#Global,41501.0,1536.0,34326.0,5639.0
 2020-11-01,Albania,#Global,21202.0,518.0,11246.0,9438.0
 2020-11-01,Algeria,#Global,58272.0,1973.0,40395.0,15904.0
@@ -74302,7 +74302,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-01,Trinidad and Tobago,#Global,5704.0,109.0,4763.0,832.0
 2020-11-01,Tunisia,#Global,61115.0,1348.0,5032.0,54735.0
 2020-11-01,Turkey,#Global,377473.0,10326.0,325486.0,41661.0
-2020-11-01,US,#Global,9194530.0,231104.0,3630579.0,5332847.0
+2020-11-01,US,#Global,9194530.0,231216.0,3630579.0,5332735.0
 2020-11-01,Uganda,#Global,12743.0,112.0,7556.0,5075.0
 2020-11-01,Ukraine,#Global,407573.0,7515.0,168495.0,231563.0
 2020-11-01,United Arab Emirates,#Global,133907.0,496.0,130508.0,2903.0
@@ -74384,7 +74384,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-01,Isle of Man,United Kingdom,353.0,24.0,324.0,5.0
 2020-11-01,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-11-01,Turks and Caicos Islands,United Kingdom,704.0,6.0,689.0,9.0
-2020-11-02,#Worldwide,#Global,46753306.0,1196018.0,31154758.0,14402530.0
+2020-11-02,#Worldwide,#Global,46753306.0,1196130.0,31154758.0,14402418.0
 2020-11-02,Afghanistan,#Global,41633.0,1541.0,34342.0,5750.0
 2020-11-02,Albania,#Global,21523.0,527.0,11367.0,9629.0
 2020-11-02,Algeria,#Global,58574.0,1980.0,40577.0,16017.0
@@ -74563,7 +74563,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-02,Trinidad and Tobago,#Global,5704.0,109.0,4887.0,708.0
 2020-11-02,Tunisia,#Global,61906.0,1381.0,5032.0,55493.0
 2020-11-02,Turkey,#Global,379775.0,10402.0,327007.0,42366.0
-2020-11-02,US,#Global,9276410.0,231602.0,3674981.0,5369827.0
+2020-11-02,US,#Global,9276410.0,231714.0,3674981.0,5369715.0
 2020-11-02,Uganda,#Global,12971.0,114.0,7556.0,5301.0
 2020-11-02,Ukraine,#Global,414567.0,7584.0,170880.0,236103.0
 2020-11-02,United Arab Emirates,#Global,135141.0,497.0,132024.0,2620.0
@@ -74645,7 +74645,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-02,Isle of Man,United Kingdom,355.0,24.0,324.0,7.0
 2020-11-02,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-11-02,Turks and Caicos Islands,United Kingdom,704.0,6.0,689.0,9.0
-2020-11-03,#Worldwide,#Global,47262111.0,1203961.0,31402551.0,14655599.0
+2020-11-03,#Worldwide,#Global,47262111.0,1204074.0,31402551.0,14655486.0
 2020-11-03,Afghanistan,#Global,41728.0,1544.0,34355.0,5829.0
 2020-11-03,Albania,#Global,21904.0,532.0,11473.0,9899.0
 2020-11-03,Algeria,#Global,58979.0,1980.0,40577.0,16422.0
@@ -74824,7 +74824,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-03,Trinidad and Tobago,#Global,5754.0,110.0,4929.0,715.0
 2020-11-03,Tunisia,#Global,63126.0,1483.0,5032.0,56611.0
 2020-11-03,Turkey,#Global,382118.0,10481.0,328824.0,42813.0
-2020-11-03,US,#Global,9399466.0,232737.0,3705130.0,5461599.0
+2020-11-03,US,#Global,9399466.0,232850.0,3705130.0,5461486.0
 2020-11-03,Uganda,#Global,13099.0,115.0,7612.0,5372.0
 2020-11-03,Ukraine,#Global,423683.0,7749.0,176220.0,239714.0
 2020-11-03,United Arab Emirates,#Global,136149.0,503.0,133490.0,2156.0
@@ -74906,7 +74906,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-03,Isle of Man,United Kingdom,356.0,24.0,324.0,8.0
 2020-11-03,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-11-03,Turks and Caicos Islands,United Kingdom,704.0,6.0,689.0,9.0
-2020-11-04,#Worldwide,#Global,47856315.0,1214941.0,31680215.0,14961159.0
+2020-11-04,#Worldwide,#Global,47856315.0,1215054.0,31680215.0,14961046.0
 2020-11-04,Afghanistan,#Global,41814.0,1548.0,34362.0,5904.0
 2020-11-04,Albania,#Global,22300.0,536.0,11578.0,10186.0
 2020-11-04,Algeria,#Global,59527.0,1999.0,41001.0,16527.0
@@ -75085,7 +75085,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-04,Trinidad and Tobago,#Global,5764.0,110.0,4993.0,661.0
 2020-11-04,Tunisia,#Global,64363.0,1512.0,5032.0,57819.0
 2020-11-04,Turkey,#Global,384509.0,10558.0,330665.0,43286.0
-2020-11-04,US,#Global,9501771.0,233841.0,3743527.0,5524403.0
+2020-11-04,US,#Global,9501771.0,233954.0,3743527.0,5524290.0
 2020-11-04,Uganda,#Global,13351.0,117.0,7623.0,5611.0
 2020-11-04,Ukraine,#Global,433492.0,7952.0,184141.0,241399.0
 2020-11-04,United Arab Emirates,#Global,137310.0,505.0,134983.0,1822.0
@@ -75167,7 +75167,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-04,Isle of Man,United Kingdom,357.0,24.0,324.0,9.0
 2020-11-04,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-11-04,Turks and Caicos Islands,United Kingdom,705.0,6.0,691.0,8.0
-2020-11-05,#Worldwide,#Global,48446756.0,1222968.0,31982036.0,15241752.0
+2020-11-05,#Worldwide,#Global,48446756.0,1223081.0,31982036.0,15241639.0
 2020-11-05,Afghanistan,#Global,41935.0,1554.0,34440.0,5941.0
 2020-11-05,Albania,#Global,22721.0,543.0,11696.0,10482.0
 2020-11-05,Algeria,#Global,60169.0,2011.0,41244.0,16914.0
@@ -75346,7 +75346,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-05,Trinidad and Tobago,#Global,5774.0,111.0,5024.0,639.0
 2020-11-05,Tunisia,#Global,66334.0,1577.0,36727.0,28030.0
 2020-11-05,Turkey,#Global,386820.0,10639.0,332379.0,43802.0
-2020-11-05,US,#Global,9627471.0,235014.0,3781751.0,5610706.0
+2020-11-05,US,#Global,9627471.0,235127.0,3781751.0,5610593.0
 2020-11-05,Uganda,#Global,13568.0,117.0,7645.0,5806.0
 2020-11-05,Ukraine,#Global,443630.0,8148.0,192602.0,242880.0
 2020-11-05,United Arab Emirates,#Global,138599.0,508.0,136118.0,1973.0
@@ -75428,7 +75428,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-05,Isle of Man,United Kingdom,357.0,24.0,324.0,9.0
 2020-11-05,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-11-05,Turks and Caicos Islands,United Kingdom,705.0,6.0,691.0,8.0
-2020-11-06,#Worldwide,#Global,49082497.0,1232470.0,32266185.0,15583842.0
+2020-11-06,#Worldwide,#Global,49082497.0,1232583.0,32266185.0,15583729.0
 2020-11-06,Afghanistan,#Global,41975.0,1554.0,34440.0,5981.0
 2020-11-06,Albania,#Global,23210.0,549.0,11861.0,10800.0
 2020-11-06,Algeria,#Global,60800.0,2024.0,41510.0,17266.0
@@ -75607,7 +75607,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-06,Trinidad and Tobago,#Global,5798.0,111.0,5084.0,603.0
 2020-11-06,Tunisia,#Global,66334.0,1577.0,36727.0,28030.0
 2020-11-06,Turkey,#Global,389256.0,10722.0,334293.0,44241.0
-2020-11-06,US,#Global,9752360.0,236168.0,3810791.0,5705401.0
+2020-11-06,US,#Global,9752360.0,236281.0,3810791.0,5705288.0
 2020-11-06,Uganda,#Global,13852.0,131.0,7727.0,5994.0
 2020-11-06,Ukraine,#Global,453565.0,8358.0,203572.0,241635.0
 2020-11-06,United Arab Emirates,#Global,139891.0,510.0,136936.0,2445.0
@@ -75689,7 +75689,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-06,Isle of Man,United Kingdom,357.0,24.0,326.0,7.0
 2020-11-06,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-11-06,Turks and Caicos Islands,United Kingdom,707.0,6.0,691.0,10.0
-2020-11-07,#Worldwide,#Global,49589725.0,1239990.0,32563203.0,15786532.0
+2020-11-07,#Worldwide,#Global,49589725.0,1240103.0,32563203.0,15786419.0
 2020-11-07,Afghanistan,#Global,42033.0,1556.0,34446.0,6031.0
 2020-11-07,Albania,#Global,23705.0,557.0,12002.0,11146.0
 2020-11-07,Algeria,#Global,61381.0,2036.0,41783.0,17562.0
@@ -75868,7 +75868,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-07,Trinidad and Tobago,#Global,5838.0,111.0,5127.0,600.0
 2020-11-07,Tunisia,#Global,69543.0,1794.0,47416.0,20333.0
 2020-11-07,Turkey,#Global,391739.0,10803.0,336221.0,44715.0
-2020-11-07,US,#Global,9880828.0,237204.0,3851465.0,5792159.0
+2020-11-07,US,#Global,9880828.0,237317.0,3851465.0,5792046.0
 2020-11-07,Uganda,#Global,14066.0,131.0,7753.0,6182.0
 2020-11-07,Ukraine,#Global,464598.0,8553.0,212549.0,243496.0
 2020-11-07,United Arab Emirates,#Global,141032.0,514.0,137608.0,2910.0
@@ -75950,7 +75950,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-07,Isle of Man,United Kingdom,357.0,24.0,326.0,7.0
 2020-11-07,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-11-07,Turks and Caicos Islands,United Kingdom,707.0,6.0,691.0,10.0
-2020-11-08,#Worldwide,#Global,50159640.0,1245700.0,32814483.0,16099457.0
+2020-11-08,#Worldwide,#Global,50150604.0,1245813.0,32814483.0,16090308.0
 2020-11-08,Afghanistan,#Global,42092.0,1558.0,34458.0,6076.0
 2020-11-08,Albania,#Global,24206.0,559.0,12092.0,11555.0
 2020-11-08,Algeria,#Global,62051.0,2048.0,42037.0,17966.0
@@ -76129,7 +76129,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-08,Trinidad and Tobago,#Global,5849.0,111.0,5132.0,606.0
 2020-11-08,Tunisia,#Global,71119.0,1873.0,48103.0,21143.0
 2020-11-08,Turkey,#Global,394255.0,10887.0,338239.0,45129.0
-2020-11-08,US,#Global,9999644.0,237666.0,3881491.0,5880487.0
+2020-11-08,US,#Global,9990608.0,237779.0,3881491.0,5871338.0
 2020-11-08,Uganda,#Global,14403.0,132.0,7771.0,6500.0
 2020-11-08,Ukraine,#Global,474245.0,8695.0,215357.0,250193.0
 2020-11-08,United Arab Emirates,#Global,142143.0,514.0,138291.0,3338.0
@@ -76211,7 +76211,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-08,Isle of Man,United Kingdom,357.0,24.0,326.0,7.0
 2020-11-08,Montserrat,United Kingdom,13.0,1.0,12.0,0.0
 2020-11-08,Turks and Caicos Islands,United Kingdom,707.0,6.0,691.0,10.0
-2020-11-09,#Worldwide,#Global,50641942.0,1252474.0,33067646.0,16321822.0
+2020-11-09,#Worldwide,#Global,50641417.0,1252474.0,33067646.0,16321297.0
 2020-11-09,Afghanistan,#Global,42297.0,1574.0,34721.0,6002.0
 2020-11-09,Albania,#Global,24731.0,571.0,12203.0,11957.0
 2020-11-09,Algeria,#Global,62693.0,2062.0,42325.0,18306.0
@@ -76390,7 +76390,7 @@ date,region,parent_region,confirmed,deaths,recovered,still_infectious
 2020-11-09,Trinidad and Tobago,#Global,5849.0,111.0,5203.0,535.0
 2020-11-09,Tunisia,#Global,71569.0,1920.0,48103.0,21546.0
 2020-11-09,Turkey,#Global,396831.0,10972.0,340286.0,45573.0
-2020-11-09,US,#Global,10111077.0,238256.0,3928845.0,5943976.0
+2020-11-09,US,#Global,10110552.0,238256.0,3928845.0,5943451.0
 2020-11-09,Uganda,#Global,14574.0,133.0,7771.0,6670.0
 2020-11-09,Ukraine,#Global,483153.0,8812.0,217716.0,256625.0
 2020-11-09,United Arab Emirates,#Global,143289.0,515.0,138959.0,3815.0
